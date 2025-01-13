@@ -1,0 +1,35 @@
+﻿<Window x:Class="TcpCommunicationApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TcpCommunicationApp"
+        Title="TCP 通訊範例" Height="350" Width="600">
+    <Window.Resources>
+        <local:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+    </Window.Resources>
+    <Grid>
+        <!-- 伺服器區域 -->
+        <GroupBox Header="伺服器" VerticalAlignment="Top" Margin="10,10,290,10">
+            <StackPanel>
+                <Button Name="StartServer" Content="啟動伺服器" Click="StartServer_Click" Margin="5"/>
+                <TextBox Name="ServerLog" Height="150" Margin="5" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- 客戶端區域 -->
+        <GroupBox Header="客戶端" VerticalAlignment="Top" Margin="310,10,10,10">
+            <StackPanel>
+                <Grid Margin="5">
+                    <TextBox Name="ClientMessage" VerticalAlignment="Top" Margin="0,0,0,5"/>
+                    <TextBlock Text="輸入訊息" 
+                               Foreground="Gray" 
+                               VerticalAlignment="Center" 
+                               Margin="5,2,0,0"
+                               IsHitTestVisible="False"
+                               Visibility="{Binding Text, ElementName=ClientMessage, Converter={StaticResource StringToVisibilityConverter}}"/>
+                </Grid>
+                <Button Name="SendMessage" Content="傳送訊息" Click="SendMessage_Click" Margin="5"/>
+                <TextBox Name="ClientLog" Height="150" Margin="5" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
