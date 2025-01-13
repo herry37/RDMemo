@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Top.master.cs" Inherits="Top" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="device-width" />
+    <title></title>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <style>
+        #master a{color:white;
+        }
+        #master,master div{            
+            background-color:#48a6cf ;vertical-align:central;text-align:center;
+        }
+        #accordion div{width:150px;text-align:center;margin:auto}
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+    <div >
+        <div class="navbar-inverse" id="master">
+            <table style="width:100%">
+                <tr class="container">
+                    <td class="navbar-brand"><a href="MoreGridManage.aspx">More&nbspGrid&nbsp員工入口網</a></td>
+                    <td>
+                        <asp:LinkButton ID="lbtnLogin" runat="server" OnClick="lbtnLogin_Click"></asp:LinkButton></td>
+                    <td>
+                        <asp:Label ID="labetitle" runat="server" Text="使用者："></asp:Label>
+                        <asp:Label ID="labusername" runat="server" Text=""></asp:Label></td>
+                </tr>
+            </table>
+        </div>
+       
+        <div id="main" style="width: 1024px; margin:auto;">
+            <div style="width: 80px; float: left;">
+                <%--<h4>這裡是功能選單</h4>--%>
+                <br />
+                <div class="panel-group" id="accordion">
+                    <div class="panel panel-info" id="outside" runat="server">
+                        <div class="panel-heading">
+                            <a href="#collapse1" data-toggle="collapse" data-parent="#accordion">魔格網站管理</a>
+                        </div>
+                        <div class="collapse out" id="collapse1">
+                            <ul class="panel-body list-unstyled">
+                               <li id="T1" runat="server"><a href="GoodsClass.aspx">商品類別管理</a></li>
+                               <li id="T2" runat="server"><a href="MemberManage.aspx">會員帳號管理</a></li>
+                               <li id="T10" runat="server"><a href="GoodsManage.aspx">商品管制設定</a></li>
+                               <li id="T11" runat="server"><a href="Service.aspx">線上客服系統</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="panel panel-info" id="inside" runat="server">
+                        <div class="panel-heading">
+                            <a href="#collapse2" data-toggle="collapse" data-parent="#accordion">內部網站管理
+                            </a>
+                        </div>
+                        <div class="collapse out" id="collapse2">
+                            <ul class="panel-body  list-unstyled">
+                                <li id="T3" runat="server"><a href="AuthorityManage.aspx">權限類別管理</a></li>
+                                 <li id="T4" runat="server"><a href="ZipCodeManage.aspx">縣市代碼管理</a></li>
+                                 <li id="T5" runat="server"><a href="CompanyManage.aspx">內部資料設定</a></li>
+                                <li id="T6" runat="server"><a href="AuthorityManageEmp.aspx">員工權限設定</a></li>
+                                <li id="T7" runat="server"><a href="EmployeeData.aspx">員工資料管理</a></li>
+<%--                                <li id="TX" runat="server"><a href="PageManage.aspx">頁面項目管理</a></li>--%>
+                                <li id="T8" runat="server"><a href="LogRecord.aspx">網站操作紀錄</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                      <div class="panel panel-info" id="T9" runat="server">
+                        <div class="panel-heading">
+                            <a href="PersonInfo.aspx">個人資料管理</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          
+            <div style="width:844px; float:right;">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+    </form>
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+
+</body>
+</html>

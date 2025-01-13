@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" MasterPageFile="Top.master" AutoEventWireup="true" CodeFile="Left.master.cs" Inherits="Left" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+        <asp:ContentPlaceHolder id="ContentCSS" runat="server">
+
+        </asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="left" Runat="Server">
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2">
+                <h4>會員資料管理</h4>
+                    <ul>                
+                        <li><a href="mobileValidate.aspx">權限開通</a></li>
+                        <%--<li><a href="custModifyPass.aspx">密碼修改</a></li>--%>
+                        <li><a href="custModifyData.aspx">會員資料更新</a></li>
+                        <li><a href="custModifyData_aboutme.aspx">關於我</a></li>
+                    </ul>
+
+                    <h4>訂單查詢/管理</h4>
+                    <ul>
+                        <li><a href="Buyer Browse.aspx">購買訂單查詢</a></li>
+                        <li><a href="ListShipments.aspx">出貨訂單查詢</a></li>                        
+                        <li><a href="ListMessage.aspx">留言查詢</a></li>                
+                    </ul>
+
+                    <h4>網站管理</h4>
+                    <ul>
+                        <li><a href="GoodsInsert.aspx">新增商品</a></li>                
+                        <li><a href="GoodsEdit.aspx">管理商品</a></li>                 
+                    </ul>
+               
+                </div>
+            <div class="col-lg-10">
+                <asp:ContentPlaceHolder id="CContent" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+
+
+</asp:Content>
+

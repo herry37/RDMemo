@@ -1,0 +1,232 @@
+﻿<%@ Master Language="C#" MasterPageFile="Top.master" AutoEventWireup="true" CodeFile="Top2.master.cs" Inherits="Top2" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <style>
+        a, a:hover{
+            color:black;
+            text-decoration:none;
+        }
+        .content{
+            font-size:12pt;  
+            color:black;          
+        }
+        .myItem{
+            margin-top:10px;
+            padding:5px;
+        }
+        .myItem:hover{
+            background-color:#bbbbbb;
+            
+        }
+        .myTitle{
+            background-color:#4800ff;
+            padding:5px;
+            color:white;
+            font-family:微軟正黑體;
+            font-size:16pt;
+        }    
+    </style>
+    <script>
+        //var myUrl = function () {
+        //    var url = $(this).children("a").attr("href");
+        //    alert(url);
+        //    //window.location.href = url;
+        //}
+        $(document).ready(function () {
+            $('.content').click(function () {
+                var url = $(this).children("a").attr("href");
+                window.location.href = url;
+            });
+                
+            
+        });
+    </script>
+
+
+
+
+        <asp:ContentPlaceHolder id="ContentCSS" runat="server">
+
+        </asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="left" Runat="Server">
+    
+    <div class="container" id="container1">
+<%-- 這裡顯示廣告瀏覽頁 --%>
+        <div style="height:200px; background-color:rgba(128, 128, 128, 0.77)" class="row">
+    <%-- bxslider 請上網參考這個套件 --%>
+         
+        <asp:SqlDataSource ID="SqlDataSource2" runat="server" ConnectionString="<%$ ConnectionStrings:C501_04ConnectionString %>" SelectCommand="SELECT * FROM [商品] where [商品編號]='164'">
+        </asp:SqlDataSource>
+             <asp:Repeater ID="Repeater2" runat="server" DataSourceID="SqlDataSource2" >
+                 <ItemTemplate>
+
+              <div class="container">
+                   <div id="carousel1" class="carousel slide" data-ride="carousel">
+                        <ul class="carousel-indicators">
+                            <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel1" data-slide-to="1"></li>
+                            <li data-target="#carousel1" data-slide-to="2"></li>
+                            <li data-target="#carousel1" data-slide-to="3"></li>
+                            <li data-target="#carousel1" data-slide-to="4"></li>
+                            <li data-target="#carousel1" data-slide-to="5"></li>
+                            <li data-target="#carousel1" data-slide-to="6"></li>
+                            <li data-target="#carousel1" data-slide-to="7"></li>
+                            <li data-target="#carousel1" data-slide-to="8"></li>
+                            <li data-target="#carousel1" data-slide-to="9"></li>
+                        </ul>
+
+                        <div class="carousel-inner" style="height:210px;">
+                            <div class="item active">                               
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                                <img id="img1" src="<%#img_Check("img_Check") %>" style: />
+                                </a>
+                                <div class="carousel-caption">
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1></a>                               
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <p> <%#detal_Check("goodname_Check") %></p></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img2" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img3" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                             <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img4" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img5" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img6" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img7" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                             <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img8" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img9" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                             <div class="item">
+                                <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank">
+                               <img id="img10" src="<%#img_Check("img_Check") %>" />
+                               </a>
+                                <div class="carousel-caption" >
+                                  <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;"> <h1><%#goodname_Check("goodname_Check") %></h1> </a>    
+                                   <a href="GoodsDisp.aspx?id=<%#id_Check("id_Check") %>" target="_blank" style="color:white;">  <p> <%#detal_Check("goodname_Check") %></p></a> 
+                                </div>
+                            </div>
+                        </div>
+
+                        <a class="left carousel-control" href="#carousel1" data-slide="prev">  <!--用超連結做按鈕上一頁-->
+                            <span class="glyphicon glyphicon-chevron-left "></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel1" data-slide="next"> <!--用超連結做按鈕下一頁-->
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+                </div>
+                 </ItemTemplate>
+             </asp:Repeater>      
+
+
+
+        </div>
+
+        <div class="row" style="margin-top:20px;">
+            <div class="col-lg-2">
+                <%-- 這裡顯示商品分類 --%>
+                <div class="myTitle">
+                    網站分類
+                </div>                      
+                <div class="myList">                    
+                    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:C501_04ConnectionString %>" SelectCommand="SELECT * FROM [商品類別]"></asp:SqlDataSource>
+                    <asp:Repeater ID="Repeater1" runat="server" DataSourceID="SqlDataSource1">
+                        <ItemTemplate>
+                            <div class="myItem">
+                                <div class="content" onclick="myUrl()">
+                                    <a href="Main.aspx?tag=<%# Eval("商品類別代碼") %>"><%# Eval("商品類別名稱") %></a>
+                                </div>
+                            </div>
+                        </ItemTemplate>
+                    </asp:Repeater>
+                    <%--<asp:DataList ID="DataList1" runat="server" DataSourceID="SqlDataSource1">
+                        <ItemTemplate>
+                            <div class="myItem container-fluid" style="background-color:red;">
+                                <div class="content" style="background-color:blue;">
+                                    <a href="Main.aspx?tag=<%# Eval("id") %>"><%# Eval("tagname") %></a>
+                                </div>
+                            </div>
+                        </ItemTemplate>
+                    </asp:DataList>--%>
+                </div>                                          
+            </div>
+
+            <div class="col-lg-10">
+                <asp:ContentPlaceHolder id="SiteDisp" runat="server">
+
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    
+    
+</asp:Content>
+
