@@ -1,0 +1,60 @@
+﻿body {
+}
+ /*div {
+            margin: auto;
+            width: 986px;
+        }*/
+
+        #add_book {
+            border: 1px;
+            width: 200px;
+            margin: auto;
+        }        
+
+
+        #add_book td {
+            border: 1px dotted black;
+        }
+
+            #add_book td:first-child {
+                text-align: right;
+                background-color: #507CD1;
+                color: black;
+            }
+
+        #add_book > tbody > tr:last-child > td {
+            text-align: center;
+        }
+
+        #Panelmessage1, #PanelReply {
+            background-color: #d7caca;
+            height: 400px;
+        }
+
+   
+
+        #Panelmessage {
+            text-align: left;
+            background-color: #fcd80b;
+            font-size: 18px;
+            font-weight: 800;
+            height: 25px;
+        }
+
+        #PaneMessage2 {
+            text-align: left;
+            width: 1000px;
+        }
+
+        .auto-style2 {
+            width: 52px;
+            
+        }
+
+        .auto-style3 {
+            width: 745px;
+        }
+
+        .auto-style4 {
+            width: 100%;
+        }
