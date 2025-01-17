@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace CrossPlatformDataAccess.Core.DataAccess
 {
     /// <summary>
-    /// 統一的資料存取介面
-    /// 整合同步和非同步操作
+    /// 統一的資料存取介面，整合同步和非同步操作
     /// </summary>
+    /// <typeparam name="T">資料實體類型</typeparam>
     public interface IDataAccess<T> where T : class
     {
         #region 基本CRUD操作
@@ -19,7 +19,7 @@ namespace CrossPlatformDataAccess.Core.DataAccess
         void Update(T entity);
         void Delete(T entity);
         IEnumerable<T> GetAll();
-        T GetById(object id);
+        T? GetById(object id);
         IEnumerable<T> Find(Expression<Func<T, bool>> predicate);
 
         // 非同步操作
@@ -27,7 +27,7 @@ namespace CrossPlatformDataAccess.Core.DataAccess
         Task UpdateAsync(T entity, CancellationToken cancellationToken = default);
         Task DeleteAsync(T entity, CancellationToken cancellationToken = default);
         Task<IEnumerable<T>> GetAllAsync(CancellationToken cancellationToken = default);
-        Task<T> GetByIdAsync(object id, CancellationToken cancellationToken = default);
+        Task<T?> GetByIdAsync(object id, CancellationToken cancellationToken = default);
         Task<IEnumerable<T>> FindAsync(Expression<Func<T, bool>> predicate, CancellationToken cancellationToken = default);
 
         #endregion
@@ -35,12 +35,12 @@ namespace CrossPlatformDataAccess.Core.DataAccess
         #region SQL操作
 
         // 同步SQL操作
-        IEnumerable<T> QueryWithSql(string sql, object parameters = null);
-        int ExecuteSql(string sql, object parameters = null);
+        IEnumerable<T> QueryWithSql(string sql, object? parameters = null);
+        int ExecuteSql(string sql, object? parameters = null);
 
         // 非同步SQL操作
-        Task<IEnumerable<T>> QueryWithSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default);
-        Task<int> ExecuteSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default);
+        Task<IEnumerable<T>> QueryWithSqlAsync(string sql, object? parameters = null, CancellationToken cancellationToken = default);
+        Task<int> ExecuteSqlAsync(string sql, object? parameters = null, CancellationToken cancellationToken = default);
 
         #endregion
 

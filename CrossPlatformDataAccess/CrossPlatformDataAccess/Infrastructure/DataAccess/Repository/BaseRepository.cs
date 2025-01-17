@@ -25,6 +25,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         #region 同步操作
         public virtual T Add(T entity)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始新增 {typeof(T).Name}");
@@ -43,6 +44,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual void Update(T entity)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始更新 {typeof(T).Name}");
@@ -60,11 +62,12 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual void Delete(T entity)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始刪除 {typeof(T).Name}");
                 using var transaction = _strategy.BeginTransaction();
-                ExecuteDelete(entity);
+                ExecuteDelete(entity ?? throw new ArgumentNullException(nameof(entity)));
                 transaction.Commit();
                 _logger.LogInformation($"成功刪除 {typeof(T).Name}");
             }
@@ -77,6 +80,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual IEnumerable<T> Get(Expression<Func<T, bool>> predicate = null)
         {
+            ArgumentNullException.ThrowIfNull(predicate);
             try
             {
                 _logger.LogInformation($"開始查詢 {typeof(T).Name}");
@@ -93,6 +97,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual IEnumerable<T> QueryWithSql(string sql, object parameters = null)
         {
+            ArgumentNullException.ThrowIfNull(sql);
             try
             {
                 _logger.LogInformation($"開始執行SQL查詢: {sql}");
@@ -109,6 +114,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual int ExecuteSql(string sql, object parameters = null)
         {
+            ArgumentNullException.ThrowIfNull(sql);
             try
             {
                 _logger.LogInformation($"開始執行SQL命令: {sql}");
@@ -125,6 +131,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual TResult ExecuteInTransaction<TResult>(Func<TResult> operation)
         {
+            ArgumentNullException.ThrowIfNull(operation);
             using var transaction = _strategy.BeginTransaction();
             try
             {
@@ -144,6 +151,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual void ExecuteInTransaction(Action operation)
         {
+            ArgumentNullException.ThrowIfNull(operation);
             using var transaction = _strategy.BeginTransaction();
             try
             {
@@ -164,6 +172,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         #region 非同步操作
         public virtual async Task<T> AddAsync(T entity, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始新增 {typeof(T).Name}");
@@ -182,6 +191,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task UpdateAsync(T entity, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始更新 {typeof(T).Name}");
@@ -199,6 +209,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task DeleteAsync(T entity, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             try
             {
                 _logger.LogInformation($"開始刪除 {typeof(T).Name}");
@@ -216,6 +227,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task<IEnumerable<T>> GetAsync(Expression<Func<T, bool>> predicate = null, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(predicate);
             try
             {
                 _logger.LogInformation($"開始查詢 {typeof(T).Name}");
@@ -232,6 +244,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task<IEnumerable<T>> QueryWithSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(sql);
             try
             {
                 _logger.LogInformation($"開始執行SQL查詢: {sql}");
@@ -248,6 +261,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task<int> ExecuteSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(sql);
             try
             {
                 _logger.LogInformation($"開始執行SQL命令: {sql}");
@@ -264,6 +278,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task<TResult> ExecuteInTransactionAsync<TResult>(Func<Task<TResult>> operation, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(operation);
             using var transaction = await _strategy.BeginTransactionAsync(cancellationToken);
             try
             {
@@ -283,6 +298,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 
         public virtual async Task ExecuteInTransactionAsync(Func<Task> operation, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(operation);
             using var transaction = await _strategy.BeginTransactionAsync(cancellationToken);
             try
             {

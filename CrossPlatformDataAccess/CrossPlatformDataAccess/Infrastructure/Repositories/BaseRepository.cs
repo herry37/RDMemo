@@ -1,5 +1,8 @@
-﻿using CrossPlatformDataAccess.Core.Interfaces;
+using CrossPlatformDataAccess.Core.Interfaces;
 using System.Reflection;
+using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace CrossPlatformDataAccess.Infrastructure.Repositories
 {
@@ -17,8 +20,8 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <param name="dataAccess">數據存取層</param>
         public BaseRepository(IDataAccess dataAccess)
         {
-            _dataAccess = dataAccess;
-            _tableName = typeof(T).Name; // 假設表名與類名相同
+            _dataAccess = dataAccess ?? throw new ArgumentNullException(nameof(dataAccess));
+            _tableName = typeof(T).Name;
         }
 
         /// <summary>
@@ -35,54 +38,53 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// 根據 ID 獲取單一記錄
         /// </summary>
         /// <param name="id">記錄的唯一標識</param>
+        /// <param name="cancellationToken">取消權杖</param>
         /// <returns>單一記錄</returns>
-        public async Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(object id, CancellationToken cancellationToken = default)
         {
+            ArgumentNullException.ThrowIfNull(id);
             string query = $"SELECT * FROM {_tableName} WHERE Id = @Id";
-            return await _dataAccess.QuerySingleOrDefaultAsync<T>(query, new { Id = id });
+            var parameters = new { Id = id };
+            var result = await _dataAccess.QueryFirstOrDefaultAsync<T>(query, parameters, cancellationToken);
+            return result;
         }
 
         /// <summary>
         /// 新增記錄
         /// </summary>
         /// <param name="entity">要新增的記錄</param>
-        /// <returns>新增的記錄</returns>
-        public async Task<T> AddAsync(T entity)
+        public async Task AddAsync(T entity)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             var properties = GetProperties(entity);
-            var columns = string.Join(", ", properties.Select(p => p.Name));
-            var values = string.Join(", ", properties.Select(p => "@" + p.Name));
-
-            string command = $"INSERT INTO {_tableName} ({columns}) VALUES ({values})";
-            await _dataAccess.ExecuteAsync(command, entity);
-            return entity;
+            var columns = string.Join(", ", properties.Keys);
+            var values = string.Join(", ", properties.Keys.Select(k => "@" + k));
+            string query = $"INSERT INTO {_tableName} ({columns}) VALUES ({values})";
+            await _dataAccess.ExecuteAsync(query, entity);
         }
 
         /// <summary>
         /// 更新記錄
         /// </summary>
         /// <param name="entity">要更新的記錄</param>
-        /// <returns>更新後的記錄</returns>
-        public async Task<T> UpdateAsync(T entity)
+        public async Task UpdateAsync(T entity)
         {
+            ArgumentNullException.ThrowIfNull(entity);
             var properties = GetProperties(entity);
-            var setClause = string.Join(", ", properties.Select(p => $"{p.Name} = @{p.Name}"));
-
-            string command = $"UPDATE {_tableName} SET {setClause} WHERE Id = @Id";
-            await _dataAccess.ExecuteAsync(command, entity);
-            return entity;
+            var setClause = string.Join(", ", properties.Keys.Select(k => $"{k} = @{k}"));
+            string query = $"UPDATE {_tableName} SET {setClause} WHERE Id = @Id";
+            await _dataAccess.ExecuteAsync(query, entity);
         }
 
         /// <summary>
         /// 刪除記錄
         /// </summary>
-        /// <param name="id">要刪除的記錄的唯一標識</param>
-        /// <returns>刪除的結果</returns>
-        public async Task<bool> DeleteAsync(int id)
+        /// <param name="id">要刪除的記錄ID</param>
+        public async Task DeleteAsync(int id)
         {
-            string command = $"DELETE FROM {_tableName} WHERE Id = @Id";
-            int affectedRows = await _dataAccess.ExecuteAsync(command, new { Id = id });
-            return affectedRows > 0;
+            string query = $"DELETE FROM {_tableName} WHERE Id = @Id";
+            var parameters = new { Id = id };
+            await _dataAccess.ExecuteAsync(query, parameters);
         }
 
         /// <summary>
@@ -90,9 +92,13 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// </summary>
         /// <param name="entity">實體對象</param>
         /// <returns>屬性集合</returns>
-        private IEnumerable<PropertyInfo> GetProperties(T entity)
+        private Dictionary<string, object> GetProperties(T entity)
         {
-            return typeof(T).GetProperties().Where(p => p.CanRead);
+            ArgumentNullException.ThrowIfNull(entity);
+            return entity.GetType()
+                .GetProperties()
+                .Where(p => p.CanRead && p.CanWrite)
+                .ToDictionary(p => p.Name, p => p.GetValue(entity));
         }
     }
 }

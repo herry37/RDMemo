@@ -8,83 +8,160 @@ namespace CrossPlatformDataAccess.Core.DataAccess
 {
     /// <summary>
     /// 查詢建構器介面
-    /// 提供流暢的API來建構複雜查詢
     /// </summary>
     public interface IQueryBuilder<T> where T : class
     {
-        #region 查詢條件
+        #region 條件查詢
 
         /// <summary>
-        /// 添加WHERE條件
+        /// 添加 Where 條件
         /// </summary>
-        /// <param name="predicate">查詢條件表達式</param>
         IQueryBuilder<T> Where(Expression<Func<T, bool>> predicate);
-        
+
         /// <summary>
-        /// 添加關聯資料查詢（適用於EF Core的Include）
+        /// 添加 OR Where 條件
         /// </summary>
-        /// <param name="navigationPropertyPath">關聯屬性路徑</param>
-        IQueryBuilder<T> Include<TProperty>(Expression<Func<T, TProperty>> navigationPropertyPath);
-        
+        IQueryBuilder<T> OrWhere(Expression<Func<T, bool>> predicate);
+
         /// <summary>
-        /// 添加排序條件
+        /// 添加 Like 條件
         /// </summary>
-        /// <param name="keySelector">排序欄位選擇器</param>
-        /// <param name="ascending">是否升序（預設為true）</param>
-        IQueryBuilder<T> OrderBy<TKey>(Expression<Func<T, TKey>> keySelector, bool ascending = true);
-        
+        IQueryBuilder<T> Like(string columnName, string value);
+
         /// <summary>
-        /// 添加分頁
+        /// 添加 In 條件
         /// </summary>
-        /// <param name="pageNumber">頁碼（從1開始）</param>
-        /// <param name="pageSize">每頁筆數</param>
-        IQueryBuilder<T> Page(int pageNumber, int pageSize);
+        IQueryBuilder<T> In<TValue>(Expression<Func<T, TValue>> propertySelector, IEnumerable<TValue> values);
+
+        /// <summary>
+        /// 添加 Between 條件
+        /// </summary>
+        IQueryBuilder<T> Between<TValue>(Expression<Func<T, TValue>> propertySelector, TValue start, TValue end);
 
         #endregion
 
-        #region 執行方法
+        #region 關聯查詢
+
+        /// <summary>
+        /// 包含關聯資料
+        /// </summary>
+        IQueryBuilder<T> Include<TProperty>(Expression<Func<T, TProperty>> navigationPropertyPath);
+
+        /// <summary>
+        /// 包含多層關聯資料
+        /// </summary>
+        IQueryBuilder<T> ThenInclude<TPreviousProperty, TProperty>(
+            Expression<Func<T, IEnumerable<TPreviousProperty>>> previousPropertyPath,
+            Expression<Func<TPreviousProperty, TProperty>> navigationPropertyPath);
+
+        #endregion
+
+        #region 排序
+
+        /// <summary>
+        /// 正向排序
+        /// </summary>
+        IQueryBuilder<T> OrderBy<TKey>(Expression<Func<T, TKey>> keySelector);
+
+        /// <summary>
+        /// 反向排序
+        /// </summary>
+        IQueryBuilder<T> OrderByDescending<TKey>(Expression<Func<T, TKey>> keySelector);
+
+        /// <summary>
+        /// 多重正向排序
+        /// </summary>
+        IQueryBuilder<T> ThenBy<TKey>(Expression<Func<T, TKey>> keySelector);
+
+        /// <summary>
+        /// 多重反向排序
+        /// </summary>
+        IQueryBuilder<T> ThenByDescending<TKey>(Expression<Func<T, TKey>> keySelector);
+
+        #endregion
+
+        #region 分頁
+
+        /// <summary>
+        /// 設定分頁
+        /// </summary>
+        IQueryBuilder<T> Page(int pageNumber, int pageSize);
+
+        /// <summary>
+        /// 設定跳過筆數
+        /// </summary>
+        IQueryBuilder<T> Skip(int count);
+
+        /// <summary>
+        /// 設定取得筆數
+        /// </summary>
+        IQueryBuilder<T> Take(int count);
+
+        #endregion
+
+        #region 查詢執行
 
         /// <summary>
         /// 執行查詢並返回結果集
         /// </summary>
         IEnumerable<T> ToList();
-        
+
         /// <summary>
-        /// 執行查詢並返回第一筆符合條件的資料
+        /// 執行查詢並返回結果集 (非同步)
+        /// </summary>
+        Task<IEnumerable<T>> ToListAsync(CancellationToken cancellationToken = default);
+
+        /// <summary>
+        /// 返回第一筆資料
         /// </summary>
         T FirstOrDefault();
-        
+
         /// <summary>
-        /// 取得符合條件的資料筆數
+        /// 返回第一筆資料 (非同步)
+        /// </summary>
+        Task<T> FirstOrDefaultAsync(CancellationToken cancellationToken = default);
+
+        /// <summary>
+        /// 返回單筆資料
+        /// </summary>
+        T SingleOrDefault();
+
+        /// <summary>
+        /// 返回單筆資料 (非同步)
+        /// </summary>
+        Task<T> SingleOrDefaultAsync(CancellationToken cancellationToken = default);
+
+        /// <summary>
+        /// 計算資料筆數
         /// </summary>
         int Count();
 
         /// <summary>
-        /// 非同步執行查詢並返回結果集
-        /// </summary>
-        Task<IEnumerable<T>> ToListAsync(CancellationToken cancellationToken = default);
-        
-        /// <summary>
-        /// 非同步執行查詢並返回第一筆符合條件的資料
-        /// </summary>
-        Task<T> FirstOrDefaultAsync(CancellationToken cancellationToken = default);
-        
-        /// <summary>
-        /// 非同步取得符合條件的資料筆數
+        /// 計算資料筆數 (非同步)
         /// </summary>
         Task<int> CountAsync(CancellationToken cancellationToken = default);
+
+        /// <summary>
+        /// 檢查是否存在符合條件的資料
+        /// </summary>
+        bool Any();
+
+        /// <summary>
+        /// 檢查是否存在符合條件的資料 (非同步)
+        /// </summary>
+        Task<bool> AnyAsync(CancellationToken cancellationToken = default);
 
         #endregion
 
         #region 查詢資訊
 
         /// <summary>
-        /// 取得目前的查詢條件
+        /// 取得查詢條件
         /// </summary>
         Expression<Func<T, bool>> GetPredicate();
 
         /// <summary>
-        /// 取得完整的查詢語句（如果資料庫提供者支援）
+        /// 取得查詢字串
         /// </summary>
         string GetQueryString();
 

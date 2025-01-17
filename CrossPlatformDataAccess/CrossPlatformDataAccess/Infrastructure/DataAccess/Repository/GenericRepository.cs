@@ -24,6 +24,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         /// </summary>
         public async Task<T> AddAsync(T entity, CancellationToken cancellationToken = default)
         {
+            if (entity == null)
+            {
+                throw new ArgumentNullException(nameof(entity));
+            }
             return await ExecuteInTransactionAsync(async () =>
             {
                 var sql = GenerateInsertSql(entity);
@@ -37,6 +41,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         /// </summary>
         public async Task UpdateAsync(T entity, CancellationToken cancellationToken = default)
         {
+            if (entity == null)
+            {
+                throw new ArgumentNullException(nameof(entity));
+            }
             await ExecuteInTransactionAsync(async () =>
             {
                 var sql = GenerateUpdateSql(entity);
@@ -49,6 +57,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         /// </summary>
         public async Task DeleteAsync(T entity, CancellationToken cancellationToken = default)
         {
+            if (entity == null)
+            {
+                throw new ArgumentNullException(nameof(entity));
+            }
             await ExecuteInTransactionAsync(async () =>
             {
                 var sql = GenerateDeleteSql(entity);
@@ -63,12 +75,16 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             Expression<Func<T, bool>> predicate = null,
             CancellationToken cancellationToken = default)
         {
+            if (predicate == null)
+            {
+                throw new ArgumentNullException(nameof(predicate));
+            }
+            if (_strategy == null)
+            {
+                throw new ArgumentNullException(nameof(_strategy));
+            }
             return await ExecuteQueryAsync(async () =>
             {
-                if (predicate == null)
-                {
-                    return await _strategy.Query<T>().ToListAsync(cancellationToken);
-                }
                 return await _strategy.QueryAsync(predicate, cancellationToken);
             }, $"查詢 {typeof(T).Name}", cancellationToken);
         }
@@ -81,6 +97,14 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             object parameters = null,
             CancellationToken cancellationToken = default)
         {
+            if (string.IsNullOrWhiteSpace(sql))
+            {
+                throw new ArgumentNullException(nameof(sql));
+            }
+            if (_strategy == null)
+            {
+                throw new ArgumentNullException(nameof(_strategy));
+            }
             return await ExecuteQueryAsync(async () =>
             {
                 return await _strategy.QueryAsync<T>(sql, parameters, cancellationToken);
@@ -92,6 +116,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         /// </summary>
         public IQueryBuilder<T> Query()
         {
+            if (_strategy == null)
+            {
+                throw new ArgumentNullException(nameof(_strategy));
+            }
             return _strategy.Query<T>();
         }
 

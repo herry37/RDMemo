@@ -1,4 +1,4 @@
-﻿using CrossPlatformDataAccess.Core.Interfaces;
+using CrossPlatformDataAccess.Core.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
@@ -20,7 +20,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <param name="context">資料庫上下文介面</param>
         public GenericRepository(IDbContext context)
         {
-            _context = context;
+            _context = context ?? throw new ArgumentNullException(nameof(context));
             _dbSet = context.Set<TEntity>();
         }
 
@@ -82,7 +82,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// </summary>
         /// <param name="filter">查詢條件表達式</param>
         /// <returns>可查詢的實體集合</returns>
-        public virtual IQueryable<TEntity> Query(Expression<Func<TEntity, bool>> filter = null)
+        public virtual IQueryable<TEntity> Query(Expression<Func<TEntity, bool>>? filter = null)
         {
             // 建立基礎查詢
             IQueryable<TEntity> query = _dbSet;
@@ -102,7 +102,8 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <returns>查詢結果實體列表</returns>
         public virtual async Task<List<TEntity>> ExecuteQueryAsync(string sql, params object[] parameters)
         {
-            return await _dbSet.FromSqlRaw(sql, parameters).ToListAsync();
+            ArgumentNullException.ThrowIfNull(sql);
+            return await _dbSet.FromSqlRaw(sql, parameters ?? Array.Empty<object>()).ToListAsync();
         }
     }
 }

@@ -43,13 +43,11 @@ namespace CrossPlatformDataAccess.Infrastructure.Extensions
                 throw new ArgumentNullException(nameof(dbConfig));
 
             // 註冊關聯式資料庫的相關服務
-            // 使用 Scoped 生命週期確保每個請求使用相同的資料庫上下文
             services.AddScoped<IDbContext>(provider => new DatabaseContext(dbConfig));
             services.AddScoped<IUnitOfWork, UnitOfWork.UnitOfWork>();
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
 
             // 如果有提供 MongoDB 設定，則註冊 MongoDB 相關服務
-            // MongoDB 設定使用 Singleton 生命週期，確保配置只被建立一次
             if (mongoConfig != null)
             {
                 services.AddSingleton(mongoConfig);

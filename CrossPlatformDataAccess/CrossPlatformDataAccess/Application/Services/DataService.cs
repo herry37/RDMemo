@@ -19,30 +19,45 @@ namespace CrossPlatformDataAccess.Application.Services
             _dataAccess = dataAccess ?? throw new ArgumentNullException(nameof(dataAccess));
         }
 
+        /// <summary>
+        /// 依據ID取得資料
+        /// </summary>
         public virtual async Task<T> GetByIdAsync(object id, CancellationToken cancellationToken = default)
         {
             // 這裡可以添加業務邏輯，例如：權限檢查、快取處理等
             return await _dataAccess.GetByIdAsync(id, cancellationToken);
         }
 
+        /// <summary>
+        /// 取得所有資料
+        /// </summary>
         public virtual async Task<IEnumerable<T>> GetAllAsync(CancellationToken cancellationToken = default)
         {
             // 這裡可以添加業務邏輯，例如：分頁、過濾、排序等
             return await _dataAccess.GetAllAsync(cancellationToken);
         }
 
+        /// <summary>
+        /// 新增資料
+        /// </summary>
         public virtual async Task<T> AddAsync(T entity, CancellationToken cancellationToken = default)
         {
             // 這裡可以添加業務邏輯，例如：資料驗證、前置處理等
             return await _dataAccess.AddAsync(entity, cancellationToken);
         }
 
+        /// <summary>
+        /// 更新資料
+        /// </summary>
         public virtual async Task UpdateAsync(T entity, CancellationToken cancellationToken = default)
         {
             // 這裡可以添加業務邏輯，例如：並發檢查、修改記錄等
             await _dataAccess.UpdateAsync(entity, cancellationToken);
         }
 
+        /// <summary>
+        /// 刪除資料
+        /// </summary>
         public virtual async Task DeleteAsync(T entity, CancellationToken cancellationToken = default)
         {
             // 這裡可以添加業務邏輯，例如：關聯檢查、軟刪除等

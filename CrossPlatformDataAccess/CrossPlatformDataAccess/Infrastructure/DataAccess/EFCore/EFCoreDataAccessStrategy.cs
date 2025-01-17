@@ -128,6 +128,65 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.EFCore
         }
 
         #endregion
+
+        public IDbProvider Provider => new EFCoreDbProvider();
+
+        public async Task<T> ExecuteStoredProcedureAsync<T>(string procedureName, object parameters = null, CancellationToken cancellationToken = default) where T : class
+        {
+            try
+            {
+                _logger.LogInformation($"執行儲存程序: {procedureName}");
+                return await _context.Set<T>().FromSqlRaw(procedureName, parameters).ToListAsync(cancellationToken).ConfigureAwait(false);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"儲存程序執行失敗: {procedureName}", ex);
+                throw;
+            }
+        }
+
+        public async Task<int> ExecuteAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
+        {
+            try
+            {
+                _logger.LogInformation($"執行SQL命令: {sql}");
+                return await _context.Database.ExecuteSqlRawAsync(sql, parameters, cancellationToken);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"SQL命令執行失敗: {sql}", ex);
+                throw;
+            }
+        }
+
+        public async Task<int> ExecuteStoredProcedure<T>(string procedureName, object parameters = null)
+        {
+            try
+            {
+                _logger.LogInformation($"執行儲存程序: {procedureName}");
+                return await _context.Database.ExecuteSqlRawAsync(procedureName, parameters);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"儲存程序執行失敗: {procedureName}", ex);
+                throw;
+            }
+        }
+
+        public async Task<bool> DeleteAsync<T>(T entity, CancellationToken cancellationToken = default) where T : class
+        {
+            try
+            {
+                _context.Set<T>().Remove(entity);
+                await _context.SaveChangesAsync(cancellationToken);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"刪除資料失敗", ex);
+                return false;
+            }
+        }
     }
 
     /// <summary>
@@ -184,6 +243,14 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.EFCore
                 _transaction.Dispose();
                 _disposed = true;
             }
+        }
+    }
+
+    internal class EFCoreDbProvider : IDbProvider
+    {
+        public string GetParameterName(string parameterName)
+        {
+            return $"@{parameterName}";
         }
     }
 }
