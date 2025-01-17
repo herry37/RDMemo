@@ -60,7 +60,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         {
             // 將實體附加到上下文並標記為已修改狀態
             _dbSet.Attach(entity);
-            _context.Set<TEntity>().Entry(entity).State = EntityState.Modified;
+            _context.Entry(entity).State = EntityState.Modified;
         }
 
         /// <summary>
@@ -70,7 +70,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         public virtual void Delete(TEntity entity)
         {
             // 如果實體處於分離狀態，先將其附加到上下文
-            if (_context.Set<TEntity>().Entry(entity).State == EntityState.Detached)
+            if (_context.Entry(entity).State == EntityState.Detached)
             {
                 _dbSet.Attach(entity);
             }

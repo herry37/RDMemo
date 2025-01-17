@@ -1,10 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq.Expressions;
-using System.Threading;
-using System.Threading.Tasks;
 using CrossPlatformDataAccess.Core.DataAccess;
 using CrossPlatformDataAccess.Core.Logging;
+using CrossPlatformDataAccess.Infrastructure.DataAccess.ADO;
+using System.Linq.Expressions;
 
 namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
 {
@@ -13,8 +10,9 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
     /// </summary>
     public abstract class BaseRepository<T> : IBaseDataAccess<T>, IBaseDataAccessAsync<T> where T : class
     {
-        protected readonly IDataAccessStrategy _strategy;
-        protected readonly ILogger _logger;
+        private readonly IDataAccessStrategy _strategy;
+
+        private readonly ILogger _logger;
 
         protected BaseRepository(IDataAccessStrategy strategy, ILogger logger)
         {
@@ -78,7 +76,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
 
-        public virtual IEnumerable<T> Get(Expression<Func<T, bool>> predicate = null)
+        public virtual IEnumerable<T> Get(Expression<Func<T, bool>> predicate = null!)
         {
             ArgumentNullException.ThrowIfNull(predicate);
             try
@@ -94,8 +92,8 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
                 throw;
             }
         }
-
-        public virtual IEnumerable<T> QueryWithSql(string sql, object parameters = null)
+        #region SQL
+        public virtual IEnumerable<T> QueryWithSql(string sql, object parameters = null!)
         {
             ArgumentNullException.ThrowIfNull(sql);
             try
@@ -112,7 +110,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
 
-        public virtual int ExecuteSql(string sql, object parameters = null)
+        public virtual int ExecuteSql(string sql, object parameters = null!)
         {
             ArgumentNullException.ThrowIfNull(sql);
             try
@@ -168,6 +166,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
         #endregion
+        #endregion
 
         #region 非同步操作
         public virtual async Task<T> AddAsync(T entity, CancellationToken cancellationToken = default)
@@ -176,9 +175,9 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             try
             {
                 _logger.LogInformation($"開始新增 {typeof(T).Name}");
-                using var transaction = await _strategy.BeginTransactionAsync(cancellationToken);
-                var result = await ExecuteAddAsync(entity, cancellationToken);
-                await transaction.CommitAsync();
+                using var transaction = await _strategy.BeginTransactionAsync(cancellationToken).ConfigureAwait(false);
+                var result = await ExecuteAddAsync(entity, cancellationToken).ConfigureAwait(false);
+                await transaction.CommitAsync().ConfigureAwait(false);
                 _logger.LogInformation($"成功新增 {typeof(T).Name}");
                 return result;
             }
@@ -242,6 +241,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
 
+        #region SQL
         public virtual async Task<IEnumerable<T>> QueryWithSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
         {
             ArgumentNullException.ThrowIfNull(sql);
@@ -259,7 +259,8 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
 
-        public virtual async Task<int> ExecuteSqlAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
+        public virtual async Task<int> ExecuteSqlAsync(string sql, object parameters = null!
+            , CancellationToken cancellationToken = default)
         {
             ArgumentNullException.ThrowIfNull(sql);
             try
@@ -315,6 +316,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             }
         }
         #endregion
+        #endregion
 
         #region 需要被實作的抽象方法
         protected abstract T ExecuteAdd(T entity);
@@ -326,6 +328,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         protected abstract Task ExecuteUpdateAsync(T entity, CancellationToken cancellationToken);
         protected abstract Task ExecuteDeleteAsync(T entity, CancellationToken cancellationToken);
         protected abstract Task<IEnumerable<T>> ExecuteGetAsync(Expression<Func<T, bool>> predicate, CancellationToken cancellationToken);
+        public abstract T GetById(object id);
+        public abstract IEnumerable<T> GetAll();
+        public abstract Task<T> GetByIdAsync(object id, CancellationToken cancellationToken = default);
+        public abstract Task<IEnumerable<T>> GetAllAsync(CancellationToken cancellationToken = default);
         #endregion
     }
 }

@@ -75,10 +75,10 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
             Expression<Func<T, bool>> predicate = null,
             CancellationToken cancellationToken = default)
         {
-            if (predicate == null)
-            {
-                throw new ArgumentNullException(nameof(predicate));
-            }
+         
+            ArgumentNullException.ThrowIfNull(predicate);
+
+
             if (_strategy == null)
             {
                 throw new ArgumentNullException(nameof(_strategy));
@@ -94,7 +94,7 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.Repository
         /// </summary>
         public async Task<IEnumerable<T>> QueryWithSqlAsync(
             string sql,
-            object parameters = null,
+            object parameters = null!,
             CancellationToken cancellationToken = default)
         {
             if (string.IsNullOrWhiteSpace(sql))

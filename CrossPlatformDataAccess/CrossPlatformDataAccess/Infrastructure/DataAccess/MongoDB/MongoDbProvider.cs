@@ -200,37 +200,70 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.MongoDB
 
         #region IDataAccessStrategy
 
-        public async Task<T> ExecuteStoredProcedureAsync<T>(string procedureName, object parameters = null, CancellationToken cancellationToken = default) where T : class
+        public T Add<T>(T entity) where T : class
         {
-            var command = new BsonDocument
-            {
-                { "eval", procedureName },
-                { "args", BsonSerializer.Serialize(parameters) }
-            };
-            var result = await _database.RunCommandAsync<BsonDocument>(command, null, cancellationToken);
-            return BsonSerializer.Deserialize<T>(result["retval"].AsBsonDocument);
+            var collection = _database.GetCollection<T>(typeof(T).Name);
+            collection.InsertOne(entity);
+            return entity;
         }
 
-        public async Task<int> ExecuteAsync(string sql, object parameters = null, CancellationToken cancellationToken = default)
+        public bool Update<T>(T entity) where T : class
         {
-            var command = new BsonDocument
-            {
-                { "eval", sql },
-                { "args", BsonSerializer.Serialize(parameters) }
-            };
-            var result = await _database.RunCommandAsync<BsonDocument>(command, null, cancellationToken);
-            return result["ok"].AsInt32;
+            var collection = _database.GetCollection<T>(typeof(T).Name);
+            var filter = Builders<T>.Filter.Eq("_id", GetEntityId(entity));
+            var result = collection.ReplaceOne(filter, entity, new ReplaceOptions { IsUpsert = false });
+            return result.ModifiedCount > 0;
         }
 
-        public async Task<int> ExecuteStoredProcedure(string procedureName, object parameters = null)
+        public bool Delete<T>(T entity) where T : class
         {
-            var command = new BsonDocument
-            {
-                { "eval", procedureName },
-                { "args", BsonSerializer.Serialize(parameters) }
-            };
-            var result = await _database.RunCommandAsync<BsonDocument>(command);
-            return result["ok"].AsInt32;
+            var collection = _database.GetCollection<T>(typeof(T).Name);
+            var filter = Builders<T>.Filter.Eq("_id", GetEntityId(entity));
+            var result = collection.DeleteOne(filter);
+            return result.DeletedCount > 0;
+        }
+
+        public T GetById<T>(object id) where T : class
+        {
+            var collection = _database.GetCollection<T>(typeof(T).Name);
+            var filter = Builders<T>.Filter.Eq("_id", id);
+            return collection.Find(filter).FirstOrDefault();
+        }
+
+        public IEnumerable<T> GetAll<T>() where T : class
+        {
+            var collection = _database.GetCollection<T>(typeof(T).Name);
+            return collection.Find(new BsonDocument()).ToList();
+        }
+
+        public IEnumerable<T> Query<T>(string sql, object? parameters = null) where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<IEnumerable<T>> QueryAsync<T>(string sql, object? parameters = null, CancellationToken cancellationToken = default) where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public int Execute(string sql, object? parameters = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<int> ExecuteAsync(string sql, object? parameters = null, CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<T> ExecuteStoredProcedure<T>(string procedureName, object? parameters = null) where T : class
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<IEnumerable<T>> ExecuteStoredProcedureAsync<T>(string procedureName, object? parameters = null, CancellationToken cancellationToken = default) where T : class
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
@@ -248,6 +281,16 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.MongoDB
         public void Dispose()
         {
             _session?.Dispose();
+        }
+
+        System.Data.IDbTransaction IDataAccessStrategy.BeginTransaction()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<System.Data.IDbTransaction> IDataAccessStrategy.BeginTransactionAsync(CancellationToken cancellationToken)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
@@ -296,3 +339,4 @@ namespace CrossPlatformDataAccess.Infrastructure.DataAccess.MongoDB
         }
     }
 }
+

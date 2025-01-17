@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 namespace CrossPlatformDataAccess.Infrastructure.Repositories
 {
     /// <summary>
-    /// MongoDB 儲存庫實作，提供對 MongoDB 文件的基本 CRUD 操作功能
+    /// MongoDB  repository 實作，提供對 MongoDB 文件的基本 CRUD 操作功能
     /// </summary>
     /// <typeparam name="TDocument">文件類型，必須是參考類型</typeparam>
     public class MongoRepository<TDocument> : IMongoRepository<TDocument> where TDocument : class
@@ -21,6 +21,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <param name="collectionName">集合名稱</param>
         public MongoRepository(IMongoDbContext context, string collectionName)
         {
+            ArgumentNullException.ThrowIfNull(context);
             // 從上下文取得指定名稱的集合
             _collection = context.GetCollection<TDocument>(collectionName);
         }
@@ -32,7 +33,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <remarks>使用空的過濾條件來取得所有文件</remarks>
         public async Task<IEnumerable<TDocument>> GetAllAsync()
         {
-            return await _collection.Find(_ => true).ToListAsync();
+            return await _collection.Find(_ => true).ToListAsync().ConfigureAwait(false);
         }
 
         /// <summary>
@@ -45,7 +46,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         {
             var objectId = ObjectId.Parse(id);
             var filter = Builders<TDocument>.Filter.Eq("_id", objectId);
-            return await _collection.Find(filter).FirstOrDefaultAsync();
+            return await _collection.Find(filter).FirstOrDefaultAsync().ConfigureAwait(false);
         }
 
         /// <summary>
@@ -57,11 +58,11 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         {
             try
             {
-                await _collection.InsertOneAsync(document);
+                await _collection.InsertOneAsync(document).ConfigureAwait(false);
             }
             catch (MongoWriteException ex)
             {
-                throw new Exception("MongoDB 寫入錯誤", ex);
+                throw new MongoWriteException("MongoDB write exception occurred", ex);
             }
         }
 
@@ -75,7 +76,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         {
             var objectId = ObjectId.Parse(id);
             var filter = Builders<TDocument>.Filter.Eq("_id", objectId);
-            await _collection.ReplaceOneAsync(filter, document);
+            await _collection.ReplaceOneAsync(filter, document).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -87,7 +88,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         {
             var objectId = ObjectId.Parse(id);
             var filter = Builders<TDocument>.Filter.Eq("_id", objectId);
-            await _collection.DeleteOneAsync(filter);
+            await _collection.DeleteOneAsync(filter).ConfigureAwait(false);
         }
 
         /// <summary>
@@ -98,7 +99,7 @@ namespace CrossPlatformDataAccess.Infrastructure.Repositories
         /// <remarks>支援使用 LINQ 表達式進行複雜查詢</remarks>
         public async Task<IEnumerable<TDocument>> FindAsync(Expression<Func<TDocument, bool>> filterExpression)
         {
-            return await _collection.Find(filterExpression).ToListAsync();
+            return await _collection.Find(filterExpression).ToListAsync().ConfigureAwait(false);
         }
     }
 }

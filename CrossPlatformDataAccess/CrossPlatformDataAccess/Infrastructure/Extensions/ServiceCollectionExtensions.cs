@@ -7,47 +7,41 @@ using Microsoft.Extensions.DependencyInjection;
 namespace CrossPlatformDataAccess.Infrastructure.Extensions
 {
     /// <summary>
-    /// 提供擴充方法用於註冊資料存取相關的服務
+    ///   依賴注入容器中註冊資料存取相關的服務
     /// </summary>
-    /// <remarks>
-    /// 此類別包含擴充方法，用於設定和註冊資料庫相關的依賴注入服務，
-    /// 支援同時註冊關聯式資料庫和 MongoDB 的服務
-    /// </remarks>
     public static class ServiceCollectionExtensions
     {
         /// <summary>
-        /// 註冊資料存取相關的服務到依賴注入容器中
+        ///   依賴注入容器中註冊資料存取相關的服務
         /// </summary>
-        /// <param name="services">IServiceCollection 服務集合實例</param>
+        /// <param name="services">IServiceCollection  服務集合實例</param>
         /// <param name="dbConfig">關聯式資料庫的設定物件</param>
-        /// <param name="mongoConfig">MongoDB 的設定物件，可為 null</param>
-        /// <returns>設定完成的服務集合</returns>
+        /// <param name="mongoConfig">MongoDB 的設定物件，  null</param>
+        /// <returns>  依賴注入容器</returns>
         /// <remarks>
-        /// 此方法會執行以下操作：
-        /// 1. 驗證必要的參數是否為 null
-        /// 2. 註冊關聯式資料庫的相關服務（DbContext、UnitOfWork、Repository）
-        /// 3. 如果提供了 MongoDB 設定，則註冊 MongoDB 相關服務
+        ///   以下操作：
+        /// 1.   services   dbConfig   null
+        /// 2.   關聯式資料庫的相關服務（DbContext、UnitOfWork、Repository）
+        /// 3.   MongoDB   null   關聯式資料庫的相關服務
         /// </remarks>
-        /// <exception cref="ArgumentNullException">當 services 或 dbConfig 為 null 時拋出</exception>
+        /// <exception cref="ArgumentNullException">services   dbConfig   null   </exception>
         public static IServiceCollection AddDataAccess(
             this IServiceCollection services,
             DatabaseConfig dbConfig,
-            MongoDbConfig mongoConfig = null)
+            MongoDbConfig mongoConfig = null!)
         {
-            // 驗證服務集合參數是否為空
-            if (services == null)
-                throw new ArgumentNullException(nameof(services));
+            //   services   null           
+            ArgumentNullException.ThrowIfNull(services);
 
-            // 驗證資料庫設定參數是否為空
-            if (dbConfig == null)
-                throw new ArgumentNullException(nameof(dbConfig));
+            //   dbConfig   null            
+            ArgumentNullException.ThrowIfNull(dbConfig);
 
-            // 註冊關聯式資料庫的相關服務
+            //   關聯式資料庫的相關服務
             services.AddScoped<IDbContext>(provider => new DatabaseContext(dbConfig));
             services.AddScoped<IUnitOfWork, UnitOfWork.UnitOfWork>();
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
 
-            // 如果有提供 MongoDB 設定，則註冊 MongoDB 相關服務
+            //   MongoDB   null   關聯式資料庫的相關服務
             if (mongoConfig != null)
             {
                 services.AddSingleton(mongoConfig);
