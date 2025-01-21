@@ -1,0 +1,63 @@
+@TodoTaskManagementAPI_HostAddress = http://localhost:5161
+
+### 獲取所有任務（分頁和篩選）
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks?page=1&pageSize=10
+Accept: application/json
+
+### 獲取所有未完成的任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks?isCompleted=false
+Accept: application/json
+
+### 獲取所有高優先級的任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks?priority=High
+Accept: application/json
+
+### 獲取指定日期範圍的任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks?dueDateFrom=2025-01-01&dueDateTo=2025-12-31
+Accept: application/json
+
+### 根據ID獲取任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/1
+Accept: application/json
+
+### 創建新任務
+POST {{TodoTaskManagementAPI_HostAddress}}/api/todotasks
+Content-Type: application/json
+
+{
+  "title": "完成API開發",
+  "description": "實現待辦事項管理API的所有功能",
+  "dueDate": "2025-01-31T00:00:00Z",
+  "priority": "High"
+}
+
+### 更新任務
+PUT {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/1
+Content-Type: application/json
+
+{
+  "title": "更新後的任務標題",
+  "description": "更新後的任務描述",
+  "dueDate": "2025-02-28T00:00:00Z",
+  "priority": "Urgent"
+}
+
+### 完成任務
+POST {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/1/complete
+Accept: application/json
+
+### 重新開啟任務
+POST {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/1/reopen
+Accept: application/json
+
+### 刪除任務
+DELETE {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/1
+Accept: application/json
+
+### 獲取所有過期任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/overdue
+Accept: application/json
+
+### 獲取指定優先級的任務
+GET {{TodoTaskManagementAPI_HostAddress}}/api/todotasks/priority/High
+Accept: application/json
