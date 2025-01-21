@@ -1,0 +1,80 @@
+{
+    "Id":  "f0c9497f-06fe-4ade-9284-fe443cdc8a67",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-21T09:43:57.7928267+08:00",
+    "Items":  [
+                  {
+                      "Id":  "926d8fa1-e7bf-4426-88d3-89ff22976413",
+                      "Name":  "運動飲料",
+                      "Quantity":  6,
+                      "Price":  211.445048991404820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:26:24.7182801+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22612f78-2660-4fbf-91b9-73978076fd7b",
+                      "Name":  "抹布",
+                      "Quantity":  3,
+                      "Price":  236.907114411290880,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:24:42.4042768+08:00",
+                      "CompletedAt":  "2025-01-18T02:48:50.2905748+08:00"
+                  },
+                  {
+                      "Id":  "fa2db670-e0a2-438f-b772-86b73a6fe963",
+                      "Name":  "肥皂",
+                      "Quantity":  8,
+                      "Price":  489.16049561345560,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T11:38:19.9865889+08:00",
+                      "CompletedAt":  "2025-01-14T21:21:21.9030735+08:00"
+                  },
+                  {
+                      "Id":  "6698b275-926c-4f59-bbcb-43c12a735263",
+                      "Name":  "巧克力",
+                      "Quantity":  7,
+                      "Price":  441.129839173844020,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:27:23.3620868+08:00",
+                      "CompletedAt":  "2025-01-21T16:57:51.9300871+08:00"
+                  },
+                  {
+                      "Id":  "5faca545-25f5-4d3f-9879-2d6cf7abced0",
+                      "Name":  "資料夾",
+                      "Quantity":  5,
+                      "Price":  13.3139861629415730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:05:11.3442942+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a71cd4e-e362-48d1-a8fd-1326f5e64082",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  8,
+                      "Price":  83.055082131098690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:47:28.6464201+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad5f2c32-7f5a-4db9-83dd-92828d9502e4",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  8,
+                      "Price":  362.028918219485150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:00:14.4577329+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89332bfc-5931-45c6-8635-088672c03e08",
+                      "Name":  "碗",
+                      "Quantity":  7,
+                      "Price":  128.46493407020650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:52:15.5971619+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

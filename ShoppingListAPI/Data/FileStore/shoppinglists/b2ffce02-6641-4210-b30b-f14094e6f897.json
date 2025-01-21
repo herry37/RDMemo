@@ -1,0 +1,35 @@
+{
+    "Id":  "b2ffce02-6641-4210-b30b-f14094e6f897",
+    "Title":  "月底大採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T00:15:03.695101+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7a3b0820-e0d6-411d-9ed8-5167a68f19da",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:21:16.5917447+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "367ce426-e230-48ba-839d-40e4f4836865",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:40:06.739981+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "090d1b31-ecb0-41a3-b001-d376ed858071",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:06:51.6092599+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

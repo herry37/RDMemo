@@ -1,0 +1,53 @@
+{
+    "Id":  "00275741-675b-43e6-9a5e-a5712eef710b",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T23:10:12.1257941+08:00",
+    "Items":  [
+                  {
+                      "Id":  "70571052-41c6-4e56-9001-84216c3548be",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7104826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47fc3712-069f-415f-9ca3-939e30b87325",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7104989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "811c6198-906a-42f4-990d-d978ec422056",
+                      "Name":  "Practical Metal Keyboard",
+                      "Quantity":  3,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7105482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8012f497-42ee-415b-8022-e6ca190c00e6",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.710552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e90e0659-0e9c-4ef2-9d98-52515d897d1a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7105544Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

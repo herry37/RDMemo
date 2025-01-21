@@ -1,0 +1,62 @@
+{
+    "Id":  "a4a45e07-ead2-44b4-8761-8af71f3e2d62",
+    "Title":  "每週採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-18T07:42:07.0118984+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f7461d5-e368-4321-8496-d4feb4c1ad85",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  132,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:37:40.5298453+08:00",
+                      "CompletedAt":  "2025-01-18T22:38:30.1909442+08:00"
+                  },
+                  {
+                      "Id":  "f9f66b8f-61bd-467d-965c-0d9bfea30333",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:04:53.7013312+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6b91fdb-dddb-4383-bc97-9985f11d1556",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:12:32.4836046+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f9d4c9c-79fd-4447-9086-daa4a8c0c9c8",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:34:22.4141591+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1050282d-c144-4983-98d6-c7eb6aeb6258",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:13:18.95562+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01f81dea-3dd3-4e08-9a21-d02de118025f",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:37:23.0557158+08:00",
+                      "CompletedAt":  "2025-01-16T08:24:06.9263366+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

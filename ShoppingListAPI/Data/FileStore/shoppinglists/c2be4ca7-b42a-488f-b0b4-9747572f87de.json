@@ -1,0 +1,80 @@
+{
+    "Id":  "c2be4ca7-b42a-488f-b0b4-9747572f87de",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-20T11:13:53.2803714+08:00",
+    "Items":  [
+                  {
+                      "Id":  "465c4157-a33f-43bf-941c-adeaab2069de",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03ccf5fc-7b95-4008-91ee-0b07f14ad3d2",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855601Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4663709-1432-4443-a111-df37b755b4e0",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3236e207-a5e7-41de-8dea-28431a7425fc",
+                      "Name":  "Tasty Frozen Table",
+                      "Quantity":  2,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855837Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "470a0b13-800d-4ed7-8d78-24f765e2651b",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d175dd9a-b8c8-4dd3-8468-0c3d675b4cc1",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7a9cab8-411f-47dc-990d-ccfd0b7474d7",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855884Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b68293d-8a44-415f-a445-d1710e87180c",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1855892Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

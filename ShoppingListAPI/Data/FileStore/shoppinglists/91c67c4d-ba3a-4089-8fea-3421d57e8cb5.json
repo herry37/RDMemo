@@ -1,0 +1,80 @@
+{
+    "Id":  "91c67c4d-ba3a-4089-8fea-3421d57e8cb5",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-21T18:33:32.3299284+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38ef0eb9-20d9-44e2-a4d3-7c3a7d12952d",
+                      "Name":  "Ergonomic Wooden Gloves",
+                      "Quantity":  4,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2e1ad61-6086-4617-961a-778e675b27a6",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570914Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd23c268-6a30-485e-9e2b-88e7ea41467f",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bf6f143-12e4-4da0-913c-f51755572b0b",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4044518-8f66-42e4-bc41-2f4c5982b60b",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db209cf3-4d23-402b-8c8c-0f90801c5666",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0570971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69740ae1-b91f-47a5-b560-364f716d4142",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.057098Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fdeea45-5e54-4b23-a067-6269f8224e4c",
+                      "Name":  "Unbranded Soft Sausages",
+                      "Quantity":  2,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.05712Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

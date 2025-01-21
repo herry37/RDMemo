@@ -1,0 +1,35 @@
+{
+    "Id":  "0239b374-96cb-4b64-842a-de1a0a2d20f1",
+    "Title":  "居家整理 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T20:27:54.0370786+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bdfa9821-afd9-42c7-937f-aca1562b8e54",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T18:07:28.330135+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09ed55ad-8d64-47d3-8491-ff74e46c388a",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:48:05.8049151+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa70d420-cb2e-4ae9-8667-668ec676b95f",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:24:18.9554253+08:00",
+                      "CompletedAt":  "2025-01-17T22:01:03.6583702+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

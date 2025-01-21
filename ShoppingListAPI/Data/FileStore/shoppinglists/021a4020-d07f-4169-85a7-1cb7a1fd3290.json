@@ -1,0 +1,89 @@
+{
+    "Id":  "021a4020-d07f-4169-85a7-1cb7a1fd3290",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T20:24:17.2518824+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e42281a-0269-46a2-97cb-6e8333664c47",
+                      "Name":  "筆記本",
+                      "Quantity":  6,
+                      "Price":  398.666312200792780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:17:50.3486123+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70cd865b-5fb3-4c97-82a1-327bc72140af",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  316.37615323105910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:46:25.6998029+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef1e96a0-c9d5-449b-833c-3b3de8f7890b",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  34.5512397439244180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:58:29.501396+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "057a0fc0-9907-4e9c-83af-737d1dbb7cec",
+                      "Name":  "檯燈",
+                      "Quantity":  2,
+                      "Price":  469.744280363354490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:38:11.8390701+08:00",
+                      "CompletedAt":  "2025-01-19T19:47:10.6881483+08:00"
+                  },
+                  {
+                      "Id":  "5c2dedfe-ee87-4f2d-936d-1abe81c09cd1",
+                      "Name":  "洗衣精",
+                      "Quantity":  2,
+                      "Price":  69.285101842862070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:44:59.5610501+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "596ac483-74e4-44db-9ad9-19fc4424f70b",
+                      "Name":  "爆米花",
+                      "Quantity":  5,
+                      "Price":  404.146110432490360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:03:03.8267352+08:00",
+                      "CompletedAt":  "2025-01-18T14:04:01.1799763+08:00"
+                  },
+                  {
+                      "Id":  "8fca5ef3-060b-4ea6-a730-eba1dd7cc5bc",
+                      "Name":  "洗衣精",
+                      "Quantity":  8,
+                      "Price":  472.584230294121110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:39:10.898759+08:00",
+                      "CompletedAt":  "2025-01-19T03:29:31.9987077+08:00"
+                  },
+                  {
+                      "Id":  "c951544e-6436-460c-b631-7ed51a2fd8b4",
+                      "Name":  "檯燈",
+                      "Quantity":  5,
+                      "Price":  172.090382441681260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T01:20:16.3365126+08:00",
+                      "CompletedAt":  "2025-01-20T05:08:38.2839814+08:00"
+                  },
+                  {
+                      "Id":  "5bec6261-1ffc-438a-ab21-ce602f977289",
+                      "Name":  "電池",
+                      "Quantity":  5,
+                      "Price":  58.9066056564806980,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:03:43.6022474+08:00",
+                      "CompletedAt":  "2025-01-19T05:08:04.1175389+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

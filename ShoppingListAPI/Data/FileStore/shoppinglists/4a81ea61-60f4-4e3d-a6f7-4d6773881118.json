@@ -1,0 +1,35 @@
+{
+    "Id":  "4a81ea61-60f4-4e3d-a6f7-4d6773881118",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-21T10:42:56.2540796+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e1484b4c-8453-4c95-a527-267f8916d40b",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4663886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "560b6fd5-d5d2-40df-9b7a-c5f9aff45fa2",
+                      "Name":  "Gorgeous Fresh Car",
+                      "Quantity":  4,
+                      "Price":  427,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4664015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84ccd297-6ada-4a38-8878-598ebf59de8a",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4664023Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

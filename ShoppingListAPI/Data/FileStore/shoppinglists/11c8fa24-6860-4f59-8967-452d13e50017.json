@@ -1,0 +1,35 @@
+{
+    "Id":  "11c8fa24-6860-4f59-8967-452d13e50017",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T17:54:19.6219894+08:00",
+    "Items":  [
+                  {
+                      "Id":  "11585707-e081-4155-9cc6-ab5d892b48fb",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:37:37.0009367+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c50e585-10b8-4936-9dca-7bbcff9b5f51",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:34:36.7609921+08:00",
+                      "CompletedAt":  "2025-01-20T14:34:18.4381556+08:00"
+                  },
+                  {
+                      "Id":  "9f779b16-2eb6-40e6-a52c-a08ccf063ca3",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  256,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:29:12.8932513+08:00",
+                      "CompletedAt":  "2025-01-20T03:13:35.9475444+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

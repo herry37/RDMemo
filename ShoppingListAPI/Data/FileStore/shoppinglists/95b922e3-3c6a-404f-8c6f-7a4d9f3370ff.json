@@ -1,0 +1,89 @@
+{
+    "Id":  "95b922e3-3c6a-404f-8c6f-7a4d9f3370ff",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T17:06:41.4094027+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bb92b29f-7693-46b2-8e61-c9b60b8f2e07",
+                      "Name":  "Licensed Wooden Bike",
+                      "Quantity":  3,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075257Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "881e661e-9ff2-4265-82fa-d46dca03ef65",
+                      "Name":  "Sleek Soft Pizza",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ef11d28-d45c-4983-a438-653dd9e05d2e",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03edb978-eeca-42c1-ac19-422e32aca635",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "566afb7c-8eea-40d3-a125-504c882537da",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4ae7834-7c8f-41d6-8002-29ebb885395a",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27c4a6e0-74fe-4f29-b1e4-1bc6bd79303b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075666Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "badce2ee-42bf-4c24-99ab-7eb0453643aa",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f25c6ed-84a6-4931-a2ff-a74fb7b86341",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0075692Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

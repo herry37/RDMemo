@@ -1,0 +1,44 @@
+{
+    "Id":  "8d9b996f-7b0e-4e69-82f0-3a137a36aff6",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T00:42:14.2022115+08:00",
+    "Items":  [
+                  {
+                      "Id":  "add1e12a-9f18-496c-9624-b08b45a03a0d",
+                      "Name":  "口香糖",
+                      "Quantity":  9,
+                      "Price":  221.988309040637010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:44:37.4216461+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1904d771-812f-44c0-8a1c-6933e50c24c7",
+                      "Name":  "筆",
+                      "Quantity":  5,
+                      "Price":  57.4208966406701960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:43:53.9492125+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00e18765-96b1-4b30-b71d-60a2b80c0b19",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  144.31149161009440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:02:21.3342372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19ff97eb-a890-4a9c-85fc-1e2edcf91c41",
+                      "Name":  "番茄",
+                      "Quantity":  5,
+                      "Price":  204.813613076430530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:56:52.6909962+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

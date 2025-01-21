@@ -1,0 +1,71 @@
+{
+    "Id":  "20d3fb65-b7e5-47bb-9146-cdacbe870bf0",
+    "Title":  "日常補充 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-20T15:03:41.1821826+08:00",
+    "Items":  [
+                  {
+                      "Id":  "98a0d1e5-ce9f-4db5-913d-fb2438efe21c",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:35:12.1630924+08:00",
+                      "CompletedAt":  "2025-01-20T18:54:05.6076806+08:00"
+                  },
+                  {
+                      "Id":  "aaaa0cc2-e930-4e0d-a715-4da6ba3c92f1",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:10:09.4307945+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1c708f3-2b26-4009-8385-074e09e582fe",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:50:19.0851584+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8fd8c04-e4d0-49c7-ac20-5574598ca5f8",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:00:07.7266583+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a64343f-ea45-4028-8c88-ccb04027cdbc",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:47:13.675978+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b5f5341-3aa3-4ac7-b36a-0a08125ff53c",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:34:16.2564306+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "215c3c36-0dd1-477a-b2c1-5aba4a60e64b",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:34:16.3820617+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

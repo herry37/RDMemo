@@ -1,0 +1,44 @@
+{
+    "Id":  "be6062f2-746a-4107-8ce7-fbac65932824",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-21T17:46:35.7527146+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ef2847c0-2c9e-4c11-9f4f-48d141fbac9a",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8952842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ec119a8-0544-4fb4-88f0-c361d67bf950",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.895287Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a190c5cb-1860-4560-ad09-180507af239b",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8952879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c50e811-ff93-4905-8f98-2a59e7ea4d64",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8952893Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

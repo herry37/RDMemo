@@ -1,0 +1,35 @@
+{
+    "Id":  "f09fea5d-58a6-4f2d-b392-29f572646706",
+    "Title":  "聚會準備 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-15T17:47:41.3209472+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7009dbc5-aceb-44fb-92b9-3b48f8d4657c",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:17:24.0109072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cacf2ab1-abc9-41d5-a555-ba26f3606a4a",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:23:58.2204601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05b85bdf-c68f-4be8-94e4-2bea1a41665b",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:51:07.2533911+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

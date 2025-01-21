@@ -1,0 +1,62 @@
+{
+    "Id":  "395ece61-25d2-402c-a181-476712b69695",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-14T22:45:52.8519313+08:00",
+    "Items":  [
+                  {
+                      "Id":  "23699c65-afd6-45db-8d70-67a19224b0ce",
+                      "Name":  "抹布",
+                      "Quantity":  6,
+                      "Price":  239.497924695141620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:01:34.5788411+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b3cb434-2332-4a93-8f4f-d043dbf23515",
+                      "Name":  "乳液",
+                      "Quantity":  4,
+                      "Price":  173.300625830217260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:34:42.8507323+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c145d8e3-9e51-4f48-8ec4-b11ce367ee54",
+                      "Name":  "蛋糕",
+                      "Quantity":  4,
+                      "Price":  322.374169720887680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:19:40.3477627+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f92e89d6-0003-423e-9821-98bf0726fc1b",
+                      "Name":  "面膜",
+                      "Quantity":  10,
+                      "Price":  278.743663268547040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:07:24.8650098+08:00",
+                      "CompletedAt":  "2025-01-20T17:57:30.1713329+08:00"
+                  },
+                  {
+                      "Id":  "4e03ec0c-ca35-4f25-b015-e84767a02a89",
+                      "Name":  "護手霜",
+                      "Quantity":  3,
+                      "Price":  58.1288617195921220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:56:25.4207234+08:00",
+                      "CompletedAt":  "2025-01-21T20:09:34.8322845+08:00"
+                  },
+                  {
+                      "Id":  "17ff9798-657f-4da8-bee9-7f925424629d",
+                      "Name":  "資料夾",
+                      "Quantity":  10,
+                      "Price":  295.597969142491180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:26:03.071239+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

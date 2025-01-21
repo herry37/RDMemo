@@ -1,0 +1,62 @@
+{
+    "Id":  "49dc141e-1c42-460b-a8d7-edb2375cff8d",
+    "Title":  "派對用品 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T11:04:33.5198688+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6cba072d-d5c4-43b1-891c-bb467477e98c",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:22:46.6869123+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b9e002b-bfd5-40df-8e83-aa6bceaa17da",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:12:09.7761132+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec39c358-2161-4acc-b104-4e6991515b97",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:57:51.5435673+08:00",
+                      "CompletedAt":  "2025-01-20T15:06:36.4997725+08:00"
+                  },
+                  {
+                      "Id":  "c5240601-a0e5-490a-9904-9963192ebe86",
+                      "Name":  "電動牙刷",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:43:44.7935972+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35adba25-b7b3-4989-ba22-891687ac9812",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:41:41.8031438+08:00",
+                      "CompletedAt":  "2025-01-21T00:22:39.5254089+08:00"
+                  },
+                  {
+                      "Id":  "ec5d6ec7-d96c-4928-8aac-a89920e2015f",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:54:18.6459466+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

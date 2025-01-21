@@ -1,0 +1,35 @@
+{
+    "Id":  "cdeaf43b-4238-4237-847b-065ad9b6813e",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T14:23:40.1876772+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0f85b99-6107-4c1b-8a34-58b7caa1ece6",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:43:53.6488149+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43ea4c59-03fc-4631-8086-ceb0369f7b36",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:46:55.5793942+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9098c01-7caf-4e5f-a5de-b9b62fcd3bea",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:36:01.0781494+08:00",
+                      "CompletedAt":  "2025-01-21T17:00:30.4758874+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

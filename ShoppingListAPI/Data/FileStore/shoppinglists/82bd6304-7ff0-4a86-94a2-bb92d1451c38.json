@@ -1,0 +1,80 @@
+{
+    "Id":  "82bd6304-7ff0-4a86-94a2-bb92d1451c38",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T20:41:58.5130101+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f453c022-a3bc-4c9b-a25f-04bed64d9749",
+                      "Name":  "Ergonomic Rubber Gloves",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f0b8430-9310-47ff-a074-d3ab9f4f2bd1",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "331c0b30-3b77-481a-be78-44c534cdfb25",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7301fb5f-0932-4780-88f8-6dade64a096e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473591Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56451c21-0790-4ef3-8d50-9b488c95b62e",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473601Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a1224d8-c4ee-4a4d-aff4-e5f8fe477b34",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a6a0600-d7a4-4d13-932a-e1f3761e98c1",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e836bc83-31c0-41f5-b401-c7d5d8e70841",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3473835Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

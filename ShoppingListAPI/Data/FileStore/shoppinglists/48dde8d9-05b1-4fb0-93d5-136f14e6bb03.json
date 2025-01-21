@@ -1,0 +1,53 @@
+{
+    "Id":  "48dde8d9-05b1-4fb0-93d5-136f14e6bb03",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-20T18:30:19.5962346+08:00",
+    "Items":  [
+                  {
+                      "Id":  "16a17269-a598-43f7-857c-696271f2ff0f",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  500,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.2880947Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3fcdb93-a786-4e72-8394-4bc79d1bd399",
+                      "Name":  "Awesome Granite Towels",
+                      "Quantity":  5,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2881236Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "967b90ae-06db-4360-b3fe-1b7c3d24a60f",
+                      "Name":  "Awesome Steel Shirt",
+                      "Quantity":  3,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.2881283Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a996f6e9-516d-4cda-b9cf-db0b7c294a97",
+                      "Name":  "Generic Frozen Pants",
+                      "Quantity":  3,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.2881334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49a831f8-03b1-41a5-b740-5f2df08eb698",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2881357Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

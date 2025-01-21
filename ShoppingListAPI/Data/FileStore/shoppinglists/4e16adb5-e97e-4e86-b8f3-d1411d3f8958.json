@@ -1,0 +1,53 @@
+{
+    "Id":  "4e16adb5-e97e-4e86-b8f3-d1411d3f8958",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T07:04:37.8081964+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22f4d045-ec08-449c-859b-814109a2dd24",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4943614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9622dacd-12d0-4eb0-826d-e93f93f1c0f1",
+                      "Name":  "Ergonomic Wooden Hat",
+                      "Quantity":  5,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4943881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2074f1c5-979c-4e2e-a900-f2e7fffe41ec",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4943909Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4428c99d-2ce6-416b-8fcc-fb5cf5b7d9a2",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4943932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e10d4fa-889a-4afc-a09e-480af3376240",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4943954Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

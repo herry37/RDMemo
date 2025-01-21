@@ -1,0 +1,62 @@
+{
+    "Id":  "4f1fb76c-25ce-45af-a7f3-a55c66c43c2d",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T16:05:37.8784746+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cd206dbb-f6b0-471e-ba24-3b8d11720da1",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:23:18.3777764+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff795646-76dd-4d64-aecb-8caf58d6e776",
+                      "Name":  "靜電掃把",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:37:18.3746675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b38c5f08-bb4e-4a38-9c22-d77731fb1d60",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:09:30.7462168+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c1e1851-62f9-4ac2-9a9c-376b7ced59f1",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:14:08.6745356+08:00",
+                      "CompletedAt":  "2025-01-18T12:37:15.313982+08:00"
+                  },
+                  {
+                      "Id":  "2e5026b4-f6a3-4582-b3c1-9aa1b271df94",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:57:05.3075581+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87cddfbe-c869-4f54-94a3-163d391960f6",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:21:08.117267+08:00",
+                      "CompletedAt":  "2025-01-21T08:52:35.3075876+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

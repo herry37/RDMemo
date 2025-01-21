@@ -1,0 +1,53 @@
+{
+    "Id":  "ea813400-cee0-4d46-b7ef-d486ecd8b46c",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-20T18:53:08.1195029+08:00",
+    "Items":  [
+                  {
+                      "Id":  "49324196-7d79-4476-99e1-1604c0fbfcb2",
+                      "Name":  "Intelligent Wooden Salad",
+                      "Quantity":  1,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4458868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db451fd6-142a-42b8-b6be-e7e9cb8fc15b",
+                      "Name":  "Small Soft Computer",
+                      "Quantity":  1,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4458952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "691dfeec-2f0b-4368-a089-414aba911bbe",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4458965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bac0ef3b-8ee8-47b5-b0c2-e3b7cb0c354c",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4458982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fef5c9b-4910-43fe-b0e5-a52a067a4f3e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4458992Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

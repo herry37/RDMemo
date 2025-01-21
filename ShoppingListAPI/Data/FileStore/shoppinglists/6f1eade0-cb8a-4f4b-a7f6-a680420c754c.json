@@ -1,0 +1,44 @@
+{
+    "Id":  "6f1eade0-cb8a-4f4b-a7f6-a680420c754c",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T17:10:39.5069012+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e54f262a-8fe1-4e79-ad16-ebc278ec2c75",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  473,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6491468Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb12c334-2631-4484-a9bf-454a74deb937",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6491495Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94253e3b-0305-4b1a-85bd-8d238b1bad74",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6491516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2696d5db-bbff-4be7-a0b5-6c4efb623f72",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6491523Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "bcba346a-77e2-4321-afdf-72becb741328",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T04:57:30.545673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d53a04d-16b0-471d-a282-212ee8bebca3",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:21:58.0704886+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce77abd4-cd4e-48ea-96fd-1c105c860575",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:33:39.0892383+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3644db4-6391-4d21-af5c-be8fccefffbd",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:38:18.0043213+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5408064a-d282-4228-805d-24ea4859e75d",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:48:02.5957014+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

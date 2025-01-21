@@ -1,0 +1,80 @@
+{
+    "Id":  "dd471b55-4599-4a84-8109-7cfb322f02c6",
+    "Title":  "派對用品 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-17T05:21:23.485822+08:00",
+    "Items":  [
+                  {
+                      "Id":  "299577d2-44cd-43a7-bebf-89d0720ad9a2",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:33:55.7801018+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6afa0d3f-6e8c-475b-8a3f-26a79b41f263",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:06:45.3165707+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bb3da7d-4f85-4765-9453-48296217b891",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:34:27.2226439+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b11b3a19-cb45-4d5d-b43e-834a41423788",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:25:53.6666793+08:00",
+                      "CompletedAt":  "2025-01-15T17:32:50.9990365+08:00"
+                  },
+                  {
+                      "Id":  "d3348dda-94b6-4b94-8a53-266e029659ca",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:41:26.9441857+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "245156b3-1efa-41ed-8c1d-7e64c1f11ec6",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:23:20.6746761+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ee4d451-4e80-4c7d-b8bc-d460810f7e59",
+                      "Name":  "美白牙膏",
+                      "Quantity":  4,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:53:57.7351225+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b92ed262-31a8-4246-8489-73d632ac5836",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:54:50.5696464+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "dea78e84-7480-4c8e-af59-530af0952c79",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-19T08:37:17.3227392+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a97f028e-3e89-4830-9896-373a701a5b77",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4390837Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e812fddc-aad7-479d-9b60-4a6649384b9f",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4390881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "682f5fb7-97a9-4363-8b3e-d4c8793b6a50",
+                      "Name":  "Handmade Metal Ball",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f77dbd69-7c16-4bd6-a9ff-ba67a4adca43",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a164ff05-545e-4bce-a21c-1cca28c1fc89",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391132Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "927a327d-3b3b-46a4-b1f3-fa4793bccc6a",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391158Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14913521-a4ab-4e24-a783-2ce8154b947b",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391166Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c95949ab-c696-4846-8ab4-1f55d60e93bf",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4391175Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

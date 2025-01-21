@@ -1,0 +1,98 @@
+{
+    "Id":  "51c53bfa-2c5f-4f90-a670-e6e45f327481",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T14:23:11.3045915+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3c1893f2-6e73-477e-9f62-036d86b3e18e",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3887626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "762c46fe-89bb-4000-8bcd-3242b8b6eb2f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  485,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3887658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1134469c-5b71-4c1c-85e7-1bc7caa04582",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3887668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f91366a3-89ed-46ba-9b51-99fb280a1e9d",
+                      "Name":  "Handcrafted Cotton Shirt",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6bda235-520f-416c-9d7c-7ad984682aca",
+                      "Name":  "Ergonomic Frozen Bacon",
+                      "Quantity":  4,
+                      "Price":  330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4b79537-b3e3-4b96-83a0-a1de2dbab5ae",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888396Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d7aa689-ec36-47ad-9b1a-7a3d13dbc3d9",
+                      "Name":  "Gorgeous Fresh Gloves",
+                      "Quantity":  1,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888436Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78e9c236-1d06-4f2a-9887-a7fb6d75fe71",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de25e01e-5f89-4286-97b1-a513c1a5789b",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b07043ad-31df-4542-8684-183e74ca1b76",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3888472Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

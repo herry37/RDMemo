@@ -1,0 +1,44 @@
+{
+    "Id":  "f71f1bf3-299f-4141-94e2-f083e8a86994",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-15T07:42:54.8729997+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7749fc80-372a-478d-8bc0-a617b44521e7",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3435158Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "958c4919-de57-47c4-a396-5b383009b5c2",
+                      "Name":  "Handmade Steel Salad",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3435384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e94898e2-0fdb-4d66-b8b6-db178bb18f73",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3435413Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "107ddf42-b127-4d75-9b65-07523068b393",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3435423Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

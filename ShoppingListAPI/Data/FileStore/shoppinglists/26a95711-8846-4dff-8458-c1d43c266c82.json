@@ -1,0 +1,80 @@
+{
+    "Id":  "26a95711-8846-4dff-8458-c1d43c266c82",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T05:02:58.7485871+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01810954-b006-4026-853f-c45cd1f6d051",
+                      "Name":  "Unbranded Fresh Gloves",
+                      "Quantity":  1,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085543Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3e77ae1-db23-4a0f-9ce8-57fcff61cf12",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21a964fb-7bd6-4fe4-a9bb-9d06baf591b8",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61d7fa6c-89eb-4c27-b6ba-adb4c792f844",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b4ae62e-0519-4e6d-b503-e3bd9a43d9a5",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.208563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39b97894-17f8-4d62-8480-eb9b3a170c4d",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  459,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d6530e2-a7f5-484d-888f-8da485ef02bf",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1afb30d3-31c6-4254-8b6b-ad1d5b5d1df3",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2085693Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

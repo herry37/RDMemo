@@ -1,0 +1,62 @@
+{
+    "Id":  "16fb7c43-cff8-469d-a78a-0161dbda9dde",
+    "Title":  "居家整理 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-17T04:56:53.937321+08:00",
+    "Items":  [
+                  {
+                      "Id":  "78e0b23b-e747-431c-9cac-b5cb5cd6043c",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:05:23.8678745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "223ae958-c6f0-4ff1-a2ef-6de9bd8a200e",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:33:58.8256492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11a1a5e9-2925-4f53-b49a-0b22ea9d84c0",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:44:06.3368927+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e4ae371-c602-4e67-a1db-71b78054cff4",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:00:53.2865807+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9130069-992d-45d5-aea5-f92f27d37368",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:42:36.4235085+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5ac9944-df83-4c97-a365-4ef8d4a4f1d5",
+                      "Name":  "環保漂白水",
+                      "Quantity":  1,
+                      "Price":  256,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:54:07.2483986+08:00",
+                      "CompletedAt":  "2025-01-16T00:49:52.4726372+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

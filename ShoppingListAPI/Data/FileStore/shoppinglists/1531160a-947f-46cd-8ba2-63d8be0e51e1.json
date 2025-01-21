@@ -1,0 +1,71 @@
+{
+    "Id":  "1531160a-947f-46cd-8ba2-63d8be0e51e1",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-21T06:00:49.9026006+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b63a3fbf-4fb7-45e9-9029-8d7cb4bfba2d",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:01:31.9564981+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "298ef7d8-41b0-4094-ab0c-acea198067e0",
+                      "Name":  "黑巧克力",
+                      "Quantity":  2,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:35:25.689372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e60f88c3-d70e-47a7-805a-0fb5427bb9ef",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:14:25.813356+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e983d079-49bc-4a9e-8e07-c27761481faf",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:00:25.485483+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ca2732c-4c61-46cd-8a4d-cd036c8d8c07",
+                      "Name":  "中性筆組",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:14:05.5367667+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a10cb92b-946f-4462-bfaa-ba7626a8f30c",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:34:29.558448+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bb1dfad-e382-47b7-8b61-959214122737",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:08:47.2386519+08:00",
+                      "CompletedAt":  "2025-01-20T03:13:16.4500533+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

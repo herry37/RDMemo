@@ -1,0 +1,35 @@
+{
+    "Id":  "5bff3475-3a7a-4ce5-8cfe-76f6ff7ded12",
+    "Title":  "聚會準備 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-17T22:52:04.086533+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2c285c63-30e8-45ca-aaab-4a39f7f2f9a1",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T02:24:28.2988413+08:00",
+                      "CompletedAt":  "2025-01-16T22:20:32.0341777+08:00"
+                  },
+                  {
+                      "Id":  "2494eef3-ed0d-425c-9477-a586eaf18735",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:10:16.5023243+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec1d4aa8-99d6-4e82-8a7e-3b44fdeaa89b",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:59:59.8658019+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

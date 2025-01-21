@@ -1,0 +1,62 @@
+{
+    "Id":  "310a3b9d-33a2-4fe5-924a-f6c7157b82e4",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-21T02:23:45.6964696+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f3cd9058-b7d2-4c19-9464-12d7d5105896",
+                      "Name":  "放牧蛋",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:38:04.6260386+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1a2f336-fef2-454d-bef2-a0856d2c8455",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  114,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:54:02.1452787+08:00",
+                      "CompletedAt":  "2025-01-20T16:41:32.1736026+08:00"
+                  },
+                  {
+                      "Id":  "db94398f-c3e3-454c-8bb5-cfdf6ce99278",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:35:27.3980205+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ed8f5b2-d4a0-4f36-bcef-9f0e8f0e446b",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:40:42.4911413+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a927f5b-8668-4ab3-b716-3d7b7bfb4c78",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:57:22.5032497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44c9c754-54db-42c4-a4f1-5d57de0907d9",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:11:09.4857181+08:00",
+                      "CompletedAt":  "2025-01-16T01:23:27.4627613+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

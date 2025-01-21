@@ -1,0 +1,80 @@
+{
+    "Id":  "bef1febf-1b5d-4a5f-8cd3-3fb10620bbb3",
+    "Title":  "露營準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-16T01:55:24.6585663+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2cb141e2-9d45-4710-8349-9de1a12da732",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  4,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:52:18.3487247+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fb2f88f-c947-41b0-96e2-2dc0abddbb08",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:10:08.1811781+08:00",
+                      "CompletedAt":  "2025-01-17T23:09:59.3284251+08:00"
+                  },
+                  {
+                      "Id":  "90451bd5-f1e1-41e8-b925-f3d75c9673af",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:08:41.7707749+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a5d9036-e16a-4004-84d1-8da723a0f3ae",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:18:56.9943964+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0a1e19f-2365-4984-99b1-546199198a36",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:42:16.5026249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26796729-bb3d-4338-9679-64e9032ebf5e",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:18:42.1504944+08:00",
+                      "CompletedAt":  "2025-01-22T16:33:57.4027724+08:00"
+                  },
+                  {
+                      "Id":  "89793d06-06d5-4fa1-bc77-d84ba0dd33f7",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:14:21.3462712+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "699e14de-c186-4153-b328-552242f32f5a",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:34:55.0916269+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

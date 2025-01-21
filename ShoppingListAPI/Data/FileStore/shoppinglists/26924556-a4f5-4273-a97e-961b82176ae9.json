@@ -1,0 +1,98 @@
+{
+    "Id":  "26924556-a4f5-4273-a97e-961b82176ae9",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T00:36:01.3870048+08:00",
+    "Items":  [
+                  {
+                      "Id":  "225e7e91-53cd-43c4-ab07-f984a53ef028",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7f2acf4-9d0c-4f12-a6d7-09c4c9178560",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e1e5a79-61ba-49f3-b0c6-2cf887957b3f",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcbf0be5-fb1e-49dd-988d-d8e38995f0a3",
+                      "Name":  "Rustic Wooden Cheese",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a523875-3be8-46ea-bc00-7e3bbc7a1b6a",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  387,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67a51f21-cbf4-471b-9361-1d9a25296038",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68927ccf-1b72-46a7-bf97-661d87894567",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a05be36b-071b-4f71-9626-d4952d163848",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0fc0744-425a-4ba9-a61a-895697325d87",
+                      "Name":  "Refined Granite Bike",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7672982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5245bc2-42d6-4eb5-b844-d653ad10f27b",
+                      "Name":  "Rustic Plastic Sausages",
+                      "Quantity":  2,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7673039Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

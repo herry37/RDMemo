@@ -1,0 +1,71 @@
+{
+    "Id":  "4b9690b5-7370-43c3-86a0-9736085d6691",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T15:50:46.4819026+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45eb4f73-8744-4fb7-ad44-6c904f180a51",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:53:14.5208053+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24086c14-4916-47c0-9399-4981fbc8237a",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:30:10.483445+08:00",
+                      "CompletedAt":  "2025-01-15T22:23:11.9516229+08:00"
+                  },
+                  {
+                      "Id":  "19572c9c-7b7c-4850-a389-86ea8d5d87f4",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:30:28.1108052+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63a37125-2ed6-4c67-a0ea-05c4d800c637",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:42:26.9548658+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4903ca66-08f0-4cac-966d-3b1175b656ed",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:05:08.9799459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad655499-326d-4aa3-8128-5fb600b7c5d3",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  4,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:29:22.5086217+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8b32576-03da-4e07-a7d4-85eb13dba658",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:11:34.3993125+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

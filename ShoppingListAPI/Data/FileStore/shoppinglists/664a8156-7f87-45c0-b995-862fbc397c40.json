@@ -1,0 +1,53 @@
+{
+    "Id":  "664a8156-7f87-45c0-b995-862fbc397c40",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T02:17:43.890085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "21a18b4e-d1cd-4c07-a17d-7e5c2ae45aa6",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5011037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "539d23b4-6db9-403f-92fd-3db1e20b5eba",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5011088Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74882ec4-afdb-4137-890a-b97e6f007b10",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5011097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "205d7841-245b-4331-8556-0d78e49b2af9",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5011106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec092f1a-3334-4195-8bff-5d9c70e66bca",
+                      "Name":  "Fantastic Plastic Fish",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.501137Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

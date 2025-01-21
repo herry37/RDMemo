@@ -1,0 +1,80 @@
+{
+    "Id":  "01fe1748-9682-4c39-9bed-e6fedb3abe60",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-16T12:07:29.9785725+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3cf6de4c-1ab6-4491-9a7b-8f30e82546b6",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.928066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ab41e1c-7bc5-4462-b259-2f2042198777",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9280701Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0d6466e-a877-467b-8e6e-1db3f0f52b5b",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc190615-39db-49ca-92c3-3f043394a164",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f158a8d-9648-4e3c-81c2-d4bd12828ac8",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6c435da-a7b7-4b73-bffe-3759b4820432",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80065bfb-8e92-4aab-b45f-dd94d09b9e89",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df5bc54e-ded8-4c32-8abd-8f83f9d42d61",
+                      "Name":  "Licensed Wooden Cheese",
+                      "Quantity":  4,
+                      "Price":  487,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9281431Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

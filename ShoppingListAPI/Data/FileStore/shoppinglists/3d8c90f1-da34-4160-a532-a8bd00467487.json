@@ -1,0 +1,80 @@
+{
+    "Id":  "3d8c90f1-da34-4160-a532-a8bd00467487",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T23:26:03.7813669+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b402179-83b3-44f8-b33b-9e1e4f48e41a",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:16:42.5431856+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d385463e-e87a-4a9b-8705-70cab5e6b54c",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:16:41.4133695+08:00",
+                      "CompletedAt":  "2025-01-18T00:41:48.3863794+08:00"
+                  },
+                  {
+                      "Id":  "25d32358-4e54-4c6b-8c20-320b24526655",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:04:51.4811506+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f380dff-a2f4-458b-8ca7-66ff22deba82",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  3,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:26:23.0086332+08:00",
+                      "CompletedAt":  "2025-01-22T04:45:44.1601588+08:00"
+                  },
+                  {
+                      "Id":  "c2889f60-2203-4a09-a896-52fefd1552d1",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:39:55.0612312+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f8cdebd-0f1c-4205-a6c2-9c1cee122740",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:50:37.9540533+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07df12ea-4aad-4ac2-90ea-e14c5680424c",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  5,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:31:38.9638841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f424c20-5fa8-4d9f-947c-ab9959bdd30b",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:15:27.9126735+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

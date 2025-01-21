@@ -1,0 +1,35 @@
+{
+    "Id":  "3fbd537e-94ee-4ea3-81eb-a8788a3b0266",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T14:57:25.0776038+08:00",
+    "Items":  [
+                  {
+                      "Id":  "071e3e05-dc6c-4e70-84db-044bca62b6a6",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  78.300493559906440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:08:24.6505754+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "568f6a39-7122-487d-a852-f95f761fa63f",
+                      "Name":  "鍋子",
+                      "Quantity":  1,
+                      "Price":  397.241333665792620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:26:31.1211815+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbc5871e-43ff-4232-8c95-72e81b720b95",
+                      "Name":  "面膜",
+                      "Quantity":  2,
+                      "Price":  317.889546128452540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:01:44.3206219+08:00",
+                      "CompletedAt":  "2025-01-17T06:35:29.3803749+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

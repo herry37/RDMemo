@@ -1,0 +1,53 @@
+{
+    "Id":  "84a04973-eabe-47f8-b1ab-b36cdc7bacd5",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T14:40:29.8240498+08:00",
+    "Items":  [
+                  {
+                      "Id":  "952687e5-2199-4f4f-aec0-85b165ce8c29",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6204221Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "628102c6-7227-4c5a-bfe1-1db3ccca99c1",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.620427Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78d74ba1-2c78-417b-a4f6-e7fcb2aebd5d",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6204283Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f53b0b0-248b-4ad0-93b7-7bd9ba1f9d15",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6204302Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33f04057-ebb6-4bcc-b9f7-3765c3357930",
+                      "Name":  "Handcrafted Fresh Sausages",
+                      "Quantity":  1,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6204592Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "6b72be98-6e6f-4348-9986-3fdb5a70eec3",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-16T19:09:02.1236913+08:00",
+    "Items":  [
+                  {
+                      "Id":  "64658a01-2461-4861-b9bd-06b7182a6f6d",
+                      "Name":  "Refined Cotton Cheese",
+                      "Quantity":  1,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4458319Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a281883-6cb5-4093-9690-3bdde792e9f9",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4458332Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7db8df6-1d7a-4c7a-814c-16e4de5aee8a",
+                      "Name":  "Incredible Concrete Cheese",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4458357Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

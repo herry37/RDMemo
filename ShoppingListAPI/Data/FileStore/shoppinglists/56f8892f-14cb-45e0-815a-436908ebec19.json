@@ -1,0 +1,44 @@
+{
+    "Id":  "56f8892f-14cb-45e0-815a-436908ebec19",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-18T07:37:45.5994465+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bbaccd51-5bae-4cc6-a1a4-51d224600c79",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1698041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "070bfb5a-7e4d-4ac0-88e5-6555efb79c49",
+                      "Name":  "Handmade Wooden Soap",
+                      "Quantity":  1,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1698345Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce6dc330-be32-4f24-8887-5e995ba79c60",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1698358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34306b9a-e477-4fed-b33f-b17e9706b3dc",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1698369Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

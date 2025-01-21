@@ -1,0 +1,44 @@
+{
+    "Id":  "f2ad6408-2e95-4c2d-8c91-21a621ca60d9",
+    "Title":  "01/15 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T00:17:35.4711489+08:00",
+    "Items":  [
+                  {
+                      "Id":  "514ff3c8-af81-4c26-a051-e05bb7ab2eb1",
+                      "Name":  "Rustic Frozen Hat",
+                      "Quantity":  1,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5205977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "273d1755-f03d-4707-9ad8-ad807eb4bc9a",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5206023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c41ee657-ea5e-492e-9459-12780f6840d2",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5206034Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66b8a49b-b347-4bb0-bcd6-aa3c54a146cd",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5206056Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

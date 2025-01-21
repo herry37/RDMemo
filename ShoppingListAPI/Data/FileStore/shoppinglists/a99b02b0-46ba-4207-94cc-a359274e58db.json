@@ -1,0 +1,89 @@
+{
+    "Id":  "a99b02b0-46ba-4207-94cc-a359274e58db",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T13:37:16.9892362+08:00",
+    "Items":  [
+                  {
+                      "Id":  "667bd5e0-83d2-4e04-8a5f-1fdab21e0755",
+                      "Name":  "啤酒",
+                      "Quantity":  5,
+                      "Price":  403.776310102588560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:51:56.5155819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aadd9675-b834-4590-a508-eee438f74de1",
+                      "Name":  "掃把",
+                      "Quantity":  10,
+                      "Price":  212.50980322171620,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:49:39.7440703+08:00",
+                      "CompletedAt":  "2025-01-18T11:08:22.3888821+08:00"
+                  },
+                  {
+                      "Id":  "651ddf7a-a78a-49bd-9fa6-b10ef99ca508",
+                      "Name":  "糖果",
+                      "Quantity":  5,
+                      "Price":  183.488093157433950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:27:54.2449364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f114dd14-a436-4fe9-9243-6728842abf13",
+                      "Name":  "豆漿",
+                      "Quantity":  2,
+                      "Price":  111.635732325349320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:51:31.3535909+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da7317cd-44fd-4d9b-8989-aa4b3a2c82ce",
+                      "Name":  "爆米花",
+                      "Quantity":  4,
+                      "Price":  474.118937616698980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:07:00.6953862+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5852263-1061-4976-87a7-8d0fc07ce4b7",
+                      "Name":  "爆米花",
+                      "Quantity":  6,
+                      "Price":  196.985970929518110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:35:53.7422875+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a2fde9c-6509-4358-9007-d0673358b425",
+                      "Name":  "面膜",
+                      "Quantity":  8,
+                      "Price":  349.611555138649920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:02:07.5081147+08:00",
+                      "CompletedAt":  "2025-01-20T15:08:44.1297421+08:00"
+                  },
+                  {
+                      "Id":  "0300ea1e-2166-452f-b245-6a4220295c4e",
+                      "Name":  "洋芋片",
+                      "Quantity":  8,
+                      "Price":  454.533832738999710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:01:13.3428604+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e49867a-992c-44fb-8d3b-dd4e59406d81",
+                      "Name":  "保鮮膜",
+                      "Quantity":  6,
+                      "Price":  52.7004318497782480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:11:08.7670586+08:00",
+                      "CompletedAt":  "2025-01-22T19:00:19.7657465+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

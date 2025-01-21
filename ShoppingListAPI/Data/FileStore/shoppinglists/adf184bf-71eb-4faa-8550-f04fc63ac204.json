@@ -1,0 +1,71 @@
+{
+    "Id":  "adf184bf-71eb-4faa-8550-f04fc63ac204",
+    "Title":  "每週採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-17T11:37:13.0248768+08:00",
+    "Items":  [
+                  {
+                      "Id":  "900f60cc-c940-4adc-ac33-a6775e16fb9d",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:25:30.7507776+08:00",
+                      "CompletedAt":  "2025-01-16T16:39:02.6213053+08:00"
+                  },
+                  {
+                      "Id":  "4242f530-b3bc-43ee-bf62-2f7b92aacd05",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:20:22.1060454+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10ba0c1a-4038-487b-a6f0-74c24b0295ab",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:27:12.2196046+08:00",
+                      "CompletedAt":  "2025-01-21T23:46:06.4625406+08:00"
+                  },
+                  {
+                      "Id":  "f16428b9-a335-409e-9948-6e65b1d1c7f3",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:39:06.373758+08:00",
+                      "CompletedAt":  "2025-01-15T16:39:58.1077996+08:00"
+                  },
+                  {
+                      "Id":  "e137c87e-0962-411d-8f79-7e7c4337ecca",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:57:37.7069498+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9558cd7e-ea55-48a0-ba11-f9881b93f730",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:44:28.0788329+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "011f7434-874b-4731-ab72-54fad29a52c6",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:49:36.5224729+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

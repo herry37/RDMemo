@@ -1,0 +1,44 @@
+{
+    "Id":  "3c5b24c2-bf4f-433e-8e57-29a6def01271",
+    "Title":  "01/20 ¹s­¹±Ä¶R²M³æ",
+    "CreatedAt":  "2025-01-21T11:33:50.3121422+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22d43cdc-d7e2-452b-94f7-42c60302536d",
+                      "Name":  "»æ°®",
+                      "Quantity":  3,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9686869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47d9d145-c115-4a16-9cf6-03b2ed8b17a3",
+                      "Name":  "½­µæ",
+                      "Quantity":  3,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9686935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21d1c922-573c-422a-af0b-0006d7b425fc",
+                      "Name":  "Practical Granite Hat",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9687369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d7ea4c3-29d4-46c3-8933-7ea05d55be58",
+                      "Name":  "¹s­¹",
+                      "Quantity":  2,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9687396Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

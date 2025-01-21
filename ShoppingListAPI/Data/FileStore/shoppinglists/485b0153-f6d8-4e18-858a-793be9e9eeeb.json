@@ -1,0 +1,35 @@
+{
+    "Id":  "485b0153-f6d8-4e18-858a-793be9e9eeeb",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T07:37:30.4210128+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f5b7ecbb-f7ee-43b9-ae35-fd5b283b299e",
+                      "Name":  "清潔手套",
+                      "Quantity":  3,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:03:32.335198+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71202721-c4e6-4e5e-ac7e-2f5d04ee735c",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:23:06.8979167+08:00",
+                      "CompletedAt":  "2025-01-22T07:45:22.4809359+08:00"
+                  },
+                  {
+                      "Id":  "8e1f3ff2-eac0-4824-bacb-aec88b74c09c",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:31:42.2715023+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

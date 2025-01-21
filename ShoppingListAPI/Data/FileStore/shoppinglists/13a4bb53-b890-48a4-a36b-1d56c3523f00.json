@@ -1,0 +1,44 @@
+{
+    "Id":  "13a4bb53-b890-48a4-a36b-1d56c3523f00",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T21:06:28.9829648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7493b86d-e498-440c-a7de-e02bbdab8058",
+                      "Name":  "Refined Steel Table",
+                      "Quantity":  5,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4149345Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02b40116-656c-43f5-b89e-ca98f7c4a481",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4149386Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "807853c1-4fc3-4abd-abdd-161312cc3f83",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4149411Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "267ba809-a32d-4302-8113-d2af916244d4",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4149442Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

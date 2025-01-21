@@ -1,0 +1,35 @@
+{
+    "Id":  "dbfd9603-cc5f-4fb4-8f65-63cefdd528da",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T14:02:25.0186849+08:00",
+    "Items":  [
+                  {
+                      "Id":  "977eaf07-d234-496d-82d8-e32efdfc545f",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:05:19.0223945+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eac4520e-283a-4123-b06a-61c6db3c4c84",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:00:46.7244172+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59f13a5d-5c23-4a95-b9dc-0b1f426742c5",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:21:49.1731204+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "029bdd5b-bbb8-4ced-8ffa-2cf73d103bfa",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-16T21:44:10.7972658+08:00",
+    "Items":  [
+                  {
+                      "Id":  "305edd3d-b99b-447d-b3f3-68953910182f",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2658332Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9a35074-6bc1-4a8f-b5ec-ac8a8701fb23",
+                      "Name":  "Refined Fresh Towels",
+                      "Quantity":  4,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2658614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed2de314-d1b2-4868-b8ed-348766d006df",
+                      "Name":  "Rustic Cotton Bacon",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2658689Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b859aa23-2c72-48ae-af41-3777d33ff905",
+                      "Name":  "Tasty Concrete Tuna",
+                      "Quantity":  5,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2658735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "732cb10a-e02d-4821-b145-7d3aa43b8985",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2658747Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

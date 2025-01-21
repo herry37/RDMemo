@@ -1,0 +1,53 @@
+{
+    "Id":  "49dbd2e1-d0cd-4e67-b576-a604c7066f1f",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T12:12:38.3654335+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4f34eff-c7f2-43a9-a2fd-f41842b3a02a",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8575162Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c88b8b6-6c4e-4f90-a796-b0ea6a88525d",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  381,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8575235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bee9aa2-708d-461e-b620-9601c8944cb1",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  317,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8575308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3a3b336-7773-46c7-977d-2981febac42e",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8575331Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d943ed83-53ff-4fbc-8cc7-614939b1375f",
+                      "Name":  "Gorgeous Steel Table",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.857562Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

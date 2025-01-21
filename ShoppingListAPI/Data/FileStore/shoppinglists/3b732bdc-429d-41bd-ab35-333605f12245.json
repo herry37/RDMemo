@@ -1,0 +1,62 @@
+{
+    "Id":  "3b732bdc-429d-41bd-ab35-333605f12245",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-20T23:53:25.6429643+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b80a7d73-6cc8-45e8-8e99-55cad416ceeb",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.6096136Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97489a94-fa0c-4fe9-b865-1500aeb25fe5",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.609619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ccb3465-16ea-4968-bc25-c531aa17e985",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6096206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "792b4fa2-2b13-4a54-a8aa-423ce051087b",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.6096229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1a391dd-35b3-4c97-aba4-851241f5ce4f",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6096245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "950aa0c0-8424-4d05-83f2-d377caa60ade",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  392,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.609628Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "54a0c1d6-36cf-4346-9886-8ca0417695ba",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T06:55:30.4057991+08:00",
+    "Items":  [
+                  {
+                      "Id":  "39c2bf08-7647-4d10-8b49-a6064ad231ab",
+                      "Name":  "Practical Soft Shoes",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a66df73-d9ee-4616-8fca-70516dbfeb2d",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991631Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0df5878e-af0e-4a69-99d6-9d6f76c57731",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "300dcd6a-4690-4df5-9217-58a329ba6958",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfbd17f4-1bda-47b6-828e-63f081976753",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991699Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ec25aa5-ee42-4e47-83b7-9b968984b184",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991743Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8980809e-2828-4158-8474-ab60f99df998",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0991763Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

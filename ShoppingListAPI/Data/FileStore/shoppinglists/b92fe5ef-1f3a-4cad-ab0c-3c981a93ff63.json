@@ -1,0 +1,71 @@
+{
+    "Id":  "b92fe5ef-1f3a-4cad-ab0c-3c981a93ff63",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T14:54:21.2335561+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82d4b7b4-5f91-4099-9af5-0bf639ad1453",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:50:10.1807215+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "942b4967-1c1b-4a16-a819-c926d632b172",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:01:05.5590976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbf0c855-fd27-4885-99ff-251e2e377dc4",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:30:25.3312994+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4701994-c89d-4058-b747-eb48ae64bf4d",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:14:48.6773883+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cee3fdf-df54-43ee-af4d-f9b6149c5c98",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:26:36.4613923+08:00",
+                      "CompletedAt":  "2025-01-19T07:55:18.0837352+08:00"
+                  },
+                  {
+                      "Id":  "169c4995-da3c-4ed3-9ff6-ddfa4cbedec3",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:20:35.4406588+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86484f8a-ba5a-4818-b7f9-9a57c55b6993",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:47:53.3493889+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

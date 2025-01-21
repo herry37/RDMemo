@@ -1,0 +1,35 @@
+{
+    "Id":  "fc384de1-b2a8-46ff-9f45-75d37d243337",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T20:11:41.4335166+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c39f858-9e4d-4809-8cfd-18b77b67c933",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4514085Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f44701ab-9ee5-427c-a2bd-182566ae9540",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4514153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ff89cde-ebca-4293-9b51-112038d4093a",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4514167Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

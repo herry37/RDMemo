@@ -1,0 +1,35 @@
+{
+    "Id":  "a94a6285-c985-4fdc-b5ba-97756ea39f08",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-17T22:22:07.1212618+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc8c601f-83b8-452c-8c64-d75f29eb0a8e",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2439056Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b00528d-38ea-4432-aced-a208db6d1cf5",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2439114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "216d602f-f577-40c6-80af-82b94eea3d13",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2439148Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "f44652f7-7b17-4e35-b512-4d9fb9743ca0",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T18:31:41.4449509+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ee7ac8c-d4ff-4e89-8eef-813a07ffca9c",
+                      "Name":  "Practical Cotton Keyboard",
+                      "Quantity":  2,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6800392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69aafd32-c59b-4de4-a457-f6334941709b",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6800441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2aaf8e4c-f4bc-43e3-9a36-6f692246cf11",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6800455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ed25952-85b4-4fa7-bf8f-2c458df91d7e",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6800476Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

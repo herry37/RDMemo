@@ -1,0 +1,44 @@
+{
+    "Id":  "5a373b23-bf0d-4de5-8173-0758243f126c",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T09:40:54.9372827+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72fef530-f62a-46ce-b226-5f99198b32ea",
+                      "Name":  "筆記本",
+                      "Quantity":  5,
+                      "Price":  36.2622380621009080,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:25:56.5698495+08:00",
+                      "CompletedAt":  "2025-01-16T14:03:37.0112175+08:00"
+                  },
+                  {
+                      "Id":  "dd4dc9e0-5b20-4ea4-968c-6af23361e0a7",
+                      "Name":  "面膜",
+                      "Quantity":  1,
+                      "Price":  79.717406266124750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:05:15.1732488+08:00",
+                      "CompletedAt":  "2025-01-22T09:50:45.752314+08:00"
+                  },
+                  {
+                      "Id":  "2375047f-916f-4473-95f9-2ab9b186de2a",
+                      "Name":  "果乾",
+                      "Quantity":  9,
+                      "Price":  46.393849095401630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:05:52.4110006+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f9db10a-9d88-4ab8-9ab1-a76e234c748f",
+                      "Name":  "啤酒",
+                      "Quantity":  1,
+                      "Price":  124.649205632750180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:06:11.3158548+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

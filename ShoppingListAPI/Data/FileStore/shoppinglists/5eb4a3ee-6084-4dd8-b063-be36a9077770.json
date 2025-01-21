@@ -1,0 +1,44 @@
+{
+    "Id":  "5eb4a3ee-6084-4dd8-b063-be36a9077770",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-19T16:33:35.9147148+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8efcedeb-315a-4906-ba94-95caff6cde3e",
+                      "Name":  "Handmade Cotton Cheese",
+                      "Quantity":  4,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9650653Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40ec7895-d3d6-4c5a-94dc-289586b50f39",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9650727Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51a448a7-557b-4639-b309-a053390148da",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9650758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be47b02f-af24-400b-af43-f2a54aa6338f",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  16,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.965079Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

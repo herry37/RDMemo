@@ -1,0 +1,89 @@
+{
+    "Id":  "fbf4b05a-3c66-43be-82eb-e034109374a5",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-18T22:26:23.3201209+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e1742d5e-bb5c-45af-896e-98d2d2ff5c03",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7199857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6974eb8-c1b5-4514-a19b-e4ba982d7048",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  179,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7199937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cbaa019-7227-431a-b7b9-4e3b2f891d1d",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7199965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42089d15-aaa9-4eb2-a499-59f1c09be7e1",
+                      "Name":  "Awesome Metal Computer",
+                      "Quantity":  2,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f200119d-d2e1-4aac-b84f-0083c7ee9bcf",
+                      "Name":  "Tasty Frozen Fish",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200378Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77c07c3d-ba48-4226-835e-cafddd86197f",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1622e426-ba92-48e0-8c5b-a7e37178a6fb",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200451Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c7a2e68-6acf-49ec-9d1f-0c3d93f0c996",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d812eeb-7835-4030-abe7-ca56b5957a22",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7200505Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

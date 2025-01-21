@@ -1,0 +1,89 @@
+{
+    "Id":  "41b30df6-f72d-456a-a36c-3b4305e61e90",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T01:19:12.1579888+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e57ac058-4eda-462c-a3ae-08fafff44f83",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2564791Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed4baf65-54e6-4097-bae2-0f4e9a45b3fd",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2564842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8e93f98-cb91-4edd-9b89-5a8fc161f344",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2564875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72c661a3-83cc-4976-98ee-dddffc4886ee",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.256489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "901e516a-c148-477f-bc52-3a0e075060d3",
+                      "Name":  "Sleek Soft Soap",
+                      "Quantity":  3,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2565228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cccc3f7-dab7-40d6-ba1b-2806b8a705ab",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2565304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "331b6585-8c2c-4d24-84a8-69a80bde97fe",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2565324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f8055cc-2af5-4bcc-8570-ed65124546e9",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2565558Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9485c15e-8bf4-440c-b8df-35a45ca70022",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2565586Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

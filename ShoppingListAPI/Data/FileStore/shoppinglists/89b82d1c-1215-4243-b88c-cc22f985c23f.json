@@ -1,0 +1,62 @@
+{
+    "Id":  "89b82d1c-1215-4243-b88c-cc22f985c23f",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-18T12:19:03.4789817+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e6fd54c-f9e6-4f55-8a5e-8207bf4b1f0b",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2344911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b508c31-e7b7-46df-b502-f234546adf68",
+                      "Name":  "Licensed Soft Chicken",
+                      "Quantity":  1,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2344983Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf4595ca-eea6-415f-8ba8-5a379786e5db",
+                      "Name":  "Awesome Plastic Computer",
+                      "Quantity":  1,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2345002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1ba4b47-3ffa-42b8-83f4-df749eacbfbe",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2345011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ac622a3-b4c6-4639-a6a9-96d7a5d6a980",
+                      "Name":  "Fantastic Metal Salad",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.234503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f260ec1-0859-4b83-b1fc-b396e792f054",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2345045Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

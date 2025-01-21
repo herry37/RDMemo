@@ -1,0 +1,53 @@
+{
+    "Id":  "3a275ebf-838c-4c27-8c3b-b9a650b5a12f",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T23:21:05.4945329+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aa60e98f-b716-4ff4-a8a4-844cb3680630",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9330655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "234704d3-b2f7-4c8b-8201-db7cf77a4332",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.933069Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0dbf8d73-cb25-4c30-8fd7-bdc61f59fc54",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9330825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6fd43af-3e02-45bd-b9b3-960d12b13e26",
+                      "Name":  "Generic Steel Chair",
+                      "Quantity":  2,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9331036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b571e6a2-b0e3-48d1-9202-a14c84abcab7",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9331052Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

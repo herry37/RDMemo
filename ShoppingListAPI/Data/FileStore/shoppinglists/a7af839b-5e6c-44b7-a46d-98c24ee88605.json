@@ -1,0 +1,35 @@
+{
+    "Id":  "a7af839b-5e6c-44b7-a46d-98c24ee88605",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-18T13:39:25.8454007+08:00",
+    "Items":  [
+                  {
+                      "Id":  "59c0dc8e-d390-4fdf-b81b-cd2e802256e7",
+                      "Name":  "巧克力",
+                      "Quantity":  4,
+                      "Price":  295.168476882730070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:27:25.9482404+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22316c38-80f4-452e-b0d7-6bc940bd2af7",
+                      "Name":  "豆漿",
+                      "Quantity":  8,
+                      "Price":  249.982122463700120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:26:05.4542354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfc5d74b-8170-40f9-83f2-5879a7a4f4f3",
+                      "Name":  "橡皮擦",
+                      "Quantity":  6,
+                      "Price":  493.261287383724920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:52:42.4630085+08:00",
+                      "CompletedAt":  "2025-01-17T01:45:05.9407778+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

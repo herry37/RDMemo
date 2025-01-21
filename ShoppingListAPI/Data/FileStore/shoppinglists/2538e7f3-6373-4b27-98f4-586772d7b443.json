@@ -1,0 +1,35 @@
+{
+    "Id":  "2538e7f3-6373-4b27-98f4-586772d7b443",
+    "Title":  "早市採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-21T05:52:36.0571336+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2824ccbe-733f-41e5-bb09-5fefa019e341",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:14:50.4147092+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e136d44-e820-489c-9f89-e370936abeea",
+                      "Name":  "透明膠帶",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:19:06.6673832+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6367e1bd-4a7b-4aa0-922c-cf372325081e",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T01:10:05.4457359+08:00",
+                      "CompletedAt":  "2025-01-15T05:56:13.5197828+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

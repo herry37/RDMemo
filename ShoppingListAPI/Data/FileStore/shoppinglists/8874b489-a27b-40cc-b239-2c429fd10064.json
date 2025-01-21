@@ -1,0 +1,71 @@
+{
+    "Id":  "8874b489-a27b-40cc-b239-2c429fd10064",
+    "Title":  "月底大採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-21T17:36:55.281485+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26b5698c-2748-4a46-a7ae-a0833d0d7ac6",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:14:28.2736409+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d679b110-df32-481c-87fb-84a864dfbc28",
+                      "Name":  "靜電掃把",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:23:43.2748768+08:00",
+                      "CompletedAt":  "2025-01-16T14:59:17.3413403+08:00"
+                  },
+                  {
+                      "Id":  "539479d5-3230-4b54-8eeb-0ab559124a09",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:02:13.0907397+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24a4a645-86bb-4503-a3ad-bf102bc72860",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:17:48.0659197+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19466d08-dde7-4742-a704-13d78eb58fc9",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:46:17.8539335+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99b298f1-1fa0-4d0f-9092-c97d159a6600",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:48:51.1194023+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09b637f3-b6bd-42b1-b961-3d5c358a4416",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:16:02.6256471+08:00",
+                      "CompletedAt":  "2025-01-16T14:13:05.8160721+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "3ce65afe-a3aa-4a95-9ae4-cb57cb255a83",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T08:33:56.7626905+08:00",
+    "Items":  [
+                  {
+                      "Id":  "325be417-9d96-42dd-86db-92766efdb577",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3801781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d56f4761-e13b-4b77-8543-c2d8e29a6aca",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3801816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "420a3332-aceb-4020-bdd7-1522ef3426f4",
+                      "Name":  "Refined Rubber Computer",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3802108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ade4e76-eb60-4aaa-bbe4-f796db173444",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3802305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93ebda7f-0609-401a-bd06-4e034d21f56f",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3802336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be78d90e-7fbb-49a3-9e55-03f85c6521de",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3802378Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

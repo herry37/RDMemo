@@ -1,0 +1,62 @@
+{
+    "Id":  "f41d7a59-61bc-46f9-b59a-3bba37d19537",
+    "Title":  "月底大採購 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-15T10:22:36.9785085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4ddfc052-c718-4916-8a4b-af82757c962c",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:56:18.0656913+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a7efa6f-5802-4049-bb57-0099820090bf",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:37:53.2429744+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f739f4a5-97de-4b1f-89c9-6287ba7d6404",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:29:56.8339521+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31da2c9d-f6eb-41b7-8799-eb6e576a9f78",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:35:21.4788589+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60aaab7a-062a-40ac-862c-b07120c212e9",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:28:51.2580899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "064ecc75-2f51-47a7-aed5-3b8fff1576e0",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:27:52.1535792+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "a9701873-b7d5-4c61-9aab-7fb1d937f5d5",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-18T16:29:04.7528163+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f3c5aa9a-525a-45bd-bc50-ad7197c8a6f0",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6430305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a06b803-93b0-4055-8bc0-b8a423c28cf0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6430355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4622dc4-c6b2-4dc7-904b-1f3668ffd655",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6430385Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f144810f-6473-40fa-8541-cacaa1593e90",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6430397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

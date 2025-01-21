@@ -1,0 +1,62 @@
+{
+    "Id":  "80c915de-dd9f-4d95-8ada-cdaa898fb5e9",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-16T07:10:27.8530992+08:00",
+    "Items":  [
+                  {
+                      "Id":  "36cc4b92-d078-4cb6-891d-1090de401343",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1026514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15ac3a6e-cac0-4107-bc5d-fbb5c2beb17a",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1026607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d3ea8a1-6d1a-4da0-9c42-5226dd082445",
+                      "Name":  "Generic Rubber Car",
+                      "Quantity":  2,
+                      "Price":  351,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1029686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f3adf74-d6bf-4c0e-b5a2-99faf35137f9",
+                      "Name":  "Practical Granite Chair",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.102976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb155d8e-cdda-486c-b8cb-fff99a163249",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1030152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c2bbcc1-16de-4147-be7a-d53e8accbecb",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1030286Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

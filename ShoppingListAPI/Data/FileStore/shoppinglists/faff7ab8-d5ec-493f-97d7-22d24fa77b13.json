@@ -1,0 +1,80 @@
+{
+    "Id":  "faff7ab8-d5ec-493f-97d7-22d24fa77b13",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T16:04:36.9313598+08:00",
+    "Items":  [
+                  {
+                      "Id":  "adf231a7-7e26-4580-9a94-4ff62f92bbe5",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:28:03.266686+08:00",
+                      "CompletedAt":  "2025-01-17T08:18:09.882289+08:00"
+                  },
+                  {
+                      "Id":  "326ad495-6b5e-44aa-909d-32e7cc7e434f",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:01:33.3694197+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7b6cec5-69b8-4479-8f2b-0598a28cda03",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:50:40.7621819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b39237da-154d-4c89-a4f1-0f86c0f8f830",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:44:45.7641288+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f75a2a18-0552-4811-a384-2386582dd303",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:47:22.2164979+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "688f114f-ecfa-4130-a73b-530b12f08f49",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:46:14.0777837+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee1b44ea-f160-4e3f-b398-81c86eb8ef56",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:13:13.100088+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "327d05e8-b464-4f75-8f98-de6cce32620a",
+                      "Name":  "充電電池",
+                      "Quantity":  1,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:43:09.1960731+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

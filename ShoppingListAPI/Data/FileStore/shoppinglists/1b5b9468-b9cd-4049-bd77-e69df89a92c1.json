@@ -1,0 +1,62 @@
+{
+    "Id":  "1b5b9468-b9cd-4049-bd77-e69df89a92c1",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T16:18:47.0082547+08:00",
+    "Items":  [
+                  {
+                      "Id":  "912af5ea-e787-4876-95d7-bb2b816ff9e2",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4619134Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ae597ea-1d02-4217-8c1e-6c6ddac3b9b2",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4619186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78289fdf-22ed-4282-a671-d8da42616448",
+                      "Name":  "Refined Concrete Hat",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4619439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6dee8b7-566b-4312-8754-7957775e6787",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4619464Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88abd089-a3ba-4541-9801-ee6f20ea3233",
+                      "Name":  "Fantastic Soft Gloves",
+                      "Quantity":  1,
+                      "Price":  366,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.461953Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "257348af-0e12-4aad-9023-8111293ba21f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4619566Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

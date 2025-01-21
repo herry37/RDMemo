@@ -1,0 +1,35 @@
+{
+    "Id":  "4ea31ef6-915f-4f25-9ef7-3d80027100bf",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T09:46:17.6557303+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a46d921b-c94d-4518-bd49-bfcd97621071",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6797399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90cab4c8-88f5-4c57-9a0d-0903ea88c716",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.679742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9d698d3-e798-4471-932c-44f6f1892de1",
+                      "Name":  "Sleek Steel Bike",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6797681Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

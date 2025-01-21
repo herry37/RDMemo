@@ -1,0 +1,35 @@
+{
+    "Id":  "bca25d4b-4e85-49df-b836-ec49c2425cea",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T10:31:18.6396298+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7984be04-80c4-4d3e-8bea-98c4801cfbae",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1755336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fbf7c3b-7aeb-4145-a831-7c2bb0c96939",
+                      "Name":  "Tasty Wooden Chicken",
+                      "Quantity":  4,
+                      "Price":  268,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1755581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b78ad6ec-a04e-4653-9568-b3d7bf06f063",
+                      "Name":  "Unbranded Granite Gloves",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1755648Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

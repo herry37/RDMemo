@@ -1,0 +1,53 @@
+{
+    "Id":  "2b19b33e-ac1e-4678-9550-4dc78d257f50",
+    "Title":  "派對用品 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T11:17:06.5035002+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43c8146d-fe60-4ba9-b20e-5b1c1eea7178",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:58:07.6762064+08:00",
+                      "CompletedAt":  "2025-01-17T06:26:02.2017527+08:00"
+                  },
+                  {
+                      "Id":  "ef7a8f12-d76a-4b92-a8fa-e1e162fb929f",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:50:39.3882048+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c17532de-4c4f-41b3-a3a8-e186c3da40ab",
+                      "Name":  "中性筆組",
+                      "Quantity":  3,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:13:06.9836601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0ecb4dc-b66a-4f0a-bce6-3b64e190429a",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:21:26.1039611+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eadcae08-f06e-4d55-a917-a0dc4e780abf",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:02:27.1270924+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

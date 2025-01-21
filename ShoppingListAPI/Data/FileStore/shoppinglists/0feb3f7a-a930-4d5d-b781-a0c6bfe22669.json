@@ -1,0 +1,44 @@
+{
+    "Id":  "0feb3f7a-a930-4d5d-b781-a0c6bfe22669",
+    "Title":  "年節採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-20T01:59:33.7307574+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d11f3d7-3395-404e-b18c-c4a1eac56b48",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:26:54.7379229+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1c02709-8dcd-4bf0-b38f-dbebf3680ad2",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T21:40:54.5798009+08:00",
+                      "CompletedAt":  "2025-01-17T07:16:35.4840499+08:00"
+                  },
+                  {
+                      "Id":  "b781139f-5268-4aee-8286-2baec9973f33",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:14:12.7888685+08:00",
+                      "CompletedAt":  "2025-01-16T13:17:42.8507384+08:00"
+                  },
+                  {
+                      "Id":  "a889144e-680d-49fb-a438-235525be248d",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:19:44.4294527+08:00",
+                      "CompletedAt":  "2025-01-18T15:00:45.9399425+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

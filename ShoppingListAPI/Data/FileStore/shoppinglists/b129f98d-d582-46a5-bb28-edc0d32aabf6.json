@@ -1,0 +1,35 @@
+{
+    "Id":  "b129f98d-d582-46a5-bb28-edc0d32aabf6",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-17T19:48:22.9089084+08:00",
+    "Items":  [
+                  {
+                      "Id":  "620c403c-4b82-4b0b-a493-77dd88571379",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0890053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09b650e7-ce6b-49d9-b69b-2c4dff9b6674",
+                      "Name":  "Awesome Granite Pants",
+                      "Quantity":  4,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0890287Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfd3e2b3-365f-4a31-ba92-d51d21153fd5",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0890297Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

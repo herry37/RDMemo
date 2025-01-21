@@ -1,0 +1,35 @@
+{
+    "Id":  "6a0148ee-9380-45b5-a430-3a3163daa808",
+    "Title":  "日常補充 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T00:36:47.4976616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "baf9729a-b3bb-443d-a66c-08bde6c7bd41",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:06:55.6569034+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e30b37a3-7413-44d5-b5f4-5b50c5690611",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:24:40.313613+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "306cdbd8-e1cb-4534-a2e1-7abe88133fdc",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:45:10.4075966+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

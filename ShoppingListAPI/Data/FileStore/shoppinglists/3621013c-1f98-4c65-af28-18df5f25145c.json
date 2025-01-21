@@ -1,0 +1,62 @@
+{
+    "Id":  "3621013c-1f98-4c65-af28-18df5f25145c",
+    "Title":  "每週採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T04:18:20.9252383+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c4568b2c-dba0-4edf-914e-da0c6917abbd",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:25:19.7169807+08:00",
+                      "CompletedAt":  "2025-01-17T13:12:38.5173104+08:00"
+                  },
+                  {
+                      "Id":  "5941dd31-07dc-4c30-b4ff-fdc70e65ec07",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  3,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:59:59.4514923+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf6bb96a-a729-4ebb-b6bb-58c28e8fec1c",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:40:54.4993297+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f566f12-aa0e-4088-838c-a49f440669ba",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:09:15.3035009+08:00",
+                      "CompletedAt":  "2025-01-18T21:31:14.9098135+08:00"
+                  },
+                  {
+                      "Id":  "c7a7ab37-eeef-456d-9e68-8a51c3c1b611",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:33:19.2791457+08:00",
+                      "CompletedAt":  "2025-01-15T23:53:05.411278+08:00"
+                  },
+                  {
+                      "Id":  "1ef97b48-ae9b-448f-ae5a-8404f02be04a",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:02:14.0832968+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

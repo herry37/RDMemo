@@ -1,0 +1,62 @@
+{
+    "Id":  "ad52747d-e7d9-486b-92d8-05a8c979ac40",
+    "Title":  "年節採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-20T09:44:29.7210591+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c53a0a23-46f9-4e3d-abde-54f0ce1ad66b",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:32:15.8069293+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cef55cc1-4eaf-4af5-b783-31f0ca12ae9f",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:09:26.7395904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c2fd1bb-0075-4623-8ec0-6bbb9a5d3757",
+                      "Name":  "放牧蛋",
+                      "Quantity":  2,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:36:01.6909739+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f95ebb8a-6171-4dc9-9386-f3b5229a9720",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:45:45.5980467+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fee6f86-98b4-4fee-bcaf-7be0fa1e3084",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:06:04.7031862+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f6373b7-093b-4e00-96ed-78c4f5d38e1f",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:23:16.0213372+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "fdad7540-df10-414f-a412-f92644a88f60",
+    "Title":  "年節採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T04:40:53.5376531+08:00",
+    "Items":  [
+                  {
+                      "Id":  "331a7eb1-f357-430b-b096-700df27535b0",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:53:57.3053145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13653878-6012-4657-9646-ccf56acabea7",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:39:39.4361756+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3b14021-6e49-4e42-8664-73ef85b430db",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:34:50.7376106+08:00",
+                      "CompletedAt":  "2025-01-21T17:35:24.5497593+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

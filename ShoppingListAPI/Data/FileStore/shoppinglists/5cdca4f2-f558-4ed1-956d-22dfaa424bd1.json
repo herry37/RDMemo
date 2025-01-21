@@ -1,0 +1,35 @@
+{
+    "Id":  "5cdca4f2-f558-4ed1-956d-22dfaa424bd1",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T07:16:26.2123092+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ec2ea399-cbe6-4c05-ab90-f9cd8c51b997",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.3998788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48d30f6d-c8fb-4c78-96a5-0d2540808e07",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3998802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11033eed-441d-4bf3-9b72-bc8c529b4da8",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.399881Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "b7441fb3-a85d-4e41-a593-68fae9f20471",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-22T00:24:59.6331013+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6fcc124-dad1-45cd-8b96-cb34f0d70099",
+                      "Name":  "Ergonomic Steel Hat",
+                      "Quantity":  2,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4712383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8960a4e9-eccc-428f-8ce8-e1e50799ef4b",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4712394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1d8df31-c87c-4917-b1ad-ed3d62aa3fb7",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4712407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff985328-6f05-4319-a552-697d7e6d210f",
+                      "Name":  "Refined Wooden Mouse",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4712432Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

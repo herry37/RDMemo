@@ -1,0 +1,35 @@
+{
+    "Id":  "b6dfef70-c272-4f36-bdf6-01cb68305fe5",
+    "Title":  "早市採買 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T06:08:19.9470848+08:00",
+    "Items":  [
+                  {
+                      "Id":  "173e8f3a-0184-4f80-b95d-23558df4a1a5",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:49:20.674553+08:00",
+                      "CompletedAt":  "2025-01-16T02:12:13.0170608+08:00"
+                  },
+                  {
+                      "Id":  "baf9fba8-9a9d-4e56-8531-370d7e2aa6b7",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:15:10.4344366+08:00",
+                      "CompletedAt":  "2025-01-22T02:16:43.4516897+08:00"
+                  },
+                  {
+                      "Id":  "62a9b5c9-cd15-4a43-bea6-69c85cf2452b",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:21:38.0509794+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

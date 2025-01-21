@@ -1,0 +1,89 @@
+{
+    "Id":  "c59f3136-89d5-4cc0-9a3c-867a661fa60c",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T02:51:23.3720725+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3c0fe49e-529b-4f99-a804-b4683c0c45c8",
+                      "Name":  "Ergonomic Soft Soap",
+                      "Quantity":  2,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.15192Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f54364f-57fe-4a26-9371-e810008a4de3",
+                      "Name":  "Gorgeous Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  409,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.151928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3d1ebbb-ea4d-4648-9574-8b150e6b291d",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1519299Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76063fea-bd8c-4032-bff2-2c8452c164f6",
+                      "Name":  "Awesome Soft Mouse",
+                      "Quantity":  4,
+                      "Price":  457,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1519339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d53b3f9-58d1-465b-a554-912ec9c75f48",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1519358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3ca2480-c521-4f39-8650-8b93b2e6362a",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1519392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c610e015-b9a7-42d6-8bac-3c792b80c6d9",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.151941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "886b1e04-6571-4607-be97-a9e3203bdc94",
+                      "Name":  "Intelligent Steel Chips",
+                      "Quantity":  1,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.151945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f59d8d3-3279-48e9-8a77-53252b8b8505",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1519468Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

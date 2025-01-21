@@ -1,0 +1,98 @@
+{
+    "Id":  "8e8a1ccf-aaf7-40cc-b21f-3c22be9cb3cc",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T01:00:22.0492427+08:00",
+    "Items":  [
+                  {
+                      "Id":  "db00fc88-7fe7-49ac-a400-11ffbaee5526",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "594ddd67-e8f0-4aef-8a56-fef35b573949",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9194614c-e2f3-42fd-95e8-ef2dd4b68ca6",
+                      "Name":  "Gorgeous Wooden Car",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9534e0d1-c740-4e92-a018-9f0b60c77bd3",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f5c59c5-d4ba-40c0-a51b-eb902ac5276d",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  306,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956537Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92b6cd2d-d577-4a41-8d71-74391edc109a",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52fdd1f6-e423-442f-aa2f-c4e4da0289f1",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956593Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4b659f8-28f9-4f29-a9da-0a51e6c71128",
+                      "Name":  "Handcrafted Soft Chips",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38d112c9-9294-49d3-9121-1ede58ea4810",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  500,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6c647a7-34e6-4a90-ba5c-dfd62d7c9909",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5956696Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "ce2ca79e-da64-433b-b6cc-9385bd377c53",
+    "Title":  "月底大採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-19T03:33:42.4872826+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ad3de53d-32ca-4545-963b-f5a4e36d287a",
+                      "Name":  "透明膠帶",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:08:38.683749+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63a41226-85d1-43bd-b686-373d734fddad",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:38:07.7599553+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aff24419-b6fa-4af6-982e-8b4d32c92aea",
+                      "Name":  "保濕面膜",
+                      "Quantity":  4,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:12:24.0953712+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

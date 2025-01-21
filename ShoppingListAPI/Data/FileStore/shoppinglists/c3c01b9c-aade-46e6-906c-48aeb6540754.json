@@ -1,0 +1,35 @@
+{
+    "Id":  "c3c01b9c-aade-46e6-906c-48aeb6540754",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T11:42:53.1552759+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b272a41b-c17b-48ca-9566-1f747c04b3a0",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3857319Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "952d20ec-90dc-4535-a65b-5aff03d91c61",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.385737Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "509f12df-c3dd-40a2-81e6-182d2a33f5e7",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.385769Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

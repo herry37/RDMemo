@@ -1,0 +1,44 @@
+{
+    "Id":  "7dfd06c4-bd86-499e-953f-5689699cc778",
+    "Title":  "01/22 食品購物清單",
+    "CreatedAt":  "2025-01-18T10:29:29.2205705+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e9e6277f-b592-4637-88af-b6a97bdee2e9",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7737313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09d3b286-4ed3-4955-8eb2-ce446ee8e1ba",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7737345Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b189d678-3d5e-40c0-b265-87cb3153fe67",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  357,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7737352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e6e2803-15cb-4a4c-9151-e4b1bf199569",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7737358Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/22"
+}

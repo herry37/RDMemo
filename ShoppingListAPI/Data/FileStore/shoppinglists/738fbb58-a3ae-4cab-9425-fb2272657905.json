@@ -1,0 +1,71 @@
+{
+    "Id":  "738fbb58-a3ae-4cab-9425-fb2272657905",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-20T02:02:48.1196162+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43b297da-44f9-407d-a453-2b72fbfd8661",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6265306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f14a950c-854b-49bf-88c1-07efbe1aacf6",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6265348Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ad222ae-e877-441b-ad52-9433a5c74b35",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6265359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc93b520-b7f7-46da-bbb3-1024ef6cb981",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6265418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6661c92-5383-4a65-8740-71194ab719af",
+                      "Name":  "Tasty Plastic Hat",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6265668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b28eb52f-22be-4dc8-8e2f-e75a89f2b62e",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.626569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c11af657-b179-44b5-8ad2-cca8412f170a",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.62657Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

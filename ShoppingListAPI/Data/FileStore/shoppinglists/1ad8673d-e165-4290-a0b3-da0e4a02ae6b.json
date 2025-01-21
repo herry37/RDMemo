@@ -1,0 +1,53 @@
+{
+    "Id":  "1ad8673d-e165-4290-a0b3-da0e4a02ae6b",
+    "Title":  "聚會準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-15T05:39:17.0467187+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e49ee7b8-6a46-4b71-8e28-cc48fa9e6a09",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:20:05.3718121+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87251809-85a9-4904-8c30-5417d946d049",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:04:08.7489152+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61503718-a17c-4565-aef1-cf86cd61187d",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:09:49.3414514+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdaa56b5-a6fe-4c4d-bb46-89002d842227",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  3,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:25:57.094586+08:00",
+                      "CompletedAt":  "2025-01-15T08:21:51.4618737+08:00"
+                  },
+                  {
+                      "Id":  "19b4893a-9a84-4bc0-b51a-64b2f07ef208",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:06:36.824502+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

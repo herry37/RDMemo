@@ -1,0 +1,53 @@
+{
+    "Id":  "f076bf2e-9d8d-45a6-9c31-918f1ba9437c",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T15:24:03.3008707+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0514f926-e2f8-41a2-a23e-c3f2383bac39",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4325107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2b334bf-440c-4d1f-9344-a9edfd0ebfea",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.432512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd368142-a177-4efd-b685-4c6b810608ce",
+                      "Name":  "Small Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4325199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6b06c8b-a382-4868-8c6b-587b7ef595d7",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4325207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a004923c-78e9-4b8b-940c-3c84b4cd552b",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4325229Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

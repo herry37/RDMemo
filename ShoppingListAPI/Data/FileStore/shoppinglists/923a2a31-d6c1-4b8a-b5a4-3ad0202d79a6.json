@@ -1,0 +1,71 @@
+{
+    "Id":  "923a2a31-d6c1-4b8a-b5a4-3ad0202d79a6",
+    "Title":  "露營準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T22:18:49.6793236+08:00",
+    "Items":  [
+                  {
+                      "Id":  "609d4c65-4c44-4668-80f5-ee68f4023668",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:43:23.5761524+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7677dd3-2630-4d2d-9451-460b1b645de8",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:21:45.54647+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f54b1aa3-90e8-442a-a605-170ca1400c96",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:12:45.7409477+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c90741d-6253-42a5-97a8-57f9e6b0c29c",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:36:21.9352987+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ba2c785-5ad3-4c5f-9006-eff93cedaa01",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:53:32.1625212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0bd176dd-14a5-4d20-b72a-c1d306e7c7af",
+                      "Name":  "有機番茄",
+                      "Quantity":  4,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:03:18.1032032+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "406164fb-b6a4-4af3-8373-32bd7e08db22",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:56:29.8727453+08:00",
+                      "CompletedAt":  "2025-01-21T08:10:01.2271927+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

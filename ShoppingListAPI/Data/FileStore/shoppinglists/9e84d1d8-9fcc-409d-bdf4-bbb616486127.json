@@ -1,0 +1,35 @@
+{
+    "Id":  "9e84d1d8-9fcc-409d-bdf4-bbb616486127",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T15:09:04.0002271+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f97d24aa-2e96-4fbc-a5b8-172dfb3c0111",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  242,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.503694Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d948e027-6cfe-48fb-a702-af1f837b1caf",
+                      "Name":  "Handmade Concrete Soap",
+                      "Quantity":  2,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5037242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "456bd908-f5e7-42a1-b715-d6de99df7044",
+                      "Name":  "Refined Wooden Bike",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5037309Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

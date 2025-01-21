@@ -1,0 +1,35 @@
+{
+    "Id":  "0b08ee6d-7a62-42a0-8c98-8bbf77b400d2",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-20T21:45:07.5093839+08:00",
+    "Items":  [
+                  {
+                      "Id":  "66fcc636-19a2-4cf8-b809-71b260571ab5",
+                      "Name":  "Fantastic Metal Gloves",
+                      "Quantity":  2,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6064775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e5cb8eb-10f5-4f94-80ed-6d10a920a887",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6064831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d428a990-9e2f-47fb-bb82-8a7db03e71f6",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6064859Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

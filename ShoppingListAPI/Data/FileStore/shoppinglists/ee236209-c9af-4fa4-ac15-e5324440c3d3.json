@@ -1,0 +1,44 @@
+{
+    "Id":  "ee236209-c9af-4fa4-ac15-e5324440c3d3",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T07:16:04.3414971+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eae6aae6-24f9-421f-b4fb-754840e1ee63",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4647375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fd05435-2e9f-4bb7-8d0c-11f34b822625",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4647387Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82f78419-4853-4754-a218-ad462f656808",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4647395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4104562-d7f6-44a6-962a-417b8e0ad681",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4647407Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

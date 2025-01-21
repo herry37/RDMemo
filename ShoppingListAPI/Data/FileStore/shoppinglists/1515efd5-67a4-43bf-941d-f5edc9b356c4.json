@@ -1,0 +1,53 @@
+{
+    "Id":  "1515efd5-67a4-43bf-941d-f5edc9b356c4",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T05:10:37.2473681+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c7f170b-e4bd-4170-8ed4-175dccaa5d22",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:22:45.816085+08:00",
+                      "CompletedAt":  "2025-01-17T15:13:49.5589135+08:00"
+                  },
+                  {
+                      "Id":  "5a00af5a-4bf9-4aa8-9672-e6b6f5235a32",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:17:19.3533299+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b8f9d40-6239-4720-b31d-61e5cf639b67",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:29:46.2439864+08:00",
+                      "CompletedAt":  "2025-01-21T11:45:07.7021071+08:00"
+                  },
+                  {
+                      "Id":  "8dd73eaa-2013-4f00-866d-197897eeef99",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:43:40.9858241+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c16711c-ad1d-42eb-bd87-1f24f62ef179",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T16:01:22.799608+08:00",
+                      "CompletedAt":  "2025-01-17T03:38:17.2664801+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

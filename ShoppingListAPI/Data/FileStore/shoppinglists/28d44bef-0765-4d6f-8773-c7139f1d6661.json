@@ -1,0 +1,53 @@
+{
+    "Id":  "28d44bef-0765-4d6f-8773-c7139f1d6661",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T11:49:48.04043+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2697a77b-b7be-40f8-a5bb-c2e7faf5e301",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0830875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5442ab0a-77b6-4e09-84b0-ed6e528e022f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0830912Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94af1470-6c52-4146-b928-e60619b72fb1",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0830928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21dd26c8-7110-462f-82d6-bef1b1c69ba2",
+                      "Name":  "Unbranded Metal Cheese",
+                      "Quantity":  2,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0831116Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "131c0be6-547c-4eb3-ad0f-75f8561c6004",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.083113Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

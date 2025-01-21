@@ -1,0 +1,35 @@
+{
+    "Id":  "a67b03d4-a587-4a1e-9063-64e78dd84ec6",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-17T23:31:33.4687252+08:00",
+    "Items":  [
+                  {
+                      "Id":  "abd3ad80-f591-415e-bdc0-d161f2237577",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  461,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4475728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0957afda-ba62-48e0-954d-7d38d19fae70",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4475752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8dcb73b-0793-446f-b3cd-f117d4e2fb72",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4475781Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

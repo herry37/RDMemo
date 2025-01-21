@@ -1,0 +1,80 @@
+{
+    "Id":  "02c039d6-1c5a-405f-a015-901ee9bf8586",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-21T11:20:39.6028653+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9775a19c-5d93-4503-b4d0-b2487ad1357c",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021834Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0f2a7be-94b9-481f-a559-82b54f256e1d",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "600217b4-82f9-488f-a7e9-ec5848a106ad",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eed9e71f-4072-4deb-98f9-9b999c77bd8e",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021906Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "528280e7-1e21-4fcf-8517-cb876b6bbef4",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021914Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33fdc55a-1ce7-40e4-a940-9157fe431293",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9021937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3356807-f4f6-4769-a81e-7f80e5e5c8ab",
+                      "Name":  "Fantastic Rubber Pants",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9022148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bd5b0dc-cdbf-4f4d-b7bc-c394d251f306",
+                      "Name":  "Awesome Frozen Shoes",
+                      "Quantity":  2,
+                      "Price":  187,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.902219Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

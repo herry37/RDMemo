@@ -1,0 +1,80 @@
+{
+    "Id":  "2b2ddc8c-dd38-4faf-bdc5-b2d7026fc0f1",
+    "Title":  "月底大採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-19T11:07:42.8299962+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9abaa14c-86e2-4b60-b4d9-4b8d3c2f80ca",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  123,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:00:01.185873+08:00",
+                      "CompletedAt":  "2025-01-21T04:38:25.66545+08:00"
+                  },
+                  {
+                      "Id":  "cf5a59dc-a5f6-4d71-94c4-eaa2098ca7be",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:26:26.928356+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f5ab618-ceb6-47a6-8212-4fced681fec3",
+                      "Name":  "黑巧克力",
+                      "Quantity":  2,
+                      "Price":  77,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:58:55.0098157+08:00",
+                      "CompletedAt":  "2025-01-19T15:11:21.6001743+08:00"
+                  },
+                  {
+                      "Id":  "2d17d62f-31c3-4940-859f-37410ead1055",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:12:10.155107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac9d06e9-3acd-4f91-b2ca-0db707563a9a",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:13:56.2819988+08:00",
+                      "CompletedAt":  "2025-01-17T17:23:13.2009936+08:00"
+                  },
+                  {
+                      "Id":  "071d064b-6d63-4a48-9418-a42dfb982f57",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:26:55.9873028+08:00",
+                      "CompletedAt":  "2025-01-18T03:21:39.7381874+08:00"
+                  },
+                  {
+                      "Id":  "4142f4b9-b3aa-4e54-acf6-4986ba0e728b",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:35:05.109435+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82199154-3464-45d2-a6ef-245f9ade5ebc",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:26:10.8333357+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

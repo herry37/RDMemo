@@ -1,0 +1,71 @@
+{
+    "Id":  "4bb0c045-aaaa-4045-a31e-cd1bf6651ca6",
+    "Title":  "01/17 零食採買清單",
+    "CreatedAt":  "2025-01-19T21:32:52.9329932+08:00",
+    "Items":  [
+                  {
+                      "Id":  "91810dce-b567-476f-b3da-a27eee2c96c5",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  327,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800223Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6135a933-c816-4df6-8fb9-b7cb1476df18",
+                      "Name":  "Fantastic Granite Fish",
+                      "Quantity":  2,
+                      "Price":  454,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800467Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfb71cce-7696-45ea-a40b-a8f208e1d3c5",
+                      "Name":  "Incredible Soft Table",
+                      "Quantity":  4,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.380055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d1ce2b8-0ef5-4871-b643-d65251dfb30a",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3601abaa-c07d-45d5-beba-04544e01ba77",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "167d826a-f28b-47c8-b822-c62ae6cd0592",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "378292b8-d622-4b9f-9399-b8381afedbb5",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3800607Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

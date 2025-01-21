@@ -1,0 +1,71 @@
+{
+    "Id":  "a3ca54ef-16cb-4e07-9731-728be095c9e5",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T19:48:18.3006604+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a10ea66a-fce6-43fd-ab43-b1feaa314e49",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9535868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f36937b0-11d2-4769-8c5c-d0b36fb2441d",
+                      "Name":  "Practical Concrete Chicken",
+                      "Quantity":  4,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9536259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44dd1a0e-25de-4378-8092-a74d5ba5a6c9",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9536271Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29243efc-1744-4e19-b0ac-0b8a9315a295",
+                      "Name":  "Handcrafted Fresh Hat",
+                      "Quantity":  4,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9536334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e7ccaac-570a-465c-a379-453d75631087",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9536343Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0791abe-68d6-4e71-93f1-41eb9fef38ec",
+                      "Name":  "Intelligent Plastic Pizza",
+                      "Quantity":  2,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9536417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b8c7041-75fe-4c36-a389-c666ad1cda52",
+                      "Name":  "Practical Cotton Cheese",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.953647Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

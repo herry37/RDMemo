@@ -1,0 +1,62 @@
+{
+    "Id":  "534524b2-744c-48a7-8111-d6c2f6db9bd9",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-16T07:04:08.4880554+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29d070a6-8106-4ec9-860f-794ff370e04e",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:16:22.2824895+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d35dd58-63ae-4a04-aa68-f3ade5cb7675",
+                      "Name":  "天然果乾",
+                      "Quantity":  2,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:54:04.8145482+08:00",
+                      "CompletedAt":  "2025-01-16T09:14:36.4857999+08:00"
+                  },
+                  {
+                      "Id":  "6c3b67ff-2a7f-4501-8a34-2c719d5c6eac",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:39:26.0154659+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea48bdb1-2d9f-47b6-848c-681b7b1939d7",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:16:48.4834782+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac2b0eb6-7090-473e-a533-f2774c2b8ad3",
+                      "Name":  "透明膠帶",
+                      "Quantity":  5,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:16:36.7045547+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d22dd0e-be4d-4d37-84b1-0f8b2ecf93d0",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:23:07.2688605+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "770c5948-f96e-49f9-9f0f-5f48442d8636",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T07:49:40.8550584+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d000e99-6d3c-4ca0-92b3-8b386c5d2147",
+                      "Name":  "堅果",
+                      "Quantity":  10,
+                      "Price":  102.855730449710550,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:55:39.9125637+08:00",
+                      "CompletedAt":  "2025-01-20T02:28:32.1305974+08:00"
+                  },
+                  {
+                      "Id":  "eba4bbea-990b-4fc0-8741-9eb6ced07eee",
+                      "Name":  "剪刀",
+                      "Quantity":  9,
+                      "Price":  494.732830469395620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:02:22.9318456+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09912e02-22cc-4915-944a-f4783519ebd5",
+                      "Name":  "雞肉",
+                      "Quantity":  10,
+                      "Price":  280.09142800857140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:39:09.8521086+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4431176e-ca5d-4481-93bf-d537e72c59e0",
+                      "Name":  "訂書機",
+                      "Quantity":  7,
+                      "Price":  148.254026853525240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:14:50.4679378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7875569c-d129-40a0-8097-100a0dec6da2",
+                      "Name":  "香蕉",
+                      "Quantity":  10,
+                      "Price":  344.124641644633910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:46:39.8942928+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "400a537a-6cf9-48c2-a3c0-1a739c39e709",
+                      "Name":  "手套",
+                      "Quantity":  4,
+                      "Price":  365.997042217917170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:43:29.9318383+08:00",
+                      "CompletedAt":  "2025-01-18T23:35:32.4517836+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

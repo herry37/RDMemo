@@ -1,0 +1,44 @@
+{
+    "Id":  "da4d7592-ab1a-4c2d-92e2-042beead4d6e",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-21T06:45:43.842448+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e94b8d8-f873-47ab-9331-71106d067bd3",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0399744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c5f2bd9-adf3-49c9-b377-c587e3d703bc",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0399897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ce93f1a-ec05-4b71-b012-8f78038fca00",
+                      "Name":  "Small Concrete Tuna",
+                      "Quantity":  5,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0400194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec75ae12-6b27-40d7-91e2-dcb15ecde87d",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0400228Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

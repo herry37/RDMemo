@@ -1,0 +1,35 @@
+{
+    "Id":  "9774bbf7-2910-429c-abb1-f57a12ad269a",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T15:42:03.8575286+08:00",
+    "Items":  [
+                  {
+                      "Id":  "be2ccb95-822a-45f0-a93a-fde7ebb88035",
+                      "Name":  "Licensed Metal Shirt",
+                      "Quantity":  3,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0818079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdca5f9e-322b-4a8a-b088-d571abce8038",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0818124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1c4550f-5c67-4d95-995a-3b027c8316ae",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0818142Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

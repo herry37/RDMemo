@@ -1,0 +1,98 @@
+{
+    "Id":  "02701695-fb79-4349-9e3f-bb224d5fdc53",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T17:00:59.8281773+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7297a8f6-3826-42dd-9900-79fe2644719e",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5609831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0cc566b-8dab-4dff-8d75-2f3d1979f76e",
+                      "Name":  "Tasty Granite Salad",
+                      "Quantity":  4,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "036b2ea4-4c8b-4979-bb25-9a4665fe817b",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610101Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db3542aa-f843-446a-aed2-e4b473c9ef09",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610111Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce393af6-e704-496b-a147-811147c61925",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610121Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "055a1469-c3eb-4eca-909d-87242d54833a",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63a60735-2c8c-44d1-8bc9-b3cc36099b81",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5189f2ae-563e-45ff-b182-bc5d7655aa07",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "683b4054-a2c3-4686-870b-0e1e72663b59",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  471,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "829b405c-a5f3-480d-bf27-d7405cdd1441",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  118,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5610188Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "99cf08db-3a54-48c2-bcd8-922400365f77",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-20T04:49:06.7885735+08:00",
+    "Items":  [
+                  {
+                      "Id":  "67b8948f-bf21-4c92-a2db-c5505b51b00a",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0584315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f90ed960-25cc-41be-8731-7df698c92a4f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0584368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d9bb915-bc8e-49e7-9ec3-ed1550449f4d",
+                      "Name":  "Tasty Cotton Gloves",
+                      "Quantity":  3,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0584693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb0bc557-6215-49d0-bc1d-f5fcfb8afe0b",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0584711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75bfc5d8-0153-4119-ab88-f15baf963496",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0584729Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

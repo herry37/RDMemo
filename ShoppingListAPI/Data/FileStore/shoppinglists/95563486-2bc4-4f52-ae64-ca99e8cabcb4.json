@@ -1,0 +1,35 @@
+{
+    "Id":  "95563486-2bc4-4f52-ae64-ca99e8cabcb4",
+    "Title":  "緊急採買 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-15T05:10:02.8692743+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1672676a-ca25-49d4-8b83-06597e7931bb",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:17:01.8532357+08:00",
+                      "CompletedAt":  "2025-01-21T05:35:13.2639428+08:00"
+                  },
+                  {
+                      "Id":  "e799f6d9-9ea5-42d5-a766-bb92d6cde441",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:03:36.6448763+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ea0c822-90b9-4404-a9c5-6b64cce24c6d",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:08:29.0850866+08:00",
+                      "CompletedAt":  "2025-01-18T23:53:03.4606916+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

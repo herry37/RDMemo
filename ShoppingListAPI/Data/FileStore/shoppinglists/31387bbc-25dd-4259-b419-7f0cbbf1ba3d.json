@@ -1,0 +1,71 @@
+{
+    "Id":  "31387bbc-25dd-4259-b419-7f0cbbf1ba3d",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T09:45:30.6328167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "980aea8f-dd46-411c-af87-f935627e9e71",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:26:55.5603937+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1568e9eb-12d9-4690-9077-fefd21401cb4",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:21:24.3485043+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa6339d8-dfdf-4528-b8f0-6dd039c4532e",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:27:24.0410921+08:00",
+                      "CompletedAt":  "2025-01-22T11:14:07.1315095+08:00"
+                  },
+                  {
+                      "Id":  "a444a339-48dd-4937-a774-e6129fabb3bd",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:05:32.4465447+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76ce0754-8d5c-47b8-b72f-a09160ca1589",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:44:29.0214739+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca82eea5-dd37-4950-8ce3-384034aecf8d",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:50:16.4218107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "035aafbf-2a34-4377-982e-ce55e25e5bf7",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:19:27.0957994+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

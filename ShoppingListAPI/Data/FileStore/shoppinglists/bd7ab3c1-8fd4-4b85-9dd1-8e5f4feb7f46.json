@@ -1,0 +1,62 @@
+{
+    "Id":  "bd7ab3c1-8fd4-4b85-9dd1-8e5f4feb7f46",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T11:35:12.0612095+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a53f1f5b-f4d3-487a-ba92-cf91254a38a2",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:15:05.7667651+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14db20cc-3608-40a5-8e47-b36df1764928",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:47:20.6404382+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ffbcefa-852f-4b41-9c36-1e9002b8985c",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:20:00.0361084+08:00",
+                      "CompletedAt":  "2025-01-21T10:39:29.37272+08:00"
+                  },
+                  {
+                      "Id":  "6bc24c72-f112-43c5-860f-80bd9119e644",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:50:47.0884053+08:00",
+                      "CompletedAt":  "2025-01-15T14:03:26.6686586+08:00"
+                  },
+                  {
+                      "Id":  "6faeeed3-558a-45bd-96d6-2e926fd03abe",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:34:44.441739+08:00",
+                      "CompletedAt":  "2025-01-16T07:21:45.8837564+08:00"
+                  },
+                  {
+                      "Id":  "ef5e3aa6-7b9f-4a30-86a1-06fe5bf182fc",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:34:34.4132187+08:00",
+                      "CompletedAt":  "2025-01-19T20:56:54.9735509+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "d39744c9-0619-45e1-a829-dad971781a9f",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T19:07:17.8847691+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4c00a2c0-8e07-4e63-a536-86d5a99a7c58",
+                      "Name":  "資料夾",
+                      "Quantity":  2,
+                      "Price":  471.593520295561780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:52:50.4385049+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "325d2491-d20d-4ddf-a8a1-0a51242d5ce5",
+                      "Name":  "面紙",
+                      "Quantity":  2,
+                      "Price":  440.666940641047110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:29:42.1316372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "faad05e2-7d0f-4579-910c-e4483a4cfe4d",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  215.896056793664160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:10:28.1245904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0134d1c-cfe2-4026-9d2a-e34f9cd7016d",
+                      "Name":  "泡麵",
+                      "Quantity":  2,
+                      "Price":  396.109785831830620,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:21:58.7315723+08:00",
+                      "CompletedAt":  "2025-01-18T19:13:08.2877738+08:00"
+                  },
+                  {
+                      "Id":  "2472f42c-f788-40cc-a643-e27fd44bdb15",
+                      "Name":  "豬肉",
+                      "Quantity":  9,
+                      "Price":  176.885386488207450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:06:49.11228+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "573880f7-78ef-4c9f-8b10-839b1b89c9d9",
+                      "Name":  "運動飲料",
+                      "Quantity":  6,
+                      "Price":  359.260455538451590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:23:22.9768422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f871c86e-a749-4cef-ae49-4fe710fb81e4",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  8,
+                      "Price":  301.356531816091840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:00:57.943302+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

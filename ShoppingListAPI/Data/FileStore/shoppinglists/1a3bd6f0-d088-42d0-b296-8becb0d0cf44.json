@@ -1,0 +1,35 @@
+{
+    "Id":  "1a3bd6f0-d088-42d0-b296-8becb0d0cf44",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-17T07:19:08.7472734+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a4fb0a8-4efa-49f5-b6e6-cc0127417639",
+                      "Name":  "爆米花",
+                      "Quantity":  9,
+                      "Price":  251.319181471766650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:00:51.731329+08:00",
+                      "CompletedAt":  "2025-01-18T21:41:55.0624976+08:00"
+                  },
+                  {
+                      "Id":  "9b0c5abe-593d-401a-bfb1-602979102d97",
+                      "Name":  "手套",
+                      "Quantity":  5,
+                      "Price":  426.129391447706720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:38:08.5446954+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e074a637-363c-4839-af0b-cab98f511a96",
+                      "Name":  "防曬乳",
+                      "Quantity":  9,
+                      "Price":  459.350841346290240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:55:14.483577+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

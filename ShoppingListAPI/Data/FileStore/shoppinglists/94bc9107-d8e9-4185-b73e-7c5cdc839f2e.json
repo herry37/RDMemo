@@ -1,0 +1,80 @@
+{
+    "Id":  "94bc9107-d8e9-4185-b73e-7c5cdc839f2e",
+    "Title":  "年節採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T06:43:15.3876028+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a2c5ba39-443e-41e3-9fe8-8b59be6a3c63",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:56:52.4228354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acc21492-543e-4005-b47e-077b5e684768",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:23:15.2735842+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbed65b0-d4f3-4543-b8c5-815d10c32f00",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:48:34.5543676+08:00",
+                      "CompletedAt":  "2025-01-16T04:37:40.4042693+08:00"
+                  },
+                  {
+                      "Id":  "53f834ae-d226-416b-83c2-3768f35eedc4",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:21:36.8575613+08:00",
+                      "CompletedAt":  "2025-01-15T15:09:49.4757019+08:00"
+                  },
+                  {
+                      "Id":  "41773deb-6bd3-4cc6-a676-37fd35289ffc",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  247,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:04:24.0423231+08:00",
+                      "CompletedAt":  "2025-01-21T23:43:22.269917+08:00"
+                  },
+                  {
+                      "Id":  "3229bfa1-d77d-44af-9b7c-5d93855c28bf",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:29:50.3291031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bde6f7c2-1cc2-4aa6-90df-192023f0f888",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:05:03.7528411+08:00",
+                      "CompletedAt":  "2025-01-15T21:12:06.0583104+08:00"
+                  },
+                  {
+                      "Id":  "bcde9d7c-86be-4b24-880c-402e4b8ca36b",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:03:16.4842434+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

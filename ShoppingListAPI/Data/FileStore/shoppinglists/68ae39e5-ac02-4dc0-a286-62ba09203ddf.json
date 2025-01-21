@@ -1,0 +1,89 @@
+{
+    "Id":  "68ae39e5-ac02-4dc0-a286-62ba09203ddf",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T01:10:44.1134004+08:00",
+    "Items":  [
+                  {
+                      "Id":  "19a5438e-af43-4da8-a2a4-b83777dbe333",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bccf8bd3-af91-4d9b-acf7-13296373f27b",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200504Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbba6f2c-6be4-4522-a9f0-f67d3f3edad8",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b35d44e-b530-4726-8280-637c3c62fba1",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1ce4953-2c55-4cbb-b4f9-314ea3181bb8",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  452,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e7734a5-61c1-4109-a633-817524904649",
+                      "Name":  "Practical Fresh Gloves",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.920083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcb1d55c-e318-4022-a932-616067a0ee9c",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  407,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b610db1f-925f-4eda-8cd9-15b2e40dc6c0",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  406,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200871Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f16d4c56-e4b8-4a6f-8b4c-c77e61693c9e",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9200888Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

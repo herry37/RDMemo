@@ -1,0 +1,35 @@
+{
+    "Id":  "dab43183-0b29-411a-9ea5-de5a86ce4157",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-20T13:15:15.7729326+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0d1d36ef-0345-44f8-ad8f-aa070254cd8b",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:39:01.4313641+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a3965d4-608a-4a54-a115-6272b173f0e4",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:47:10.5605912+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3166b733-a84a-4472-9ddb-811c551d8e9b",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:26:18.8406812+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

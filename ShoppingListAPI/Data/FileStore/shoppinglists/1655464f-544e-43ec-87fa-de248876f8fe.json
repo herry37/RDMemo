@@ -1,0 +1,71 @@
+{
+    "Id":  "1655464f-544e-43ec-87fa-de248876f8fe",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T21:13:48.9516293+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43bbb10c-1f13-4c9f-b570-a0e3167a8e4f",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:33:56.8669076+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00ce8caf-156a-4aff-9935-ccb93f10dba2",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:49:05.4996613+08:00",
+                      "CompletedAt":  "2025-01-22T09:18:30.6118687+08:00"
+                  },
+                  {
+                      "Id":  "d2292252-08b2-4fb6-bbf7-2f7a9bf60a0b",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:36:54.2641946+08:00",
+                      "CompletedAt":  "2025-01-20T16:02:37.9904394+08:00"
+                  },
+                  {
+                      "Id":  "b1c45dcc-6d73-4893-a1ef-0ad58112e7f4",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:53:53.1004283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d4437f6-894d-4c24-980a-86bce0542215",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  267,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:58:05.9211802+08:00",
+                      "CompletedAt":  "2025-01-19T11:15:57.6790156+08:00"
+                  },
+                  {
+                      "Id":  "725948eb-e371-4e4d-8763-8e06f87dbd86",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:35:30.7204068+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6feb448f-d4a4-4c9b-85e4-c8532b8b0329",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:05:54.6992144+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

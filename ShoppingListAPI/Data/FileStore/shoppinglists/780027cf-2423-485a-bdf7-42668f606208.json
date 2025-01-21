@@ -1,0 +1,71 @@
+{
+    "Id":  "780027cf-2423-485a-bdf7-42668f606208",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T15:26:44.1652556+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7636002-5460-4c45-bd69-c138b256309f",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:46:09.6130998+08:00",
+                      "CompletedAt":  "2025-01-15T00:09:45.5475512+08:00"
+                  },
+                  {
+                      "Id":  "f9a19da1-6fc2-4894-969d-9d73f905c4bd",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:12:48.4023357+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0a430ae-85d3-4e74-aadf-4c6b11b47e9d",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:55:11.8523363+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f2b7963-bfa6-4c74-abe9-222f88a122bb",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:17:29.3322149+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88f7d9c7-27c1-415a-b0d8-f0bf90f80f9b",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  4,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:43:00.3112039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2eadc798-6f08-46a0-9382-7d9d8c7e4290",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:49:27.7157236+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57a77de6-2ef4-4140-98bf-3e0db71a13df",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:20:03.4897185+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

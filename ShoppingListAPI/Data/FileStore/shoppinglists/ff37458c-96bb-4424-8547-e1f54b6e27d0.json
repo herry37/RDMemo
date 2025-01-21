@@ -1,0 +1,80 @@
+{
+    "Id":  "ff37458c-96bb-4424-8547-e1f54b6e27d0",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T22:19:23.4545925+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b46da9a-d4e9-43ea-8f67-bc728bdd18c3",
+                      "Name":  "Gorgeous Plastic Pants",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4127493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61be3a93-7ea4-4145-ad37-19688b19798c",
+                      "Name":  "Fantastic Frozen Pants",
+                      "Quantity":  3,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128065Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18c2c3f0-b50e-4495-9ef7-90a71439005d",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5d5b258-ff09-44f9-9c93-dbdefb110ed9",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4ae929d-9a18-419d-a19c-a66b4fb6418c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4493e611-68a8-489b-b356-6fd86e8717e5",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.412811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4616abae-fd95-4b06-ab51-2d8aa51e5741",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128117Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c499ce1-12df-4a10-858c-6c4662d0c49d",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4128126Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

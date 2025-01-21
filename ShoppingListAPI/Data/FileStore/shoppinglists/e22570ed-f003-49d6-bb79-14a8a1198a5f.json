@@ -1,0 +1,71 @@
+{
+    "Id":  "e22570ed-f003-49d6-bb79-14a8a1198a5f",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-18T12:38:44.4247021+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1bf26b1a-5450-4cfe-a94c-05fe70177d39",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  358,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81e8ba21-7988-4e0f-a5d0-d9a5bc5c3cc1",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686653Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2437eeab-30cc-4f70-9fc2-d80dd5a50428",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0544a828-76fd-477c-abd6-060b5ea4e740",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37047655-678f-49e0-b8fc-b6f9e66b7144",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686699Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "932cd42a-3f6b-4c7c-bdf0-3c1ed9d88dbf",
+                      "Name":  "Rustic Fresh Bacon",
+                      "Quantity":  1,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e3a0263-f37e-4f6d-bd62-98c26e1beea1",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4686981Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "d51f1a94-0cea-4ebb-8ef4-cb491b74ad51",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T08:38:53.7684+08:00",
+    "Items":  [
+                  {
+                      "Id":  "306aac42-998e-44ca-8809-ff700ad6465b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9091679Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f947edc0-9510-4fb1-950c-823ed561c42d",
+                      "Name":  "Sleek Plastic Shirt",
+                      "Quantity":  1,
+                      "Price":  367,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9092515Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13731ffe-1c43-4538-bbd7-51ae049d0353",
+                      "Name":  "Handcrafted Granite Ball",
+                      "Quantity":  5,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9092622Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44e3100e-a39e-4ba3-ac87-d024bdb63c9a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9092649Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4bd6e6f-b1fc-497e-82ab-e5887129f839",
+                      "Name":  "Licensed Wooden Hat",
+                      "Quantity":  1,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.909305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea7a0a22-98a5-445e-8d18-7cb5e135ff6e",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9093107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ad3df00-60b7-4582-b463-e9c6aaf7b439",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9093125Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

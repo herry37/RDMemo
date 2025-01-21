@@ -1,0 +1,80 @@
+{
+    "Id":  "38987141-6580-4f4c-99ba-1e47452f9ad8",
+    "Title":  "每週採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-14T22:41:16.4749561+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fb49d543-c110-4319-a7bf-b848f0894152",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:03:25.7475316+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddc2181c-e46f-431b-b0b3-9e7a96e67248",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:27:25.9228368+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a0a588a-d682-43fa-960a-bd758a426200",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:49:36.9032956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73d5d704-2b6b-4b67-9efa-6d04e96c7dc7",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:27:08.8629612+08:00",
+                      "CompletedAt":  "2025-01-19T19:55:42.2783584+08:00"
+                  },
+                  {
+                      "Id":  "3eba014c-c9d3-4742-a120-8645100b18b9",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:06:08.1929172+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd2fdd7a-086a-45a2-aa19-11818c6c8a12",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:57:01.9029666+08:00",
+                      "CompletedAt":  "2025-01-20T15:14:59.1452717+08:00"
+                  },
+                  {
+                      "Id":  "4ec376fd-424c-476d-916b-4f86105943e1",
+                      "Name":  "天然果乾",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T10:15:12.2761575+08:00",
+                      "CompletedAt":  "2025-01-22T10:10:41.8538601+08:00"
+                  },
+                  {
+                      "Id":  "a99fc77c-7249-4aa4-b7d9-1cd04abcd702",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:27:43.5250599+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

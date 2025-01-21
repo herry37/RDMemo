@@ -1,0 +1,35 @@
+{
+    "Id":  "ca6358cc-5001-490c-8852-8aa30734466d",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-21T18:53:55.1719786+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29bc6297-a254-4879-aa6d-77f9ba9a8fcc",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8760845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9847a7e-4bd0-49fd-8607-81f58e68b612",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8760878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9a63dfb-15a6-4f33-a090-9d6a0ceb6796",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8760905Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

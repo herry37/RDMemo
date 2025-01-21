@@ -1,0 +1,71 @@
+{
+    "Id":  "f9148587-7642-4bd7-ac9d-9b1729dc942d",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T00:14:56.5340414+08:00",
+    "Items":  [
+                  {
+                      "Id":  "652e3807-fcc1-488e-8d49-ce861cfd921a",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.131353Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bae98a94-81f8-4552-ad37-c0f62803f601",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313596Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e2fb1b4-014d-47ce-a57d-c4e6751d3edb",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  336,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313612Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09a86276-21f6-4390-b98e-e1b41f284b5d",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313631Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8dab1809-9286-40a5-bb17-3d5ca9378512",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313645Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbe17d51-f3d2-451e-8963-2d8b3907d26f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313683Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69d8aad9-f2ab-4276-a492-731c62e4f317",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1313697Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

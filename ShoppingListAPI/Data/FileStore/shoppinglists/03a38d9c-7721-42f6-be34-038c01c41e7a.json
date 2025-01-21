@@ -1,0 +1,35 @@
+{
+    "Id":  "03a38d9c-7721-42f6-be34-038c01c41e7a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T19:07:49.9677562+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eae7bcff-5526-4c0f-b1a1-aa93e452486f",
+                      "Name":  "堅果",
+                      "Quantity":  5,
+                      "Price":  95.245805734210170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:29:49.798736+08:00",
+                      "CompletedAt":  "2025-01-21T03:12:55.7560631+08:00"
+                  },
+                  {
+                      "Id":  "aafd9617-f8eb-4b21-a011-cf73bf2cbcb2",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  9,
+                      "Price":  40.655251734792790,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:19:23.0252465+08:00",
+                      "CompletedAt":  "2025-01-18T22:18:29.8557532+08:00"
+                  },
+                  {
+                      "Id":  "fdce5e42-2876-4af9-b7f1-2cf97b7c6adf",
+                      "Name":  "洗碗精",
+                      "Quantity":  1,
+                      "Price":  482.251649076255720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:52:33.6335979+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

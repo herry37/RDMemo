@@ -1,0 +1,71 @@
+{
+    "Id":  "f73db23d-f258-40c7-b062-8b00ca107a76",
+    "Title":  "年節採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-15T00:28:28.9355046+08:00",
+    "Items":  [
+                  {
+                      "Id":  "255fcf51-54ab-4330-9cb3-8ad3e7d63b62",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:00:41.3649355+08:00",
+                      "CompletedAt":  "2025-01-19T07:17:53.7476952+08:00"
+                  },
+                  {
+                      "Id":  "a0b80097-a408-4148-87b4-5c01a1170636",
+                      "Name":  "木質相框",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:49:33.7027147+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b094dc6-1505-4c3c-be51-d8abf495db30",
+                      "Name":  "充電電池",
+                      "Quantity":  1,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T11:00:10.5617663+08:00",
+                      "CompletedAt":  "2025-01-16T19:45:36.4983511+08:00"
+                  },
+                  {
+                      "Id":  "f190f535-cd39-44c1-b1ac-aba41afaec58",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:06:46.4259932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55ac8265-e0f8-46b6-8c32-5c0ee8c0d730",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:45:47.7060388+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "670603be-8bac-4411-ad42-34da8cc84c51",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:11:23.227619+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5bf98d3a-2112-4a43-8e3d-dfb5eccff40d",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:26:52.7366551+08:00",
+                      "CompletedAt":  "2025-01-18T09:59:38.5675908+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

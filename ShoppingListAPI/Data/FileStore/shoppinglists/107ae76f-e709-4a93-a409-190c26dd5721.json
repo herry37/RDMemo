@@ -1,0 +1,44 @@
+{
+    "Id":  "107ae76f-e709-4a93-a409-190c26dd5721",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-19T10:24:43.9591948+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a7b168e-0bd0-4fd4-a51f-b3fbf07e95f1",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7428369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2280afe2-0268-4385-af4c-184264304587",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7428422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "554df815-9478-419c-8f6c-7184d88fb43e",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7428435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00a48900-5bfb-4924-bdda-26e4b45408a5",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7428642Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

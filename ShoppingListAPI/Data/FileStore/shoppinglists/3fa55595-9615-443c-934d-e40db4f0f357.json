@@ -1,0 +1,44 @@
+{
+    "Id":  "3fa55595-9615-443c-934d-e40db4f0f357",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T13:21:14.5311758+08:00",
+    "Items":  [
+                  {
+                      "Id":  "90564f3a-40a6-4f40-8d60-78a33193233c",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  423,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6692489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a178713c-9817-4391-9547-eb3643cea6ec",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.669257Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f18de37-7345-4f04-ba0c-e0debcbfc304",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  458,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6692584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "619e26c7-f0b6-4efd-b4bf-3d0a63533f33",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6692596Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

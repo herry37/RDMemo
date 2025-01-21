@@ -1,0 +1,35 @@
+{
+    "Id":  "ca649f11-d169-4d5b-98b2-33cdae28b7de",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-16T11:01:28.6254773+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cbd3cd0c-dfdd-40bd-a283-af984eab96f3",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  363,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1425104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f4a0ea6-826e-4d8e-8a85-96a745f6524f",
+                      "Name":  "Handmade Rubber Shoes",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1425416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ae2ae54-67ac-486f-975b-19a7eaf8a09c",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1425428Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "976393af-7772-492c-a95c-09b76f1beb67",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-20T13:28:59.2338919+08:00",
+    "Items":  [
+                  {
+                      "Id":  "365c6370-0856-4a1b-85c1-611539cbd5f7",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:10:51.6103557+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b6eacb2-3f77-4530-b1b5-7999d3f52087",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:14:54.1626249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fbd877d-e899-4cd6-ab30-f05edb9ec546",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:25:36.8924634+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

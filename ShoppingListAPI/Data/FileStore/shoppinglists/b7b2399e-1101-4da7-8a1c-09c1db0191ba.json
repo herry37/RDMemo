@@ -1,0 +1,53 @@
+{
+    "Id":  "b7b2399e-1101-4da7-8a1c-09c1db0191ba",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T16:19:27.5630676+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7246ce8a-9d49-495f-88d0-a683f115aff0",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9361979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5a55306-46da-41f2-b864-62bd7ec3cf16",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9362021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6df34f0a-bdcb-41b5-a53f-802ba4154fb1",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9362041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48a7f21c-dac5-439a-b88e-196d21258a95",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.936206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbbb71ac-b30c-44ce-81bc-804097d7c3b4",
+                      "Name":  "Practical Plastic Salad",
+                      "Quantity":  3,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9362267Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

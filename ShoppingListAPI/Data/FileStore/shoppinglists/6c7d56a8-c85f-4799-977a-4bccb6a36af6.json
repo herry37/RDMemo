@@ -1,0 +1,80 @@
+{
+    "Id":  "6c7d56a8-c85f-4799-977a-4bccb6a36af6",
+    "Title":  "早市採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-21T05:35:26.98941+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6b10dbd0-8ce6-4dba-baff-c9417a18445d",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:17:47.4578086+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cadcb148-a73e-4f7d-a67d-27da01ae2b25",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:04:33.18282+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2798100-5499-4b12-b50a-8030feeccc29",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:27:06.7578817+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f9e82bc-e465-40f1-b8b5-17df5fcf4c26",
+                      "Name":  "美白牙膏",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:56:32.0675025+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c309a110-fd36-4bef-a335-9d1e84321fca",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:23:05.7363943+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4926a313-4036-4d2f-b2d4-ba7198cd0211",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:44:16.3029133+08:00",
+                      "CompletedAt":  "2025-01-21T00:25:22.2807229+08:00"
+                  },
+                  {
+                      "Id":  "00fc6728-fc2e-4b90-b89c-04993e351382",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:41:40.2443568+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d31933f-0084-4dc8-beab-8f6c8b267b01",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:55:57.3719216+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "fdaede7b-3990-4c25-b5e9-45cde34897f7",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-18T17:17:07.791725+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22a38e9b-8dd8-46c3-88d0-27fd7a86f3d5",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  411,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9390802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "203168a5-f56f-42d3-8c9e-e58c11300cd2",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  478,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9390843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a97bd5c-08f5-4f71-92bb-56a1e6c71bc0",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9390854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4be7a64-9e4b-4566-8ddc-2948bd42c087",
+                      "Name":  "Awesome Cotton Pants",
+                      "Quantity":  3,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9391051Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20fb7ef2-5496-46f9-82a8-7ec639b6c63d",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9391062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15b3ca7e-4ffc-4998-8280-1ed5e507060c",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9391143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f974b6a3-4467-48ee-a48e-e17909874669",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9391153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9850c8ec-a524-4d34-b9a9-6891c0cc30cc",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9391163Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

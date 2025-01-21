@@ -1,0 +1,71 @@
+{
+    "Id":  "3783247f-fa0e-4d2e-9325-2406c9399037",
+    "Title":  "日常補充 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T03:47:48.7207648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3cad788-5856-4dd8-a488-508d77311b15",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:26:01.8438281+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57231be7-398f-4ae7-aab7-0d5dd21cdd26",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:29:11.5601541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "592042ca-6e87-41b2-a360-27b4481e8eae",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:28:05.401783+08:00",
+                      "CompletedAt":  "2025-01-18T21:24:50.9854465+08:00"
+                  },
+                  {
+                      "Id":  "6c43d511-0fd4-4ae9-8549-d813abe07586",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:42:33.2296891+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "737a186c-89f1-485b-91ca-2c93861c265b",
+                      "Name":  "天然果乾",
+                      "Quantity":  4,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:38:00.2353874+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c6faa56-86b1-4db3-bc97-6b48c0090785",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:36:59.2168579+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0845c803-06ae-4983-939f-45161f70440a",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:35:25.320933+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

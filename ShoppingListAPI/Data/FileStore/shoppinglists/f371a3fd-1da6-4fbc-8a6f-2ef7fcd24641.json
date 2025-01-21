@@ -1,0 +1,98 @@
+{
+    "Id":  "f371a3fd-1da6-4fbc-8a6f-2ef7fcd24641",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-21T02:17:06.4442609+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e06c245d-941d-473c-b3d5-00493fd47e0f",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579127Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d99c930e-0986-4fb4-9925-7421a693874e",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "042c578f-c858-4fd0-966f-036515687ed8",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.957919Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d74e67c0-be66-4164-a8cb-02f7e458466e",
+                      "Name":  "Generic Soft Pizza",
+                      "Quantity":  5,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.957957Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "849ecfc7-40cd-4040-8b0a-81a03c9f5373",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.957959Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "611e7f84-b00f-4d8d-9823-452c375c2347",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579621Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c927e40-767d-4fbb-b9b4-443640211df3",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da86b2ed-d683-456d-b86f-b4c20e9a9f0e",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.957965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80c09360-c74b-4bcb-85d6-3b05b887726f",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea88bcb6-b64b-434c-9043-cb7c6b9bcfd4",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9579674Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

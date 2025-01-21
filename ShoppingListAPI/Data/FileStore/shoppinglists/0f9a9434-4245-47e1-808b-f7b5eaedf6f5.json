@@ -1,0 +1,44 @@
+{
+    "Id":  "0f9a9434-4245-47e1-808b-f7b5eaedf6f5",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-18T02:45:58.5989606+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95039937-485d-46e7-94bc-7c8c15a33518",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0806485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae21f210-1cdc-480d-a9cf-b5d790c38a1f",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0806539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e0d6a5a-7fdd-4d70-8e8a-17639515d597",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0806551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59160a87-ed61-4184-9ee1-9d39ba316255",
+                      "Name":  "Handmade Plastic Bacon",
+                      "Quantity":  3,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0806807Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

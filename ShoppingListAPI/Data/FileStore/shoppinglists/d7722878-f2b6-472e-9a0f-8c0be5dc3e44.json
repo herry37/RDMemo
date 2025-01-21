@@ -1,0 +1,71 @@
+{
+    "Id":  "d7722878-f2b6-472e-9a0f-8c0be5dc3e44",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T11:02:22.5450353+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6bd20917-9525-4e0f-bfb8-9d5a1e0ca188",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbb3366c-2f11-4ad7-85e6-8158d03bf3d8",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ce849a3-97be-42bd-92a8-99eba04d268e",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589541Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8b1bdaa-1e07-44f0-a198-7bc95ffab9ad",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "020354ce-6231-422f-9055-bb16b75e2168",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589578Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04e1384b-4ee9-46c5-8c3c-e54139eb45ff",
+                      "Name":  "Fantastic Wooden Computer",
+                      "Quantity":  4,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37f4548d-e850-4799-9063-dff9f0fb256e",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8589802Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

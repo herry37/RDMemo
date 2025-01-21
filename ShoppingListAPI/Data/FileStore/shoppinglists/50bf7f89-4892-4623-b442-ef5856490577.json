@@ -1,0 +1,71 @@
+{
+    "Id":  "50bf7f89-4892-4623-b442-ef5856490577",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T02:25:45.8775367+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e2a73c43-a869-443f-8e93-f0f7a74a2954",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2293017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f1d3416-27a3-4dde-8102-b62c05eac9cd",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2293067Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "836bba6a-e507-4d72-9d1d-7a35ecd5b00e",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.229308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78822f1f-80df-4259-8474-ec095644b15b",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2293091Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "973c1bd8-18a9-4dca-9d1e-50360bf1f4f5",
+                      "Name":  "Unbranded Plastic Chair",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2293363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5c9748b-84af-4a14-8e79-063fd0e34e6d",
+                      "Name":  "Handmade Metal Keyboard",
+                      "Quantity":  3,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2294261Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f6b9312-cb24-4b10-8ace-944c35a12233",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2294286Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

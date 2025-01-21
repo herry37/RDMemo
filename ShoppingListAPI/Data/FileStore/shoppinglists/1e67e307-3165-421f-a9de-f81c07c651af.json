@@ -1,0 +1,89 @@
+{
+    "Id":  "1e67e307-3165-421f-a9de-f81c07c651af",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T09:16:51.801605+08:00",
+    "Items":  [
+                  {
+                      "Id":  "af0ad4dc-b47c-4f3d-b5bb-78e4c4d954ab",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1476862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "029231a8-fea9-4ab7-885a-8bfbaaca8ae6",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1476911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c10f1351-c48d-4709-aa0c-5a2d4314d399",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1476952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "193e88d0-32c2-418c-bc59-a1ae12c1ce5c",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1476978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5366330-4785-467e-8f8b-378df0d39554",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1477001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8758efb6-2df1-45a6-b125-e221d4803538",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.147704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2eb460a1-5978-46ce-a017-4373f12ea199",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.147707Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6d7f9bc-c132-4837-b769-6d83caea0a4f",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  448,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1477094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcf81dea-cc99-41b3-90bd-c893f8443a2a",
+                      "Name":  "Awesome Plastic Shirt",
+                      "Quantity":  3,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1477342Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "90030a83-4208-4c72-893f-551357cde89f",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-20T16:27:31.0714184+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cdeafc0f-fa5a-4a02-b7c1-ea7deb9bb19e",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:35:43.276375+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f99e720-b0bf-4f60-b5fa-6c2f29639367",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  3,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:50:12.770062+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba83933c-4636-4fea-84b4-e713fe7676a4",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:46:38.5370119+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5946214-2a67-4cc3-9807-baf244f2ac15",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:08:08.4238046+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39d7ab6b-92a5-4365-94a8-8f76860cd41e",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:38:15.4172659+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b14570c3-a727-48c0-b744-3bf53531ceda",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:16:43.7911692+08:00",
+                      "CompletedAt":  "2025-01-15T23:15:36.0849463+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

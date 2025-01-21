@@ -1,0 +1,35 @@
+{
+    "Id":  "6c8f05f7-9ae9-43ab-af4f-01700664d3aa",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T01:16:25.0255585+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a3446ac-069e-46d7-8b9b-8c91d42013b4",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:36:23.5224765+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f03f86d4-c3bd-4de2-bec7-9d6c8eb0438e",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:53:57.2637908+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4490c188-26a4-44fe-9dff-de6eaf3e871d",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:07:42.1659895+08:00",
+                      "CompletedAt":  "2025-01-21T23:24:59.1903404+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "b1663a80-0936-4ded-9220-c07cf8c39581",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T18:45:46.791449+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc089cd5-46a3-451b-b897-9ff89d5331eb",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ebc3170f-fae0-4c0e-bc0a-740d3e832324",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbc918ed-9122-49b0-bb8c-088d42cfaeeb",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d6d9fa5-9b36-4502-b1a8-53d183185d65",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5faaf25-92a6-4ea0-a7eb-6bc06e47f2fd",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.767554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8581c580-8ec2-4510-be9f-6ff23fae023d",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  458,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c72a8356-e569-41a7-8c6b-0e1834c4f464",
+                      "Name":  "Incredible Soft Chips",
+                      "Quantity":  1,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38d72a54-9f82-4555-b459-3584cce8dff6",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7675674Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

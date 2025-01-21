@@ -1,0 +1,71 @@
+{
+    "Id":  "f59ba6d4-d20c-40b4-a59f-2ddf46eba586",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-19T09:15:28.2041284+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12470caa-ad0f-4462-a27b-69a3475454fa",
+                      "Name":  "綜合堅果",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:00:10.8372343+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "976ba458-05cb-4aa1-bdc4-54858271adbb",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  4,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:41:28.9678331+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e9334cc-4b74-4e72-ab58-a5f2d41eb459",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:33:01.1005159+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef1863b4-2ef5-40cd-a57e-8c2e6164ad8e",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:29:26.7188492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cde83a8-44e2-4255-9d14-9a1ebdbb363b",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  2,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:29:32.7158958+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "106f65df-aa5c-4315-95ab-3ed0642c17a7",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:09:49.0766266+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "65bbbd38-d4ca-49d8-b32d-fae99a8046b3",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:44:11.9653787+08:00",
+                      "CompletedAt":  "2025-01-15T22:04:29.7653499+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

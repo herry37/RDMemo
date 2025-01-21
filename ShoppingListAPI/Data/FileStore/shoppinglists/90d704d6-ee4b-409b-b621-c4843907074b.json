@@ -1,0 +1,35 @@
+{
+    "Id":  "90d704d6-ee4b-409b-b621-c4843907074b",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T22:18:03.954464+08:00",
+    "Items":  [
+                  {
+                      "Id":  "09ba5481-6977-4746-83f0-14b92fff4026",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  2,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:26:44.4584397+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e95e021-c7c5-4da0-898d-3a276cbab02e",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:48:35.7133678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22b00b30-1f75-476a-89bf-33973b24cb15",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:30:31.0995811+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

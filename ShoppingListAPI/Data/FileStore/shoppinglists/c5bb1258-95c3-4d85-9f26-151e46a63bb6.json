@@ -1,0 +1,71 @@
+{
+    "Id":  "c5bb1258-95c3-4d85-9f26-151e46a63bb6",
+    "Title":  "露營準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T18:55:21.7800799+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9df3f02a-3fab-43e4-874e-1e3e0b58bcbf",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:49:59.9387245+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e68b07e-7a77-4630-9eb1-87d63e6b7252",
+                      "Name":  "充電電池",
+                      "Quantity":  3,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:50:18.3589252+08:00",
+                      "CompletedAt":  "2025-01-17T02:12:25.3004679+08:00"
+                  },
+                  {
+                      "Id":  "0398f2c0-c118-4906-b7e6-6830ce106dd5",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:54:22.9634309+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1960f0ef-503b-4bf4-aa3b-4531ee789361",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:57:48.9472051+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ed30784-cd34-4ae7-8ec4-a91306a6b60f",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:29:14.6990926+08:00",
+                      "CompletedAt":  "2025-01-21T19:29:32.2293259+08:00"
+                  },
+                  {
+                      "Id":  "4ff8fdc3-eec4-4081-84f4-77d57f512a24",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:48:59.1969541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0bf4f1e-d4c0-43fd-a420-09af9f894de1",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:23:09.3522267+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "159c89e6-212a-466d-ba48-0d061e9c722d",
+    "Title":  "月底大採購 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-17T06:10:22.2926935+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e77dded4-aca0-41d2-a6b6-7dee45990ab2",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:06:52.979338+08:00",
+                      "CompletedAt":  "2025-01-18T05:38:52.4379013+08:00"
+                  },
+                  {
+                      "Id":  "7d096fc3-7251-4d22-8594-874dcbe3b649",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  69,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:58:31.2104271+08:00",
+                      "CompletedAt":  "2025-01-16T18:20:34.6861608+08:00"
+                  },
+                  {
+                      "Id":  "86fb5a83-6089-445b-ab38-994c92238519",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:14:52.6113161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d5b96dc-92bc-48c9-bf73-b845cf86e641",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:21:44.9853861+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52c843ff-ad4d-4b6b-b631-634a87b23355",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:34:36.7918365+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e15cf2ad-98b4-43fa-9804-d2153bf43840",
+                      "Name":  "有機綠茶",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:27:42.8973485+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "ce8a4058-8bbe-4bc4-8864-52f025472950",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T05:39:21.0600881+08:00",
+    "Items":  [
+                  {
+                      "Id":  "006f9399-ae4f-4339-88cd-c19b7955a459",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6328589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "276542eb-c55f-43b0-abe8-80b6966b75f1",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6328634Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5188659f-5fec-497b-8d5c-cb502be7c127",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  485,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6328677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c30d4d5-3923-430e-98c8-a565eef80e93",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6328697Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a3520b4-97d5-4e5e-8890-f5ebca1b2da0",
+                      "Name":  "Incredible Steel Soap",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6329119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15be45ab-40bc-47d0-8e81-f4f955c00f2f",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6329155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "581d3d4b-1d80-4651-a2b8-111f509de014",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6329179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "865b2d48-a2f1-41f6-8061-03b3d513388e",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6329198Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

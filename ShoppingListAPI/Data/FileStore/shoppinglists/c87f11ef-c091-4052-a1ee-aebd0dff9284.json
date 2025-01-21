@@ -1,0 +1,35 @@
+{
+    "Id":  "c87f11ef-c091-4052-a1ee-aebd0dff9284",
+    "Title":  "居家整理 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-18T09:55:11.8469554+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3bf4e319-fb6a-4bd0-907b-a12b2428f172",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:23:20.9069824+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "093e07dd-0c4d-4164-baf8-865d8ba09650",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:09:00.8176584+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19e5ef2e-3705-4efc-bcff-fd76b6800649",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:47:56.1440663+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

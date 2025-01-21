@@ -1,0 +1,35 @@
+{
+    "Id":  "9d3dba43-e4e2-4078-8e15-8c4a0c23b525",
+    "Title":  "緊急採買 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-19T04:59:19.9353021+08:00",
+    "Items":  [
+                  {
+                      "Id":  "92c03aed-36da-4c5e-9230-d07a266909cc",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T13:44:06.0202933+08:00",
+                      "CompletedAt":  "2025-01-16T19:29:04.2082037+08:00"
+                  },
+                  {
+                      "Id":  "cbb6026e-9e57-4a1d-ac68-bed30d605deb",
+                      "Name":  "進口糖果",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:30:28.9701389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a584e7c-b115-46f2-a9b6-9af245a91d5d",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:44:31.3049865+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "c50f7af9-67d1-42cd-9254-dee162c65c9b",
+    "Title":  "派對用品 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T20:58:27.9949634+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6fe38bbd-b457-44ca-b7e3-b0785a97d596",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:20:56.5040535+08:00",
+                      "CompletedAt":  "2025-01-16T21:31:38.2054297+08:00"
+                  },
+                  {
+                      "Id":  "81f9c1c9-f921-45d4-93fe-73899f3be215",
+                      "Name":  "有機番茄",
+                      "Quantity":  1,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:24:26.9304758+08:00",
+                      "CompletedAt":  "2025-01-16T10:06:52.2368341+08:00"
+                  },
+                  {
+                      "Id":  "1c935116-676d-4a9e-a850-684b9ca70286",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:15:34.2807153+08:00",
+                      "CompletedAt":  "2025-01-17T06:01:05.852716+08:00"
+                  },
+                  {
+                      "Id":  "1382a97c-f30d-4bec-bbb4-8ad1de4e6f04",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:28:54.8342047+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c33d7ec-6826-4fc2-9898-cd77c044980a",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:11:02.3637069+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

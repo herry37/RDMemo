@@ -1,0 +1,44 @@
+{
+    "Id":  "801d11c8-e985-4c00-8dc1-b668766d0e3e",
+    "Title":  "日常補充 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-18T12:55:54.8545502+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c88e19c-5bcc-40e5-8bb2-86e8a8aa9437",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:53:56.9949622+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea2562e7-52c2-4ce6-918a-5605618ca870",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:03:29.1169247+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e450ff5-2255-4822-bbe7-2d4cb9077ace",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:02:05.6806816+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9d16ada-4b76-40bb-9fde-1f8157d4506c",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:23:08.6595386+08:00",
+                      "CompletedAt":  "2025-01-16T18:02:06.6288621+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

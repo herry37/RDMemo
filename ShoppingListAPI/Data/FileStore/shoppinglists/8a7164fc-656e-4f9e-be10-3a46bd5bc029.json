@@ -1,0 +1,71 @@
+{
+    "Id":  "8a7164fc-656e-4f9e-be10-3a46bd5bc029",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T06:53:03.1999166+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bd176dec-8db6-45c3-9677-1c55e1b12093",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4962d792-954e-42de-b58e-cc518b48de1a",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  379,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848185Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc9a965e-1cb2-4bd5-bdbd-1e7982b7c43b",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1800ba4c-3b2d-45e7-b4d4-8498183cc96f",
+                      "Name":  "Awesome Fresh Chicken",
+                      "Quantity":  2,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c073838-5f39-490f-831f-d70e3458722b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.284843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7532e6dd-74e8-408f-a771-ef597f5221ae",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34050716-6805-434f-9187-7cb2b706da3d",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2848462Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

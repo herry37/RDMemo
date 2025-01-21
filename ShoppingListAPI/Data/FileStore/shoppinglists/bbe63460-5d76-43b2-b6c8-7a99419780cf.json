@@ -1,0 +1,62 @@
+{
+    "Id":  "bbe63460-5d76-43b2-b6c8-7a99419780cf",
+    "Title":  "聚會準備 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-21T09:27:14.7830562+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bfadd7b6-df83-4b38-899a-2a173d659b06",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:51:49.3276517+08:00",
+                      "CompletedAt":  "2025-01-17T22:29:25.5665266+08:00"
+                  },
+                  {
+                      "Id":  "462b67cb-3946-4bff-b198-eb3378b41460",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:16:10.2382212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25de70a7-e0e2-4f83-a098-036853c6c95b",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:58:10.0085657+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2d9933b-d905-470f-a556-8e0cc4b34145",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:22:00.7307262+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22993ceb-d1db-48c7-af8d-42220b56c99f",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:41:23.7422973+08:00",
+                      "CompletedAt":  "2025-01-18T15:47:38.854029+08:00"
+                  },
+                  {
+                      "Id":  "cb33826f-8378-4d44-b5ce-adca6597d2c7",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  132,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:03:34.4224095+08:00",
+                      "CompletedAt":  "2025-01-20T10:31:26.1583397+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

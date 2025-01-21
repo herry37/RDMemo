@@ -1,0 +1,89 @@
+{
+    "Id":  "e409a028-89c1-4282-96df-33a339cae845",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T15:02:36.428288+08:00",
+    "Items":  [
+                  {
+                      "Id":  "db4e5978-5081-424c-8eee-f2a63290be23",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829184Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ad4c5ab-e3cc-4ddd-98bb-84538056a793",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0212c435-6035-429d-a9f5-c7a04b9b8111",
+                      "Name":  "Incredible Soft Pants",
+                      "Quantity":  5,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec85aa28-ce1e-403b-ab25-c23774754567",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.482953Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d917bd8f-c32e-4ebd-b634-f0e0328a7e88",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52898f3c-6826-4112-99e1-f4f80f710463",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "189d5154-abb6-431c-b6ce-79d0672cc0ab",
+                      "Name":  "Tasty Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbd983eb-95f5-42d5-833f-4bc4cb7e8ca0",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96a610c7-d79d-4ca8-a4bd-454b071730d7",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4829664Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

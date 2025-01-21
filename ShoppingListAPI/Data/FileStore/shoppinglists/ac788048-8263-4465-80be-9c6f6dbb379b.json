@@ -1,0 +1,44 @@
+{
+    "Id":  "ac788048-8263-4465-80be-9c6f6dbb379b",
+    "Title":  "年節採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T18:52:43.8136204+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e568162c-a1f3-4895-8bc6-ee2b59899e8e",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:22:45.5146841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6f702c8-1bd8-406c-9fa9-a1e62da3368c",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:19:38.8066026+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7a855e1-3568-4ae5-8dbe-765c66a335b5",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:09:16.1452751+08:00",
+                      "CompletedAt":  "2025-01-18T02:43:40.4760944+08:00"
+                  },
+                  {
+                      "Id":  "e3dcc74a-9b12-4587-9eb7-d3cc295bd6c1",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:18:34.327376+08:00",
+                      "CompletedAt":  "2025-01-17T08:07:16.2673043+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

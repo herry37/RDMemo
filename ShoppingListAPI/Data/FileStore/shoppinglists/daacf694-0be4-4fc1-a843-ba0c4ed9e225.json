@@ -1,0 +1,80 @@
+{
+    "Id":  "daacf694-0be4-4fc1-a843-ba0c4ed9e225",
+    "Title":  "月底大採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-18T03:16:14.3815555+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b7633703-75d9-47f5-ad41-cc377718dd4c",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:23:47.9508609+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e64061d-ad34-4634-b568-888e89321f09",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:25:15.4947813+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "818e78a7-4efd-41da-81af-1b889058ce7c",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:26:06.5499283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47d2818e-73ed-46f0-8067-de263aa25a66",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:29:05.5846861+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9134494-5580-4900-878c-81eb384a7d77",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:08:32.9576074+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffbd66ef-855a-4349-a057-efbfd8091b59",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:43:17.3559943+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e61a96fb-3daa-4359-9187-4b323795c2a1",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:16:17.2945373+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "119b587a-2f55-456d-b88a-77226eee33a1",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:02:26.0173362+08:00",
+                      "CompletedAt":  "2025-01-20T02:55:02.4456004+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

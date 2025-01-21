@@ -1,0 +1,44 @@
+{
+    "Id":  "5d7230df-ada9-4c2d-8115-868c6dd348fb",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T15:19:32.0716979+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1efb35bf-7633-4e62-9c50-74d249bb3954",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8291119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a74ef19-0d4d-418a-9bb4-17f701a764ff",
+                      "Name":  "Fantastic Wooden Chips",
+                      "Quantity":  5,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8291649Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e49abab-0632-4d84-9d8b-990336b1b5e2",
+                      "Name":  "Ergonomic Fresh Bacon",
+                      "Quantity":  4,
+                      "Price":  388,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8291932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eee4e2a2-ba8a-48d5-8dc0-cb323f36477e",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8291946Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

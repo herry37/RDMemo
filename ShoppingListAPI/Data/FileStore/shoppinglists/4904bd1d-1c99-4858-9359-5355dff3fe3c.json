@@ -1,0 +1,44 @@
+{
+    "Id":  "4904bd1d-1c99-4858-9359-5355dff3fe3c",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T06:28:50.0318692+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc42d5f4-4c2e-4a92-b2ee-8d5480a4048f",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2325489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d211d10-03bf-4e0c-9aec-2de12fade492",
+                      "Name":  "Handmade Steel Fish",
+                      "Quantity":  5,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2325556Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7961c6e9-b68a-4b21-b492-207aa2c40f63",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2325565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e911e572-7b79-4fbb-8caa-e7c28ae73ade",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2325574Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

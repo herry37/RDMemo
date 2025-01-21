@@ -1,0 +1,62 @@
+{
+    "Id":  "0332cf3b-7bb4-4127-bd79-02e16558ffb9",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T10:18:29.5240154+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d5837d55-8e4b-4393-bfd0-8344a548998d",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:16:32.0376154+08:00",
+                      "CompletedAt":  "2025-01-17T03:08:26.4236649+08:00"
+                  },
+                  {
+                      "Id":  "49c071d4-1601-45a4-9f89-f9d2a179efc4",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:00:08.6250213+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4f59b65-973f-4392-beac-26ada9c0f67f",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:16:18.999729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccfca470-499a-434a-adcb-7cca6641ad9f",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:21:06.9136878+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00349235-2b9c-4b12-bde8-241a05c76e58",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  5,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:54:16.840027+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d6eed88-9f35-4d52-964c-b3ab9c2ea9a8",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:04:42.5872616+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

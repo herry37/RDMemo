@@ -1,0 +1,44 @@
+{
+    "Id":  "8de88475-2624-4d89-ab7e-1685854cf2e1",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-15T22:16:02.0433176+08:00",
+    "Items":  [
+                  {
+                      "Id":  "639b7da1-17b3-4921-a459-732c0cdafd13",
+                      "Name":  "豬肉",
+                      "Quantity":  3,
+                      "Price":  243.647571664673040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:40:16.8911933+08:00",
+                      "CompletedAt":  "2025-01-19T04:00:45.5012148+08:00"
+                  },
+                  {
+                      "Id":  "623f91bd-df2f-46ad-90a8-17b66ba4f97f",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  169.710243227059420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:36:20.1708725+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c50f276c-cbe1-4995-88cc-298ea64fe6c3",
+                      "Name":  "豬肉",
+                      "Quantity":  4,
+                      "Price":  206.86840495814380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:09:25.4176872+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4f7979d-c8ee-484c-a617-658144c948bc",
+                      "Name":  "洋芋片",
+                      "Quantity":  3,
+                      "Price":  483.672541611974320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:09:15.1816494+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

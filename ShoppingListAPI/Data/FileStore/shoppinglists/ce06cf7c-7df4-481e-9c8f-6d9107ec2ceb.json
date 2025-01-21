@@ -1,0 +1,80 @@
+{
+    "Id":  "ce06cf7c-7df4-481e-9c8f-6d9107ec2ceb",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-18T02:00:52.4594617+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85bfa56a-eea7-40ee-8abd-27b557341a22",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9054719Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cebf876b-7c72-42af-8f31-4b66bb322f4f",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9054751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eebe03f6-4eb9-4ec7-a8f9-1e27435b1ab0",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9054778Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bac47756-5a71-471b-af62-67c77667ea05",
+                      "Name":  "Practical Concrete Chair",
+                      "Quantity":  4,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9055049Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d67b6435-3744-4a3c-b85f-8f9b27dd3e31",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9055059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61edd95c-ac08-4e8f-80ac-5ae4a03f68cc",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.905508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f57a1b2-f6de-49f3-8796-969b91a38ef1",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9055097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55b453c8-b603-45e8-9634-50c19a1a6b55",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9055106Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

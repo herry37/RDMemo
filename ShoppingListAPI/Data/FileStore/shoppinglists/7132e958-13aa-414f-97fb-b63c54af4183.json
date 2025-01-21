@@ -1,0 +1,89 @@
+{
+    "Id":  "7132e958-13aa-414f-97fb-b63c54af4183",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-21T06:10:58.305296+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15efc562-a134-476d-9ced-4884cae7eb4f",
+                      "Name":  "蛋糕",
+                      "Quantity":  2,
+                      "Price":  482.448070017921480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:51:19.2960673+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d221908-a6ff-41fb-b1c1-1f3662a755ce",
+                      "Name":  "筆",
+                      "Quantity":  1,
+                      "Price":  60.966569443330450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:15:13.0236417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "329c6110-9a72-47ac-b0a0-712cb680829c",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  302.714618544248670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:57:17.5398458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "639ca73d-917a-4766-966d-2f795addff1b",
+                      "Name":  "拖把",
+                      "Quantity":  10,
+                      "Price":  36.121410842110570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:48:05.7178502+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d41a5e89-72d0-46ff-a65c-1bb8d9b76dd1",
+                      "Name":  "餐具",
+                      "Quantity":  3,
+                      "Price":  208.509901684760050,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T10:04:34.0079528+08:00",
+                      "CompletedAt":  "2025-01-22T08:10:50.5194908+08:00"
+                  },
+                  {
+                      "Id":  "e8f244b9-35d0-4888-8801-34c5f806052e",
+                      "Name":  "爆米花",
+                      "Quantity":  10,
+                      "Price":  345.682477349404920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:23:16.543293+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4b290a2-51b8-4775-921c-528ea7c140bc",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  355.805617430298480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:23:15.1543526+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2739c29b-822e-4530-99f4-96621bb828a9",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  396.246774428080370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:53:49.6708078+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cbf7887-a3b8-4efe-9f91-30df41f46d7b",
+                      "Name":  "口香糖",
+                      "Quantity":  7,
+                      "Price":  276.988681329963810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:47:42.8043728+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

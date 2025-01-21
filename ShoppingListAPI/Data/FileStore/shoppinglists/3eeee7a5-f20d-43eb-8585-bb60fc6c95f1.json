@@ -1,0 +1,71 @@
+{
+    "Id":  "3eeee7a5-f20d-43eb-8585-bb60fc6c95f1",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-17T13:55:13.4079322+08:00",
+    "Items":  [
+                  {
+                      "Id":  "30e46429-f6d5-4305-8016-2c28b2f4af79",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9138717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5df3cd8-d6be-4338-99e1-4a4baeeba115",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9138796Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1368b94-1fec-4d88-8e33-bbe5384a7b97",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9138824Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11595894-8a34-466d-9d36-515bc94c9e7d",
+                      "Name":  "Handmade Frozen Chair",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.91391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7567cdb5-b3c9-4894-a84c-ae3f76a368fb",
+                      "Name":  "Incredible Plastic Computer",
+                      "Quantity":  2,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9139182Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae18d911-9999-46f0-9634-22f0d24afeb9",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9141853Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4da5e349-e746-4dca-99cd-5731c2205862",
+                      "Name":  "Tasty Rubber Sausages",
+                      "Quantity":  4,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9142039Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

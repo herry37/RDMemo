@@ -1,0 +1,80 @@
+{
+    "Id":  "19c60a9a-45aa-4e4e-b59f-b4b3d8a34a3e",
+    "Title":  "聚會準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T16:17:19.9580265+08:00",
+    "Items":  [
+                  {
+                      "Id":  "137ecdec-4239-4a70-9311-f67acd87c410",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:02:25.1854902+08:00",
+                      "CompletedAt":  "2025-01-16T14:20:20.1564854+08:00"
+                  },
+                  {
+                      "Id":  "dfcc6f6b-460b-4176-9886-86effcd85bc5",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:25:13.2409309+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c434795a-8341-4ce8-aa47-48cab4df030b",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:00:43.9465795+08:00",
+                      "CompletedAt":  "2025-01-15T11:35:04.5874704+08:00"
+                  },
+                  {
+                      "Id":  "6c64fa62-cf87-4454-9908-3a86b2a663b7",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:48:00.0577188+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69c37ae8-e235-45a7-8ce2-841b4a49747f",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:58:12.5665648+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1226b75-aa8a-46ee-927e-3fa60d9ed23e",
+                      "Name":  "透明膠帶",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:22:50.9578991+08:00",
+                      "CompletedAt":  "2025-01-22T01:00:25.7914864+08:00"
+                  },
+                  {
+                      "Id":  "afab8d6e-382d-4977-b044-d328a8613958",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:13:26.8243444+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f417a3b6-6b03-4b30-be92-aeda8de1cfa1",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:15:07.7646296+08:00",
+                      "CompletedAt":  "2025-01-16T11:17:58.3967054+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

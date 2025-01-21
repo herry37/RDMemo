@@ -1,0 +1,44 @@
+{
+    "Id":  "2efb6049-17c1-43fa-8e35-a345d4b3e2af",
+    "Title":  "年節採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T19:09:24.7939063+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a62a6e05-2ddc-4cf4-9bce-60d731137028",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:48:03.4926745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae38ef0c-6d1b-495e-8a00-e4488293da37",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:47:36.7675011+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e047911-60c0-4005-9b24-52c5546a6b56",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T05:05:43.4500542+08:00",
+                      "CompletedAt":  "2025-01-19T17:41:37.1475101+08:00"
+                  },
+                  {
+                      "Id":  "ee7d3afb-55fe-4f92-9399-98b2c7cfefb2",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:56:39.3014379+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

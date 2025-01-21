@@ -1,0 +1,71 @@
+{
+    "Id":  "7d57b07c-ef2f-4cf9-909f-c3a31f4dc7d6",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T03:39:43.2363841+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ef6331a5-176d-47f5-9001-d7aa4a9e9b78",
+                      "Name":  "Licensed Plastic Soap",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fb2dfa7-a939-4597-990f-d8f6827329bb",
+                      "Name":  "Unbranded Soft Shoes",
+                      "Quantity":  2,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8829d1cf-b5dc-49d2-aa60-ab57b5e77603",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0fa259f-4bad-437c-aaae-a541ce87b5c7",
+                      "Name":  "Intelligent Rubber Pizza",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9afce5dd-7ac7-473c-a6da-2e469e53d8c1",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  459,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301499Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d4458cc-67e3-4a85-bd8f-c08bca332ead",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb0eb5f1-b568-4627-9fb7-73c064e12446",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9301592Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

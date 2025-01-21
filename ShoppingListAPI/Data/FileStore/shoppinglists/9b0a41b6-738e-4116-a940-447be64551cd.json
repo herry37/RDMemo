@@ -1,0 +1,44 @@
+{
+    "Id":  "9b0a41b6-738e-4116-a940-447be64551cd",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T13:27:32.1740167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7f89d683-12e1-4974-a260-368bf3cfde32",
+                      "Name":  "番茄",
+                      "Quantity":  10,
+                      "Price":  490.446951563179510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:35:36.6314314+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e5283ad-1a93-4363-b0a5-e53f0c11003c",
+                      "Name":  "果乾",
+                      "Quantity":  5,
+                      "Price":  207.900927518146650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:38:16.4480015+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0f57700-c098-440b-9412-0f2f1647a73a",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  378.213292247105690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:58:45.3331242+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3aa8653e-2ee0-40e1-9671-2922764b138e",
+                      "Name":  "口香糖",
+                      "Quantity":  2,
+                      "Price":  142.925663576335490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:29:07.0306743+08:00",
+                      "CompletedAt":  "2025-01-15T07:04:55.2491527+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "cdf4a4ff-c73c-48a1-841d-371918e66de2",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T06:43:15.9019778+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1117e62a-eba3-4425-9d6d-8966a42c1dda",
+                      "Name":  "Generic Steel Mouse",
+                      "Quantity":  1,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560701Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0ff4e43-e807-49c7-952c-2ca7afb9cfb8",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44913edd-046d-4f59-bea3-71ff175ada47",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63f0bbf6-af32-4e5f-9c2c-888d0c3c1429",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4b0d976-0ec5-4ebd-b1df-2dc7319a28ae",
+                      "Name":  "Gorgeous Cotton Hat",
+                      "Quantity":  2,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.856081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d6cfab3-9ef8-4f6e-8e2b-49a6812ae0aa",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ba0ab0d-9cee-448b-9af2-6256a92ef408",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6a229c7-f0f0-4dc1-b3d5-c740e6b77899",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69920b86-6348-47ea-8665-1ca2a989696a",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560864Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7da70c22-87db-4d02-b710-d05d943db0e0",
+                      "Name":  "Awesome Granite Fish",
+                      "Quantity":  1,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8560905Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "14622225-29a2-440d-96c8-6c741cb21a3f",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T22:05:45.6518163+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ed81efd9-0e9a-4dfd-b64e-fe872ea11f2d",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7937998Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55d9f7de-e59c-4834-9997-0b051fbc0b69",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c10421c-eac4-4130-bfde-7d709cde8cd7",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a64cec2-b10d-41d2-afbb-a4980df05b08",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  497,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cc550e1-c1b8-4928-b5bf-bb560a3fd236",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "daca1b45-7393-48fb-b745-01ca89e85228",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938203Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b2f63df-fb21-410f-a83e-3e34078583e0",
+                      "Name":  "Incredible Wooden Shirt",
+                      "Quantity":  2,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938468Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93d5b661-f1cb-421e-80df-00470b314ad1",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7938505Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

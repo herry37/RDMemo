@@ -1,0 +1,62 @@
+{
+    "Id":  "96f2b6d1-6029-4254-a74d-6b16e64b40ac",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T21:45:55.671595+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ac58b2c-ff4f-43a4-8696-be710ea69fa8",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6559844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b04121e-f937-4be3-9a4b-d4ffab140201",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6559914Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20ee38a9-0075-437e-a30d-fdc2e64dac7b",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6559927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f45195ee-e519-42ba-b240-447863977a3d",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6559938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13e2bb20-571e-40ab-af8a-79a0ec31f450",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.655995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1379c6a-8662-46e0-8abc-e27cc2629643",
+                      "Name":  "Handcrafted Fresh Hat",
+                      "Quantity":  1,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6560244Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

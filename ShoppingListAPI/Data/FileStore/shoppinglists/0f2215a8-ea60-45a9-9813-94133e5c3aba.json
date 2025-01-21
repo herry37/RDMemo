@@ -1,0 +1,35 @@
+{
+    "Id":  "0f2215a8-ea60-45a9-9813-94133e5c3aba",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T05:45:23.0790249+08:00",
+    "Items":  [
+                  {
+                      "Id":  "18aefeb2-4a9b-4082-b366-6cf0d33f5a61",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7424788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df2adc0a-803b-4a77-82fc-7f203e662fa7",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  127,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7424939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f8179af-be7b-4ae6-a3c7-ab9d74470b81",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7424949Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

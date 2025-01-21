@@ -1,0 +1,62 @@
+{
+    "Id":  "1eadf9e3-6422-4bb0-aedf-fd0959d1f52a",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T09:25:43.628856+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cc5f6819-2278-4562-b15d-d41bf9a2897d",
+                      "Name":  "防曬乳",
+                      "Quantity":  7,
+                      "Price":  125.689459581909850,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:37:27.1394567+08:00",
+                      "CompletedAt":  "2025-01-16T02:32:05.0785009+08:00"
+                  },
+                  {
+                      "Id":  "59976ef4-4706-47fe-a549-6cd2b79f89e9",
+                      "Name":  "筆筒",
+                      "Quantity":  4,
+                      "Price":  59.511995689548560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:26:28.6622984+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1c07a10-4e72-409d-a541-d43a81945a36",
+                      "Name":  "漂白水",
+                      "Quantity":  9,
+                      "Price":  163.264097262439870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:24:27.9392261+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb1ea71e-3e4a-49a3-9a26-de3a5f86390d",
+                      "Name":  "便利貼",
+                      "Quantity":  8,
+                      "Price":  311.367684678472930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:44:39.6535425+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f3e507b-6e92-4b22-bcc6-6f85a7dbb33b",
+                      "Name":  "便利貼",
+                      "Quantity":  8,
+                      "Price":  78.980121153465480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:41:25.8001378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0585e63d-69f5-4648-b1d6-7b983973ac9b",
+                      "Name":  "清潔劑",
+                      "Quantity":  10,
+                      "Price":  300.273884259103150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:04:08.3615528+08:00",
+                      "CompletedAt":  "2025-01-20T21:58:58.4147957+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

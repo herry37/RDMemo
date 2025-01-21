@@ -1,0 +1,44 @@
+{
+    "Id":  "0e3e9bb5-9ca8-4ca1-80d4-ec525ea832eb",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-21T00:11:55.5114277+08:00",
+    "Items":  [
+                  {
+                      "Id":  "48d7346b-6442-438a-b877-1bb6c6e856e1",
+                      "Name":  "啤酒",
+                      "Quantity":  9,
+                      "Price":  293.146197546301460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:52:41.7166833+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b052edc-75df-4170-9fd1-195c2592484c",
+                      "Name":  "果汁",
+                      "Quantity":  8,
+                      "Price":  313.697595616226630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:12:41.2965752+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9c9fb23-62e5-4cca-bdeb-274097457e34",
+                      "Name":  "洋芋片",
+                      "Quantity":  8,
+                      "Price":  232.111888063752540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:01:05.589667+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a41c9f6b-4492-4874-b1b3-34ce3e3b246d",
+                      "Name":  "相框",
+                      "Quantity":  6,
+                      "Price":  140.911931519042310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:42:01.0131785+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

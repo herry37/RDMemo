@@ -1,0 +1,62 @@
+{
+    "Id":  "838348d7-2b00-42ce-b192-754f1491fc24",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T09:15:27.9382991+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da1a725d-2dfe-4c65-8779-1e4838a02f1f",
+                      "Name":  "Awesome Steel Hat",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237256Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0555192c-0fcd-414c-b78f-0c2f9ec9a9b1",
+                      "Name":  "Incredible Soft Hat",
+                      "Quantity":  4,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237302Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef26fac0-144b-4a9e-8d99-d535d4586e01",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237318Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99bede46-b716-4719-97b5-f9fb9c572856",
+                      "Name":  "Intelligent Rubber Hat",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5771bf48-c65c-43d4-8b4f-33ecfbe6816f",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e987d2b-8b02-44f5-97a7-fa2ad8c2b959",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3237397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

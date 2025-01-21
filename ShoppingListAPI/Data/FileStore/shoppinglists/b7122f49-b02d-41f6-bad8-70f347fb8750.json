@@ -1,0 +1,35 @@
+{
+    "Id":  "b7122f49-b02d-41f6-bad8-70f347fb8750",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-14T15:13:04.7259786+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35c8f5a3-e953-448c-b7eb-e9688aaa902e",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  284.147841798249020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:06:53.0007349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0369c89c-7fcb-4ea8-b040-2793f9182586",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  444.817368013745780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:11:27.4358004+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92fcd854-453b-45c4-9ea5-35dbfef00b69",
+                      "Name":  "面膜",
+                      "Quantity":  9,
+                      "Price":  20.052555637366060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:41:13.0789048+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

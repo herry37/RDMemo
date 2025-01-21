@@ -1,0 +1,44 @@
+{
+    "Id":  "23243927-2cfd-4b0b-87c2-d5e9252972cd",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T13:29:18.0451211+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b705207c-1039-4459-a0a6-d696372cb3ef",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4754201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7560caa-bdea-47cb-a304-d10919d94c22",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4754214Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f5be316-6622-4a4c-a775-8201f7aa2116",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4754227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ca56a9f-2020-4ace-8582-b02a66796757",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4754235Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

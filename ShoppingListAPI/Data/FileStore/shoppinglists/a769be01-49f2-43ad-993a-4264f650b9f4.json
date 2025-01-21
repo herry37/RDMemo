@@ -1,0 +1,35 @@
+{
+    "Id":  "a769be01-49f2-43ad-993a-4264f650b9f4",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-15T04:01:14.4953638+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9fefd30f-f680-4304-bd51-6ff644e7bce1",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:15:58.7228253+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f420ee7-896a-4d39-b985-c7c40464fb00",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:37:15.4520545+08:00",
+                      "CompletedAt":  "2025-01-15T20:17:22.4629987+08:00"
+                  },
+                  {
+                      "Id":  "48cb2f80-f4a4-4f9f-8cc8-88e3f2bacfc8",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:34:03.8330406+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

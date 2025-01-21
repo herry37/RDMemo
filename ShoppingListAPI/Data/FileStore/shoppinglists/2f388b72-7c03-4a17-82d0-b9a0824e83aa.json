@@ -1,0 +1,62 @@
+{
+    "Id":  "2f388b72-7c03-4a17-82d0-b9a0824e83aa",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-19T22:24:34.6633355+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1fda8472-5ca6-4092-8b34-0968eab47159",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.603313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3f47db4-76b7-4608-88e7-c5990becc1a1",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6033164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "295cc2f0-7f28-4343-bdb3-a813ca1f20ed",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6033171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7656598-c7c9-4902-b553-02f785fa6eb4",
+                      "Name":  "Rustic Steel Shirt",
+                      "Quantity":  2,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6033364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f819ee0b-095a-465e-8be8-6d627463da62",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  433,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6033371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "227ad705-48a2-4ee9-b0a5-2893b48f560e",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.603354Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

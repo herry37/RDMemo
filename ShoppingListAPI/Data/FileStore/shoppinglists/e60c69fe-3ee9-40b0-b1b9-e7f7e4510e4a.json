@@ -1,0 +1,89 @@
+{
+    "Id":  "e60c69fe-3ee9-40b0-b1b9-e7f7e4510e4a",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T04:57:29.2809972+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b12fab3b-e266-45b8-9222-f46c05b0079d",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1067607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91cb0753-56b1-49c0-a80c-fa0c0196b7ae",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1067651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72bb61af-ff7d-43f9-9d32-d6d28597dd26",
+                      "Name":  "Intelligent Fresh Car",
+                      "Quantity":  1,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1067922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2c5f440-f3dc-4c5b-8ec9-237072ad8c18",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  474,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1067948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed07368b-0f24-467f-94b1-95b1227282c9",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1067971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffbda5f8-c021-472f-89b8-6b9a6a3dea89",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.106801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c7f587c-2743-4c9c-80c7-ed01071d8854",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1068028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baff397f-4f5e-44ec-91aa-5e4ed1229c4e",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.106805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97248a7b-67d5-4904-a3ec-638b6bde1ca6",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1068071Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

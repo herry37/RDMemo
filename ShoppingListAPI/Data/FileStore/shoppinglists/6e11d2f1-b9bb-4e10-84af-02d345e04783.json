@@ -1,0 +1,89 @@
+{
+    "Id":  "6e11d2f1-b9bb-4e10-84af-02d345e04783",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-15T00:02:09.6372956+08:00",
+    "Items":  [
+                  {
+                      "Id":  "77978c8c-6c23-430e-83bc-4a1ccb3cc940",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9355889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ebe382d-3e67-4e1a-b014-5c8b66c01260",
+                      "Name":  "Sleek Frozen Bacon",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd3e98f8-bd43-4040-87b7-3471e531381b",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ed7abc3-4135-431b-a2f6-319cb28cb408",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d7a6763-d0f9-4a8c-afef-b6d08f9cef02",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  146,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0bf34d16-b1ec-4e11-a755-de5d2c600b2c",
+                      "Name":  "Ergonomic Plastic Chair",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e394f38-d95b-4a5d-b87d-d91956f2be11",
+                      "Name":  "Gorgeous Fresh Towels",
+                      "Quantity":  4,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4d0b6cf-fa6b-4068-b22d-2c9e4cf9edb7",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd35b5cc-34bc-4aba-b967-3347e2c8876d",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9356992Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "6d87c96f-b0d0-44ed-a5f7-81b3c0927a20",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T06:07:01.6876678+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c7ad49d0-a3d7-4a9c-8a33-d5dccc630ef0",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:18:51.9285726+08:00",
+                      "CompletedAt":  "2025-01-16T21:57:58.6380618+08:00"
+                  },
+                  {
+                      "Id":  "4ce0cb2f-7622-49df-ab93-cbb26e840d21",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T11:38:41.4846812+08:00",
+                      "CompletedAt":  "2025-01-17T03:26:54.5334769+08:00"
+                  },
+                  {
+                      "Id":  "1e1b00b5-8c3f-4e99-b7a7-7d280233bbd7",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:46:37.2131961+08:00",
+                      "CompletedAt":  "2025-01-21T23:30:03.4188962+08:00"
+                  },
+                  {
+                      "Id":  "90da0a61-d8fe-4dc3-b3a7-211b074675ce",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:20:18.2010841+08:00",
+                      "CompletedAt":  "2025-01-18T02:23:36.1702317+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

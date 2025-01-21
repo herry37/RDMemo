@@ -1,0 +1,44 @@
+{
+    "Id":  "f10ec458-0a6a-404c-b232-bdc238156eb4",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T18:56:55.8239189+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4f8056ad-a71e-4a12-b13c-cd7e6c122e45",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3093584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab2a511c-cd22-42c2-8ca5-3e98bf067fc0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3093609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5de154c7-8a40-4fdc-b114-0bbbac79be0b",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3093619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6196e06-904b-497c-9433-50028e893948",
+                      "Name":  "Gorgeous Fresh Towels",
+                      "Quantity":  4,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3094214Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

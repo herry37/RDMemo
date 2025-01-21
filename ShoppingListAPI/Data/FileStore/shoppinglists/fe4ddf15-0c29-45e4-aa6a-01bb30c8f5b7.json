@@ -1,0 +1,80 @@
+{
+    "Id":  "fe4ddf15-0c29-45e4-aa6a-01bb30c8f5b7",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-14T23:59:53.1231055+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eaa81f43-911d-417c-89b2-769aac4cfbcd",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0067841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cbbaf2d-25c0-45a1-a2b5-8ef176a30df0",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  339,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0067881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64606435-e5d9-4586-81a8-3a1fcd92990e",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.00679Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e73410a4-8f97-49ef-ac00-29f1e633a956",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0067921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e624fac-8b98-4883-b7fe-3d29b60b6a03",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0067945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e03c47d7-e630-4c62-a4d1-ddb12aa18c7e",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0068016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f32ac9e4-be32-4fee-ae18-a069d0d6d4dc",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0068038Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "753a923f-eb06-458c-9a88-529cf3858ff8",
+                      "Name":  "Incredible Cotton Cheese",
+                      "Quantity":  4,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.006834Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

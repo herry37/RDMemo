@@ -1,0 +1,35 @@
+{
+    "Id":  "2293c99e-cae9-405b-8b48-c2e8d925fb54",
+    "Title":  "01/16 零食採買清單",
+    "CreatedAt":  "2025-01-15T07:44:00.3536739+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6e6e539b-abf9-4775-a7db-e6c15628b9ff",
+                      "Name":  "Awesome Granite Chicken",
+                      "Quantity":  5,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4318494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aefc948c-0568-4bdf-9761-d7dddbad5dbb",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4318506Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b50ee906-d186-420d-a74d-2a37efb2e9b8",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4318513Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

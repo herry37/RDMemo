@@ -1,0 +1,80 @@
+{
+    "Id":  "69502d80-6eb9-46fd-bb4b-cbc319e978cc",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-20T07:38:43.6689301+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7a5a6091-ef9b-4111-b035-31f471584b2f",
+                      "Name":  "Awesome Metal Fish",
+                      "Quantity":  2,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7525257-fcee-4dca-bd14-6cf07c8078bd",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2eabac89-2b5a-4df2-b595-98210267b2c6",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80acd720-9112-4146-8fdd-8c30a9f724b0",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  454,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234434Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee1b58bc-b93f-4d59-a295-3c43cdb95aae",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234456Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04e99bd4-ba7c-4ad4-b0bf-6d1ca85300a7",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234481Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84332852-e2c2-4412-9eb5-137901eba3c5",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234488Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa639a05-97aa-4641-b3c2-f2ff5917d740",
+                      "Name":  "Rustic Cotton Computer",
+                      "Quantity":  2,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7234545Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

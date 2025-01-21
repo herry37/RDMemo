@@ -1,0 +1,35 @@
+{
+    "Id":  "005c4fc6-d6ef-4d6e-bd65-d624faab7eac",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T08:03:03.1440959+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37137174-253c-4342-b509-786b47604528",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1782605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57fdc727-4029-47c7-a4a5-6f22a7ad6e9f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1782665Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "635da8ca-8962-47d2-b94e-f08db74956d0",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  42,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1782695Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

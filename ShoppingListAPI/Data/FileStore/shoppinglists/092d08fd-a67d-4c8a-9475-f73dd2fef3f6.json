@@ -1,0 +1,62 @@
+{
+    "Id":  "092d08fd-a67d-4c8a-9475-f73dd2fef3f6",
+    "Title":  "露營準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T22:37:16.2146595+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ee94d1b-0797-4f0c-a96f-26270434d1c8",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:24:19.1867223+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cffc310-49fd-446b-8893-3daf479dc094",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:59:04.6609079+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62dbebda-c8be-4040-a027-2709359c17f3",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:15.9354295+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2cac37d-33ca-480f-ac63-ace82273ed79",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:59:21.5766482+08:00",
+                      "CompletedAt":  "2025-01-20T07:18:20.082823+08:00"
+                  },
+                  {
+                      "Id":  "3cee12ca-91a4-4be2-a5bc-51e194f5e38c",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:11:23.1829436+08:00",
+                      "CompletedAt":  "2025-01-15T08:10:58.6192146+08:00"
+                  },
+                  {
+                      "Id":  "df1864ba-145e-4989-9734-d6ca9f90e148",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:44:38.0379264+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "afa7f765-73eb-429b-8e07-c691ba37cd2b",
+    "Title":  "早市採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T20:39:42.0985376+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cfa91b44-680e-4e08-be0c-de9f159778cb",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:35:41.8444517+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3b0c5ea-9f00-49f7-933c-947cfcc4ca68",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:37:53.4229306+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed5e8322-273c-43b9-bd94-7bec815758c1",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:34:09.9477497+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

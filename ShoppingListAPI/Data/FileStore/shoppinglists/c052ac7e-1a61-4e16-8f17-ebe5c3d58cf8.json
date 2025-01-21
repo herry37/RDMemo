@@ -1,0 +1,89 @@
+{
+    "Id":  "c052ac7e-1a61-4e16-8f17-ebe5c3d58cf8",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-15T09:52:46.1155177+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b346f71d-ed45-4769-b550-ed8a72227de8",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4856431b-a6f0-4beb-b27e-0fb1379a6296",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a48d067-aaf4-42b1-a11f-fd2553fb2f7a",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  69,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3619323-b7ae-48d4-8ed5-1a20a1946aa7",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15b2d05a-693b-43e3-9e36-5243a3cef2d0",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06446902-a811-4899-b516-31a6fce919ba",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  494,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0396721-bd02-46ec-b6d8-3184756c236e",
+                      "Name":  "Rustic Plastic Computer",
+                      "Quantity":  4,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17de4ca2-4581-4828-aab5-a9d70c75a5f8",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a6f2b00-8b7d-4caf-8e6a-e051ae43a9be",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6659836Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

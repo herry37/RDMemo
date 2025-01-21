@@ -1,0 +1,44 @@
+{
+    "Id":  "f7f6657f-0de7-4212-91af-936b4557818c",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-15T17:21:48.1602532+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ec3a1e02-b9a2-4b74-81d0-eafa19982b79",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:46:44.2295322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c21f9b7d-4b7c-4606-bcf4-043b55e710ef",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:48:17.5261109+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a836bd49-d0ad-4cfb-a616-770b7c0097b3",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:25:42.2106171+08:00",
+                      "CompletedAt":  "2025-01-16T08:32:13.3035801+08:00"
+                  },
+                  {
+                      "Id":  "d16569e4-9365-41a9-9c1f-e59eceb2096b",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:28:15.5517948+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

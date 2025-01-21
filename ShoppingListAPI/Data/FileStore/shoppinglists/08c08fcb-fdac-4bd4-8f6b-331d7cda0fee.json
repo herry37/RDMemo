@@ -1,0 +1,71 @@
+{
+    "Id":  "08c08fcb-fdac-4bd4-8f6b-331d7cda0fee",
+    "Title":  "每週採購 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-21T19:58:47.6274731+08:00",
+    "Items":  [
+                  {
+                      "Id":  "69c92375-5a04-4706-8303-1606819437ed",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:42:51.3263214+08:00",
+                      "CompletedAt":  "2025-01-19T00:37:00.9679665+08:00"
+                  },
+                  {
+                      "Id":  "44a2eb94-ef99-4c28-bb30-a215adf29593",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:19:49.8412474+08:00",
+                      "CompletedAt":  "2025-01-18T00:59:36.1640493+08:00"
+                  },
+                  {
+                      "Id":  "8c9d364d-2eb3-4c8e-95ac-8592f6ccde8a",
+                      "Name":  "有機番茄",
+                      "Quantity":  1,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:37:58.3156783+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5cab6ad-8588-444f-a458-2efe273baff0",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T13:05:36.0051976+08:00",
+                      "CompletedAt":  "2025-01-17T06:57:39.190115+08:00"
+                  },
+                  {
+                      "Id":  "4579ff4c-6573-423d-8e50-5ebdfada2eb3",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:15:48.8189007+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04cf452a-c03d-4503-9618-2835da8b99d8",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:26:54.6723184+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51be2139-3c0e-49c0-8cbd-2283cdbb9ca9",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:36:53.3775755+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

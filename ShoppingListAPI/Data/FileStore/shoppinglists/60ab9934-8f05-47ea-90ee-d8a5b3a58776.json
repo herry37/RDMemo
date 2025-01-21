@@ -1,0 +1,44 @@
+{
+    "Id":  "60ab9934-8f05-47ea-90ee-d8a5b3a58776",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T21:52:38.3008436+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4b8d2852-f59d-45a0-a3ad-3ed687a9a71b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9250184Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31142236-35a7-4ac6-ac9e-1354a3eb402e",
+                      "Name":  "Intelligent Metal Hat",
+                      "Quantity":  2,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9250368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e58b99a1-4435-44cc-bedb-fea7dba3ae77",
+                      "Name":  "Generic Wooden Shirt",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9250407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d9d4a6b-4571-4477-9f91-c2d89d09d13c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9250423Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "ce97520f-4ce5-4b04-ae9b-5eee5f417ddf",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T13:54:16.9042133+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3cbcd210-12e1-4062-b781-19f2cd338243",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e052dee-d047-4f76-9b5e-325a58b21a7f",
+                      "Name":  "Sleek Steel Fish",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e71f8234-36cd-4f09-acff-8866506ea99f",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b16b2b19-f661-485d-853d-777ee61eeb80",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06d75887-a4e8-45de-9ebf-c8c3f082af81",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  306,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "195b0d87-f795-41ab-97e5-46e62c0c53b2",
+                      "Name":  "Intelligent Steel Towels",
+                      "Quantity":  5,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2629454Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

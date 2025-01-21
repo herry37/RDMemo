@@ -1,0 +1,62 @@
+{
+    "Id":  "e541e7c5-449d-425a-9b7c-58183cf54327",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T21:49:05.1500308+08:00",
+    "Items":  [
+                  {
+                      "Id":  "040251e0-408a-434b-90f7-484427f51197",
+                      "Name":  "Gorgeous Cotton Chicken",
+                      "Quantity":  2,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4865562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8da4f1e0-4794-45de-b911-eec9dd33a461",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4865597Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21912a97-614b-40fe-af1d-aea6b51f60d6",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4865632Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46d5f568-4adc-4078-82e3-69f40e0361ad",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4865652Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24218879-93f0-4f83-8175-8dc906b142b7",
+                      "Name":  "Incredible Wooden Chicken",
+                      "Quantity":  5,
+                      "Price":  465,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4865695Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c9a21a2-2504-4295-ae83-50d4629a5de1",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.486572Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "9cf2e5ec-7f8d-4b3d-92b9-377435400b4a",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T18:20:52.9249608+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cbb4a442-9a05-4724-a74e-22c85d1e0f35",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274022Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f951fffd-986b-4f48-856e-2a5a9177e15d",
+                      "Name":  "Generic Steel Table",
+                      "Quantity":  1,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24837453-ffe6-423a-a85a-d3accf954221",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a5e278f-726e-4ac5-8b86-cc270fe9f0e2",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274737Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9581b6a-8617-4312-bfb2-10f41274fc57",
+                      "Name":  "Sleek Soft Table",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274836Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10a0d5f8-b47d-4684-98fd-3e61af9d1de8",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3b38a0a-6a35-470f-aa0c-69f2ba7cad8c",
+                      "Name":  "Incredible Metal Tuna",
+                      "Quantity":  3,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b7b682f-837f-42b1-bb62-f8e39909513e",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63240ec1-87dc-43ff-9e1a-08fad500ca1e",
+                      "Name":  "Practical Concrete Shirt",
+                      "Quantity":  1,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d35c7b93-bb01-4fae-bb14-aeff674e1d14",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6274987Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "af130b4b-f48a-4314-b25d-0d56f791d9e7",
+    "Title":  "01/14 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T18:53:57.2642565+08:00",
+    "Items":  [
+                  {
+                      "Id":  "16087999-bf7e-4e4b-8fd0-a1976b0ea805",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  319,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7c5dbf0-022d-40b6-b6e7-3ac8f8b9aa8a",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a34f2f68-614a-4b47-a383-46cdf047b9e4",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385481Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9946b31-85c3-448d-8fd7-82652d98a1eb",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  472,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "637abcc9-e125-4bee-b6a1-9ce4d3133c1c",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c3d2370-1a5a-47b0-a160-ce865c7b17cd",
+                      "Name":  "Generic Rubber Ball",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d3a7f63-84a8-4475-99bd-1fe8a3cc96d8",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5385736Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

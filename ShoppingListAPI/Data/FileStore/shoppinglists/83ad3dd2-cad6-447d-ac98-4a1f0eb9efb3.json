@@ -1,0 +1,62 @@
+{
+    "Id":  "83ad3dd2-cad6-447d-ac98-4a1f0eb9efb3",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-18T05:08:53.8808139+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bcb01703-4a6d-4069-923c-39eb7029cc0f",
+                      "Name":  "筆",
+                      "Quantity":  5,
+                      "Price":  388.718244195428620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:27:01.8159145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75017669-1696-4d30-ab5c-3d164de72126",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  150.013606215052920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:50:26.1618853+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34a99f87-bcc3-4011-8983-e23da62ce10a",
+                      "Name":  "筆記本",
+                      "Quantity":  4,
+                      "Price":  277.439012577420740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:08:27.8661278+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a70a8d2b-f54e-4d3e-9424-e1f6a3b5f118",
+                      "Name":  "相框",
+                      "Quantity":  5,
+                      "Price":  470.117791087231270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T18:59:22.963314+08:00",
+                      "CompletedAt":  "2025-01-19T11:53:40.437398+08:00"
+                  },
+                  {
+                      "Id":  "cec19810-3318-4ade-ad1a-4291b97cfee5",
+                      "Name":  "漂白水",
+                      "Quantity":  4,
+                      "Price":  486.787877818269430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:04:55.565658+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "675b6269-7ac3-4be8-b8c3-a71d8da49e53",
+                      "Name":  "碗",
+                      "Quantity":  6,
+                      "Price":  455.757231841881960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:07:47.9620192+08:00",
+                      "CompletedAt":  "2025-01-22T11:36:54.2321602+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

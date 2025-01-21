@@ -1,0 +1,71 @@
+{
+    "Id":  "fe8c5654-d8ca-4452-825c-a91648e15347",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T14:45:26.5454769+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4dd5085a-088c-478b-acb8-1bf0f0c2cd80",
+                      "Name":  "Refined Fresh Sausages",
+                      "Quantity":  2,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4815928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6df24c78-7565-442c-80f2-8b94a9161c2a",
+                      "Name":  "Gorgeous Metal Pizza",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4815996Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d922f547-09ae-4176-be4d-b4f68be08af6",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4816023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "306ef3aa-d865-4b9e-ba3c-e4e72abaf906",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4816033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7062734-4be5-4c5b-b3cc-8daa990ee2f1",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.481628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "491b662f-a82f-48bb-80d7-b21054f28d51",
+                      "Name":  "Generic Steel Tuna",
+                      "Quantity":  4,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4816379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63de6a24-b3e4-4965-ac5d-72222422abb4",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4816394Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

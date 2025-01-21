@@ -1,0 +1,80 @@
+{
+    "Id":  "363e951c-851f-4bad-91fa-d7a470f4d293",
+    "Title":  "月底大採購 - 好市多 (01/20)",
+    "CreatedAt":  "2025-01-20T02:55:14.1178445+08:00",
+    "Items":  [
+                  {
+                      "Id":  "77c4732f-0026-42c1-8de5-404261f3232f",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:50:06.0402568+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d485b161-4152-4d4a-b5a0-aae063ab5136",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:49:31.2388143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "173a2670-556a-437b-906c-bccfd3b24e8e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:02:57.0300817+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "951b0523-c4f9-46bc-96c0-eb342cbbf154",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:08:14.938851+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77a5f74b-fed1-40f8-8ad5-b9f7e8ec6f23",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:04:28.4319063+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c60fbf9f-f9d7-476c-9720-039e78f98ea4",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:47:23.5234945+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b34d07b-4351-4665-b1d2-da25a93e9cd3",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:10:31.7631249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8e59e19-c898-47cf-81fd-3a791f212a27",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:44:29.0820831+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

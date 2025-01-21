@@ -1,0 +1,35 @@
+{
+    "Id":  "bb3138f5-c8a1-4479-aa0d-4bd3211d420f",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-14T21:56:05.3721811+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7903351-f642-4523-b978-f7d9448596ac",
+                      "Name":  "筆筒",
+                      "Quantity":  7,
+                      "Price":  107.962929716796410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:18:43.7430422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74dd6ae9-2c86-41f2-b8dc-dffc9acc35c0",
+                      "Name":  "便利貼",
+                      "Quantity":  2,
+                      "Price":  444.679664524050680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:14:08.5929542+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6445cdf-39df-4973-b7ea-9aa5b9a9664b",
+                      "Name":  "番茄",
+                      "Quantity":  8,
+                      "Price":  232.004600467118980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:34:16.3712203+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

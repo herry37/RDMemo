@@ -1,0 +1,44 @@
+{
+    "Id":  "11bb07d5-e816-449f-9c83-1fc8671c3d0b",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-17T09:50:54.0864005+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88d260d6-098d-4e0c-b7cf-3a93cc28f57f",
+                      "Name":  "Refined Frozen Computer",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0900067Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74f6e5fa-ba6a-4ed4-8807-f2e0d51f7983",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0900093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15bb6918-b500-49a7-8b1f-1fa354ff3475",
+                      "Name":  "Generic Wooden Car",
+                      "Quantity":  1,
+                      "Price":  450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.090027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33c3eee2-54bb-43fa-aca1-5f88ca2e349c",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0900281Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

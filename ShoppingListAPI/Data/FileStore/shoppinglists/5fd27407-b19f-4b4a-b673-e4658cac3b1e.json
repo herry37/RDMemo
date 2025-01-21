@@ -1,0 +1,62 @@
+{
+    "Id":  "5fd27407-b19f-4b4a-b673-e4658cac3b1e",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T08:52:24.4110353+08:00",
+    "Items":  [
+                  {
+                      "Id":  "76f31930-10a0-4d08-abc0-a55bfa6d0355",
+                      "Name":  "Fantastic Steel Hat",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cb10f72-b972-4562-b8b3-90ca8834916d",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8fe3877-24c7-4686-a3a9-d3a3b5f0ca5d",
+                      "Name":  "Ergonomic Wooden Bike",
+                      "Quantity":  1,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c177fa03-1279-4848-b532-81a5fbb830ef",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4fde421-49df-4b20-803c-06a37573ec56",
+                      "Name":  "Ergonomic Rubber Soap",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57afb7be-2520-490e-bb5c-f3ca1cc1afe7",
+                      "Name":  "Practical Steel Chicken",
+                      "Quantity":  2,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1172853Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

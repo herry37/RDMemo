@@ -1,0 +1,89 @@
+{
+    "Id":  "2a7618db-eb7e-4083-986e-05fe8e16b112",
+    "Title":  "01/17 飲料採買清單",
+    "CreatedAt":  "2025-01-16T06:21:32.5609678+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cf310930-e243-4bce-855f-908a17e0a9ad",
+                      "Name":  "Ergonomic Wooden Fish",
+                      "Quantity":  2,
+                      "Price":  429,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437806Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f23b77a-7ad7-4664-82b7-f6bc4594aad1",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93767806-d5ba-407d-a49c-66582e749be4",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b80298c5-0c74-4e1c-b4a7-23d91608b15d",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  468,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437884Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76277288-8ca9-464a-acb3-cd11aaec1712",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437904Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ce7dc9b-d56f-45a9-8815-26e46b09fcab",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  386,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1437933Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90e52003-ca54-456c-8590-17a62a9b9811",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.143795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11ab91a4-d3b8-4115-a0bf-7ccbb4f33a5f",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1438063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7ab825c-ac1a-4761-8ae3-430baab93d31",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1438083Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

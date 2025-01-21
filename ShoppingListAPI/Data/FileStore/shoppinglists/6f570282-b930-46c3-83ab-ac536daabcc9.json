@@ -1,0 +1,62 @@
+{
+    "Id":  "6f570282-b930-46c3-83ab-ac536daabcc9",
+    "Title":  "居家整理 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-18T20:02:45.1636577+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c30ea671-735b-4b78-882b-8643af8dfd91",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:31:09.5809598+08:00",
+                      "CompletedAt":  "2025-01-18T12:53:16.691688+08:00"
+                  },
+                  {
+                      "Id":  "092a92c0-5d34-4c6b-a385-1e42dbf0201e",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:25:45.2059132+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5a4a640-b888-4ba7-92d2-17c85720bf6b",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:14:31.739443+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c997ac6-d820-4075-9d0f-f4193a15e8fe",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:59:39.6783645+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad368dfe-31b5-4a77-bed1-d9257edf7332",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  199,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:52:19.1191407+08:00",
+                      "CompletedAt":  "2025-01-17T05:04:59.9556073+08:00"
+                  },
+                  {
+                      "Id":  "8dbdb48f-7ad6-405f-8b9d-7f9598e4f125",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:07:42.5848092+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

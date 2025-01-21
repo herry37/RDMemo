@@ -1,0 +1,80 @@
+{
+    "Id":  "6d13b118-ead5-45ce-9f15-1e703474456a",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-15T11:01:00.6354822+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a0a4756a-88c9-4a32-85af-45be577560fc",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681501Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "790d5287-d1f9-45f7-9e2d-d5fbd68d4c44",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  359,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681546Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a83f3eaf-4d74-4e4d-b8a1-f5899547c0af",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26ad4f80-6292-48fe-a793-a1a50e36f3ee",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acd4c686-d033-400f-9e04-0aca5b843a8a",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681591Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fea88b0-800a-4357-9ba6-a9e32ac58041",
+                      "Name":  "Licensed Rubber Shoes",
+                      "Quantity":  1,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b1cdb08-1614-4d96-b594-418910a75e86",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  363,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0681995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78f092ec-3550-4a66-9a84-a3463f5e80a0",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0682077Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

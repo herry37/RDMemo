@@ -1,0 +1,53 @@
+{
+    "Id":  "9720cb92-ef22-46f6-a2b4-4dab00401896",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-20T10:17:35.9611271+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29dc9b22-bc20-430c-9ffb-25c2ae20e145",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7124243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f230e5e-d543-4995-8606-0663b1ff13f9",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7124261Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d38198f-efb4-4958-8dd6-7d2e04e2142c",
+                      "Name":  "Handcrafted Rubber Soap",
+                      "Quantity":  1,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7124379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8d2cc91-0d97-45c1-b158-e1548f76b32f",
+                      "Name":  "Generic Soft Chicken",
+                      "Quantity":  4,
+                      "Price":  357,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7124403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d33a53a3-780c-41a6-9925-d616d8d8ef9e",
+                      "Name":  "Awesome Fresh Gloves",
+                      "Quantity":  5,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7124427Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

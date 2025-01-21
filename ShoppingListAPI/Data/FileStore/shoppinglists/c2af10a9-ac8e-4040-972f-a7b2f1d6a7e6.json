@@ -1,0 +1,44 @@
+{
+    "Id":  "c2af10a9-ac8e-4040-972f-a7b2f1d6a7e6",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T23:36:46.1923517+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ee163d62-f351-48d8-9469-159c26b1926f",
+                      "Name":  "面膜",
+                      "Quantity":  4,
+                      "Price":  206.40408354265860,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T17:10:50.4613287+08:00",
+                      "CompletedAt":  "2025-01-15T12:25:40.266694+08:00"
+                  },
+                  {
+                      "Id":  "f32c278d-fab9-4240-8fb2-2a1653b64601",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  372.887610591843330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:57:31.1508133+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12ddb578-d22d-4fb5-8998-8b70f46e0b30",
+                      "Name":  "盤子",
+                      "Quantity":  9,
+                      "Price":  21.3985794012709080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:54:52.714465+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cc719db-c120-44db-a361-f841ca2be109",
+                      "Name":  "相框",
+                      "Quantity":  1,
+                      "Price":  396.918364368015340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:52:58.7551221+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

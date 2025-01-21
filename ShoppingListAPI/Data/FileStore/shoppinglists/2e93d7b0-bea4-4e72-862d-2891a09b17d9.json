@@ -1,0 +1,71 @@
+{
+    "Id":  "2e93d7b0-bea4-4e72-862d-2891a09b17d9",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T12:20:29.6560793+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0164c464-442f-4bcc-81b3-bf684f8914a8",
+                      "Name":  "蛋糕",
+                      "Quantity":  9,
+                      "Price":  100.718683577252290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:38:17.8727766+08:00",
+                      "CompletedAt":  "2025-01-18T21:21:10.7362575+08:00"
+                  },
+                  {
+                      "Id":  "35ba68be-08e8-4d10-aa22-7729d42c89ba",
+                      "Name":  "洗衣精",
+                      "Quantity":  6,
+                      "Price":  449.873090709413970,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:00:20.0407652+08:00",
+                      "CompletedAt":  "2025-01-19T11:38:57.3630221+08:00"
+                  },
+                  {
+                      "Id":  "8d986a85-4899-4e34-a891-f3cc644727bc",
+                      "Name":  "豬肉",
+                      "Quantity":  5,
+                      "Price":  394.988346539065990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:51:45.8299573+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e38a59e-6d99-4d87-8912-181abadcdc6c",
+                      "Name":  "清潔劑",
+                      "Quantity":  4,
+                      "Price":  20.8193670547816420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:04:25.2704586+08:00",
+                      "CompletedAt":  "2025-01-20T21:19:11.6909681+08:00"
+                  },
+                  {
+                      "Id":  "b529b2b3-119f-4a99-8742-462b8e354d34",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  8,
+                      "Price":  279.969563756003510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:24:37.8244277+08:00",
+                      "CompletedAt":  "2025-01-22T06:08:21.6114234+08:00"
+                  },
+                  {
+                      "Id":  "be6ae08c-85b5-454b-b990-076a4bd1afeb",
+                      "Name":  "咖啡",
+                      "Quantity":  9,
+                      "Price":  313.868741801409190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:49:20.2361606+08:00",
+                      "CompletedAt":  "2025-01-21T04:07:31.0909036+08:00"
+                  },
+                  {
+                      "Id":  "a75f14e3-ff41-42ac-9281-ef931319ec72",
+                      "Name":  "可樂",
+                      "Quantity":  1,
+                      "Price":  203.810284939122880,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:44:01.4780178+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "fa30f726-112e-44e6-a567-974c10cb01fc",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T14:53:39.7221631+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4eb091a6-1b02-4706-bdd6-889d8dd1342f",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0243733Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21ca98da-052d-4d4c-8920-ddbf6d471a3e",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0243767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b9886a2-23ba-47d5-b615-7350a5042b70",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0243777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01fe9ee9-2516-4c73-85c1-44e61b112f2c",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  327,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0243787Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ded832be-da2b-412b-a3f8-bcbb95c801ae",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0243799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1a76b5b-d74a-4dc1-9161-3b6007bd218a",
+                      "Name":  "Practical Concrete Computer",
+                      "Quantity":  4,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0244086Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

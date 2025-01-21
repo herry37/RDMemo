@@ -1,0 +1,71 @@
+{
+    "Id":  "8f6fc60b-53a5-4b08-a44a-61d08b2fa643",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-19T22:33:57.6298059+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cce77249-12ca-4ef8-ad5b-c18d7fcf837e",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cda0cd5d-cb98-4e98-8462-15f76405aaa9",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28b1bd65-58d7-44b2-b852-2b97c118e432",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.559874Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "764242f0-f395-48df-a7cc-2b55a6db7163",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14f9cd6a-81d5-4126-857c-3d39738b09c4",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598755Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a79472c-9034-4cc4-89bd-07216912465b",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c287d0e-1ce3-491a-91dc-a9519e8fbc83",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5598775Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "a80e877d-7e1e-4754-a268-336ffba17be2",
+    "Title":  "緊急採買 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-20T20:37:50.6939566+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7136867a-52de-435e-aeab-f09134b395aa",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:51:45.4742934+08:00",
+                      "CompletedAt":  "2025-01-20T12:37:22.5306087+08:00"
+                  },
+                  {
+                      "Id":  "bc86b9ff-eb7d-4aed-af19-f121911602dd",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:57:17.5388035+08:00",
+                      "CompletedAt":  "2025-01-17T09:17:59.7408625+08:00"
+                  },
+                  {
+                      "Id":  "bbd3c6a0-6481-46c6-a7e2-16906bd92d3b",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:42:52.8246862+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1a3c52f-9644-4390-83f6-1453bf49962e",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:16:35.9407516+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e37f531-848e-4aed-9af3-52703c3e0b4e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:11:37.4327753+08:00",
+                      "CompletedAt":  "2025-01-19T16:59:09.185809+08:00"
+                  },
+                  {
+                      "Id":  "93bf817f-7557-4f3c-94a5-3c6da5cb99d3",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:43:48.1914653+08:00",
+                      "CompletedAt":  "2025-01-21T10:50:36.9651778+08:00"
+                  },
+                  {
+                      "Id":  "efdc2f27-9306-463a-9d79-89816f279524",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:15:41.348364+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "bb8e1913-9ba4-464b-a7b8-f8781e2c7330",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-14T16:14:48.3068491+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a152a1e5-5adf-4aa0-8f09-963124ffa078",
+                      "Name":  "堅果",
+                      "Quantity":  10,
+                      "Price":  194.619198811566050,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:59:02.9207819+08:00",
+                      "CompletedAt":  "2025-01-21T04:24:06.5199092+08:00"
+                  },
+                  {
+                      "Id":  "1662e898-fd9e-4966-b6ca-b5f77eb75103",
+                      "Name":  "豬肉",
+                      "Quantity":  7,
+                      "Price":  479.607911915018310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:28:14.868977+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00604020-8956-497c-ba8d-ac13b861bc46",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  10,
+                      "Price":  396.264694798019870,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:21:36.8983734+08:00",
+                      "CompletedAt":  "2025-01-20T18:01:03.0487346+08:00"
+                  },
+                  {
+                      "Id":  "e25d294d-ff2d-4c91-9b9b-b1da1d419448",
+                      "Name":  "尺",
+                      "Quantity":  3,
+                      "Price":  45.3834600272014890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:31:59.4427116+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a51c8d25-e46c-48dc-ba85-6431635aad3f",
+                      "Name":  "除霉劑",
+                      "Quantity":  9,
+                      "Price":  434.028079263750220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:36:57.3289781+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08469b22-95b8-43ca-8398-2f30efb4069c",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  101.719656604339330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:30:45.0480736+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

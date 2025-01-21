@@ -1,0 +1,44 @@
+{
+    "Id":  "deea94c6-784b-40a6-9af2-33bd7adafe80",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-18T06:50:18.2444818+08:00",
+    "Items":  [
+                  {
+                      "Id":  "52287440-d801-496c-a4ce-6325b9dc4fb3",
+                      "Name":  "Sleek Soft Sausages",
+                      "Quantity":  5,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.589584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b083cd4a-c91b-4092-8fa1-f1c604eedf0f",
+                      "Name":  "Awesome Steel Sausages",
+                      "Quantity":  3,
+                      "Price":  402,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5895887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87b2ff12-2a82-452c-81dd-861197efe4a6",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  15,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5895898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "958fbaf1-a311-4a50-8729-f704351649e8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5895909Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

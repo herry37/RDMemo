@@ -1,0 +1,35 @@
+{
+    "Id":  "619b41dd-36d0-4e79-8aa3-7e845199b2f3",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T16:39:44.0632288+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8e14a579-8ef9-46ee-a387-224664c3f1ed",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4884977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6af2a67-6ee4-4415-a3cb-4239b36cb035",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.488502Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d2b48ee-b53d-4568-95b1-8d8e96f057fc",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4885054Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

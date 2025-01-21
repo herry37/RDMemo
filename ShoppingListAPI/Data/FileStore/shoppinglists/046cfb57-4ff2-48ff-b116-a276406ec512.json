@@ -1,0 +1,71 @@
+{
+    "Id":  "046cfb57-4ff2-48ff-b116-a276406ec512",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T19:17:27.1770435+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8479fc43-f9f4-41f5-981b-7246911fdcf1",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64fb71e5-2f46-4265-b1a0-0000b261df99",
+                      "Name":  "Ergonomic Concrete Gloves",
+                      "Quantity":  3,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8574be47-af02-4505-97fc-6c752c635707",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a98e3ab2-3d31-4fe6-9882-998bd3410a86",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3bb898d-1e73-4e50-9c49-7cf99679a3e3",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961666Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d83db1e3-bbdf-4ab1-94f8-684589f4032e",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9961704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3144c5e9-691a-442e-b33e-27f2efc1a203",
+                      "Name":  "Awesome Concrete Chips",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.996177Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

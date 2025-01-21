@@ -1,0 +1,80 @@
+{
+    "Id":  "183d546a-8ab5-408b-a5c6-56c48c5759a5",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-17T13:09:36.6853539+08:00",
+    "Items":  [
+                  {
+                      "Id":  "961afabf-566b-4926-8481-1b344e554739",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8350882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1041bdb9-bece-425a-824d-d5c717107b9b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8350918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19811a8e-8b9b-4121-8bf7-b1adfdd34117",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8350954Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "713bef5b-7236-48dd-8f96-3bab943cb2cc",
+                      "Name":  "Unbranded Steel Towels",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8351842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a87d06f-3b6e-4b71-b84b-2cab214a3d87",
+                      "Name":  "Licensed Plastic Towels",
+                      "Quantity":  3,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8351905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb6b62cc-29e1-4ae4-aa64-e40bcc711fd0",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.835194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9adac96-8eaa-44ce-b74e-37dd765d66e6",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8351966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9be9a78e-c56a-4e2f-b615-42c13f532750",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8351987Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

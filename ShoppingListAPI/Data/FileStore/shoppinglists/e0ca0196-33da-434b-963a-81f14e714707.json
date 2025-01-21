@@ -1,0 +1,80 @@
+{
+    "Id":  "e0ca0196-33da-434b-963a-81f14e714707",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T00:36:23.3001412+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bb04cf63-0216-45a5-adae-2ca6d2147456",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7775622Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa6e49be-b254-4466-90f9-7d42a077b160",
+                      "Name":  "Unbranded Cotton Bacon",
+                      "Quantity":  5,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7775982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fd680f4-d41d-4a85-bfda-e787b46eeecd",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  67,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7776008Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4820de4-be48-47e8-9acf-840ae2dc7194",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.777604Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31f43132-c81c-4269-8ec7-185ec7724f54",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7776065Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4bbae3d-c18c-4443-9ab6-7131eb19431e",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  347,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7776104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b652207-b968-4f0c-a3cc-110bc7bb919d",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7776128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ec57df5-eb30-4e24-b177-04d7437d5e66",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7776157Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

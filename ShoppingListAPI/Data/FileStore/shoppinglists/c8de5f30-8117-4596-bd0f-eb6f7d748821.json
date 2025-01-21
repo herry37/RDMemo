@@ -1,0 +1,35 @@
+{
+    "Id":  "c8de5f30-8117-4596-bd0f-eb6f7d748821",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-19T05:55:00.5001357+08:00",
+    "Items":  [
+                  {
+                      "Id":  "23881f83-398a-4e1f-ae91-49a048635f3a",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5405866Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ef9af2c-d037-4acc-8518-53e528908ddd",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5405932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51be8bf1-7de0-44a2-bc3a-4f95a9bf2877",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5406205Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

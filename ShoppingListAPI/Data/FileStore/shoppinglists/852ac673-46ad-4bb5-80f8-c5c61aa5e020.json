@@ -1,0 +1,35 @@
+{
+    "Id":  "852ac673-46ad-4bb5-80f8-c5c61aa5e020",
+    "Title":  "居家整理 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T21:29:06.5355304+08:00",
+    "Items":  [
+                  {
+                      "Id":  "173fb58a-2d0a-483d-9708-a57f580c457b",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:42:09.2445458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1135ea12-1b9f-41c0-af56-f44f7d750d6b",
+                      "Name":  "透明膠帶",
+                      "Quantity":  2,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:24:28.0551783+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a3fdc97-6b19-4e95-b416-cbd286ed7f76",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:33:00.2377068+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "1dc91ec6-1819-4d02-897c-a52dc5c8c0bf",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T05:29:59.5592305+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d89a5328-cb99-4d90-92a7-641a4c92da50",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:32:53.5139308+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb1b326c-11fc-4c31-8223-b7c3b7057a78",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:52:33.7146504+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf5734ac-11f0-4101-b412-7a597c0bc238",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:49:50.2771565+08:00",
+                      "CompletedAt":  "2025-01-20T15:28:43.8126484+08:00"
+                  },
+                  {
+                      "Id":  "4be1b24b-8dcf-4c00-ac2a-36a685e85a72",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:13:26.6666015+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9baa9a1-6daa-46ac-b337-364640037785",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:04:12.6660351+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1e837e6-bb59-4a28-9ffb-8fb0bc6bcf71",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:49:35.4710944+08:00",
+                      "CompletedAt":  "2025-01-16T17:32:55.2774553+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

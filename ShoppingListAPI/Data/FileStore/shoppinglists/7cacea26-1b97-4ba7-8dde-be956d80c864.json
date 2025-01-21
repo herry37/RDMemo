@@ -1,0 +1,98 @@
+{
+    "Id":  "7cacea26-1b97-4ba7-8dde-be956d80c864",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-20T20:54:50.5466867+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7d6c138-8a4a-409f-9107-63dc8e1e2509",
+                      "Name":  "Unbranded Concrete Ball",
+                      "Quantity":  4,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b01d60e2-b104-48a1-9fae-b9c1a6fec49b",
+                      "Name":  "Refined Granite Shoes",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a16b6ff1-256b-4cc9-8a28-060258e49107",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185697Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c895b7db-9241-44e7-ba6b-d4bd2bb48e70",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9673a257-dbc3-48a5-98e4-2a69c8334f2e",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185712Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75ac7868-78b7-4f2c-b310-65115329a244",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5825a37d-bcd4-4940-a0da-71e27592c597",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185883Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "279b3d8a-b838-4447-909e-48ca18a30f75",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.718589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ecf84dc4-2031-4deb-8658-43f406f20ad7",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6dac0b4a-dc39-402c-a00b-3f37257f883d",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7185919Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

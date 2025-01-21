@@ -1,0 +1,35 @@
+{
+    "Id":  "f4ab0ed1-20cc-4f91-9e70-aeca45a7470c",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-15T00:33:23.5489164+08:00",
+    "Items":  [
+                  {
+                      "Id":  "32d52031-2963-49d8-abe1-afc73979cc99",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0124107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ebc2c9b-a6a3-4926-b96e-0a93a1c1d340",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0124168Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a126280-50b9-443e-8391-8c253ffc7f92",
+                      "Name":  "Practical Metal Bike",
+                      "Quantity":  4,
+                      "Price":  205,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0124449Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

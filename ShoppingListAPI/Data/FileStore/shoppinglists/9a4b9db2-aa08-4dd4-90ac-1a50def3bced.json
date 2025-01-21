@@ -1,0 +1,80 @@
+{
+    "Id":  "9a4b9db2-aa08-4dd4-90ac-1a50def3bced",
+    "Title":  "派對用品 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-16T19:46:35.0314751+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4a0711bd-e1e6-48c0-bbc8-1fe2e4ff2c6e",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:26:44.4764082+08:00",
+                      "CompletedAt":  "2025-01-15T16:01:03.8890467+08:00"
+                  },
+                  {
+                      "Id":  "71011ad5-4c72-4420-b31e-8996f8c305c8",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T22:40:00.9025351+08:00",
+                      "CompletedAt":  "2025-01-20T19:37:11.2758008+08:00"
+                  },
+                  {
+                      "Id":  "28f756c5-7175-4aae-be3d-76c72a2bb0b7",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:05:35.9310268+08:00",
+                      "CompletedAt":  "2025-01-17T13:28:04.9432889+08:00"
+                  },
+                  {
+                      "Id":  "65827f98-1594-40bd-86b4-30ffbb278235",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:14:05.5539994+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f23a8138-e438-418a-8b56-d4832f022323",
+                      "Name":  "充電電池",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:26:21.5736305+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdd80836-ee55-43ac-abfd-e660a59ab424",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:39:27.677436+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0f6b407-53ba-449d-9a6f-ce08753f97d9",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:35:04.7875791+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d296c22-94b2-4a28-b171-9a5a21904b1b",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:45:33.0706015+08:00",
+                      "CompletedAt":  "2025-01-18T00:44:20.2693491+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

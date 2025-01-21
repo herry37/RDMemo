@@ -1,0 +1,53 @@
+{
+    "Id":  "699850ee-f470-4b2e-a28d-7e34c1899af7",
+    "Title":  "月底大採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T13:10:06.9759884+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b3061f94-5fc6-462e-89bc-cc278723e56d",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:36:59.4818823+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cedaab9c-8be7-4c89-85bc-c3c287e81925",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:33:18.1006665+08:00",
+                      "CompletedAt":  "2025-01-21T21:25:06.7150633+08:00"
+                  },
+                  {
+                      "Id":  "37cd56e1-6150-4a5c-99bd-c6b5d51fcd85",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:18:55.5009963+08:00",
+                      "CompletedAt":  "2025-01-16T00:22:39.0107396+08:00"
+                  },
+                  {
+                      "Id":  "3e59b39b-9dbe-4256-84d7-6da141d5e10f",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:21:09.6484053+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5dc4c92c-5c9e-4034-9302-3e154a92bc7b",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:44:16.1063211+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "b4ac9ec5-4309-4a60-927b-9e602eb23f34",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-18T15:44:13.5875406+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f04564c0-5f09-460a-affa-68a4fe886e0c",
+                      "Name":  "Practical Plastic Ball",
+                      "Quantity":  4,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3610841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d07107d5-8228-404c-a0b9-0a370eed900d",
+                      "Name":  "Intelligent Plastic Chips",
+                      "Quantity":  4,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3610985Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0674966c-69c8-481c-827a-988c6c35be9f",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611014Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6202f734-5470-47c0-b80e-decf95cf5891",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611029Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f37a74c5-e051-42ba-8b2b-c8dfb434460d",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  459,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611045Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf63ed01-85a2-41d3-a200-ea5da0ee3cc7",
+                      "Name":  "Handcrafted Frozen Towels",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a4b8e81-411c-46dd-86ae-fa4eb5b20235",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4809af9-5a53-4180-9959-f996fb5d71e7",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3611182Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

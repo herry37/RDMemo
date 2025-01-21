@@ -1,0 +1,53 @@
+{
+    "Id":  "293cd53e-ea5f-4647-ab63-6d00d1d233b9",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T15:06:10.6376677+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b21689dc-b02c-4a06-b3d6-6fa5e7a6fae5",
+                      "Name":  "Awesome Fresh Computer",
+                      "Quantity":  2,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.21513Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99593d63-d53d-438d-a227-d97397b64728",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2151315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd7068da-5a9c-442c-b067-e28188454553",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2151323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b05f43f8-2703-4f0b-9eb8-a4276003ae22",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2151332Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a120c321-95ba-4211-9e1d-2e7f8b74d640",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2151342Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

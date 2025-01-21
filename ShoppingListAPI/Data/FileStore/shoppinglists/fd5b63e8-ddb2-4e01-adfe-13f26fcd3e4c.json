@@ -1,0 +1,35 @@
+{
+    "Id":  "fd5b63e8-ddb2-4e01-adfe-13f26fcd3e4c",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-21T08:17:38.4089663+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bde03fad-b1a6-4532-bcf1-3ed25068d84e",
+                      "Name":  "蛋糕",
+                      "Quantity":  3,
+                      "Price":  117.64569693939810,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:01:35.0300832+08:00",
+                      "CompletedAt":  "2025-01-15T01:58:02.0861768+08:00"
+                  },
+                  {
+                      "Id":  "76404be4-4ab9-4d3c-bc57-8fcf1f5a20cf",
+                      "Name":  "香蕉",
+                      "Quantity":  9,
+                      "Price":  210.759434627362730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:52:55.5267262+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b4d2864-df92-49e3-b6f2-8606ecdd7baa",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  405.636057927339250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:45:01.3134134+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

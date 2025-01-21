@@ -1,0 +1,62 @@
+{
+    "Id":  "77a32239-530b-463b-9ce3-51a14b370f74",
+    "Title":  "月底大採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T23:47:13.0288308+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3aa8c072-4f5a-4597-9049-0ed3a457de6b",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:43:44.9753991+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88e6e504-dcf2-44d5-95cd-bca531b8b4c7",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:19:41.8069762+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ec344b0-b18e-48b4-b19b-2c5133f75db3",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:36:20.6608125+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37b3fa8e-8143-4f4e-b577-767f837413d8",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:55:41.3887216+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1c8ec2d-1e8c-45b0-a066-df08c665fb45",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:39:32.5365279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60be1667-1dd0-4c08-ab06-a4f2dec0e371",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:05:05.5376084+08:00",
+                      "CompletedAt":  "2025-01-19T01:32:23.2861484+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

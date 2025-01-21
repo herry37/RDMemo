@@ -1,0 +1,62 @@
+{
+    "Id":  "db57389e-1946-433e-976b-10917c7c3728",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-16T05:28:50.5369178+08:00",
+    "Items":  [
+                  {
+                      "Id":  "028457b6-ce5b-4609-a1f6-f93a7094e040",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfb83e86-ba4c-4bbf-add4-1eb7c537e998",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925113Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a3cea4b-4a3e-4604-8642-9ef4d5fa2213",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f826e70-8b2e-4e49-85e9-f002560113c8",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c5863a9-656e-4040-82d6-e48b12446a06",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f986002-23f8-46ff-9125-f7dc9468f720",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  100,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8925185Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

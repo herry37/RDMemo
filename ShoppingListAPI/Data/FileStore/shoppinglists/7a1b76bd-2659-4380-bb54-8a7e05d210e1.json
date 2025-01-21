@@ -1,0 +1,35 @@
+{
+    "Id":  "7a1b76bd-2659-4380-bb54-8a7e05d210e1",
+    "Title":  "日常補充 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-19T06:49:21.3146997+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7f5881e6-c3ff-4bc6-a04d-ffc2dfa95b7f",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:53:56.4316145+08:00",
+                      "CompletedAt":  "2025-01-16T22:16:13.3583501+08:00"
+                  },
+                  {
+                      "Id":  "19d8b42c-944e-4960-93d3-9deb464e8b26",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:05:32.0142593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5fa1c465-db89-460d-93d3-3d64afb8baa3",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:49:40.4672336+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

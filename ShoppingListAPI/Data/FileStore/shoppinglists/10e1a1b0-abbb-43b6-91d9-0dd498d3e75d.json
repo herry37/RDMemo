@@ -1,0 +1,71 @@
+{
+    "Id":  "10e1a1b0-abbb-43b6-91d9-0dd498d3e75d",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-21T05:28:00.3600209+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22414977-153b-4d2f-8b10-220f7c51e93d",
+                      "Name":  "Licensed Cotton Salad",
+                      "Quantity":  1,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5348794Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05a794e2-15f3-4fe7-8956-fb1bd5539ae1",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5348835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41344cec-432a-4a82-86d7-a33dae619e87",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5348875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c52cac0-c2a4-4047-b269-a3fe824e72b9",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5348892Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afccdb81-e7ad-4990-a15e-fcdc62983035",
+                      "Name":  "Handmade Rubber Keyboard",
+                      "Quantity":  2,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.534898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3eeff96-e8b9-4f46-9a1b-d44b7a1ed83b",
+                      "Name":  "Tasty Cotton Keyboard",
+                      "Quantity":  4,
+                      "Price":  438,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5349062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cca5fc17-cddd-484c-a3b4-a7aabb87fd9d",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5349086Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

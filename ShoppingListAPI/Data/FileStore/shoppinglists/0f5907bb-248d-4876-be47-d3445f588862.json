@@ -1,0 +1,35 @@
+{
+    "Id":  "0f5907bb-248d-4876-be47-d3445f588862",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-16T17:24:18.8380389+08:00",
+    "Items":  [
+                  {
+                      "Id":  "77246c63-93c8-4460-96be-37fef3f8b1f1",
+                      "Name":  "Intelligent Rubber Keyboard",
+                      "Quantity":  4,
+                      "Price":  351,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2314121Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "787d34b5-e745-4687-9178-c3ed3b87cd6a",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2314148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8210a937-cd74-4b1d-bebe-35b78e59b364",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  427,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2314158Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

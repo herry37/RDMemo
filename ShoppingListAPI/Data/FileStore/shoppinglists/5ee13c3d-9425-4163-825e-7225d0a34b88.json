@@ -1,0 +1,62 @@
+{
+    "Id":  "5ee13c3d-9425-4163-825e-7225d0a34b88",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T01:37:27.7643556+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b99b589a-eb36-4dab-b93a-4bc79e387423",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:27:50.5506227+08:00",
+                      "CompletedAt":  "2025-01-18T01:56:12.5072866+08:00"
+                  },
+                  {
+                      "Id":  "336a5b96-6240-47a9-9b16-3fb00b6b09e0",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:56:00.1864661+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad1b2229-1c54-47a7-a364-dd114b9a9bd1",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:54:50.1123864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96c8cef4-6e58-48a0-b9b4-f2208c282910",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:34:17.7394022+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21b47b44-2c1a-42db-aede-bfab4daa3a45",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  5,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:15:50.1066051+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea638ce1-b7c5-468b-958d-030e827fff1c",
+                      "Name":  "日本泡麵",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:57:29.8247795+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "14dd4358-0838-4f37-9f2d-76ef8c423406",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T20:47:39.4752491+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5fe80a82-5860-44da-bdec-208d5939e621",
+                      "Name":  "Refined Plastic Mouse",
+                      "Quantity":  4,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.625523Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da90dcf7-b66e-4a76-b656-fc6d3117715a",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0de83cbe-34c2-4ecb-af38-ae1cdf3e3742",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d3cd693-75c6-4a72-8601-41341066c239",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255326Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e21b1b49-b1dd-4efa-8bac-4d0ca9d78d18",
+                      "Name":  "Gorgeous Steel Shoes",
+                      "Quantity":  4,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92701f96-e50f-4c67-bc90-4bd329ba9839",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96be059a-3ced-4d88-bfde-881997f319d8",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6255472Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

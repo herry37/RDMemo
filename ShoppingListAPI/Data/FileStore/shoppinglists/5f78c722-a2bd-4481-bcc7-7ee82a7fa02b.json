@@ -1,0 +1,35 @@
+{
+    "Id":  "5f78c722-a2bd-4481-bcc7-7ee82a7fa02b",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T20:16:29.2706043+08:00",
+    "Items":  [
+                  {
+                      "Id":  "63d59818-a4ad-42a0-8ea8-4e0659f7c694",
+                      "Name":  "化妝品",
+                      "Quantity":  8,
+                      "Price":  111.356125122302750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:24:00.9864385+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf01e76d-6508-4aa8-95ab-0f3b4d057855",
+                      "Name":  "碗",
+                      "Quantity":  7,
+                      "Price":  50.8097107668012980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:56:12.2314067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bde1efc5-41ea-4652-9c5a-c8a7e7944ab1",
+                      "Name":  "口香糖",
+                      "Quantity":  3,
+                      "Price":  380.785470582395120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:04:16.2996689+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

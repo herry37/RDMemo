@@ -1,0 +1,71 @@
+{
+    "Id":  "377e9cdd-d937-484a-b7a4-91c05e045139",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T23:15:11.9030833+08:00",
+    "Items":  [
+                  {
+                      "Id":  "075766b1-d9ca-489c-b247-e5416256a356",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677303Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "697e7451-6270-4463-b515-d49dd24c84a8",
+                      "Name":  "Handmade Plastic Pants",
+                      "Quantity":  1,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f03923f7-9bd4-4576-af46-58e15c5161f1",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8376f3c-4b8c-4191-83ee-5c95276d7ecf",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4b16ac8-bdbd-4efb-ab6b-4690fe34cf30",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677534Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05424e2a-69e9-4f09-b684-2b91477d259a",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677555Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f1822ff-97b0-4078-af4a-165360dbe8a4",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6677561Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "658048c5-2dd9-4c2f-9d88-bdda458ac02d",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T12:52:31.8106013+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ef33e813-4f3b-4c22-9d0f-07b369e56386",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  474,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6549709Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd6742b0-662e-4d13-92fa-246524b646a8",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6549751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59004ccd-bafe-4cbc-9088-368f472b2c64",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6549775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61c1a2e5-44b2-4b6e-b37b-d34b01813ae3",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6549798Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

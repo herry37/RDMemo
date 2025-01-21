@@ -1,0 +1,80 @@
+{
+    "Id":  "924a8b00-4fd7-49cb-ad34-3431eaaca182",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-19T13:27:52.1982778+08:00",
+    "Items":  [
+                  {
+                      "Id":  "53041b38-d03b-4876-b560-f565e80f9990",
+                      "Name":  "Tasty Steel Pizza",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4861959Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b312e1c4-2278-4f95-a023-897f37af0318",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1b49677-bc05-4161-9974-d6e117c42996",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.486205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a347beb-cfc1-46f0-9637-6b3a543d685f",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862077Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3eb87cd9-c786-4fdf-8001-f60d10153d8d",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9fa9293-56f6-49a1-83df-e2533b0561ab",
+                      "Name":  "Awesome Fresh Soap",
+                      "Quantity":  5,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862204Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bdb3fbeb-73bc-48a4-a209-ce27436fa5ef",
+                      "Name":  "Generic Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862321Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79aa6701-35a5-4b7f-a136-87b8b14b9e9e",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4862351Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

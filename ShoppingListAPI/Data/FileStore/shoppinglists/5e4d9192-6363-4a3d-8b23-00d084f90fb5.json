@@ -1,0 +1,71 @@
+{
+    "Id":  "5e4d9192-6363-4a3d-8b23-00d084f90fb5",
+    "Title":  "居家整理 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-16T13:25:44.3647746+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7fb3667d-9327-49b1-bb7d-02b8578d6827",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:44:38.5723452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "362a845b-5aff-42bb-8b20-45a75e65f46d",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  1,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:38:41.6351422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b398d935-44a3-40b5-ab3e-fad16eb4e65c",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:58:20.0980505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47ef4910-71f8-4b61-86d3-d31a65b7cee0",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:56:36.7141483+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff5399e4-352a-47ae-a6ef-2a1aed884c06",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T22:53:22.0203567+08:00",
+                      "CompletedAt":  "2025-01-20T07:32:23.4409762+08:00"
+                  },
+                  {
+                      "Id":  "1f76fb5d-3366-4091-be84-dc008976369d",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:04:16.8763458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2884a99e-e6e8-4f48-a640-4062a59ebafe",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:12:18.0947094+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

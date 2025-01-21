@@ -1,0 +1,80 @@
+{
+    "Id":  "979c88fc-4d1a-48e7-8cad-d19753a951af",
+    "Title":  "年節採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-15T01:25:48.0561796+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c67a429-bc10-4324-bf49-3dc138f4a693",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:35:16.5096166+08:00",
+                      "CompletedAt":  "2025-01-16T00:42:48.9787892+08:00"
+                  },
+                  {
+                      "Id":  "b38b941a-ba18-4f12-9147-18d13893c164",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:34:05.4426357+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4a494a0-4af5-4f19-acb4-1bc525d1ad1c",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:41:17.1792687+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11461187-88c9-4e35-8484-a493059a1b3f",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  1,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:01:14.1611108+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fb72553-4dbd-49be-a250-7117a4865d59",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:26:03.7223705+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14a8ab8a-5f44-4998-9ec2-fe4608a8b173",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:48:36.7390321+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67e92053-4cd4-487f-b003-a509e62ff280",
+                      "Name":  "進口糖果",
+                      "Quantity":  4,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:24:51.4274694+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd00f0c5-d7f5-412e-8c03-e079afb1f955",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:33:42.3491018+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

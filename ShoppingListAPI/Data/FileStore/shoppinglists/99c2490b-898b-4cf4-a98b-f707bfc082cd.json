@@ -1,0 +1,89 @@
+{
+    "Id":  "99c2490b-898b-4cf4-a98b-f707bfc082cd",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T18:17:03.9229483+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1e898a2-9307-486d-bad0-ae03f7f4cc3a",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  69.061136354135790,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:40:22.2534869+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7298be25-3915-4fc1-90c4-bcb38083eef9",
+                      "Name":  "巧克力",
+                      "Quantity":  7,
+                      "Price":  485.548443438994310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:06:06.3717952+08:00",
+                      "CompletedAt":  "2025-01-19T10:00:16.9246375+08:00"
+                  },
+                  {
+                      "Id":  "36a0a097-636b-4d70-8e05-7188ae488648",
+                      "Name":  "糖果",
+                      "Quantity":  7,
+                      "Price":  379.733297687602380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:35:00.285744+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dddf445d-b73c-477e-9ae5-0e043261156c",
+                      "Name":  "蛋糕",
+                      "Quantity":  5,
+                      "Price":  495.083038784571640,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:37:03.0319479+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dc5ad9b-f48f-4d37-8698-22de838454f2",
+                      "Name":  "置物盒",
+                      "Quantity":  1,
+                      "Price":  36.5915781726185990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:10:12.6121129+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e33adb38-6b43-44ba-8227-ce30e2adc905",
+                      "Name":  "防曬乳",
+                      "Quantity":  7,
+                      "Price":  192.021501457158160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:02:06.3305141+08:00",
+                      "CompletedAt":  "2025-01-18T12:34:25.0907387+08:00"
+                  },
+                  {
+                      "Id":  "3cedc3be-40e4-4351-974e-df21a3b332cc",
+                      "Name":  "洗髮精",
+                      "Quantity":  7,
+                      "Price":  12.57426029248354120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:54:17.9650941+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ae1c7d8-0198-4a25-a348-a4da4afd2d96",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  173.567194691427240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:33:05.7936001+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0af141b0-a4bd-41af-a002-a3fb307b45fb",
+                      "Name":  "餐具",
+                      "Quantity":  2,
+                      "Price":  486.503262856315240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:09:38.1941263+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "5758e3ce-3de2-4dc2-81f1-4091cb174257",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T15:46:14.9979123+08:00",
+    "Items":  [
+                  {
+                      "Id":  "178952bb-8da7-4ddc-a4aa-38ff4cef954b",
+                      "Name":  "美白牙膏",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:15:46.6965501+08:00",
+                      "CompletedAt":  "2025-01-20T21:51:33.3906977+08:00"
+                  },
+                  {
+                      "Id":  "7684978c-6029-4f8d-ad3c-4e99d61b254d",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:25:12.2313067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe0a259d-4488-44a7-aabc-438b9333a6d7",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:42:59.8972011+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7628204-3c87-4069-bc38-8428143ca13a",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:42:37.9282264+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8524b1ab-e43e-4458-ab6a-1b1cf273383e",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:41:06.6594282+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "595429b7-78a6-4765-a971-4177159604f4",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:31:56.8968279+08:00",
+                      "CompletedAt":  "2025-01-16T05:21:22.9206576+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

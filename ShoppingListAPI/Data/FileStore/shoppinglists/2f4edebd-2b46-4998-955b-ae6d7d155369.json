@@ -1,0 +1,71 @@
+{
+    "Id":  "2f4edebd-2b46-4998-955b-ae6d7d155369",
+    "Title":  "每週採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-15T00:54:26.3386451+08:00",
+    "Items":  [
+                  {
+                      "Id":  "487c346b-173e-4f67-8085-9f9023171348",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:59:15.5791838+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2deccd9e-ccde-4652-b8a9-653411b14588",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:03:08.7052707+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e8c9048-ef2e-404b-af86-918b561e1ffa",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:08:01.9398516+08:00",
+                      "CompletedAt":  "2025-01-18T17:19:47.8365108+08:00"
+                  },
+                  {
+                      "Id":  "67ff2681-def1-4d3c-a4b4-9e9da62d5cd3",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:14:47.0162329+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9395fe3-0368-423a-ad16-2b25eeae66f3",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:04:40.3544004+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "589808d8-fdba-4593-9684-3e37fe2dcc6a",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:32:09.3461008+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28b611c3-1b1c-443a-a93f-77bf1a4c0a6c",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:31:24.6720325+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

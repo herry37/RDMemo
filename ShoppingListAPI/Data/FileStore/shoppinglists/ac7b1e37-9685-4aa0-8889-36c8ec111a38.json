@@ -1,0 +1,44 @@
+{
+    "Id":  "ac7b1e37-9685-4aa0-8889-36c8ec111a38",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T17:35:49.6032038+08:00",
+    "Items":  [
+                  {
+                      "Id":  "61eaf3e3-6abc-49fb-bcd8-63fa81400aa9",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:36:37.1142565+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0974d508-cd4e-4b0f-9431-959aabc5afa2",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  100,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:20:23.8924974+08:00",
+                      "CompletedAt":  "2025-01-16T20:27:32.7131487+08:00"
+                  },
+                  {
+                      "Id":  "55332f59-f995-4c91-8d14-4634ce316086",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:25:48.7563618+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8051d09-b54a-4416-abda-40085b4116fe",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:32:38.6004159+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

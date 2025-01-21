@@ -1,0 +1,44 @@
+{
+    "Id":  "0f510a69-0ce1-475e-94d0-6fc7c5b78806",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T15:30:58.8383266+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6333fbb7-2430-4d4d-b9e8-52c33c6d82ad",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:45:15.6735189+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b00440d6-c34d-4c2d-88f8-811e3e598eb8",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:59:03.4206967+08:00",
+                      "CompletedAt":  "2025-01-17T21:53:04.8126143+08:00"
+                  },
+                  {
+                      "Id":  "d7a709a5-f73b-49ac-b092-28863f92177e",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:53:44.946991+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43cb1ad4-773d-44ff-a997-ad7ed8a61cf2",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:25:58.120294+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

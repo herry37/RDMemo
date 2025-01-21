@@ -1,0 +1,35 @@
+{
+    "Id":  "444c1782-43c8-427c-94e6-d0c9c31da45c",
+    "Title":  "01/19 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T04:56:42.8775511+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b78c8497-9a48-4cd6-9ca3-c3aec02496c8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8230608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b91e7c63-71ad-4c28-9007-615794f80e2e",
+                      "Name":  "Small Rubber Shirt",
+                      "Quantity":  5,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8230812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c1e0249-e2e6-46a1-93cd-b00703cffe5c",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8230822Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

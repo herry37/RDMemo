@@ -1,0 +1,98 @@
+{
+    "Id":  "ed81e832-aaf5-48d4-9c08-fc1401e4f77c",
+    "Title":  "01/21 零食購物清單",
+    "CreatedAt":  "2025-01-19T01:19:17.4261525+08:00",
+    "Items":  [
+                  {
+                      "Id":  "502ad8bf-1a54-4efa-a4ee-1c7a335502c0",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2264792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f825786-3847-4ce0-a226-e76258c84c6f",
+                      "Name":  "Unbranded Wooden Mouse",
+                      "Quantity":  1,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.226503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afcf24b4-877b-4c1a-9ba4-4c035b4d452d",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265057Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16707896-9167-4bbe-964c-2deeafc770cc",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62fdd725-d431-4a01-813e-10f975c0c488",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265113Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b42492c8-19d1-483d-8f10-42adf7a1cc7c",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "643ea999-2f91-44ab-9215-b25321708714",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.226517Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "131e49cb-e469-4f9d-9fd3-d30f56eefba3",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31d61b68-1b9d-4398-864d-ea68260db19c",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.226521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38a7076d-18e5-42a6-ae4c-8fd19e8fd8ea",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2265231Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

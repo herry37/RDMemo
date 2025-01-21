@@ -1,0 +1,44 @@
+{
+    "Id":  "2447a760-f8c2-495d-9883-1e7a25667145",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-20T13:02:48.0616341+08:00",
+    "Items":  [
+                  {
+                      "Id":  "31fd7722-58f9-4ea2-9ea0-5de11b58cd5b",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9526824Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4abb3ca5-8765-4b56-9f4d-c4278c98dc0a",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9526895Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c06cb0d-5878-44bc-9c0a-f8c3633dac1e",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9526946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5f03da5-1235-4659-b368-d362adf459b2",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9526976Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

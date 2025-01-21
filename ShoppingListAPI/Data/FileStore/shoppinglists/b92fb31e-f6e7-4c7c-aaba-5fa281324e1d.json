@@ -1,0 +1,98 @@
+{
+    "Id":  "b92fb31e-f6e7-4c7c-aaba-5fa281324e1d",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T02:37:52.8751293+08:00",
+    "Items":  [
+                  {
+                      "Id":  "de774bd3-ca60-4f0d-88e2-8c772d1cc3bd",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.832633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e878f518-a423-492e-b7ca-89d639a77d68",
+                      "Name":  "Sleek Soft Bacon",
+                      "Quantity":  4,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326604Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2c0cdfc-b744-4c1d-af2c-a26b7b9481da",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c13ea981-4c0a-484b-8ce3-78cefeebe807",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef2cb13f-089e-4efb-8754-d09a857db94d",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb43e0a3-f5e0-422c-a44c-1c5dec8ad9cf",
+                      "Name":  "Gorgeous Metal Chips",
+                      "Quantity":  5,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f7e96f8-239b-422b-9760-1f3de47ef6a6",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.832673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "087b7e71-490b-4ac0-af59-e466d04b457e",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a4649f1-d062-4dab-88a2-539c33bd4ac1",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326764Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "759ea995-871a-48f8-bf30-ca5b2f435ffd",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8326782Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

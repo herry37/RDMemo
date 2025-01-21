@@ -1,0 +1,35 @@
+{
+    "Id":  "fc755d28-ab90-4093-85b6-42482c3ba42f",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T14:50:56.8610217+08:00",
+    "Items":  [
+                  {
+                      "Id":  "acd6e689-b330-4451-8efc-d06e0303d335",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  388,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.6443455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8067fe53-0c41-4d09-8ba6-3f7246179339",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6443491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "faf3edf6-b989-4d51-a91d-66324e89aada",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6443501Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

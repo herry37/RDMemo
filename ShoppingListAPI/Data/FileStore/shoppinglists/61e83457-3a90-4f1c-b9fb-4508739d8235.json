@@ -1,0 +1,53 @@
+{
+    "Id":  "61e83457-3a90-4f1c-b9fb-4508739d8235",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T18:48:48.8284451+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8849a9ae-3b1d-47d7-a7df-d7c3e33df253",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8166036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "263f849e-25c3-4175-9c2c-ee5202f20abc",
+                      "Name":  "Rustic Soft Tuna",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8166291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eae2aa80-46b6-47c0-9f8a-7aa8a38ad9c2",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.81663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43318bf2-ce2c-4cc9-9062-d65d5420ccab",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8166308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc15f8a2-b6e0-4538-a1ba-418a1de4298d",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8166316Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

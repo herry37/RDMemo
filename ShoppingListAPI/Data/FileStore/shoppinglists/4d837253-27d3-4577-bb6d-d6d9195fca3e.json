@@ -1,0 +1,35 @@
+{
+    "Id":  "4d837253-27d3-4577-bb6d-d6d9195fca3e",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-17T06:45:51.7784214+08:00",
+    "Items":  [
+                  {
+                      "Id":  "019be68b-d6fa-4d82-874b-0778c9e328e8",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:17:40.9903975+08:00",
+                      "CompletedAt":  "2025-01-17T08:30:12.3243326+08:00"
+                  },
+                  {
+                      "Id":  "e901ac24-321e-4a2f-a94f-5e7ceef25297",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:29:25.1225624+08:00",
+                      "CompletedAt":  "2025-01-21T05:31:29.4537196+08:00"
+                  },
+                  {
+                      "Id":  "629dea86-108b-423e-8fd1-3689be856d1a",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:58:59.1093426+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

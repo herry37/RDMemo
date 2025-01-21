@@ -1,0 +1,44 @@
+{
+    "Id":  "8a97b1b3-caea-490e-b9c9-4da2d6b6f0c5",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T14:42:29.729102+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7145139-1b60-4bc1-80ce-9b3415d8a1ec",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:33:49.5884932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38f34ae7-7821-45ce-ad73-fcdebda8415e",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:47:21.0090683+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a1b30f0-6e80-42fa-b3c5-838314189a6d",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:51:42.2689666+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5182149d-9f71-4d50-89df-d8b3dde32833",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:48:01.7038684+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "3c9bc87b-228c-44ad-b7b3-8b7a5f0af9bc",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T00:04:57.1227941+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06286aa8-c46b-4c79-af74-05c3f31f3e8d",
+                      "Name":  "Licensed Frozen Computer",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4320974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56b191ce-e014-4c12-a169-dac403827446",
+                      "Name":  "Handmade Steel Ball",
+                      "Quantity":  2,
+                      "Price":  398,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4321059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ba6dd31-ec33-498e-a599-456c96b0cf9b",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4321071Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

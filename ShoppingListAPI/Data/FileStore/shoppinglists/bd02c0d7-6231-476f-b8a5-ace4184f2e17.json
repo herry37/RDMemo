@@ -1,0 +1,62 @@
+{
+    "Id":  "bd02c0d7-6231-476f-b8a5-ace4184f2e17",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-19T09:14:33.0183479+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f21cccf8-86c8-4e32-8bf3-2478bbb40363",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0910156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd00af14-3cc9-4542-a152-4cb2a2d22e31",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0911028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d12c43d0-6019-4120-bfb6-b1091aa3c259",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0911066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc5da4d3-1a5e-46da-8531-ef0605b89aa6",
+                      "Name":  "Handmade Soft Keyboard",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0911339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e84cb39-4a3c-487c-a946-bd396a603818",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0911357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ece8e44-584c-4571-8cdb-587241c9b59f",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0911399Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

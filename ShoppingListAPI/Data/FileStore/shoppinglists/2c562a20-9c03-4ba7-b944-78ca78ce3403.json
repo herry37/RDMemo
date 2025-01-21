@@ -1,0 +1,44 @@
+{
+    "Id":  "2c562a20-9c03-4ba7-b944-78ca78ce3403",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T19:58:55.6382647+08:00",
+    "Items":  [
+                  {
+                      "Id":  "16beb8e5-50ee-43ca-908b-33765caa6a25",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7210589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "299b4acb-1251-4ee5-baf5-5133f165047d",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7210644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ecef65d-9989-4210-ba1c-7fdeadd2a8b6",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7210911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60837c58-ec59-490b-b7ae-f8a170fd44e0",
+                      "Name":  "Incredible Concrete Chair",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.721124Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

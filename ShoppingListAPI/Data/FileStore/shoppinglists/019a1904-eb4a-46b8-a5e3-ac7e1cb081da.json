@@ -1,0 +1,71 @@
+{
+    "Id":  "019a1904-eb4a-46b8-a5e3-ac7e1cb081da",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-16T02:28:38.1753702+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d8e53c1-64b4-40ec-ac5a-509c5ce73cfc",
+                      "Name":  "化妝品",
+                      "Quantity":  2,
+                      "Price":  92.840834530504750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:33:48.9704858+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da19557b-7748-4ae9-843d-f8a6add5c67e",
+                      "Name":  "面紙",
+                      "Quantity":  6,
+                      "Price":  233.468088749016650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:23:47.2334357+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54ddddd9-647d-4bc6-9c73-04829a70a9af",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  456.918574859809570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:08:31.7379846+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5927b1a2-af13-4570-a312-291801736c2c",
+                      "Name":  "橡皮擦",
+                      "Quantity":  2,
+                      "Price":  348.292043550243580,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:39:48.8768363+08:00",
+                      "CompletedAt":  "2025-01-21T01:43:35.5996729+08:00"
+                  },
+                  {
+                      "Id":  "0f0072a4-dcc8-4b68-acd7-4c0d952d5380",
+                      "Name":  "抹布",
+                      "Quantity":  2,
+                      "Price":  417.663120986480660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:46:36.3508587+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6de51aa-605e-4b14-89d3-dc12da2912e2",
+                      "Name":  "棉被",
+                      "Quantity":  10,
+                      "Price":  41.3048831960358620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:22:03.2973886+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e95a20a-57a6-49d5-bd11-c00f026eb5f0",
+                      "Name":  "堅果",
+                      "Quantity":  7,
+                      "Price":  371.115189547653520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:26:44.693784+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

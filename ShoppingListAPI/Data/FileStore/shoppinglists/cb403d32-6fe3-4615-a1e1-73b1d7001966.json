@@ -1,0 +1,62 @@
+{
+    "Id":  "cb403d32-6fe3-4615-a1e1-73b1d7001966",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T13:34:49.8756396+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b2fc4a06-97f2-429e-b157-303a106613a8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460374Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ba26290-0b78-4da4-add5-73cc0abdc0e0",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d423a66c-cde6-4e75-b1e3-92d9a29dd5ba",
+                      "Name":  "Incredible Cotton Pants",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460754Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60d3d338-ab9d-4d57-b79d-dc094cd81711",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d21feef5-ea9b-4adb-9611-b3ed6183f635",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460782Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81fb7747-65db-45ef-bd08-d4abaefb7871",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3460811Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

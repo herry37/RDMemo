@@ -1,0 +1,80 @@
+{
+    "Id":  "c00262b8-cc49-4c13-8ce5-d626387a560e",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T20:59:03.3576734+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1dadc203-b402-4cbb-84ff-923806382441",
+                      "Name":  "Rustic Rubber Towels",
+                      "Quantity":  3,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5c02536-2a24-432a-8932-6a2ce399fcd4",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872139Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd777760-e1a7-4ba3-9a33-aab017d9179c",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  429,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7aff932-4ae7-4759-b32e-abfaf5130d74",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6425ad5a-06e7-4fd7-bec5-2f3d9434275f",
+                      "Name":  "Awesome Frozen Bacon",
+                      "Quantity":  3,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872282Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91fa52e8-d5f8-45c8-8a42-236aab587bcd",
+                      "Name":  "Practical Concrete Pizza",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c24a1e91-7e24-41db-8afb-9f626b789a65",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872387Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49eab216-3089-48bd-aeae-f2cdcebb9bc4",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9872404Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

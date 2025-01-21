@@ -1,0 +1,35 @@
+{
+    "Id":  "6239414d-1f71-4f42-ac61-c5bc5f890b92",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T07:52:41.7572326+08:00",
+    "Items":  [
+                  {
+                      "Id":  "52aebb3e-aac8-4b59-a426-1ba71645f218",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:45:41.1342044+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa8bc794-2362-49d0-a9ac-83cd607a6405",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:09:49.1802909+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01ae6552-e1c6-4e50-98a0-5d4bacbf8f0a",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:57:58.5456428+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

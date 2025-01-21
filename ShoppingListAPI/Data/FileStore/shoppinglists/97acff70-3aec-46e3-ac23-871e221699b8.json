@@ -1,0 +1,44 @@
+{
+    "Id":  "97acff70-3aec-46e3-ac23-871e221699b8",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-19T00:08:44.091653+08:00",
+    "Items":  [
+                  {
+                      "Id":  "108e50b7-abd6-4776-9229-c538b5c137f7",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  377,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7405166Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad493073-19ef-4514-9532-8dbd69f96d63",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7405219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fcf9cd8-5b63-426d-b449-3bb1a6880983",
+                      "Name":  "Sleek Cotton Keyboard",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7405603Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a01dd3ae-be6d-4990-9807-4320c36e1211",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7405634Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

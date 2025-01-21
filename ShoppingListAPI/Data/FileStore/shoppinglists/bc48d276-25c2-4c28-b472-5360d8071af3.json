@@ -1,0 +1,71 @@
+{
+    "Id":  "bc48d276-25c2-4c28-b472-5360d8071af3",
+    "Title":  "聚會準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T03:46:57.7367425+08:00",
+    "Items":  [
+                  {
+                      "Id":  "61d123d5-a0b5-4290-b4d1-04cdb8eb1c62",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:37:11.4870337+08:00",
+                      "CompletedAt":  "2025-01-18T03:36:18.9919013+08:00"
+                  },
+                  {
+                      "Id":  "35ff58e9-e7da-4603-8f38-dbc2e5f9d845",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:50:44.1314422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "396bf3b5-4e81-4165-96ff-fbe15884c511",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:52:52.3068743+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "907583fe-985e-45ae-8d4c-fea9654119b1",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:20:06.3124956+08:00",
+                      "CompletedAt":  "2025-01-17T13:27:58.4504746+08:00"
+                  },
+                  {
+                      "Id":  "c0ab9129-3e97-43e5-a1d9-925ee654c509",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:25:55.8555936+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46df1182-761e-4cf7-9efb-645d0a853378",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  4,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:42:19.3718352+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fca2d16-8741-444f-86b3-e6ff2adcb190",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:58:24.6425468+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

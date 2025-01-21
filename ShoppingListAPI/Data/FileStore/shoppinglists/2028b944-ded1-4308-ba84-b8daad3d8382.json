@@ -1,0 +1,89 @@
+{
+    "Id":  "2028b944-ded1-4308-ba84-b8daad3d8382",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T02:15:27.6776549+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d99efd48-24d9-4107-b056-16ad09b4c20f",
+                      "Name":  "Rustic Soft Chicken",
+                      "Quantity":  5,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688463Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10fdfb41-c065-4831-9abd-4a57b2b8ca28",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688479Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4885f6f5-edc5-4556-936c-bb5301944f60",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "552ba7be-f9ed-401b-a03d-6cf736f1128e",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8350cc76-e260-420d-b744-87a5abfd7fff",
+                      "Name":  "Sleek Granite Salad",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5ff20e8-a7b7-4c3b-9690-9018e5050488",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688553Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7ea0945-97d3-48af-bdc4-7c7f26ecc2f0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "794ec13a-cade-4750-8ba5-34ef5b6305da",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688578Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffa31645-7664-4a9c-9b8d-9333871dae7d",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4688587Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

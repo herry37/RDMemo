@@ -1,0 +1,44 @@
+{
+    "Id":  "d3f1c6ae-660d-461e-bff6-d75456143a3f",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T01:58:24.1419751+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08179e55-c4b6-4cd9-83ac-64ca346fbe62",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:49:23.6245038+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a1ee983-9fd5-4bba-9481-e02d5d417835",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:41:32.877414+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5df5852-7b62-4c0b-9379-b624e057dd87",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:58:54.9774523+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d35b6737-0e90-4ea9-a311-81c4f698a3ae",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:12:40.8527791+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

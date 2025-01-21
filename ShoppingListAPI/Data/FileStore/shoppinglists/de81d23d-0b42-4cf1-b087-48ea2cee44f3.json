@@ -1,0 +1,62 @@
+{
+    "Id":  "de81d23d-0b42-4cf1-b087-48ea2cee44f3",
+    "Title":  "月底大採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T15:23:50.6968184+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3de203ea-2eca-4139-b19e-a4d213b6e99c",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  3,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:38:20.3976448+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a858177c-d521-49d8-9798-f83ecb9e3637",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:34:22.383877+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbbb3988-afb1-4318-b4d5-52d9d4c69f2f",
+                      "Name":  "金屬直尺",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:34:55.4333296+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44b3ab63-577a-4112-b026-cc2c87e70983",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:14:43.7594619+08:00",
+                      "CompletedAt":  "2025-01-21T12:19:35.0607009+08:00"
+                  },
+                  {
+                      "Id":  "bc920677-0f4b-4a4e-8b4c-d98348201324",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:20:46.6410444+08:00",
+                      "CompletedAt":  "2025-01-17T15:52:53.1262435+08:00"
+                  },
+                  {
+                      "Id":  "99f27631-1e44-4a00-a397-564d131acf5b",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:54:18.9966264+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

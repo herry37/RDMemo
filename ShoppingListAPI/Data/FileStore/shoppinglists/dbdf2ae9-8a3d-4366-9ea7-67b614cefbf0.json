@@ -1,0 +1,62 @@
+{
+    "Id":  "dbdf2ae9-8a3d-4366-9ea7-67b614cefbf0",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-21T09:33:51.5827906+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0f9b775-845b-4ced-ab77-bc688d3c7258",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21347a7a-961c-4850-a11f-72207ca2a65c",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e186adcc-bee0-465e-97e2-28ffb483ee44",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215499Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71a00796-ee10-471f-b660-999f73a38f72",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215513Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87df210c-3948-4134-a7d8-8ab7a95d283f",
+                      "Name":  "Practical Soft Chips",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a06c9085-2745-4cca-90e5-49479253d2e3",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3215761Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

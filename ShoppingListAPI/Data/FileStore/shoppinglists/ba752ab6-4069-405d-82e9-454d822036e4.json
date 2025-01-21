@@ -1,0 +1,80 @@
+{
+    "Id":  "ba752ab6-4069-405d-82e9-454d822036e4",
+    "Title":  "聚會準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T00:07:07.9354247+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7242cfa9-12dc-4d63-aee3-0afb39833d37",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:41:49.4126724+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd46aa9d-d3bf-41ef-a62f-9bbf4b31ba63",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T13:02:42.9848128+08:00",
+                      "CompletedAt":  "2025-01-21T09:31:56.8691419+08:00"
+                  },
+                  {
+                      "Id":  "665e30a0-5e3c-4df7-bd5f-939eae90fc1b",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:38:58.279474+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1451ffba-1b5e-479f-a874-670e1636749e",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:29:03.3410818+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb52be5d-1194-49e8-bdb3-5ae6f04f4f84",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:49:38.7231254+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28c40141-6eba-45bc-b4cf-4b2f0933a0c9",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T16:13:54.9009319+08:00",
+                      "CompletedAt":  "2025-01-16T23:00:18.114689+08:00"
+                  },
+                  {
+                      "Id":  "7aba4258-41bb-4730-8ae5-3fa0b13b1082",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:55:04.0073043+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bfc79f7-96ea-4058-930d-bbfd8d406d84",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:32:29.9886446+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

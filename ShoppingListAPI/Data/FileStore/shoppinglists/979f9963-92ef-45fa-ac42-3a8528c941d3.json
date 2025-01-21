@@ -1,0 +1,35 @@
+{
+    "Id":  "979f9963-92ef-45fa-ac42-3a8528c941d3",
+    "Title":  "年節採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T21:00:09.7747826+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1b702612-5d1a-4f3d-9837-fbf22bf48a3d",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:15:57.1744112+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2465ad9-22f9-4ac6-802a-d764dc473707",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:11:28.7159622+08:00",
+                      "CompletedAt":  "2025-01-20T07:34:13.0523954+08:00"
+                  },
+                  {
+                      "Id":  "1cf1088f-0707-4f91-889a-2b598d54fc0f",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:20:15.7436827+08:00",
+                      "CompletedAt":  "2025-01-21T07:40:27.339631+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

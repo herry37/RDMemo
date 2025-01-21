@@ -1,0 +1,80 @@
+{
+    "Id":  "127c5fe8-dfc5-4f29-87b8-30d49a1f1708",
+    "Title":  "派對用品 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T13:27:34.1855958+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f32c1974-6b24-4f7c-ab24-80ba6c501b65",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  47,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:05:06.4988457+08:00",
+                      "CompletedAt":  "2025-01-15T23:17:41.9782546+08:00"
+                  },
+                  {
+                      "Id":  "a8737bbe-bb9e-4497-8911-d8687f4fc4ad",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T05:18:12.9782954+08:00",
+                      "CompletedAt":  "2025-01-19T16:21:53.758678+08:00"
+                  },
+                  {
+                      "Id":  "c58d7b28-b438-4ab3-9e67-5ef4ab161b96",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:48:49.6811603+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5cda09e-c0c6-4260-a7b4-700814df74b0",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:13:25.1039917+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67d5d7c3-5ae6-4cf2-b275-b0de656b0182",
+                      "Name":  "日本泡麵",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:04:07.4428463+08:00",
+                      "CompletedAt":  "2025-01-21T11:06:55.1647858+08:00"
+                  },
+                  {
+                      "Id":  "130af122-5f9d-42f3-9929-97f84926b8b0",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:39:01.441845+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c99de92a-bb56-47da-ae8f-249ac6a0f5c0",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:06:21.3232684+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c03528e5-4e71-4d79-9daf-d51aee096d17",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:50:59.9475081+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

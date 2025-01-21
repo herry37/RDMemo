@@ -1,0 +1,35 @@
+{
+    "Id":  "d35811b2-296e-4cd4-9cbe-94ee0135b44a",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T13:23:36.7395837+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d001a775-5645-4df1-8e70-77ce1e977a10",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1577509Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e0e3ca8-1683-48b7-8998-8c6d1a026f23",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1577548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7b0c604-88ba-4438-b18e-b45ccdfdee64",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1577872Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

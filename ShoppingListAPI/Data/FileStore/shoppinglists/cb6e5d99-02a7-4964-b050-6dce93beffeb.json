@@ -1,0 +1,80 @@
+{
+    "Id":  "cb6e5d99-02a7-4964-b050-6dce93beffeb",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T12:03:43.5450444+08:00",
+    "Items":  [
+                  {
+                      "Id":  "db37f4e7-8f36-4c79-b008-4cc74ab2685e",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8422995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55b232df-8e0d-49d9-ada5-24d3b97033d9",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8423046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7506c26-3b4f-43f9-829f-a58610fddf7a",
+                      "Name":  "Sleek Rubber Pants",
+                      "Quantity":  3,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424487Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea71d50e-65b1-410f-ab60-12dacff4d702",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44314922-0349-4ec8-a4c3-7527c63c15a7",
+                      "Name":  "Tasty Cotton Table",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16f1fd7d-61d5-47be-9e5d-2e4cef502713",
+                      "Name":  "Sleek Rubber Pants",
+                      "Quantity":  4,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9e7a816-611d-4fe4-861a-9bf560e887c2",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  12,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a1180d9-de48-49f7-bb86-d167e090147c",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8424718Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

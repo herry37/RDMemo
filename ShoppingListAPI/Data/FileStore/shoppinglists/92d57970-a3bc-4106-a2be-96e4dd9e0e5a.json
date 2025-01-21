@@ -1,0 +1,98 @@
+{
+    "Id":  "92d57970-a3bc-4106-a2be-96e4dd9e0e5a",
+    "Title":  "01/17 飲料採買清單",
+    "CreatedAt":  "2025-01-15T08:40:20.0104152+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04245b66-9731-40d8-bac2-fd58cc314e46",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4210472Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d2e4391-c5eb-4523-bf55-d35a18b8c1b8",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4210497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "795ab1a6-8eb5-48bb-bca4-ee8f4e4c5258",
+                      "Name":  "Licensed Soft Fish",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4210704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c2b4487-c2af-46d4-b84d-748d7c95b958",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4210718Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8fc3dc0-445e-46e3-940f-cfa0ebc301b2",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4210733Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39581930-b58f-40b5-8184-abdc2d3ee9c8",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4211077Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30e881f0-c88d-49b5-98f5-c83c326e1c19",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4211101Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ad4e864-613b-4158-aede-bc04a3d25045",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4211115Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74ac051d-ee98-42d1-b469-da0c87f9fe17",
+                      "Name":  "Unbranded Frozen Chicken",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4211191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6fb56d0-723e-4dae-9f9f-abbb3d0bf280",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4211209Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

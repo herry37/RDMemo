@@ -1,0 +1,62 @@
+{
+    "Id":  "f63890f1-339f-4ba1-aaec-70b3be656486",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-20T17:38:08.1972327+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08258f9c-8d6a-416a-a64f-eafed3ea8ead",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4454443Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7f1c595-f2f1-43b6-a00e-cfeb6d3d8e86",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4454538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3278b59-3516-49a6-bfc6-6b3a2b45fcb1",
+                      "Name":  "Tasty Rubber Salad",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4454805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ee1f42e-c3c8-4871-88dd-5c265bc9a46b",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4454819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "259db650-a572-4b5f-a4aa-4122cff07d15",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4454831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01d7ee96-859e-4656-bb9e-cb7fbba04d1f",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4455078Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

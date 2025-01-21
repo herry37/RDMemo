@@ -1,0 +1,44 @@
+{
+    "Id":  "cf427585-27c6-4621-bee0-9411d02c9460",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-19T20:47:33.1397213+08:00",
+    "Items":  [
+                  {
+                      "Id":  "893e1918-5a10-4fb7-b258-eb5a968ea5b3",
+                      "Name":  "相框",
+                      "Quantity":  9,
+                      "Price":  403.75165093736150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:36:08.2138916+08:00",
+                      "CompletedAt":  "2025-01-20T12:52:54.1909977+08:00"
+                  },
+                  {
+                      "Id":  "a38861ab-a56f-45db-a06e-a6ed6013b37d",
+                      "Name":  "護手霜",
+                      "Quantity":  10,
+                      "Price":  310.731375013455890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:25:25.1544296+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22602caa-ff23-4056-8253-f5372f85dadb",
+                      "Name":  "果汁",
+                      "Quantity":  7,
+                      "Price":  173.585065932864730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:40:33.6678352+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b360e429-b61f-48a6-a050-9412e599bed4",
+                      "Name":  "剪刀",
+                      "Quantity":  1,
+                      "Price":  299.52072567705770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:13:52.1910733+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

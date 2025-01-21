@@ -1,0 +1,44 @@
+{
+    "Id":  "5f88bf83-7b5a-4c64-9a66-e786616bf2c8",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T18:07:55.0630828+08:00",
+    "Items":  [
+                  {
+                      "Id":  "613a9462-5d09-4a27-80ba-2a3ac216c149",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:47:55.9583589+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c27e358-7e4d-4d4c-826a-98b86fda6954",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:26:36.9980829+08:00",
+                      "CompletedAt":  "2025-01-19T22:30:16.3094539+08:00"
+                  },
+                  {
+                      "Id":  "78a719cc-9436-49cd-a688-e974ab1500ee",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:13:13.1952677+08:00",
+                      "CompletedAt":  "2025-01-16T08:05:13.9635495+08:00"
+                  },
+                  {
+                      "Id":  "753ac034-3675-4238-9dd7-6d739517321d",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:42:14.848308+08:00",
+                      "CompletedAt":  "2025-01-16T04:50:26.0744078+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

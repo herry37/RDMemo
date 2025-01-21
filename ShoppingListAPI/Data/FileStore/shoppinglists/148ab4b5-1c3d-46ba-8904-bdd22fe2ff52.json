@@ -1,0 +1,89 @@
+{
+    "Id":  "148ab4b5-1c3d-46ba-8904-bdd22fe2ff52",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T03:21:09.4970115+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b5b2f54d-173f-4498-9367-d704ff2da1a6",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9139855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c26dd94-47a7-4d96-bad6-d22cb714abed",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9139891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "006550e5-3e4e-422e-aaeb-ca8f26f04d1f",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  15,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9139901Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "385aff0a-32ea-4706-bfdf-312ad16efdaa",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9139916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfd395a4-b581-4ee1-b554-81c66497aca3",
+                      "Name":  "Sleek Rubber Hat",
+                      "Quantity":  3,
+                      "Price":  454,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.914037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78968313-8766-49f4-98c0-fe29aeaf1dc3",
+                      "Name":  "Intelligent Rubber Soap",
+                      "Quantity":  3,
+                      "Price":  495,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9144232Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9feb7ae5-fdd3-417f-88f1-6a1f96459e77",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9144247Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "816da4fb-1bfa-49b1-b744-4aab3522f441",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9144266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34b0d821-f8bd-486e-8b74-404379c9cf1c",
+                      "Name":  "Small Metal Mouse",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9144299Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

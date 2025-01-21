@@ -1,0 +1,71 @@
+{
+    "Id":  "fc6fa806-94be-4d1f-af67-de5f85cb4990",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T09:57:51.5233062+08:00",
+    "Items":  [
+                  {
+                      "Id":  "531df1af-876a-4fba-bbf0-993ee66e6b2b",
+                      "Name":  "Generic Plastic Car",
+                      "Quantity":  5,
+                      "Price":  428,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.151538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ee7067e-7320-474e-a4a4-da82f90e6bbf",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1515424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fca64419-6aa8-45ac-9a6d-6450d2b462c9",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1515452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63a601e1-a439-4698-97d1-1cba33b3d1d1",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1515484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "993510ac-bfd8-447f-bfd0-bd1370070ea7",
+                      "Name":  "Handcrafted Granite Car",
+                      "Quantity":  4,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.151554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff257108-aa71-4b43-a458-256d14d8870c",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1515586Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffd1178b-f677-471e-a9b8-85e829165489",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1515611Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

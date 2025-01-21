@@ -1,0 +1,62 @@
+{
+    "Id":  "20791e98-7858-4b15-a6a9-babd33d626c1",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-19T21:29:42.8055687+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38305109-c02f-490e-8733-94595666a9a0",
+                      "Name":  "筆",
+                      "Quantity":  5,
+                      "Price":  47.8152103156636970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:00:25.5854497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c807b2b-9933-45d9-8139-3e2e849bf19a",
+                      "Name":  "牙刷",
+                      "Quantity":  10,
+                      "Price":  432.072459417624330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:16:26.1204585+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "400e02d4-c7bd-4101-97e7-387a419fb948",
+                      "Name":  "拖把",
+                      "Quantity":  9,
+                      "Price":  198.911821469043890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:05:19.7217883+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "567e4f43-140e-4a23-a24d-cb1760df3517",
+                      "Name":  "洗衣精",
+                      "Quantity":  3,
+                      "Price":  473.974524454379750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:45:44.9877254+08:00",
+                      "CompletedAt":  "2025-01-20T05:03:05.2342859+08:00"
+                  },
+                  {
+                      "Id":  "354309db-8662-4b91-9311-8d8bff7ba650",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  125.318200378500770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:12:08.3257715+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93e4a750-6a65-4676-9e8f-285645f22e1d",
+                      "Name":  "面膜",
+                      "Quantity":  1,
+                      "Price":  465.540676665794440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:56:53.4322045+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

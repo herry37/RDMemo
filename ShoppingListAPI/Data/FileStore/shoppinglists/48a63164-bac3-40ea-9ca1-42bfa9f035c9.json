@@ -1,0 +1,98 @@
+{
+    "Id":  "48a63164-bac3-40ea-9ca1-42bfa9f035c9",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T03:00:13.1550671+08:00",
+    "Items":  [
+                  {
+                      "Id":  "75f078c5-1027-4296-aa5c-6d39b03afbc2",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9874819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "198328fe-ee71-40b9-9231-bd1dd7067f21",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9874856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef996e71-b5b5-48aa-a3ef-1f7eee67c61c",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9874879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "234befc9-b135-4301-aa83-627e65b4f904",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.98749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89376d5b-28f4-4484-92c4-cc3f430530a6",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  368,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9874924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d85d968-6231-4719-a844-fc1c24c465f2",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9874954Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00dd3c24-dad1-4156-bcd0-660243570d69",
+                      "Name":  "Tasty Metal Car",
+                      "Quantity":  3,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9876055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61d20ac1-b4e7-4b3f-ae28-19da640a3f49",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9876081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "353f9915-4aec-48f5-ba1f-81515855be0c",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9876108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28ba3260-ffcf-4c2f-885b-434e15d6a918",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9876139Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

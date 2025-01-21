@@ -1,0 +1,71 @@
+{
+    "Id":  "4c657f40-8651-4c74-96fc-f554bfb85420",
+    "Title":  "派對用品 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T03:46:38.8698349+08:00",
+    "Items":  [
+                  {
+                      "Id":  "70a13983-a011-4e5a-a165-bf6b8c11e2e6",
+                      "Name":  "金屬直尺",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:26:13.1631795+08:00",
+                      "CompletedAt":  "2025-01-16T03:18:56.8152797+08:00"
+                  },
+                  {
+                      "Id":  "1dd5a95d-e093-45c6-98ad-d92377cfe230",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:16:13.275141+08:00",
+                      "CompletedAt":  "2025-01-21T10:29:01.4830293+08:00"
+                  },
+                  {
+                      "Id":  "57b5b29d-ecc9-4db1-b9e7-f95ba6755f42",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:19:11.5246064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0af90f99-0490-4c5a-94b7-313e75521343",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:55:14.322345+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4d67206-a5ac-44b4-8b15-95d7e3588681",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:02:06.9510405+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0de0e422-054c-480d-a0dc-99a8733576b5",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:04:31.142437+08:00",
+                      "CompletedAt":  "2025-01-17T00:31:57.5719825+08:00"
+                  },
+                  {
+                      "Id":  "cd1e4f65-5e4b-42c7-a656-a2f8213ea395",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:37:05.0053984+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

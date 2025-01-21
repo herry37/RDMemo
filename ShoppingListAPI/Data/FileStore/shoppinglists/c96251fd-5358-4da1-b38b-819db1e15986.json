@@ -1,0 +1,71 @@
+{
+    "Id":  "c96251fd-5358-4da1-b38b-819db1e15986",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T02:37:54.4376576+08:00",
+    "Items":  [
+                  {
+                      "Id":  "76c88f4e-c975-49e7-a724-0de4323eb880",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:43:19.68624+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4387477-d9a4-42be-94f2-bb3f8ac33ab3",
+                      "Name":  "有機番茄",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:02:52.6289893+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23d2c962-104a-473a-93bd-2806c3651f62",
+                      "Name":  "保濕面膜",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T06:38:19.4761555+08:00",
+                      "CompletedAt":  "2025-01-19T14:11:22.9001634+08:00"
+                  },
+                  {
+                      "Id":  "35240de8-c029-466a-8b43-cdd6bebb3ccf",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:35:07.896976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53bc16ca-80ae-4239-8f2f-b50ae666ea56",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:24:54.2167161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "933776de-5f97-44f4-af59-961a09799cbc",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:23:54.9498365+08:00",
+                      "CompletedAt":  "2025-01-15T21:04:46.1984939+08:00"
+                  },
+                  {
+                      "Id":  "8fe90592-b319-4489-8c11-ac022c9b9297",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:25:51.8243184+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

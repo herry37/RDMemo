@@ -1,0 +1,44 @@
+{
+    "Id":  "d8b1f777-7f82-4d42-aaa5-024d810ea4ec",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T11:26:45.5959959+08:00",
+    "Items":  [
+                  {
+                      "Id":  "033ef722-0e26-4c0b-8b37-e400111c8aef",
+                      "Name":  "Awesome Steel Salad",
+                      "Quantity":  5,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7770546Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20f40892-6a80-4f4c-b74b-c26ec4987141",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7770602Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca864b86-fd63-4aa4-ab31-e9551b3310cd",
+                      "Name":  "Ergonomic Steel Salad",
+                      "Quantity":  4,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7770691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c23ba56e-3856-4d43-b7b0-ed2e8ef12304",
+                      "Name":  "Generic Granite Salad",
+                      "Quantity":  5,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7770753Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "e7443d0d-1570-4e75-ad7d-a9baf3705df4",
+    "Title":  "01/18 零食採買清單",
+    "CreatedAt":  "2025-01-19T07:21:27.5982235+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4295674c-36b1-440b-a547-4f46162c9f83",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9091695Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c9c7bb1-413b-46af-8cf8-4e78f3a24bf8",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9091731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b970c4a2-881a-4fcd-8e28-3bd90a7482c2",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.909174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97cebf70-1bfe-42b5-86c1-d6967af8d0c7",
+                      "Name":  "Awesome Cotton Towels",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9091943Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

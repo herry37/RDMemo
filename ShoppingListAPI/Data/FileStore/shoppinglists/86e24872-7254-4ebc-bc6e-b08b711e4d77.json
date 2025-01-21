@@ -1,0 +1,53 @@
+{
+    "Id":  "86e24872-7254-4ebc-bc6e-b08b711e4d77",
+    "Title":  "派對用品 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-20T12:33:24.196125+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38807f5a-ffe4-461d-ba4e-2572cea233e8",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:15:59.2824002+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d975aa6d-997c-4954-afbb-a6ed5747fe23",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:18:59.082576+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82818c71-52d2-4cb6-b4d4-a2ad00cc8547",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:29:10.2916352+08:00",
+                      "CompletedAt":  "2025-01-19T14:51:42.5478989+08:00"
+                  },
+                  {
+                      "Id":  "75acd419-c773-42a1-8ccf-15a912ab21de",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:45:05.7184837+08:00",
+                      "CompletedAt":  "2025-01-20T03:41:00.7907342+08:00"
+                  },
+                  {
+                      "Id":  "b817fa34-94b3-4f60-8619-f75660065e75",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:39:41.0236962+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

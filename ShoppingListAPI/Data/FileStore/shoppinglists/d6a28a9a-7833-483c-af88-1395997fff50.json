@@ -1,0 +1,53 @@
+{
+    "Id":  "d6a28a9a-7833-483c-af88-1395997fff50",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T03:47:24.912312+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9d51164e-99fa-43b1-b2c1-24b00776ddde",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6835927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21168e49-0ee3-4902-9b4d-21fb4e839dd4",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6835988Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e25c70a5-0851-4140-922a-051bf8a64a4e",
+                      "Name":  "Intelligent Fresh Keyboard",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6836313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bad277c-193d-4e58-ba6c-8df74a110013",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6836339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "902d2efc-e7ad-4d99-b4d9-90c1f520a404",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6836369Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

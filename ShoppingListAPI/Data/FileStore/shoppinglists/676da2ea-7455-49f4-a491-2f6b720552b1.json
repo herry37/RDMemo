@@ -1,0 +1,80 @@
+{
+    "Id":  "676da2ea-7455-49f4-a491-2f6b720552b1",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T21:39:26.0834917+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b79984c-7499-4c19-a4da-bab175b194f1",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8518963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e4c2fb5-4615-4be6-93dd-adf4527e34cc",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f3c8a38-d148-4d61-8cdb-0476db23156f",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c1ceee7-0198-408e-9c77-2d2266d49cef",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  168,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa558cbb-2e72-4f88-9731-a2b6f937074a",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5666e6c4-9f15-4ee8-8c24-66ba6e50b79d",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88034dc5-1dd9-440f-90c9-dc21db65d3ea",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.851924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87797567-1bb0-4803-9317-a570b1669c07",
+                      "Name":  "Refined Metal Hat",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8519573Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "70142413-753e-4388-bdb1-f4cbe06a8bd3",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T16:16:46.8602192+08:00",
+    "Items":  [
+                  {
+                      "Id":  "21aff0ce-2f87-4635-b92e-f56d6557f93f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  6,
+                      "Price":  466.993078939368930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:40:28.4170671+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a15368a-e388-4e46-b344-34b9aeeffc50",
+                      "Name":  "鍋子",
+                      "Quantity":  2,
+                      "Price":  307.442696901913290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:43:58.4042508+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd41d8e7-425e-46db-aeba-d9a1e7bf6304",
+                      "Name":  "手套",
+                      "Quantity":  6,
+                      "Price":  111.131360805712930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:46:15.1758097+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "114b3255-ab2a-4021-b146-2f3d56d8ce41",
+                      "Name":  "棉被",
+                      "Quantity":  7,
+                      "Price":  228.319739602342770,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:03:46.6901577+08:00",
+                      "CompletedAt":  "2025-01-20T13:44:18.6684016+08:00"
+                  },
+                  {
+                      "Id":  "e665ffad-2c1a-49d8-9da8-46c2fa50daa2",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  54.5111283163963920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:11:54.2642906+08:00",
+                      "CompletedAt":  "2025-01-17T19:09:30.6367183+08:00"
+                  },
+                  {
+                      "Id":  "8e1e475e-cdc6-4eed-a348-2858a45dffd3",
+                      "Name":  "杯子",
+                      "Quantity":  5,
+                      "Price":  464.730943963464350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:56:45.6262765+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

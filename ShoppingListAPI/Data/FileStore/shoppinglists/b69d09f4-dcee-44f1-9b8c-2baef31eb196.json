@@ -1,0 +1,62 @@
+{
+    "Id":  "b69d09f4-dcee-44f1-9b8c-2baef31eb196",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T13:14:45.2503299+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d76b07de-8485-4945-97bd-3a380a5c035a",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7414773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "726acad2-1a3a-4f4d-9b60-9a14ac152492",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7414813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9d9e673-f2b9-41c1-87e4-873dd3bd082e",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  485,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7414825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "655b83fd-02d0-4f3a-9a61-afcf0dcc867e",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7414842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f77210b-63f2-40d3-a24a-224c05c56a10",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7414852Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76847426-1ecf-49a1-b420-f0f98d60e29d",
+                      "Name":  "Licensed Steel Table",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7415123Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

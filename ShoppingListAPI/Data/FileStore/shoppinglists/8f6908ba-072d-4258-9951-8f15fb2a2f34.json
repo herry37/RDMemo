@@ -1,0 +1,62 @@
+{
+    "Id":  "8f6908ba-072d-4258-9951-8f15fb2a2f34",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T17:23:27.3718331+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff6c4130-2147-4b17-846a-06993a5361bd",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2081672Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21134714-19a7-4f6e-8b5f-a4fe9531c4da",
+                      "Name":  "Refined Wooden Salad",
+                      "Quantity":  5,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2081897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "563e75b7-1656-45e0-89cf-f175248d097b",
+                      "Name":  "Awesome Wooden Chair",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2081944Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a9a3429-3549-4078-a21d-03d2e2de93fb",
+                      "Name":  "Ergonomic Frozen Mouse",
+                      "Quantity":  5,
+                      "Price":  441,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2081987Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76307934-7311-476a-b477-542234bf4f30",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2082001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5019b58-dcfa-4aa0-ab65-25803b48d832",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2082015Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

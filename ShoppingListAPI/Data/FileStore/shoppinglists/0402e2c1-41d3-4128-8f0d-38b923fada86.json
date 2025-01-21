@@ -1,0 +1,35 @@
+{
+    "Id":  "0402e2c1-41d3-4128-8f0d-38b923fada86",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T18:24:28.7748612+08:00",
+    "Items":  [
+                  {
+                      "Id":  "adccd82b-7ab2-4318-94c5-54018bb85486",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5291265Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "714d2fff-28cd-4aca-9c75-9ccb0f4a420b",
+                      "Name":  "Awesome Concrete Tuna",
+                      "Quantity":  3,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.529153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bca88697-0cd0-47d4-84af-ec688a390943",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5291546Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "5caf2a84-a173-4531-90b8-d07e62dd72e3",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-21T05:05:41.0084154+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2d090d23-1e76-4943-affb-889f9465f345",
+                      "Name":  "LED檯燈",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:38:14.8532684+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3fb91488-59f5-4eaf-a076-9eb2465f9f3c",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:50:53.3827534+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a120dec-cb0f-4f35-ac1b-736acaa1792f",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:44:08.6949995+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

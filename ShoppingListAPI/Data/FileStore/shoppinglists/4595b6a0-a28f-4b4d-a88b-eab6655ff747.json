@@ -1,0 +1,71 @@
+{
+    "Id":  "4595b6a0-a28f-4b4d-a88b-eab6655ff747",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T07:43:56.7685119+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e6d84fa3-b78a-45d7-b3af-8304c0788a67",
+                      "Name":  "Handmade Fresh Gloves",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5875892Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d157de2-7b5e-4759-8703-56dd539533ab",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5875918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38c822ce-28be-4040-8922-750d29d35d2c",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.587595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d79ceb8-5d65-4129-8f82-7117b32b81a4",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5875968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa30ad20-11ec-40b6-a68d-0a42ad77a656",
+                      "Name":  "Rustic Steel Cheese",
+                      "Quantity":  2,
+                      "Price":  399,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5876024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "904b9c3f-cf80-48c6-9a26-b59c279bc460",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5876049Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f279e891-10d6-4217-bdae-2b4ffb08ec90",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5876066Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

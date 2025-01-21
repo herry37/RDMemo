@@ -1,0 +1,89 @@
+{
+    "Id":  "28302ad2-5112-4e69-aaec-e7a06a0b99cc",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T00:34:40.2003962+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6bf1712b-c7af-4b49-87bf-13ffac1841c3",
+                      "Name":  "Unbranded Plastic Shirt",
+                      "Quantity":  4,
+                      "Price":  392,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1583839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8877b010-bacc-4c6a-aa44-ea6526f9552a",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1583905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a48b4cde-f822-4116-8534-c893cbf5899a",
+                      "Name":  "Intelligent Frozen Tuna",
+                      "Quantity":  1,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1583992Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc9cfadb-f170-49e5-b45d-21321414dd01",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d309a5e-faca-40b3-9183-3999c38aac31",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a26cca72-247c-4add-b64a-cdf18361f76f",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584105Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fca59b9c-f04d-4763-8491-6bec8b7cfb4b",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584142Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eafc0767-b52e-4a19-81e4-4131274fe4c7",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584169Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef6bbff9-8380-4454-9eb8-3c2c5eb41b94",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1584202Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

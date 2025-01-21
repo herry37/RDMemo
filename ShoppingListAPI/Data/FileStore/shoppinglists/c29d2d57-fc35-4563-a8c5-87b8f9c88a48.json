@@ -1,0 +1,53 @@
+{
+    "Id":  "c29d2d57-fc35-4563-a8c5-87b8f9c88a48",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T19:44:44.0122021+08:00",
+    "Items":  [
+                  {
+                      "Id":  "96df1a6b-9780-40d2-a105-bb6acd1fa5f0",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  236.814546715213030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:55:24.3624322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ba9349c-4058-4f16-a1f1-0f4e6f10f3a5",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  295.871743972024140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:08:47.6467317+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ebaa4932-653f-4b54-b6d2-c879ac7d8b20",
+                      "Name":  "掃把",
+                      "Quantity":  6,
+                      "Price":  313.858602126211090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:40:07.4908129+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a574d1db-6048-40e1-9fe7-2c5a3105b0c5",
+                      "Name":  "筆",
+                      "Quantity":  8,
+                      "Price":  40.7489877771458060,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:04:45.3355474+08:00",
+                      "CompletedAt":  "2025-01-20T04:44:03.6387506+08:00"
+                  },
+                  {
+                      "Id":  "88c295cb-c8f5-4f00-bc14-6a1d106a5578",
+                      "Name":  "豬肉",
+                      "Quantity":  5,
+                      "Price":  434.461389581134990,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:09:58.8402245+08:00",
+                      "CompletedAt":  "2025-01-19T00:22:52.7427201+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

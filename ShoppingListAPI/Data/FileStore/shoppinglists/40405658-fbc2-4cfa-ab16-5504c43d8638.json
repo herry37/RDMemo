@@ -1,0 +1,44 @@
+{
+    "Id":  "40405658-fbc2-4cfa-ab16-5504c43d8638",
+    "Title":  "01/20 零食購物清單",
+    "CreatedAt":  "2025-01-19T16:52:04.3962507+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ac6ec515-a5fa-4ea0-bb1a-49994d0114b7",
+                      "Name":  "Handmade Wooden Gloves",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4069208Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06bcd8a9-f4bd-4de0-ad10-f11fa35c93b6",
+                      "Name":  "Fantastic Plastic Chips",
+                      "Quantity":  5,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4069282Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6d88360-e968-44ac-b4da-12b5c8cf18cb",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4069295Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d41e0f7b-0998-4232-816d-b0dba5c6c417",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4069306Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

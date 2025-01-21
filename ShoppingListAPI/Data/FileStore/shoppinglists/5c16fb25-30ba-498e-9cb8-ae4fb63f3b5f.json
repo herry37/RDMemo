@@ -1,0 +1,98 @@
+{
+    "Id":  "5c16fb25-30ba-498e-9cb8-ae4fb63f3b5f",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T12:05:23.6646554+08:00",
+    "Items":  [
+                  {
+                      "Id":  "617f0a6c-e1d5-4fdc-92c3-7f430b978d55",
+                      "Name":  "Awesome Frozen Shoes",
+                      "Quantity":  1,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1757cee-79e2-4e02-aed4-4455334a2754",
+                      "Name":  "Ergonomic Metal Hat",
+                      "Quantity":  3,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751125Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1b1b6e4-39b1-4b6c-8779-8b5b71dde9f7",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab9ab3ed-5ee7-4c16-aec9-ffdd5690a6bf",
+                      "Name":  "Licensed Rubber Chair",
+                      "Quantity":  5,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9755d951-00de-4f3c-bb12-7033e713ab06",
+                      "Name":  "Practical Granite Soap",
+                      "Quantity":  1,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751365Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d20fa9f-c263-4d8c-983f-da50327222fa",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751396Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bf12d96-af12-4970-817e-530dd5c3da19",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751412Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f4cbb53-2264-4da5-8a70-2178154c8b8f",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec4f18a9-5fa1-465a-b2e4-bde5e2074d72",
+                      "Name":  "Tasty Plastic Salad",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ceff0fa1-9fd9-4c58-b301-26b5b4f3816c",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8751509Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

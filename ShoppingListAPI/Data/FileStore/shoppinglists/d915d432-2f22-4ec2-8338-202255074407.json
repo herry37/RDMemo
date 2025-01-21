@@ -1,0 +1,44 @@
+{
+    "Id":  "d915d432-2f22-4ec2-8338-202255074407",
+    "Title":  "日常補充 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T06:49:29.0293732+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4feb005d-51b9-4676-a0a1-f3d21b120a61",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:42:58.5668279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df3df065-2d14-40fc-8a3f-602452aad963",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:07:01.9258367+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e622614a-1566-4ee0-9738-a6360ab32c9f",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:24:55.9985625+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "598324fd-f5cd-4191-9522-ddeed02d183e",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:54:13.6744863+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

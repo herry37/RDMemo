@@ -1,0 +1,35 @@
+{
+    "Id":  "f0ac0580-9b87-41a4-b873-5e57adfd41de",
+    "Title":  "01/19 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T06:34:38.0737486+08:00",
+    "Items":  [
+                  {
+                      "Id":  "41705f28-79a3-43ee-8af5-c5d84b4c077a",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  403,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9674726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "390ffad3-4eb9-4206-ac51-0c00424db71b",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9674765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8dcbc2c4-ea69-4109-88fb-ff5d7c46e811",
+                      "Name":  "Unbranded Rubber Salad",
+                      "Quantity":  2,
+                      "Price":  499,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9675223Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

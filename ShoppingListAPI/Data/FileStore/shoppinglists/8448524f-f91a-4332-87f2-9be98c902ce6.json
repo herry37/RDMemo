@@ -1,0 +1,44 @@
+{
+    "Id":  "8448524f-f91a-4332-87f2-9be98c902ce6",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-18T11:16:44.4824929+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6949dd1-93b3-472d-b06e-a90e17d7389f",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0218738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38601419-9d6e-49ff-a73e-b2f97227dc7f",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0219045Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7279094b-e292-4542-a603-e0cb6e71840a",
+                      "Name":  "Small Plastic Mouse",
+                      "Quantity":  1,
+                      "Price":  389,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0219385Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ecfc859-db64-485a-8d84-25cde9cad915",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  413,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0219405Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

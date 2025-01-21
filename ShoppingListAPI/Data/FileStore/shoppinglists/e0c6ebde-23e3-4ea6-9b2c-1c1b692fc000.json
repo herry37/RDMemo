@@ -1,0 +1,80 @@
+{
+    "Id":  "e0c6ebde-23e3-4ea6-9b2c-1c1b692fc000",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-16T21:12:04.5806183+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0344492e-9c9c-4eea-887b-ff34d11dd584",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  48.8696332830446970,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:05:35.896619+08:00",
+                      "CompletedAt":  "2025-01-17T10:42:24.9052563+08:00"
+                  },
+                  {
+                      "Id":  "4a7cca29-986c-42f9-8f2f-23bde6174649",
+                      "Name":  "便利貼",
+                      "Quantity":  10,
+                      "Price":  440.330784061762360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:36:10.9448811+08:00",
+                      "CompletedAt":  "2025-01-17T03:35:37.8151493+08:00"
+                  },
+                  {
+                      "Id":  "ec51f13c-86d5-46b5-bcf2-fa916b559dea",
+                      "Name":  "相框",
+                      "Quantity":  3,
+                      "Price":  17.8405643580433610,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:54:22.1915464+08:00",
+                      "CompletedAt":  "2025-01-18T00:56:26.0265781+08:00"
+                  },
+                  {
+                      "Id":  "38d5348b-04d3-4140-a62d-c75ea81b9c0d",
+                      "Name":  "蛋",
+                      "Quantity":  9,
+                      "Price":  90.386268731551230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:27:18.3957314+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4342fb9-e949-4812-ad9a-12a983185c48",
+                      "Name":  "餐巾紙",
+                      "Quantity":  1,
+                      "Price":  203.088698294450910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:45:23.7375413+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "714f21d5-be99-40d5-974c-8833e9464721",
+                      "Name":  "牛奶",
+                      "Quantity":  6,
+                      "Price":  243.158746571403660,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:02:29.8581731+08:00",
+                      "CompletedAt":  "2025-01-19T22:54:34.1589209+08:00"
+                  },
+                  {
+                      "Id":  "299558c4-195f-4d6d-bcf5-2872f5708071",
+                      "Name":  "便利貼",
+                      "Quantity":  5,
+                      "Price":  485.528400446245160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:56:50.3345957+08:00",
+                      "CompletedAt":  "2025-01-19T17:40:09.8418354+08:00"
+                  },
+                  {
+                      "Id":  "df5e2524-c0b5-4811-b661-1ed3897f577b",
+                      "Name":  "訂書機",
+                      "Quantity":  4,
+                      "Price":  273.13306602226210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:33:42.4792554+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

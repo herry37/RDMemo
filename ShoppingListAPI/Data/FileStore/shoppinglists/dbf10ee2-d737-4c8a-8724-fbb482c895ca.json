@@ -1,0 +1,89 @@
+{
+    "Id":  "dbf10ee2-d737-4c8a-8724-fbb482c895ca",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T05:10:57.4364124+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f80fcd6a-66a7-439a-b960-f1071c838733",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "456d9a81-aa75-424c-b7c0-9820a721cb45",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  24,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414456Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a76c174-78b0-47be-a92c-814623e0b04b",
+                      "Name":  "Sleek Concrete Hat",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414745Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "116b1bab-886f-41b1-91f6-744b6abfe495",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80a072b2-80d1-42c7-9346-7ff62e2d558b",
+                      "Name":  "Incredible Rubber Pants",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1516653d-a8bb-45a6-b643-c73ca6b04b7d",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63c5016d-aa4d-4eb9-bd37-66d31b067951",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.441489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e22226f4-4bea-4f5f-8c02-9c60e5e9125f",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  476,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414901Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bf9757b-b893-479c-91ea-da0bb83df10c",
+                      "Name":  "Small Wooden Chicken",
+                      "Quantity":  3,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4414946Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

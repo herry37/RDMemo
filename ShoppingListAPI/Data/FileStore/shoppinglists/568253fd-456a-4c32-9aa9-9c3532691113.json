@@ -1,0 +1,62 @@
+{
+    "Id":  "568253fd-456a-4c32-9aa9-9c3532691113",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T21:43:10.4933411+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2c57d83a-5758-40d6-9833-c3470a5a74fb",
+                      "Name":  "Small Frozen Table",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39c5dcc7-aff0-4154-8620-99256785a6b8",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0be01aed-d34a-4583-989c-e02a8993c4f1",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9b1b817-0931-4f3a-b2c9-02006ac7500a",
+                      "Name":  "Intelligent Steel Car",
+                      "Quantity":  3,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07917d6d-b676-4724-a4a4-e9cedf763be0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3f1187b-8265-4d74-b71b-f79fe0708838",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7756598Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

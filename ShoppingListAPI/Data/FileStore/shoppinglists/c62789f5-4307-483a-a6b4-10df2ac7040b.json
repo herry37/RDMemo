@@ -1,0 +1,44 @@
+{
+    "Id":  "c62789f5-4307-483a-a6b4-10df2ac7040b",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T08:05:36.6732986+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f58d1a7b-2cc7-4dcb-90ab-4390b3fa4050",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4374718Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd427821-2759-42e2-a22d-c50b7291c1ac",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4374761Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cb7c552-23e3-4a25-acc0-ff56519a02d8",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4374792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9d807a1-036c-4428-aa71-f5c4a9ef7baf",
+                      "Name":  "Handmade Granite Salad",
+                      "Quantity":  3,
+                      "Price":  408,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4375054Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

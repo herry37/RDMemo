@@ -1,0 +1,44 @@
+{
+    "Id":  "3599bb53-c058-4f32-afe1-8fa9b06596c2",
+    "Title":  "聚會準備 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-15T15:46:12.9155676+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8a7eaff2-15c1-4657-9040-d7f58456c8e8",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:12:50.1459663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd29da51-7337-48e5-ad86-cc9abe9653c8",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:31:28.411198+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d5b0041-e36d-49e9-9e58-3092881fdf24",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:41:14.403717+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73f57ee8-3fb0-4ff2-9938-f73688bab366",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:32:45.9514356+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

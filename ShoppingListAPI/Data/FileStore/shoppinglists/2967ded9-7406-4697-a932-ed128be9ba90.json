@@ -1,0 +1,44 @@
+{
+    "Id":  "2967ded9-7406-4697-a932-ed128be9ba90",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-18T00:40:18.9284387+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e12afaf9-6f55-403b-8699-2a98dae1d484",
+                      "Name":  "Licensed Steel Sausages",
+                      "Quantity":  2,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9380577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da1c99e6-4d82-44a7-8998-defa24fe18bc",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  341,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.938061Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c8fff81-7560-4888-b6c6-09a8ce83fcd2",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9380644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47e9312f-b663-4673-a57d-cc3c6ded00c5",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9383156Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

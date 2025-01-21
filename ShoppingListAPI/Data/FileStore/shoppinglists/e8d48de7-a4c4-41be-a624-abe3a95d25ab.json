@@ -1,0 +1,71 @@
+{
+    "Id":  "e8d48de7-a4c4-41be-a624-abe3a95d25ab",
+    "Title":  "早市採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T23:27:11.1885859+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6579607d-f3aa-483c-a3bd-5d250d59c836",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:19:11.9171178+08:00",
+                      "CompletedAt":  "2025-01-22T02:17:59.9745038+08:00"
+                  },
+                  {
+                      "Id":  "cb14a684-2883-4411-9c36-f76471579a40",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:43:51.5256609+08:00",
+                      "CompletedAt":  "2025-01-20T23:41:13.8349352+08:00"
+                  },
+                  {
+                      "Id":  "c74b196e-e242-4ec5-b5b5-854c49491453",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:54:46.8145559+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b650dd4e-dfd2-4815-a720-62e32fc56593",
+                      "Name":  "天然肥皂",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:39:37.6343329+08:00",
+                      "CompletedAt":  "2025-01-18T10:20:22.425954+08:00"
+                  },
+                  {
+                      "Id":  "a8356353-cec2-4ca0-b999-5c1880fb7724",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:59:42.1011063+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "343502de-6e0a-4769-ba4e-ac4c62cba463",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:18:58.7655973+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fec1029-053c-4115-ba68-087e7cf2c123",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:59:38.707946+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "5d9e7f66-b574-47c0-b635-1d3258d8e148",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T19:28:31.385801+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c7806ecc-02f9-430b-9779-e59ee884e2aa",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:30:42.5035557+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1cb9cb0-69c2-40f7-8c72-ced8b1dc0ddf",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:54:37.8252485+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "295b10aa-1cac-4cee-bd0d-79bc9674c469",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:45:46.9874386+08:00",
+                      "CompletedAt":  "2025-01-17T22:38:29.5698684+08:00"
+                  },
+                  {
+                      "Id":  "db84c408-29a1-4018-b7ef-468e583931a6",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:56:26.6943755+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fde5bd6e-f8c2-4987-b02f-19cf0884ece0",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:50:16.6309124+08:00",
+                      "CompletedAt":  "2025-01-17T03:05:43.8804549+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

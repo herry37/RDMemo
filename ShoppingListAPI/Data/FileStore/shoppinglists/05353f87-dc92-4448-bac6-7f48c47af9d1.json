@@ -1,0 +1,35 @@
+{
+    "Id":  "05353f87-dc92-4448-bac6-7f48c47af9d1",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T01:41:18.3610656+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6a348371-7cd0-4e94-9e5d-af54eab8ac5a",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:07:06.7665536+08:00",
+                      "CompletedAt":  "2025-01-21T14:34:30.0704422+08:00"
+                  },
+                  {
+                      "Id":  "a6eb864b-c7a5-4d8e-8a0a-5978ba6c0219",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:28:21.4356226+08:00",
+                      "CompletedAt":  "2025-01-18T13:26:09.5548368+08:00"
+                  },
+                  {
+                      "Id":  "1d9ecef4-23d7-419b-9197-3d7bf519c257",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:25:55.5078376+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

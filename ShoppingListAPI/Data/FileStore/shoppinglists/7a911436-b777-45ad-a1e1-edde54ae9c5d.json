@@ -1,0 +1,80 @@
+{
+    "Id":  "7a911436-b777-45ad-a1e1-edde54ae9c5d",
+    "Title":  "01/21 零食購物清單",
+    "CreatedAt":  "2025-01-15T13:37:15.2337465+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e09cc6da-02cb-4d7e-864d-2ba714407e1f",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4641945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bcbe3ac-3be4-4dc8-8f31-8fda72289457",
+                      "Name":  "Practical Frozen Table",
+                      "Quantity":  5,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642061Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f04e67ac-fe7f-4054-a4bb-918fabb919a2",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0d2d6ad-b721-4679-8d0f-523ae9fe8e71",
+                      "Name":  "Sleek Granite Shirt",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642098Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c719e1f4-e108-4055-bb14-f54a8c4ea5ee",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a58cf429-b6fa-41a5-bca6-5567e87823d7",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  379,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6522ece0-f1b3-4f5e-9b3d-112a234e42dd",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642127Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "341a64d1-78a2-4d02-9f1a-4a1f08a1585c",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4642134Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

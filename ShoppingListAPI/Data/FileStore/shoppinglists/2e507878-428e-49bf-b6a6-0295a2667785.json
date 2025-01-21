@@ -1,0 +1,35 @@
+{
+    "Id":  "2e507878-428e-49bf-b6a6-0295a2667785",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T03:07:40.6328615+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3fc81bcd-4477-4dd5-9ad1-1865cf4c33da",
+                      "Name":  "木質相框",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:19:30.3192727+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6be51509-3b1b-4d0a-8227-bd2ccab0c01b",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:23:29.1803179+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3270b32-f6db-41e7-8bb4-1bfbdea8943f",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:06:54.6473539+08:00",
+                      "CompletedAt":  "2025-01-19T12:02:03.5211663+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

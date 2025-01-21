@@ -1,0 +1,62 @@
+{
+    "Id":  "16b218a9-727f-4e6b-8cf9-cb9fe721bebc",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T06:53:59.9568275+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e5e49a4-be56-472d-8893-8a77ed7f55ac",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009481Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16a71c69-6f0b-4360-b294-7c483356b61f",
+                      "Name":  "Intelligent Steel Car",
+                      "Quantity":  5,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08100a4e-e7c4-4889-8fa4-4cf4635dd858",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "779f8c57-b05f-4ece-b747-320010b28d0c",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4151d92d-3029-4562-be3f-bf5d59c60f6c",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009787Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0901d2a-c5a3-4351-a1ab-7d66179afc0f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1009816Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

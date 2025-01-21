@@ -1,0 +1,71 @@
+{
+    "Id":  "b1ec324d-4d6b-4f72-9202-58a56b570d52",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-20T21:34:20.6047408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ce72eda-b3ae-4d94-8daf-aa2b25c99c52",
+                      "Name":  "Refined Fresh Towels",
+                      "Quantity":  3,
+                      "Price":  435,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1499c05b-6087-4518-a8c7-bfeb810ecb0b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48c4d221-0a38-43f3-a55a-4cef58dd5e89",
+                      "Name":  "Awesome Granite Salad",
+                      "Quantity":  4,
+                      "Price":  387,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6986529f-36c8-4524-b73c-e60ab75ddc17",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93ef0061-b282-4698-8ead-d9b2e8af3a4b",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d51afa2d-89d5-4f73-a3de-f03173fe74d3",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0368965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "889c981d-e0f0-4a37-9429-6a7cd7b66273",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  268,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0369309Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

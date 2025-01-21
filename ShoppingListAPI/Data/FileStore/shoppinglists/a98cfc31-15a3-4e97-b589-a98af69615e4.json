@@ -1,0 +1,62 @@
+{
+    "Id":  "a98cfc31-15a3-4e97-b589-a98af69615e4",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T07:12:23.1202229+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c821d3a-bac6-424d-90d8-586da2142247",
+                      "Name":  "Tasty Steel Chair",
+                      "Quantity":  3,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7150514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63c54afa-f38b-4ef4-be14-6d916c44eb46",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.715053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91ee0f2f-ed7d-4862-b33d-38f4f8546906",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7150539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5979d23b-a8ad-4793-8373-79d67ec57ed3",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7150549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4182c5d-1a1e-41af-b0e3-d5ed3745840d",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7150557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c1e1b03-1999-4669-8039-208e7bb581f6",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  426,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7150573Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

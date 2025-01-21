@@ -1,0 +1,53 @@
+{
+    "Id":  "e684b896-3ae5-4519-b538-3df50666107a",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T12:06:54.0726853+08:00",
+    "Items":  [
+                  {
+                      "Id":  "886d46be-4ce3-4297-8034-7b2719de4d19",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.574529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb770bd4-b3ba-46bb-adbd-3f247252bced",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5745314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f100f4c5-810b-49ff-8010-1fb9c91fe72a",
+                      "Name":  "Licensed Fresh Tuna",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5745498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4071445-554c-411b-9107-3bc1e42632a2",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5745576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ed14abd-4234-44cc-9912-40bf02e78eb5",
+                      "Name":  "Awesome Rubber Pizza",
+                      "Quantity":  2,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5745609Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

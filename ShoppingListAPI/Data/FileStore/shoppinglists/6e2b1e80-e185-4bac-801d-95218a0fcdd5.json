@@ -1,0 +1,44 @@
+{
+    "Id":  "6e2b1e80-e185-4bac-801d-95218a0fcdd5",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T05:03:49.9472377+08:00",
+    "Items":  [
+                  {
+                      "Id":  "460408df-8611-480a-b69e-f6c78a503f62",
+                      "Name":  "相框",
+                      "Quantity":  3,
+                      "Price":  252.227800231978330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:44:52.7279807+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f261096a-c609-40d7-85c0-1b7609436881",
+                      "Name":  "護手霜",
+                      "Quantity":  5,
+                      "Price":  220.789397122646090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:38:42.2589899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "910e2e0e-e185-4bba-a5fa-bd5e3a6fbcf7",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  251.880941347458140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:33:02.1120644+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79f54d27-56a8-488a-aba6-1d3bff903e8e",
+                      "Name":  "餐巾紙",
+                      "Quantity":  9,
+                      "Price":  42.8895789892637730,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:35:56.326721+08:00",
+                      "CompletedAt":  "2025-01-21T11:03:45.637309+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

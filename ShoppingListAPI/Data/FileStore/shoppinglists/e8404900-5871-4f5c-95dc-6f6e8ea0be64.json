@@ -1,0 +1,44 @@
+{
+    "Id":  "e8404900-5871-4f5c-95dc-6f6e8ea0be64",
+    "Title":  "居家整理 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-19T00:07:18.4795394+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e800f914-7bb7-4f2e-a3b2-e2dd5a81bb86",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:23:33.1606971+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2ee0cf8-decd-4f1a-8b5a-778fa81f5ee2",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:23:47.7304235+08:00",
+                      "CompletedAt":  "2025-01-17T22:25:54.4067179+08:00"
+                  },
+                  {
+                      "Id":  "555dee19-2fd4-4beb-8ec0-247b1b31ef5c",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:37:03.7791242+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58f032e9-02db-4cfc-9b16-3d70e948d0be",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:04:19.7804322+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

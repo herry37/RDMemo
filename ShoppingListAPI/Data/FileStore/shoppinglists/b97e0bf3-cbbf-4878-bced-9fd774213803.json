@@ -1,0 +1,35 @@
+{
+    "Id":  "b97e0bf3-cbbf-4878-bced-9fd774213803",
+    "Title":  "居家整理 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T14:51:32.5422674+08:00",
+    "Items":  [
+                  {
+                      "Id":  "34e1119b-efb1-4cae-9407-850caf194e6a",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:10:45.4101581+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71144064-7f91-4bc8-aa59-d347e1ba8188",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:21:07.475837+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4856f16e-6ce4-4536-930c-7e2d0c54f742",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:32:31.2810513+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

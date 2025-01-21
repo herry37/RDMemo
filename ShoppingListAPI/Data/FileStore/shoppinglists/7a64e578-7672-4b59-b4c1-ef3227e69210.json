@@ -1,0 +1,80 @@
+{
+    "Id":  "7a64e578-7672-4b59-b4c1-ef3227e69210",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-17T03:44:31.9870955+08:00",
+    "Items":  [
+                  {
+                      "Id":  "988da03b-b28e-4b1d-9c37-ccdc7fae3f19",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3984452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5866a241-9e94-4834-871c-00d6fdce07c0",
+                      "Name":  "Handcrafted Rubber Bacon",
+                      "Quantity":  3,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.398471Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8292cae-8ece-4063-8296-fbfed60a4bf7",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3984885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44d471ca-a8a7-4b00-8a48-99cc665e31c9",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3984896Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ec1aeed-f50d-4858-8643-9c44ba10eedc",
+                      "Name":  "Sleek Granite Car",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3984976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "861a5fa6-1373-4e3f-9346-e1a99734b7b4",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3985009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bad9726b-dabb-4f08-92d9-9e842d421a34",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3985017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9017771e-2c3a-45ec-aba4-bd25aa41e21c",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3985028Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

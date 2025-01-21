@@ -1,0 +1,71 @@
+{
+    "Id":  "c0a9be9e-b7b2-4931-b959-6c097044d720",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T06:31:35.4281684+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d3c78531-1bd6-4805-8a79-13ba27ba2ae1",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  491,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437029Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82f927b3-a029-42be-879d-dcf097504b1b",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.943706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c08cb653-2c1a-48d2-9849-ca11522b72f9",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437077Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83c3440e-3a67-46c6-aa9c-88d4f2ba235d",
+                      "Name":  "Fantastic Concrete Shoes",
+                      "Quantity":  1,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24e9c322-63d7-436c-947f-860cbc6ca034",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c817489-daf9-420f-8bc3-2b86e09e0f07",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437258Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a8e9b1c-e24b-4b35-a962-c25ce6e8c15c",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9437271Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

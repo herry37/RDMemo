@@ -1,0 +1,80 @@
+{
+    "Id":  "ecbb8299-65d2-4ede-ae6f-16f06054e708",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T18:27:42.006061+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c3bf20b7-82ae-4c9d-ba85-ded4f22683c9",
+                      "Name":  "豬肉",
+                      "Quantity":  1,
+                      "Price":  341.20940470916060,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T11:45:19.9900973+08:00",
+                      "CompletedAt":  "2025-01-21T17:05:51.6474342+08:00"
+                  },
+                  {
+                      "Id":  "690adbda-dca3-42c7-9803-d51553178153",
+                      "Name":  "鍋子",
+                      "Quantity":  1,
+                      "Price":  385.178739783629390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:58:58.3185535+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "438de580-bc39-4ab1-a1c1-5abd7824a7d7",
+                      "Name":  "鍋子",
+                      "Quantity":  4,
+                      "Price":  263.394165070424350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:27:48.2235464+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ce87633-6cf1-4f2b-90ea-80162a910757",
+                      "Name":  "魚",
+                      "Quantity":  7,
+                      "Price":  42.7691442476514620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:10:47.650746+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7c119df-34d3-49d7-aabe-4aca9a93216a",
+                      "Name":  "防曬乳",
+                      "Quantity":  8,
+                      "Price":  61.935545793112870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:19:09.226668+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "471ab77e-e153-489f-9566-2cf37ff7f755",
+                      "Name":  "清潔劑",
+                      "Quantity":  2,
+                      "Price":  166.040390125608030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:16:27.9040394+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c39ca91-76bb-4172-9f3a-82ba32bb0964",
+                      "Name":  "果乾",
+                      "Quantity":  9,
+                      "Price":  127.972698858928690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:56:42.2724466+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d62bd537-4f0c-4a9e-b59c-1099bc7084a1",
+                      "Name":  "面紙",
+                      "Quantity":  6,
+                      "Price":  23.3608646386020540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:11:58.3657008+08:00",
+                      "CompletedAt":  "2025-01-20T17:59:38.8382341+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

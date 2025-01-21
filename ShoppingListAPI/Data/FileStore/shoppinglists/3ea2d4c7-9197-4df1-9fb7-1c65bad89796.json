@@ -1,0 +1,80 @@
+{
+    "Id":  "3ea2d4c7-9197-4df1-9fb7-1c65bad89796",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T18:48:12.9875692+08:00",
+    "Items":  [
+                  {
+                      "Id":  "46918374-2842-4437-bd41-4ec81c8a4dc0",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:55:15.5200749+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "147f3441-cf87-4c3f-8837-e4f2370ed78f",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:57:11.9267142+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3754b164-f0c5-4b59-8955-a8eb66b6cb75",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:50:19.8512907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4ea68cb-0807-41b5-b9fb-ae7fbd5f9b91",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:23:49.4038648+08:00",
+                      "CompletedAt":  "2025-01-18T12:33:26.6769213+08:00"
+                  },
+                  {
+                      "Id":  "2e8efda7-7d3e-453d-9463-ea7b9acaee51",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:11:48.9077438+08:00",
+                      "CompletedAt":  "2025-01-18T06:14:46.8547672+08:00"
+                  },
+                  {
+                      "Id":  "7f1fd922-db8d-48f6-b678-866097938370",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:55:57.0511065+08:00",
+                      "CompletedAt":  "2025-01-19T12:30:42.0633504+08:00"
+                  },
+                  {
+                      "Id":  "6a4c9bd1-4b4f-4e39-9b99-fdb78b38a5fc",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:30:54.6060901+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5a0dace-e1ff-410e-822c-5bcd8d1f817e",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:03:48.7598817+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "61c540f9-5d2e-4e2c-825c-f096d9921062",
+    "Title":  "月底大採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T19:25:56.730842+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08ad2969-4b77-4ce7-9dbf-30ead3d67654",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:52:52.8763919+08:00",
+                      "CompletedAt":  "2025-01-18T13:01:51.4493521+08:00"
+                  },
+                  {
+                      "Id":  "0372a222-804e-444e-a9e8-dbd6f7549600",
+                      "Name":  "美白牙膏",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:26:52.08794+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e766f836-2840-4589-a6c7-8be41e42df97",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:30:46.2593561+08:00",
+                      "CompletedAt":  "2025-01-21T20:42:39.5599009+08:00"
+                  },
+                  {
+                      "Id":  "46b91563-bc5f-4f66-bb09-3ade80af49e5",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:25:48.7567481+08:00",
+                      "CompletedAt":  "2025-01-18T13:22:59.4125356+08:00"
+                  },
+                  {
+                      "Id":  "1033dbe4-fe05-4aa1-8a4c-d36f796771e3",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:18:03.1764938+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d38f51d-a1aa-42df-841f-13349de6df70",
+                      "Name":  "有機番茄",
+                      "Quantity":  4,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:15:21.5966259+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fe71733-019a-4a1c-a545-906ed292aa98",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  185,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:31:09.2706432+08:00",
+                      "CompletedAt":  "2025-01-17T02:42:26.9247013+08:00"
+                  },
+                  {
+                      "Id":  "5e2da81e-04aa-4389-81e1-66616345203c",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:25:40.1318806+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "783b1df1-e726-492a-be2b-f6076f395d32",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-21T04:17:22.8513943+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f2d6480b-17a7-44a5-a389-b0441c715f04",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  146,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:15:56.7906505+08:00",
+                      "CompletedAt":  "2025-01-21T23:00:56.0535214+08:00"
+                  },
+                  {
+                      "Id":  "def81cae-163c-4ed0-82f2-17cd104bec70",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:07:59.5911947+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6344be8-dbb5-4ad8-9885-684d4b419991",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:53:29.1316949+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e01549fd-154d-404b-96b9-d9eee7110e26",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:52:32.7904893+08:00",
+                      "CompletedAt":  "2025-01-22T10:08:12.4226178+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

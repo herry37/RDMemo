@@ -1,0 +1,44 @@
+{
+    "Id":  "ed72a446-ead3-498e-90aa-fed02dfc8402",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T12:09:54.8630497+08:00",
+    "Items":  [
+                  {
+                      "Id":  "11a8f792-8470-4828-8a6b-1b6adfba2b19",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  69,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:50:54.578978+08:00",
+                      "CompletedAt":  "2025-01-15T20:39:01.3079508+08:00"
+                  },
+                  {
+                      "Id":  "fbf6b643-3590-42d6-8ad6-0db50d77bd9c",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:40:17.387847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89a1baab-a4f8-4589-97a5-c5118c0a5245",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:04:29.9810886+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "346fb109-7d01-47d2-b643-befe7dec415f",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:02:30.6052008+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

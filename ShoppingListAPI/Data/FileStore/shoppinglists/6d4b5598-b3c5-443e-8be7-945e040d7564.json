@@ -1,0 +1,53 @@
+{
+    "Id":  "6d4b5598-b3c5-443e-8be7-945e040d7564",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T13:26:30.0630052+08:00",
+    "Items":  [
+                  {
+                      "Id":  "57a19a6e-2d9c-4f7b-b6b2-3d28b89027e9",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5689498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40109296-dba8-424e-9632-e82b34fa216f",
+                      "Name":  "Handmade Plastic Bacon",
+                      "Quantity":  3,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5689822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce803405-7e26-4caa-a4c2-646f3e5e992e",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5689865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b14195d-6b93-496a-81fc-2111c4b2cfd2",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5689881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea77a6c6-eedb-42b1-ab33-545b3339e747",
+                      "Name":  "Small Cotton Towels",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5689939Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

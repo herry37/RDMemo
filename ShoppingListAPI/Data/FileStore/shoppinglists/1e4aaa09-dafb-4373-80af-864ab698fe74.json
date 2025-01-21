@@ -1,0 +1,62 @@
+{
+    "Id":  "1e4aaa09-dafb-4373-80af-864ab698fe74",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-15T10:58:43.4179156+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4aece08-c254-48d6-87bf-aca120fa6c7f",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:17:25.0632348+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0597e4a5-2620-4f92-a8a5-d5db23d9e2f9",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:28:24.8104919+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "935d4e5a-0194-42d9-a95a-1e19632b72dd",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:12:58.8644875+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74e67c23-0d9b-4400-854d-9ec37bb54bb3",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:15:03.7479386+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c52b0f2d-9361-47bd-a7ad-9ede467c0cd9",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:41:03.0375188+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f7ed378-a6f8-4b88-949b-e230334bfd24",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:23:10.6104388+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

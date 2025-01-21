@@ -1,0 +1,53 @@
+{
+    "Id":  "8d91c3be-7a76-44cb-84fb-a05543a3f864",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T13:19:24.9017618+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1fdd5076-2ad9-4d13-82ba-0ef9195567e2",
+                      "Name":  "Fantastic Rubber Keyboard",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4507129Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e054e9a0-1db1-4663-9bcb-bbae1f7b7450",
+                      "Name":  "Practical Cotton Cheese",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4507253Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a41dd25e-a6e3-4782-ad09-d053e26ca94a",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4507281Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7694f715-4be8-409e-8f02-a06f90881680",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4507306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "166a3856-152a-410f-86cb-1a1e139f23a3",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4507335Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

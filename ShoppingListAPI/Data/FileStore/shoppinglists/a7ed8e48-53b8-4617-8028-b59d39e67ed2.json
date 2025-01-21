@@ -1,0 +1,62 @@
+{
+    "Id":  "a7ed8e48-53b8-4617-8028-b59d39e67ed2",
+    "Title":  "緊急採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T05:09:00.1256873+08:00",
+    "Items":  [
+                  {
+                      "Id":  "24d10949-85b3-4fe0-9c85-3ffff7b36105",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:34:32.1309949+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7e522cb-cb86-42c3-9933-7046cedf2e8a",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:11:37.7426203+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4d98e93-7f8a-494f-aa8c-ac62ff22b48e",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:00:34.1084099+08:00",
+                      "CompletedAt":  "2025-01-21T04:31:23.4786306+08:00"
+                  },
+                  {
+                      "Id":  "cc11fa74-179f-44cc-98f6-e52819b1ecd0",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  168,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:20:58.8025492+08:00",
+                      "CompletedAt":  "2025-01-17T15:57:46.0715435+08:00"
+                  },
+                  {
+                      "Id":  "2d2ebb53-6cc6-4b44-8259-bf8410938832",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:09:33.2123171+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88387fc5-ef97-4ab2-9b70-c06867978ff1",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:05:50.4926668+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

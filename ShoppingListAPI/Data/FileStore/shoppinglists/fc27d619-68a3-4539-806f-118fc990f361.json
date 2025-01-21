@@ -1,0 +1,35 @@
+{
+    "Id":  "fc27d619-68a3-4539-806f-118fc990f361",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T00:24:05.1480746+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3fd298a1-c66d-4e3e-b870-d634cc7f4e67",
+                      "Name":  "番茄",
+                      "Quantity":  6,
+                      "Price":  220.533859926356330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:54:16.6149362+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "269f7462-a45b-4136-b897-ddc594269b70",
+                      "Name":  "鍋子",
+                      "Quantity":  4,
+                      "Price":  369.31231425205410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:09:22.4079595+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b27b6fb1-6a30-41b3-9678-5e330f257b46",
+                      "Name":  "化妝品",
+                      "Quantity":  9,
+                      "Price":  271.306729113440290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:52:01.5213816+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

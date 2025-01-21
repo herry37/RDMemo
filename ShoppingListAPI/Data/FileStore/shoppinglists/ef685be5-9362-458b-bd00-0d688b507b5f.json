@@ -1,0 +1,53 @@
+{
+    "Id":  "ef685be5-9362-458b-bd00-0d688b507b5f",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T23:50:25.0460865+08:00",
+    "Items":  [
+                  {
+                      "Id":  "831ea434-555a-4979-84ea-0514bcbbf94f",
+                      "Name":  "Refined Wooden Towels",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5973887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af0c5efe-fccc-4497-b346-d5dc9c4b32a3",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.597397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f5f3cb6-ce04-46ff-b979-f9ed6dbc5f31",
+                      "Name":  "Rustic Soft Pants",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5974039Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2ddace5-0493-4a4e-b69e-fb1a6efc49d7",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5974054Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e8f641d-937f-44f7-b2b4-a69b93b90790",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5974269Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

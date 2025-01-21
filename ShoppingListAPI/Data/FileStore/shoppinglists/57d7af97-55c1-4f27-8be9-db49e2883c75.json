@@ -1,0 +1,35 @@
+{
+    "Id":  "57d7af97-55c1-4f27-8be9-db49e2883c75",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-19T18:10:39.4586513+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fec9b1db-dc9b-4fe3-b2fe-0c64788e1d33",
+                      "Name":  "Rustic Soft Pizza",
+                      "Quantity":  1,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.574659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6144b4e1-c00a-45c1-9afc-5482acf04414",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5746774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ebefc8fa-1ccd-452f-939b-643ebdf28634",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.574679Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

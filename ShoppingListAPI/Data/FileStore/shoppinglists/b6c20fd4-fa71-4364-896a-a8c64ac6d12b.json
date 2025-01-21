@@ -1,0 +1,89 @@
+{
+    "Id":  "b6c20fd4-fa71-4364-896a-a8c64ac6d12b",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-15T04:58:30.8022733+08:00",
+    "Items":  [
+                  {
+                      "Id":  "004a0de2-2cc2-4a2a-9e15-63b14b71e073",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a55b714b-70e4-419e-9fd5-72c29f4c7374",
+                      "Name":  "Gorgeous Plastic Car",
+                      "Quantity":  4,
+                      "Price":  349,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8178f8df-2c99-4834-90d4-12041bf1e275",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  444,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82bede28-ad7b-4b49-b0a8-5c70b1fcbddb",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473536Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8a05ce6-f9ee-4773-9bfe-3b3dea01bb60",
+                      "Name":  "Unbranded Concrete Tuna",
+                      "Quantity":  2,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "236e28fd-7021-4458-bac2-bace5e802aaa",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dd4ff16-b30b-42e6-abdd-3ce407d165c2",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06c0f9bd-3998-4639-ac49-d4956cd8e051",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71123615-f66b-475a-80dd-ed0476b58784",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4473597Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

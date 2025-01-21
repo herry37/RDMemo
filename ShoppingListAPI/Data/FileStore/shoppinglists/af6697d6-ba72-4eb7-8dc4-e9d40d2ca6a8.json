@@ -1,0 +1,44 @@
+{
+    "Id":  "af6697d6-ba72-4eb7-8dc4-e9d40d2ca6a8",
+    "Title":  "居家整理 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T06:18:10.8708199+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fcf21f2e-04ba-46c5-8441-e62d212929e1",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:38:55.6823671+08:00",
+                      "CompletedAt":  "2025-01-17T21:06:18.0181501+08:00"
+                  },
+                  {
+                      "Id":  "68b98e6a-6b5c-42ad-9b02-2301c7d6c47e",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:06:20.5946382+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9112c5c-d158-451f-8fe6-a66aaefb35e1",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:11:55.2703556+08:00",
+                      "CompletedAt":  "2025-01-19T02:41:07.6871788+08:00"
+                  },
+                  {
+                      "Id":  "4d831dfb-4dfd-48e2-b2c9-fb0f1dd9c9e2",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:39:30.907896+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

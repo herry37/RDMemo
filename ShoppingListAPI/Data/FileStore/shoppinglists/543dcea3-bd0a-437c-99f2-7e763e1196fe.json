@@ -1,0 +1,89 @@
+{
+    "Id":  "543dcea3-bd0a-437c-99f2-7e763e1196fe",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T03:39:23.8161803+08:00",
+    "Items":  [
+                  {
+                      "Id":  "21985e76-f5b9-4f67-9e04-fabaae634a61",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  350.073009830541750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:59:01.2825837+08:00",
+                      "CompletedAt":  "2025-01-19T10:43:19.8371646+08:00"
+                  },
+                  {
+                      "Id":  "4f6479b5-171c-4f01-8845-1221f56b185a",
+                      "Name":  "置物盒",
+                      "Quantity":  3,
+                      "Price":  179.466554604472020,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:34:41.9089427+08:00",
+                      "CompletedAt":  "2025-01-20T21:55:25.4660896+08:00"
+                  },
+                  {
+                      "Id":  "3449d291-52c9-494e-87cf-a3dfeac23890",
+                      "Name":  "便利貼",
+                      "Quantity":  9,
+                      "Price":  180.90473794888970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:29:32.8997387+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "540e11f6-f992-4a35-9ef3-34f22a05a59d",
+                      "Name":  "檯燈",
+                      "Quantity":  3,
+                      "Price":  107.550074739512710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:01:20.0321588+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9450ebcf-d472-48f1-901c-2ebf9a15399e",
+                      "Name":  "盤子",
+                      "Quantity":  9,
+                      "Price":  343.401667407743480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:10:52.0421527+08:00",
+                      "CompletedAt":  "2025-01-21T09:28:13.2988454+08:00"
+                  },
+                  {
+                      "Id":  "e09c38ac-5ad3-417d-aa8c-6a22381897cb",
+                      "Name":  "除霉劑",
+                      "Quantity":  5,
+                      "Price":  19.8898671820234230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:18:05.6276067+08:00",
+                      "CompletedAt":  "2025-01-22T10:50:32.8863165+08:00"
+                  },
+                  {
+                      "Id":  "46771c4e-0959-4d58-8b0e-751393f50450",
+                      "Name":  "拖把",
+                      "Quantity":  6,
+                      "Price":  139.158959378134980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:05:15.7677592+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ccadf87-a1a9-41c3-9c48-98923fe19e97",
+                      "Name":  "洋芋片",
+                      "Quantity":  2,
+                      "Price":  292.335330299177260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:08:50.6362118+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30fae34b-30ee-4113-8701-fb128d6f83b5",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  115.078402403713480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:44:42.303521+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

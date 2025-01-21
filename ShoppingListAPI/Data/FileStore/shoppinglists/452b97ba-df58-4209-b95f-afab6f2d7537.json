@@ -1,0 +1,35 @@
+{
+    "Id":  "452b97ba-df58-4209-b95f-afab6f2d7537",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-19T10:38:30.7462076+08:00",
+    "Items":  [
+                  {
+                      "Id":  "afb51ce9-56f7-456b-8a6b-7dec98c7dd6e",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:17:20.4876983+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cc31c4c-f2f8-48fe-ad8e-fb86f3ea98a6",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:51:47.3624901+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f643cd0-b270-4511-808f-7d1c6b778407",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:22:44.981439+08:00",
+                      "CompletedAt":  "2025-01-18T19:01:51.0111423+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

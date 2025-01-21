@@ -1,0 +1,71 @@
+{
+    "Id":  "b2037d47-9aba-4bf6-95aa-1f2c96297d90",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T07:43:42.4925752+08:00",
+    "Items":  [
+                  {
+                      "Id":  "49338d09-d675-42f9-a4e8-52e9c635b680",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1167788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5431935e-a6b9-46e9-b69b-f2d438101ea3",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1167845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b3a9057-01b4-4b8a-a659-5f3104dd43d5",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1167862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6b80952-aa9f-4b01-86b2-00f83be017b5",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1167928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4e8feac-c20b-4dec-815a-5dede4e4b2a5",
+                      "Name":  "Incredible Concrete Mouse",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1168248Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e498c7d1-71dd-4da8-ae3d-85b10730fb37",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1168288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e25af02c-021b-492e-a83b-8676e3eaac6f",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1168302Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

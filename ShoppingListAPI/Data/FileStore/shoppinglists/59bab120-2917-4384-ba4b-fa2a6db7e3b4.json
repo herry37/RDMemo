@@ -1,0 +1,62 @@
+{
+    "Id":  "59bab120-2917-4384-ba4b-fa2a6db7e3b4",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T05:14:37.1878597+08:00",
+    "Items":  [
+                  {
+                      "Id":  "351619b8-fa4b-447e-a17b-16622151ceb3",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6998674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c607245e-da9f-42c6-9f85-de0e8a4b934f",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6998723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63040e84-463e-4820-a6b3-936530adfa28",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6998758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cab75159-cbf5-4aea-a010-0ea2451c16db",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.699877Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d89b02aa-d909-4b36-bf7f-de7115915667",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6998781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c24c65de-8412-4e1f-a39c-12b75653ca96",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6998809Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

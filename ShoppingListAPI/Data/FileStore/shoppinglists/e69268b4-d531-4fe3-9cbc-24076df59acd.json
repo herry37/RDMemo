@@ -1,0 +1,35 @@
+{
+    "Id":  "e69268b4-d531-4fe3-9cbc-24076df59acd",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T14:58:41.535241+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3ade72d4-92e6-4985-88a1-92b742946b2a",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  471,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0368498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "404be82a-4521-49f0-8852-2244e92c470a",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0368552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e089282-200b-4be9-ad31-80f00667057f",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0368571Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

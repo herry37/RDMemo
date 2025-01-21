@@ -1,0 +1,71 @@
+{
+    "Id":  "c9852f69-733f-4ce1-9cf2-cc6329f5ae98",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T05:58:16.5027901+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1382eda7-654a-48a6-9e5f-e9da67ca28bd",
+                      "Name":  "置物盒",
+                      "Quantity":  8,
+                      "Price":  479.77409752888370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:14:09.1455948+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0774402b-c56e-46b9-948b-1035fde1d32f",
+                      "Name":  "口香糖",
+                      "Quantity":  4,
+                      "Price":  446.711480520915110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:23:49.8583085+08:00",
+                      "CompletedAt":  "2025-01-16T06:20:53.9522156+08:00"
+                  },
+                  {
+                      "Id":  "91c38d60-4a73-4272-9c87-254986065c00",
+                      "Name":  "番茄",
+                      "Quantity":  7,
+                      "Price":  228.303760534312460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:11:34.2516338+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab339d95-22a4-4934-927e-3ad5daf35a78",
+                      "Name":  "口香糖",
+                      "Quantity":  5,
+                      "Price":  158.88669388360180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:30:07.8744925+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaa4d8ff-b502-407a-aeba-0c9be0c0b6b1",
+                      "Name":  "牙刷",
+                      "Quantity":  3,
+                      "Price":  33.1613467716048670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:33:50.9631139+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c85d438-7ff7-48d8-a0eb-6f5a86156a0e",
+                      "Name":  "掃把",
+                      "Quantity":  9,
+                      "Price":  430.465698771365940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:06:08.4126854+08:00",
+                      "CompletedAt":  "2025-01-21T20:22:30.8104894+08:00"
+                  },
+                  {
+                      "Id":  "0022ef79-58ef-47e2-a08d-18b7f0e4c082",
+                      "Name":  "鍋子",
+                      "Quantity":  1,
+                      "Price":  382.967094308378780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:27:04.3300379+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

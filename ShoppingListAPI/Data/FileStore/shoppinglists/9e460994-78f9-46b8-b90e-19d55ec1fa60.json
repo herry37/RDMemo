@@ -1,0 +1,71 @@
+{
+    "Id":  "9e460994-78f9-46b8-b90e-19d55ec1fa60",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-19T06:43:45.9443544+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b9db181-5699-406d-b20e-72be30778b74",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  396,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6064943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd1fc6ae-f06f-4580-bd13-215e9cc7ae65",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  376,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6064975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f406f38-6fcb-4b38-a65d-b7895b2d2563",
+                      "Name":  "Generic Fresh Towels",
+                      "Quantity":  2,
+                      "Price":  328,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6065169Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e26b55f-2346-42ca-ab04-f0d1c0019d2f",
+                      "Name":  "Unbranded Granite Cheese",
+                      "Quantity":  4,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6065242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c0a62b8-3084-48d1-9e08-37cb12a7e440",
+                      "Name":  "Intelligent Frozen Chicken",
+                      "Quantity":  2,
+                      "Price":  419,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6065295Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e725f975-7a66-40c7-b983-a3d996f46de2",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6065321Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21c301b8-d8d1-4ba8-a22a-667d13e474af",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.606534Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

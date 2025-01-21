@@ -1,0 +1,62 @@
+{
+    "Id":  "e9159c54-a75a-41df-8946-687b1d4d4bd6",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T10:54:02.6383712+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae84e1e3-e0db-4db5-8169-1ddf9f9b7100",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0acad979-5118-411b-bfb3-833c72d81fbc",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f607210-28ab-4fb1-a05c-57baab88b777",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b734e8a7-bd66-48b4-8dcf-b342d3d50725",
+                      "Name":  "Tasty Fresh Car",
+                      "Quantity":  3,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "690882de-5d1c-41a8-8375-efc9f0de8c84",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  307,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304729Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a06538b-00e6-4ca1-85a7-87e2a2e973a1",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3304757Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

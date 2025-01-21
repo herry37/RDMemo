@@ -1,0 +1,71 @@
+{
+    "Id":  "f6b01838-61f1-4676-b41e-eab78c817178",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T07:59:43.7851631+08:00",
+    "Items":  [
+                  {
+                      "Id":  "56200834-f955-4ae8-a89f-fb0055fdb5cc",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:20:10.5883116+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01cd9bb8-5c53-435f-85fd-71c3ef2f7c51",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:53:04.1248558+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36625e4a-3f7d-4c54-aa53-bc5bdb532388",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:42:56.3979476+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f98b0905-2b0b-4f5e-82d8-5e0279670f37",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:09:05.3465684+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "193154c8-58d3-42d5-8837-af199d628e7b",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:34:22.5086184+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3fd688ab-ee97-41a9-8bdf-f98d4d2e6a5a",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:04:57.4842256+08:00",
+                      "CompletedAt":  "2025-01-17T23:47:03.5500342+08:00"
+                  },
+                  {
+                      "Id":  "ad325b7f-eb72-4cdc-a414-02b0b47f2ed5",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:47:42.1861793+08:00",
+                      "CompletedAt":  "2025-01-21T19:01:32.912619+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

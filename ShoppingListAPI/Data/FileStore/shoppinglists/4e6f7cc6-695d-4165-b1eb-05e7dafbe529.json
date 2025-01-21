@@ -1,0 +1,62 @@
+{
+    "Id":  "4e6f7cc6-695d-4165-b1eb-05e7dafbe529",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T10:31:30.0620885+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3f7f527-7ac6-4902-8bbe-656fc6eaf241",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9320087Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "357d8d13-196b-454d-a030-f2154c32a26b",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.932011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27f10e99-fdc7-4fbe-a826-6f3f3aa69454",
+                      "Name":  "Practical Granite Table",
+                      "Quantity":  4,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.932029Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c9539fa-6efd-42fc-becc-10cea0663ad4",
+                      "Name":  "Tasty Rubber Towels",
+                      "Quantity":  1,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9320334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fb946d5-6483-42da-8f66-10df0ea39607",
+                      "Name":  "Gorgeous Cotton Ball",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9320413Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5136470-e89b-4e63-aa26-125ccf747634",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  299,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9320429Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "625bbb1f-f871-4019-be97-8e259db357e8",
+    "Title":  "日常補充 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T10:19:08.8722408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8915cff3-2f02-4811-ab01-c4cb2d4dd649",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:41:26.7785142+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "251b1b9f-f670-444f-a0b7-c58c2bba59df",
+                      "Name":  "綜合堅果",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:45:55.9099785+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25e5ce01-12d8-4c3f-8bb2-f07e55e9d263",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:59:31.8167977+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaa815b8-5000-46a6-b8fa-e5cbc85d1dda",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  177,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:11:31.2853729+08:00",
+                      "CompletedAt":  "2025-01-17T12:46:53.1268102+08:00"
+                  },
+                  {
+                      "Id":  "02aae2b8-b649-492c-8cd2-4db3314825cd",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:30:34.2373626+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

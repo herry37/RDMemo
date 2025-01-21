@@ -1,0 +1,80 @@
+{
+    "Id":  "6027fed2-280b-40d4-a7c6-0a3fbb89e640",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-21T20:36:54.2783207+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e54fe4e2-38a8-4c3f-8533-51d55c9f1f83",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8876748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d413fd30-e05f-4e3d-bdef-e1cf92f30f15",
+                      "Name":  "Ergonomic Steel Ball",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8876918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "583e981c-06fe-4849-9965-3c62176be31a",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8876931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9374d17-2440-45f4-854c-c59009a16675",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  385,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8876948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6322c21b-48bc-422e-8e1f-6080b926b2b6",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8876961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0041c322-3ffa-44ea-bfaa-746fb35d7f38",
+                      "Name":  "Small Steel Chips",
+                      "Quantity":  4,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8877003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40da28ef-6120-4b84-a89c-80f49b1fd572",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8877016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "178aaf2a-0112-415d-be5a-9c81dfc01968",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8877032Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

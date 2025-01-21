@@ -1,0 +1,80 @@
+{
+    "Id":  "a8234ced-a4f2-467c-91c8-1370d443926d",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T02:42:09.7162619+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a28b20b1-84fd-463b-b427-a136f4c86163",
+                      "Name":  "梳子",
+                      "Quantity":  10,
+                      "Price":  86.382129976251820,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:32:02.4864632+08:00",
+                      "CompletedAt":  "2025-01-16T15:11:12.5024784+08:00"
+                  },
+                  {
+                      "Id":  "5b3e2cb3-f790-490f-bfb3-57f0661df594",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  238.091162915943880,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:41:50.0365338+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ae3f97e-f83b-4f09-a03c-b6887a0c9b65",
+                      "Name":  "漂白水",
+                      "Quantity":  4,
+                      "Price":  44.1939511243981840,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:20:44.8445696+08:00",
+                      "CompletedAt":  "2025-01-17T21:16:09.387137+08:00"
+                  },
+                  {
+                      "Id":  "f44cb5bc-86ff-45af-9d41-b2dad3652605",
+                      "Name":  "餅乾",
+                      "Quantity":  10,
+                      "Price":  187.372766728724630,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:43:17.8022915+08:00",
+                      "CompletedAt":  "2025-01-19T12:51:39.4877813+08:00"
+                  },
+                  {
+                      "Id":  "ff96cfb1-59dc-46c2-a5cd-39ada0db4be3",
+                      "Name":  "護手霜",
+                      "Quantity":  2,
+                      "Price":  248.974681694821520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:17:07.4815702+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45418431-e21e-42b3-aab0-a490995966bd",
+                      "Name":  "化妝品",
+                      "Quantity":  10,
+                      "Price":  373.543511267674640,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:45:27.0079639+08:00",
+                      "CompletedAt":  "2025-01-15T14:54:19.1579848+08:00"
+                  },
+                  {
+                      "Id":  "219f009d-dca1-4c3d-a684-71a210b195b3",
+                      "Name":  "口香糖",
+                      "Quantity":  2,
+                      "Price":  132.935145211334470,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T11:25:18.1917903+08:00",
+                      "CompletedAt":  "2025-01-23T05:06:42.157217+08:00"
+                  },
+                  {
+                      "Id":  "637f90fa-4c93-42f4-af22-0c22dec29340",
+                      "Name":  "餐具",
+                      "Quantity":  6,
+                      "Price":  213.538878156781160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:33:44.4624328+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

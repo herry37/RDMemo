@@ -1,0 +1,62 @@
+{
+    "Id":  "59d9c38c-53d5-446a-99d8-207ac4853c6e",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T14:02:09.8936927+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc0eb41c-43ed-4327-9a08-8c43d491aaaf",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:39:44.362923+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ae7109e-93b6-4ece-836d-f3104d17b62c",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  271,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:22:01.5858105+08:00",
+                      "CompletedAt":  "2025-01-21T01:22:01.790159+08:00"
+                  },
+                  {
+                      "Id":  "370967f2-7b86-472b-8066-fa4e937b6f35",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:16:23.1294248+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91cfe3a3-3a3d-4dcd-845e-1cb580c7954d",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:34:24.4034093+08:00",
+                      "CompletedAt":  "2025-01-17T23:02:03.5621166+08:00"
+                  },
+                  {
+                      "Id":  "1b0537bf-6162-43b7-989b-cae0935a2dcb",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  4,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:31:40.6354661+08:00",
+                      "CompletedAt":  "2025-01-21T19:00:56.7886617+08:00"
+                  },
+                  {
+                      "Id":  "bc677d90-79bb-4705-8866-e5e5957ee730",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:03:09.4523889+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

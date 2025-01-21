@@ -1,0 +1,71 @@
+{
+    "Id":  "3e380406-36aa-40f5-8d2a-c7ad2f475ed9",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T20:04:44.1154477+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2b6786ed-3d31-4716-b728-250b64eaf362",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6544677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c44de9c-64c9-4a45-88c1-282fed8d376d",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  365,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6544734Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caa83e80-f970-42b1-bf12-057b9665b3e9",
+                      "Name":  "Incredible Metal Table",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6545084Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "720a1d2f-f457-4e32-a162-2ad24147280e",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6545147Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38e1c4c1-3a7f-4942-950d-de8935c89897",
+                      "Name":  "Rustic Wooden Bacon",
+                      "Quantity":  5,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6545227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "663218e2-19d6-407a-8e2d-10e3c9fc202a",
+                      "Name":  "Unbranded Metal Hat",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6545309Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a78a7c57-294e-4e49-b2ef-1bc085a2c122",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  378,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6545339Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "36351ac2-e858-49d8-adb5-748b1816eff4",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-16T08:41:32.2800019+08:00",
+    "Items":  [
+                  {
+                      "Id":  "795bd5e5-3985-4aaf-bd8b-fbc63d8ba1c5",
+                      "Name":  "面膜",
+                      "Quantity":  6,
+                      "Price":  64.522102296084290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:50:03.8529597+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3d3690e-fdb5-43ad-99de-de5935531089",
+                      "Name":  "豆漿",
+                      "Quantity":  7,
+                      "Price":  57.2694057987127620,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:43:37.5292121+08:00",
+                      "CompletedAt":  "2025-01-18T18:15:42.1335342+08:00"
+                  },
+                  {
+                      "Id":  "6d0a8397-ec6a-45a5-81bf-5ed8a59100dd",
+                      "Name":  "豆漿",
+                      "Quantity":  8,
+                      "Price":  81.303615792873380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:55:24.8498797+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30a2921d-8885-4d9a-9f95-a8f5c6a89d75",
+                      "Name":  "電池",
+                      "Quantity":  10,
+                      "Price":  107.024190864257510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:03:32.7458153+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55c226a5-125a-4a62-aa20-3c970657ec30",
+                      "Name":  "漂白水",
+                      "Quantity":  8,
+                      "Price":  238.25472662723360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:12:40.2070044+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "468eb9e4-cc4c-4e38-811f-c80a488a4a15",
+                      "Name":  "蘋果",
+                      "Quantity":  8,
+                      "Price":  294.999301978446090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:03:08.6641267+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e485aea1-0536-4cd1-b312-085e8ccb43f9",
+                      "Name":  "漂白水",
+                      "Quantity":  8,
+                      "Price":  338.222266573784870,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:43:03.5715019+08:00",
+                      "CompletedAt":  "2025-01-21T12:32:14.3300856+08:00"
+                  },
+                  {
+                      "Id":  "456425a2-5fdf-4662-94d4-4d15d25f8ae0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  302.898646104601180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:20:26.4287047+08:00",
+                      "CompletedAt":  "2025-01-17T01:54:01.2088388+08:00"
+                  },
+                  {
+                      "Id":  "ec5a6b08-5dd5-44bc-88b6-a39a33e66ede",
+                      "Name":  "抹布",
+                      "Quantity":  6,
+                      "Price":  126.653957791672910,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T23:03:53.4400464+08:00",
+                      "CompletedAt":  "2025-01-16T09:29:54.5173318+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

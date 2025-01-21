@@ -1,0 +1,80 @@
+{
+    "Id":  "efba80c3-878d-4a71-a516-b13d0d859ce4",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T03:38:06.8435832+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72744a08-6390-4dd0-b259-e6d871b03b59",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:18:16.1825969+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c1a1d21-dabb-4303-b8fd-f1e3379d032e",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:11:23.0784313+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d120c80f-45fc-4a57-9c21-d889d60fdcd7",
+                      "Name":  "放牧蛋",
+                      "Quantity":  4,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:32:29.1174249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b06e2363-4b1c-4908-b887-184d17e38e3f",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:37:53.4359718+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d433d7e-b111-4ce9-9e6d-67d9d80f626f",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:46:01.7763111+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21a7a23b-7f5d-4411-990e-08a2923b0154",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T13:44:51.9318388+08:00",
+                      "CompletedAt":  "2025-01-17T02:38:15.3532121+08:00"
+                  },
+                  {
+                      "Id":  "863a2f0c-5114-486a-a9d0-aa38c513fb33",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:52:29.7692075+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8933793-8b50-445d-81bf-e4bd71fb729e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:02:28.7260689+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

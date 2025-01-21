@@ -1,0 +1,53 @@
+{
+    "Id":  "cad41c41-cfda-4ba5-94ac-d402189d713b",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-17T17:24:30.2493131+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e4f8bf39-3431-4b4b-a593-d83ab664b228",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:47:40.5361549+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "302bda1c-8e5d-43b0-84fc-c3b4a8042154",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:01:23.2419719+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb16f91b-6b49-465f-8b6d-b2483d6e5372",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:52:52.2609866+08:00",
+                      "CompletedAt":  "2025-01-17T22:01:32.1149278+08:00"
+                  },
+                  {
+                      "Id":  "8f7fa822-e3de-49e7-b3ab-f4fb4049cd7a",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:18:03.7441612+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6513232-92d7-468f-9a2b-dec7689c2c33",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:36:28.4680626+08:00",
+                      "CompletedAt":  "2025-01-20T20:38:31.9683267+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

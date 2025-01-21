@@ -1,0 +1,35 @@
+{
+    "Id":  "2cfc2e70-a87f-4b6f-9bd7-fdbcc2242663",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T00:18:07.6191586+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e22fd992-2cd8-4e14-a0d9-2f1dd36620b7",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8824667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "355924f9-ea8d-4830-ba02-ba49f7c6337d",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8824714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1daf687f-237a-4762-8b2f-98a1a88e1531",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8824751Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

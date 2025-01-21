@@ -1,0 +1,35 @@
+{
+    "Id":  "c81681d5-08b4-4863-bd12-27a9d127c7cd",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T05:05:18.5139898+08:00",
+    "Items":  [
+                  {
+                      "Id":  "68fc6709-e9b7-4e3e-a2fd-5d7e35f71685",
+                      "Name":  "Handcrafted Metal Chair",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5819814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acd48a64-798b-4d03-bad7-c1b10450c294",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5819882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e36360d-84fa-45a5-b50b-d57d47d34796",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5819895Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

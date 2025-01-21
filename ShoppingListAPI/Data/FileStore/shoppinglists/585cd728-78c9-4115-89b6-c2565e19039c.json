@@ -1,0 +1,62 @@
+{
+    "Id":  "585cd728-78c9-4115-89b6-c2565e19039c",
+    "Title":  "露營準備 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-17T17:12:45.5774842+08:00",
+    "Items":  [
+                  {
+                      "Id":  "402d6b1f-0057-4adb-a0f1-a884ebcd21a2",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:25:25.702061+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "facc017a-4223-453c-8efa-7498cf5ffff2",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:20:05.9722512+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18106606-d1c6-4f79-b0ce-4c071e392f55",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:37:54.6959752+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "742c1fc8-aa5b-4472-803e-23ff3ee2b98f",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:52:20.6523997+08:00",
+                      "CompletedAt":  "2025-01-14T22:51:16.1514495+08:00"
+                  },
+                  {
+                      "Id":  "d216f1a5-dd5a-4a60-9d88-675ff4f863b8",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:40:07.4047429+08:00",
+                      "CompletedAt":  "2025-01-18T05:50:05.1010276+08:00"
+                  },
+                  {
+                      "Id":  "6d5f627e-70f4-4734-a84d-1d8e812b864a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:12:02.0997872+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

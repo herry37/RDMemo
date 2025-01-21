@@ -1,0 +1,44 @@
+{
+    "Id":  "6a257e7e-aeb8-424c-9b68-834441fb4c6e",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T12:32:07.782244+08:00",
+    "Items":  [
+                  {
+                      "Id":  "07a17733-2d4c-490b-9b35-179e5f4df08e",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.173344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af505331-a1c1-44f1-bbe3-4db894d96d76",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1733478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20ee39d5-db57-4c51-84f1-cc56f1001e65",
+                      "Name":  "Handmade Granite Tuna",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1733776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74856fb2-a14c-44fb-9a0b-34ae4d4c3c77",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1733806Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

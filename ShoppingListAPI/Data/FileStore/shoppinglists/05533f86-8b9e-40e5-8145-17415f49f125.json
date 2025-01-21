@@ -1,0 +1,71 @@
+{
+    "Id":  "05533f86-8b9e-40e5-8145-17415f49f125",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T13:16:38.2613528+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f7d7204-adcf-4ed9-a2f3-b62abed54835",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:09:37.7131819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92288055-8b01-4b7a-aa5f-770b6578d73d",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  147,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:06:29.105187+08:00",
+                      "CompletedAt":  "2025-01-19T14:36:44.2036293+08:00"
+                  },
+                  {
+                      "Id":  "4f230f02-9f0f-4483-8928-3258ba5f5398",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:08:19.7307193+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a80d1abe-2db9-4216-9040-f7f6d9384fca",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:13:38.8107636+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7c1e6bc-4381-4be1-883a-a7b0dceaa864",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:26:30.8418871+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b57b605a-d9c5-4bd4-9b6a-554dcb21d9dd",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:39:07.1863556+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be1af80e-4f08-45b6-8246-a7a57007ea4e",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:54:22.2730835+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

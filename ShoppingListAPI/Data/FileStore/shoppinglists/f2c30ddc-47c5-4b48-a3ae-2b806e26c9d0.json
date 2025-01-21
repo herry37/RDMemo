@@ -1,0 +1,35 @@
+{
+    "Id":  "f2c30ddc-47c5-4b48-a3ae-2b806e26c9d0",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T23:23:30.6963992+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7270ae36-bbbb-4343-9538-67943eff937d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8105281Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26c31d14-987e-459e-a58b-cbf2a06c4e19",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8105331Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae645b63-1803-4a79-8e92-c93bc450f7da",
+                      "Name":  "Practical Granite Shoes",
+                      "Quantity":  5,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8105616Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

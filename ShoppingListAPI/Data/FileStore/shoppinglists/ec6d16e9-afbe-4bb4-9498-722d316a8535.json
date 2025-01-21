@@ -1,0 +1,80 @@
+{
+    "Id":  "ec6d16e9-afbe-4bb4-9498-722d316a8535",
+    "Title":  "露營準備 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-18T07:27:41.992256+08:00",
+    "Items":  [
+                  {
+                      "Id":  "817c1df6-b52b-40d8-a770-0d534918d1f4",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:18:04.0855775+08:00",
+                      "CompletedAt":  "2025-01-17T06:48:47.6678796+08:00"
+                  },
+                  {
+                      "Id":  "799993a6-8bdd-4876-9066-361ad7c8ce66",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:29:02.712301+08:00",
+                      "CompletedAt":  "2025-01-17T06:46:13.4591571+08:00"
+                  },
+                  {
+                      "Id":  "df7c23fa-1bd6-4bd8-a2c9-d16cbc0716f1",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:35:30.5833593+08:00",
+                      "CompletedAt":  "2025-01-18T02:19:42.5034727+08:00"
+                  },
+                  {
+                      "Id":  "5fb4e666-3344-48c3-aa44-7db765223672",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:17:25.3895961+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7885064-3dd7-49f0-b29d-87fc24d0b78d",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:59:23.3460417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b262e40-0290-4e04-aca9-a8f904f4a974",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:04:57.3843435+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "deeac76a-462e-4329-b6b6-70fb2334860a",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:33:40.020593+08:00",
+                      "CompletedAt":  "2025-01-19T17:12:02.1119415+08:00"
+                  },
+                  {
+                      "Id":  "ec2a9248-8410-4adb-a3a3-17512325a6f3",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:22:40.3390066+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

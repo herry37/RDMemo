@@ -1,0 +1,44 @@
+{
+    "Id":  "11adc7dd-3bc1-4997-950b-5468d31f4e3f",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T08:09:33.2851308+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4dce50ba-5ff2-415c-8841-24ce9ed72029",
+                      "Name":  "Handcrafted Fresh Cheese",
+                      "Quantity":  2,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0254527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1dc00c1-1796-4c2d-a6fb-eef9d0ecbf7d",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0254564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e201ee35-5be9-4cd1-a33f-2a46e6a8b2bf",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0254635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b66199d7-68fd-42ac-b78c-9e9dcc4c575f",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0254644Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

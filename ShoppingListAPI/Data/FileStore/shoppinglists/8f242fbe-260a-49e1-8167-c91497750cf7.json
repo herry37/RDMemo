@@ -1,0 +1,89 @@
+{
+    "Id":  "8f242fbe-260a-49e1-8167-c91497750cf7",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T13:17:38.0548883+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ef461b0-f441-4549-a26e-0f6e2027dd25",
+                      "Name":  "Handcrafted Wooden Shoes",
+                      "Quantity":  1,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4243857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "477b1257-9654-48d0-b5c4-a96dc9f2af8c",
+                      "Name":  "Awesome Granite Towels",
+                      "Quantity":  4,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4243951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd47e343-3fb4-4c42-878c-9e61f999e19a",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4243968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d55a3942-ba98-44f4-ab94-ec5cde4a2fbf",
+                      "Name":  "Sleek Wooden Fish",
+                      "Quantity":  3,
+                      "Price":  300,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f91fba1-538c-43fb-92e4-5ec9c52a3b87",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e01434c4-5a27-45f9-afd2-7d676e54fdad",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fc9faba-1477-41f2-b72a-227c4b2928bf",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244087Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8767035b-4ee5-419e-abdf-a475033ec53d",
+                      "Name":  "Awesome Fresh Fish",
+                      "Quantity":  4,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244188Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84288bc2-aafb-437c-ad93-1dbbc88ad225",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4244208Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

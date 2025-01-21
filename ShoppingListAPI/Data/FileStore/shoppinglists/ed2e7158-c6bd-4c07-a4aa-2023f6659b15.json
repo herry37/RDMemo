@@ -1,0 +1,44 @@
+{
+    "Id":  "ed2e7158-c6bd-4c07-a4aa-2023f6659b15",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T20:24:18.5857662+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8348904e-b7a8-438a-bf9a-1e7f7d496f49",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8961804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a567ebed-0363-4a31-b288-3dcb1ed2a451",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8961857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4b6cdd3-8eaf-4206-a1fb-2e8aadfaa63b",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8961886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f410261-a0e3-4e5f-a580-f35efab06d80",
+                      "Name":  "Rustic Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8962127Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

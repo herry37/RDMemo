@@ -1,0 +1,44 @@
+{
+    "Id":  "0e8b644a-78d1-482e-99cd-d4a45552276e",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T22:58:29.6037091+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c7b60e73-536c-450a-9e55-e2c780c9d6df",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T01:41:42.7529029+08:00",
+                      "CompletedAt":  "2025-01-16T17:36:10.6472353+08:00"
+                  },
+                  {
+                      "Id":  "6b57ec6a-5335-4581-96ef-04611158d27b",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:22:26.152003+08:00",
+                      "CompletedAt":  "2025-01-15T22:24:05.6685457+08:00"
+                  },
+                  {
+                      "Id":  "1ecfadb0-8c39-4b2a-a195-9bc2da429d5b",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:01:23.5124765+08:00",
+                      "CompletedAt":  "2025-01-19T09:56:37.0211225+08:00"
+                  },
+                  {
+                      "Id":  "22ca4f12-d635-49cd-9aba-75a2fb5e8e33",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:58:36.8142757+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

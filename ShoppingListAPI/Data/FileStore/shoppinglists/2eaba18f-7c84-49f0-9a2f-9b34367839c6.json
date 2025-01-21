@@ -1,0 +1,44 @@
+{
+    "Id":  "2eaba18f-7c84-49f0-9a2f-9b34367839c6",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T13:55:37.6107838+08:00",
+    "Items":  [
+                  {
+                      "Id":  "168a295f-3d18-40ad-9d67-07959dba4932",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  368,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7643123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35225b95-9e19-433b-943c-062c4798da5e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7643172Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5219bfb2-ada7-4efe-9acd-7d79bae3c1d3",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  485,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7643209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "defe9b6b-85c8-4cf0-8da2-deb35b79e22e",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7643227Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

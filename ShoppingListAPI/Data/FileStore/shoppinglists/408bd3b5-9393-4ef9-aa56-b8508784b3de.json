@@ -1,0 +1,71 @@
+{
+    "Id":  "408bd3b5-9393-4ef9-aa56-b8508784b3de",
+    "Title":  "居家整理 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-21T05:34:10.7545824+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f9356ab-88c5-4ab8-a4e9-5fb3ecf73399",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  4,
+                      "Price":  58,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:32:07.1289523+08:00",
+                      "CompletedAt":  "2025-01-20T00:11:28.3069168+08:00"
+                  },
+                  {
+                      "Id":  "3e061bec-eca1-4494-bb4d-77067b316559",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:30:58.5479372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd2f39d4-ba5f-4ea6-b6fa-0d0787ab730d",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:51:36.3868053+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8207cdba-1b0b-4a7f-8752-592e30297b0e",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:47:22.7981853+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "535d9018-f182-4108-b662-3d64a18ba21c",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:07:56.7756076+08:00",
+                      "CompletedAt":  "2025-01-15T07:07:24.3096491+08:00"
+                  },
+                  {
+                      "Id":  "e46e74bb-b77d-4b3b-8925-ed9883a3dace",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:28:35.0721416+08:00",
+                      "CompletedAt":  "2025-01-17T12:48:52.1407655+08:00"
+                  },
+                  {
+                      "Id":  "a152728f-c563-4f44-96a6-256b9e16d2e6",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:24:01.5653013+08:00",
+                      "CompletedAt":  "2025-01-20T04:28:24.5244186+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "6a5e7782-d3f5-4978-b1e5-32165209c20c",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T04:55:56.8936085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "705a085e-df03-4413-b149-537e5aeff8b9",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  423,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "707d5e53-28c3-40cf-ace1-d88f1378c937",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278197Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76150922-54a2-45d5-98ff-87e047264734",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa700491-0a5d-4417-9b08-9979d0cd6df0",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278223Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3eb590f6-9e89-48e0-9381-0e27a88975c7",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278231Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d794398d-4a9c-41ad-a115-23f984f5341c",
+                      "Name":  "Intelligent Concrete Chair",
+                      "Quantity":  2,
+                      "Price":  319,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d0db024-4504-490d-b526-f81a48b7816e",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d445fe7e-2aa8-4f32-87c3-893360ffab20",
+                      "Name":  "Awesome Granite Shoes",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a85fb94d-5d8e-4755-86ef-1c4d22fb38fd",
+                      "Name":  "Tasty Frozen Soap",
+                      "Quantity":  4,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf0ff2a2-7001-441b-984e-1dd63a339680",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  365,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4278448Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "cef111f4-22ae-4bb4-a2d0-8c0ec51bba67",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T09:15:47.1513769+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7cd2abbb-be7f-4bcf-bf0c-6883549a8bfc",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6366879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f3a3581-b892-4e2d-a8b3-d9e90b086e82",
+                      "Name":  "Handcrafted Plastic Bacon",
+                      "Quantity":  1,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be93eaec-06c8-4883-af8b-9588636c7047",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367131Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42ab8b12-b509-4985-8a8a-08fdb6ad38ff",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0085ebd4-99f6-4321-aeca-c49716ab09de",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91804c24-cc03-426d-b511-6c2b5285df18",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ac9050e-97ec-41c3-9640-8fec9dcf46ae",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  437,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6367198Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

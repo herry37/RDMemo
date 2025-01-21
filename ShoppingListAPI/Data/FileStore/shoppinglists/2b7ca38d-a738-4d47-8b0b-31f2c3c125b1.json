@@ -1,0 +1,80 @@
+{
+    "Id":  "2b7ca38d-a738-4d47-8b0b-31f2c3c125b1",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T07:44:54.8561681+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc1303f3-8304-4d20-b074-78915f293b27",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:44:41.6597699+08:00",
+                      "CompletedAt":  "2025-01-19T02:12:51.0955307+08:00"
+                  },
+                  {
+                      "Id":  "20c9c1da-fe54-40fe-8a50-ec5cb5f80183",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:03:00.5229823+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "310fdb19-0c17-4cff-96af-4b80cedfc54c",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:21:56.4635381+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c85edf2b-9819-46ee-a59a-78af175a513c",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  235,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:03:18.0986193+08:00",
+                      "CompletedAt":  "2025-01-16T19:01:11.9287263+08:00"
+                  },
+                  {
+                      "Id":  "32a4a025-5c03-49ee-b398-b5119eb41320",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:55:24.0540344+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8bd0bc9-914b-4cf2-9989-0a62757831a6",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:04:52.225308+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74650c0f-8da0-4f1b-879b-9c7c4121cf8f",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:06:27.0499264+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38d121cf-46c0-4157-ae56-bab23c0af48b",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:17:45.9596516+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

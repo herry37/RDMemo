@@ -1,0 +1,89 @@
+{
+    "Id":  "b2e46956-9c39-4166-9af8-d0641d7bcba4",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-20T18:14:27.6074173+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e4587082-1541-4f89-ba31-b9ef56689060",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5900878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4208cf8a-501e-4a0c-a0c2-78760c5afd90",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.59009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "932ac629-70ee-499a-a64c-2cc32fb64e67",
+                      "Name":  "Unbranded Metal Keyboard",
+                      "Quantity":  2,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "853f19c8-033c-4f44-8ab9-0e1bd893b95a",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d657b3db-0c0f-4fea-b242-5098b6b0c95f",
+                      "Name":  "Handmade Steel Fish",
+                      "Quantity":  4,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4bff3c0-1553-427b-9c6f-b6fe4ed82879",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901169Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1102011-9d98-40fe-8dbe-800e7e56f74e",
+                      "Name":  "Rustic Concrete Salad",
+                      "Quantity":  1,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "143be234-0a96-41d5-b37f-aacdac43c928",
+                      "Name":  "Handmade Metal Ball",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5901377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "406a9326-534e-4599-bb58-dbad95242808",
+                      "Name":  "Intelligent Plastic Pizza",
+                      "Quantity":  4,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.590143Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "bffa402a-ef8f-4c96-bf6d-903d6fccfad1",
+    "Title":  "年節採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-20T16:13:10.2381403+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2754442f-8ce8-41a8-b7d2-0d88f0fa3d51",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:42:09.7539664+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "857e6820-af0a-4ef1-8953-e6e123150c02",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:37:53.1683456+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30115c13-e1de-483e-aa62-5e6d6d592f22",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:44:24.0285955+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc4a0013-482d-4181-9a31-67f8479b3893",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:41:22.0161428+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c84d3c9b-e6c9-43f2-9192-56bbc1c25493",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:19:38.7509584+08:00",
+                      "CompletedAt":  "2025-01-19T00:07:32.8117677+08:00"
+                  },
+                  {
+                      "Id":  "224d340c-ab51-49ea-837c-fdf5760d3427",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:25:23.040764+08:00",
+                      "CompletedAt":  "2025-01-20T08:54:36.3393009+08:00"
+                  },
+                  {
+                      "Id":  "e4d28320-97ad-4d8c-a3a0-bbcce5cde86c",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:34:21.6505748+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba44fd78-29ad-4d66-90cc-334f94c37d08",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:50:20.3081246+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "c97ca093-7a29-4f56-9bc7-10d44a70ab94",
+    "Title":  "01/17 飲料採買清單",
+    "CreatedAt":  "2025-01-17T23:56:31.6014+08:00",
+    "Items":  [
+                  {
+                      "Id":  "66b470d0-dbcf-4651-b36d-7e2fa0de54f9",
+                      "Name":  "Ergonomic Plastic Tuna",
+                      "Quantity":  1,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7479915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f4b743d-8049-433a-962b-fc35751d4d96",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7479987Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20e81e52-b78b-4b27-b1d9-98fe5ccbf425",
+                      "Name":  "Small Metal Mouse",
+                      "Quantity":  3,
+                      "Price":  471,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7480171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "900756b9-590b-4da1-968b-b2c2fbf646f9",
+                      "Name":  "Generic Metal Towels",
+                      "Quantity":  4,
+                      "Price":  439,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7480229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8517916-ced6-46c4-952c-2e6d644d10df",
+                      "Name":  "Handcrafted Cotton Keyboard",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7480273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1dcf932-21bb-4aad-9039-5ca49b77df3f",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7480307Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "801bb2c1-9a15-4af1-ad91-9abb662808f8",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7480318Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

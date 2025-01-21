@@ -1,0 +1,44 @@
+{
+    "Id":  "f3a68253-aa43-4b2c-a378-d59b6450c584",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T23:18:19.4073688+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a83e28a0-8b4a-4223-9ea7-5cb7e8550040",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8447544Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10cc50a2-9871-4c6a-b62a-798164d4a701",
+                      "Name":  "Refined Concrete Soap",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8447798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9eed8ec-16f4-4ad7-bedb-6a4ec563bc99",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8447809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64de6002-0ceb-4b95-a2cd-87820f55abc8",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8447869Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

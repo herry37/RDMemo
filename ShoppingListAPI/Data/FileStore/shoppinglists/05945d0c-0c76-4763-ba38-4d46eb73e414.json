@@ -1,0 +1,35 @@
+{
+    "Id":  "05945d0c-0c76-4763-ba38-4d46eb73e414",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T19:33:46.5160059+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b9ac97cd-a89a-410e-9715-10c7821a5df1",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6698054Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05fe6645-c343-493a-970d-cd4d72fe9691",
+                      "Name":  "Unbranded Rubber Cheese",
+                      "Quantity":  1,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6698452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10a04e6c-1ef4-4634-8f63-19ba9fc5719a",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6698482Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

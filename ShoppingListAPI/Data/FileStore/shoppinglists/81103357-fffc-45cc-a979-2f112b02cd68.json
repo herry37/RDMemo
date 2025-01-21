@@ -1,0 +1,98 @@
+{
+    "Id":  "81103357-fffc-45cc-a979-2f112b02cd68",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-20T09:31:47.0030866+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15fae90c-19f9-401d-90ea-29d09f895403",
+                      "Name":  "Small Cotton Car",
+                      "Quantity":  5,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696472Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "894fe5c5-9279-439b-b5f9-06eb65732b94",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03c91c4e-aaab-4abf-9074-87974ee8de78",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696492Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e4dc0ce-64bc-414a-9c5a-2ae3a38ab4e4",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  496,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.46965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a68b097-cfd3-4710-9bb6-652624df4291",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696509Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d87abc79-c485-49c9-bced-e0b22688115c",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  482,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.469652Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "711ec2ae-bbf4-4daf-9a2a-83cbf1894c4f",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77c58445-6ac1-4508-8d12-ffcb22b75ef6",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696536Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "403af619-deca-4564-a87a-f2d18c4b74c4",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696546Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db407757-c020-4e6a-8b78-f612c5babb2d",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4696554Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

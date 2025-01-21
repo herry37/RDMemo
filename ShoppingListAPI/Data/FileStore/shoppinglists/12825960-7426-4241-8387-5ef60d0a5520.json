@@ -1,0 +1,62 @@
+{
+    "Id":  "12825960-7426-4241-8387-5ef60d0a5520",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T15:03:22.6696118+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6586cc8-95f4-4aa7-bba6-97512cd25a4d",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6848859Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54160d16-ec7d-402a-9500-342d3fe07d85",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6848908Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37976616-35e0-4f41-8c51-09e21b0e567b",
+                      "Name":  "Handmade Fresh Mouse",
+                      "Quantity":  4,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.684921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad161f95-a08c-43c0-8328-e91bc39d0afd",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6849222Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3703f8f1-9299-4fd1-865b-445acf3d5ebf",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6849233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ada4eb0-2e42-4241-ac82-111f0676d256",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6849266Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

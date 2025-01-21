@@ -1,0 +1,98 @@
+{
+    "Id":  "308516d9-0d3d-4343-a8ca-922e9a78a99b",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T06:52:35.2355385+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8554ea38-773b-4a48-8177-f832397e3acd",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1887927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b486be55-1bf3-46fb-a3de-8ac55330b00d",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1887974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dc354a3-7f35-4f0c-8481-cbe42fe9d76e",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1887989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acd77d87-6846-43b6-ab4a-29ced3c8b585",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e441181-7e24-4a3a-8fc6-832ac99ad518",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b9dc428-abb7-4568-a363-f23380be00f4",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.18881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6961c2d0-2fdc-4711-bb6f-a240192b4324",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3101d05-0973-4dcd-bda3-a1a5ddc6521b",
+                      "Name":  "Awesome Metal Gloves",
+                      "Quantity":  4,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39e4326f-16ce-4c98-b9c8-25cd6fa652ac",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ce60eff-6a35-4ec6-871f-c4dd2ab0786c",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1888422Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

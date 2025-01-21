@@ -1,0 +1,89 @@
+{
+    "Id":  "2dd0f7ba-6a6a-4043-924c-9929c11fbe76",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T13:51:07.1391154+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c346e5a2-8dea-402a-8af5-b90f5b03fffb",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49290ab2-fe9a-40a4-b462-ba620ab8d35a",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679434Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d4dd51e-a8e0-451c-a0d5-3e87fc7cd735",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679444Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "441ca315-d448-4217-92e5-33844783b201",
+                      "Name":  "Unbranded Concrete Cheese",
+                      "Quantity":  1,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11ab9ea0-51e1-4153-bf71-701b3525f970",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.867965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7525af31-7b68-4a36-9332-c16946eb8c8c",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679675Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baa30160-447a-497c-a934-f7d073d5942d",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4860e7a4-3396-4707-a2e7-788390dd06ae",
+                      "Name":  "Handcrafted Plastic Sausages",
+                      "Quantity":  4,
+                      "Price":  455,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48d5b95a-6126-4591-ad6c-f49fa9a89537",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8679738Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "79ee4760-bf73-444f-91b0-cc781193eb4b",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T04:18:40.6056979+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c44f7de3-654f-4a11-a351-38b1dbb30202",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921018Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7bd3f56-8aaa-4b1e-8b83-b8e3acdeed17",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d875144-0c17-48ef-9031-40ea24d8d3a9",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921142Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee0e1401-e584-4f9f-991a-292641af2ceb",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43611a6b-0919-40a3-9cd0-2247613fc61c",
+                      "Name":  "Awesome Steel Hat",
+                      "Quantity":  3,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2194f409-c8e4-4bee-b6c8-c571b0910e7d",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.592149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cddf261a-8e4c-414d-9d99-0fc3b7bacaf0",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5921506Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

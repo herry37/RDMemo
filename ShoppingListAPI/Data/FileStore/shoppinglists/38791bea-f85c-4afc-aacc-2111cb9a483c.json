@@ -1,0 +1,53 @@
+{
+    "Id":  "38791bea-f85c-4afc-aacc-2111cb9a483c",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T12:48:23.9192207+08:00",
+    "Items":  [
+                  {
+                      "Id":  "87487b6e-6609-414a-a3c6-b60f732ec0ef",
+                      "Name":  "Awesome Cotton Computer",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.651871Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc4825de-5e71-454c-a9c8-3c6a025c4f1d",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  428,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.651879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69d84f03-a898-4488-b46d-c17835801cba",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6518808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9812c4ab-6aec-4ee6-99d4-38af43780139",
+                      "Name":  "Sleek Rubber Cheese",
+                      "Quantity":  4,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6518865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcc1e3b0-1865-4d80-8b69-f29219d92ba1",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  401,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.651888Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

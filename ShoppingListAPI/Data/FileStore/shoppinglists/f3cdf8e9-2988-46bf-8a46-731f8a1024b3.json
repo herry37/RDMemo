@@ -1,0 +1,62 @@
+{
+    "Id":  "f3cdf8e9-2988-46bf-8a46-731f8a1024b3",
+    "Title":  "月底大採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T14:13:07.7107423+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dff3380f-dc9c-49ce-b034-50243a681f83",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:55:59.8430535+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55d1964d-4973-4fba-b6b9-a1cf39817318",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:12:38.8677989+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58d2d0c4-8dd4-4d88-b4b3-881ad65e827d",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:22:36.4756162+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5028419-957a-4677-9d4d-77a4d63a4d06",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:43:08.9895933+08:00",
+                      "CompletedAt":  "2025-01-16T09:00:12.4458971+08:00"
+                  },
+                  {
+                      "Id":  "2c08ff9e-cfad-4f18-b063-43cf529008bd",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:23:24.226934+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c139f82-cd7b-45e0-92b3-55bd6a0a8215",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:08:34.1915227+08:00",
+                      "CompletedAt":  "2025-01-18T23:39:12.749903+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "343d2147-9873-49e7-82bd-ed0abc230c1a",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T14:25:56.6619895+08:00",
+    "Items":  [
+                  {
+                      "Id":  "47800ff7-1452-43cd-8b23-6252c345eb14",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  345,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9588669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb7d68be-88f7-4a67-9317-72e008898c4b",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9588747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed30ad15-e72f-422c-b7bc-52b8cab8fe94",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9589019Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

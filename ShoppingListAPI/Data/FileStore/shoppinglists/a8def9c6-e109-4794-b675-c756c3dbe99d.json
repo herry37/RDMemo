@@ -1,0 +1,89 @@
+{
+    "Id":  "a8def9c6-e109-4794-b675-c756c3dbe99d",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T03:33:01.3684375+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bab53e2d-e8f5-49de-8b9a-7c4c1c5096ef",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9249187d-24a3-43ef-a890-a5dc79fe6393",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31d02489-6b64-479a-bf80-cdca08a2ec70",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.228474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89a82265-4cc0-4981-9b08-320ecd8bd9f0",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54703fc7-f30c-4049-93cd-1fe60adb8b4b",
+                      "Name":  "Fantastic Granite Car",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77fa269f-3ad0-46de-adf8-0b2c14724fac",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5139d85-02ae-4419-a39e-f87936700e8f",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed7af850-cddf-4b8d-964a-101724a9428b",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2284997Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d75c9d6-554d-47a3-96f3-98cd7e9ab0d2",
+                      "Name":  "Small Concrete Keyboard",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2285032Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

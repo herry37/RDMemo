@@ -1,0 +1,44 @@
+{
+    "Id":  "922b4cbe-1ef0-41a7-bb78-4767a40060bf",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T04:49:43.5964001+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b7ee7dae-e526-489b-bc9b-712ff3cbc8f4",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0722359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8a87e87-be31-4d3c-b5bc-7a85b6b3f66e",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  73,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0722405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "329fd57c-8482-481e-8f0c-d96b2544ecc9",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0722422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb3ee114-8a2f-4211-b46a-b487a8fa991d",
+                      "Name":  "Handmade Wooden Salad",
+                      "Quantity":  2,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0722809Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

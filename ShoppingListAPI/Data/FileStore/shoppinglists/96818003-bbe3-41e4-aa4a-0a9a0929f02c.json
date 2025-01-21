@@ -1,0 +1,53 @@
+{
+    "Id":  "96818003-bbe3-41e4-aa4a-0a9a0929f02c",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-17T19:25:29.141475+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dbe1bad0-7901-4aa6-a605-f5ca249b8ee4",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7756843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd7b238f-ed72-4194-96d5-af614124eb85",
+                      "Name":  "Small Concrete Salad",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7757015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e8ebfcb-3929-4a18-bcf7-62a1dfaf6cc5",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7757027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b0db03b-f390-4823-a881-8ccfcc9e142b",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7757035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba6a6692-6af1-4372-8949-26afcf9307a2",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7757045Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "4169cfee-76a6-4249-bdad-084ebb9466c7",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T19:58:58.4028436+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1cbb8518-fa4b-4a9a-ba78-4c196279922d",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632213Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56495495-7c7b-42af-a9d6-b5e966ba4d14",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2574ddb9-cead-43e3-a445-4762c82e7cdc",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632298Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba5a523b-b183-478a-9b58-941baced5e8a",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05f987e3-a282-41cf-beef-65900ea7fcf5",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.063233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5b151e8-93ac-4b36-99e2-a0d887b05de1",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  467,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632353Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e30da019-6d2a-451c-b0da-d8ff6a91a7bf",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddd6c431-a74d-4de8-906e-c7143cb35a69",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3d8ff1c-fbca-44bc-a372-6b25f62e9d9a",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d9ec2bd-6b87-4f4f-999b-30457a26f12d",
+                      "Name":  "Sleek Soft Chips",
+                      "Quantity":  4,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0632626Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

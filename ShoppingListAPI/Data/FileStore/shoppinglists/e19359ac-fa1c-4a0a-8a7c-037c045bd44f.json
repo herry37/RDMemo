@@ -1,0 +1,98 @@
+{
+    "Id":  "e19359ac-fa1c-4a0a-8a7c-037c045bd44f",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-17T10:43:28.6722889+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6640f229-343d-4cfa-9308-f5dd74e9d1fe",
+                      "Name":  "泡麵",
+                      "Quantity":  10,
+                      "Price":  446.537093072295950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:53:20.9769008+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "021dfa09-2699-485e-b1e0-9597f6bc92e8",
+                      "Name":  "清潔劑",
+                      "Quantity":  7,
+                      "Price":  382.734836316976980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:57:16.2123516+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2236101f-b76b-48dd-99ca-252deb90b8e6",
+                      "Name":  "資料夾",
+                      "Quantity":  1,
+                      "Price":  94.657360975423110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:11:13.5712478+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "392e7411-e49d-48c8-b0d6-454cd2982a11",
+                      "Name":  "泡麵",
+                      "Quantity":  8,
+                      "Price":  337.66282437080920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:09:30.1789554+08:00",
+                      "CompletedAt":  "2025-01-18T23:15:23.3159918+08:00"
+                  },
+                  {
+                      "Id":  "253edb01-e1cd-47d5-9729-6b8a97c5bc81",
+                      "Name":  "啤酒",
+                      "Quantity":  2,
+                      "Price":  451.750632041821830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:39:59.3055102+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da88fac5-b3d3-4a23-85ee-4ee59f764813",
+                      "Name":  "資料夾",
+                      "Quantity":  3,
+                      "Price":  110.882398524027960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:51:45.0758657+08:00",
+                      "CompletedAt":  "2025-01-16T15:16:45.456313+08:00"
+                  },
+                  {
+                      "Id":  "88b3835e-afe1-411e-8a44-ff8b480abe82",
+                      "Name":  "盤子",
+                      "Quantity":  3,
+                      "Price":  125.078510966263180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:28:16.4202799+08:00",
+                      "CompletedAt":  "2025-01-18T15:44:53.9706146+08:00"
+                  },
+                  {
+                      "Id":  "b256719f-1dd0-40bc-b50a-bf773e98e968",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  125.694915922103840,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:00:07.6592409+08:00",
+                      "CompletedAt":  "2025-01-19T00:00:31.5537618+08:00"
+                  },
+                  {
+                      "Id":  "d4e6c3b7-37bf-40e2-8113-789e4a159e08",
+                      "Name":  "漂白水",
+                      "Quantity":  1,
+                      "Price":  14.34034949113137750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:15:23.6180444+08:00",
+                      "CompletedAt":  "2025-01-17T14:47:54.5404715+08:00"
+                  },
+                  {
+                      "Id":  "a261a4df-e426-4cb0-b64e-209a4badd1a0",
+                      "Name":  "剪刀",
+                      "Quantity":  4,
+                      "Price":  257.671698999207420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:49:43.9859332+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

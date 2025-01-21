@@ -1,0 +1,80 @@
+{
+    "Id":  "b5d7fca3-a470-414d-b1ec-9388fdf2836c",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-16T06:27:14.7121294+08:00",
+    "Items":  [
+                  {
+                      "Id":  "719ef785-ecc9-41c6-b9e9-5b1fa7c81714",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:21:05.8054817+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e802d01-7d66-4fcc-ba03-646f8b11e906",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:07:21.8961637+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85fb29ab-6246-4118-8edc-03adfabb6fa6",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:15:55.1156812+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68eaead3-a683-4734-b565-a5ba1f3cfd61",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:48:56.1450907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fc568d9-20cd-48b5-8453-f2b5045c6afc",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:08:24.4097068+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f862a28f-0e97-43b0-9e58-539f7361b1c8",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:25:24.389678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "223cc9ac-fb22-4544-ad0a-e2c3b41fe026",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:34:09.7446686+08:00",
+                      "CompletedAt":  "2025-01-21T18:08:14.4630731+08:00"
+                  },
+                  {
+                      "Id":  "514c7bce-f26f-4ee1-a3e0-8300fc7afffc",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:12:54.4378362+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

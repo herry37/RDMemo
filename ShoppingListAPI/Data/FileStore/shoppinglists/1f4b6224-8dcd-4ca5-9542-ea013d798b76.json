@@ -1,0 +1,35 @@
+{
+    "Id":  "1f4b6224-8dcd-4ca5-9542-ea013d798b76",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T21:05:02.9166149+08:00",
+    "Items":  [
+                  {
+                      "Id":  "31485b19-bbbd-438a-8592-d8fb5b38baa5",
+                      "Name":  "Tasty Frozen Bacon",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0267966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22f8c2cf-5848-49fb-841f-7ffcc9dae6af",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0267997Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b294e18-e5e2-4be6-a20b-7e86931eaefc",
+                      "Name":  "Handmade Steel Salad",
+                      "Quantity":  3,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0268053Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "a2a926c9-1a3f-472b-a6a6-bf1e126f77e8",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T19:13:17.9675013+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4f78128-634d-4dbd-b59b-48b6f3fa8ba5",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:55:16.5038178+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcf93ffa-bbd7-48fa-9ca6-f147d847d588",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:03:55.3532983+08:00",
+                      "CompletedAt":  "2025-01-18T17:51:18.1762118+08:00"
+                  },
+                  {
+                      "Id":  "b6b3223e-35ef-4a89-9ae7-e58c88dcbd95",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:51:10.8929404+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3080fbe7-30a7-45ba-8336-c71781178951",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:17:25.585714+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4596a8a3-d7bd-45d2-9ed6-0672f8a42e4e",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  167,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:22:07.9920205+08:00",
+                      "CompletedAt":  "2025-01-20T21:02:00.5329894+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

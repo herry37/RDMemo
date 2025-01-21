@@ -1,0 +1,80 @@
+{
+    "Id":  "843a0a71-4f84-4aa8-8ab0-5c942ebe112c",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T18:38:14.3647714+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cf09783e-fb05-40ed-8d18-860b5e9356f8",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7972753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f2b5353-72f7-4f1f-8b2f-a51cd2e00e9d",
+                      "Name":  "Generic Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7972964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "824fec5d-585f-4e6f-9aa6-e1e8235bfd4e",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7972978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca2d3f81-e51a-4dc6-b996-52c20871e7e1",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7972995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc38374c-2527-41b0-9e70-ebae3e27a18e",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7973009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce5379e9-87f9-4e93-ab91-be77d9a8d469",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  361,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7973038Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d025fc0-79b1-48cb-91b9-77b88bff6d8e",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7973053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df5e30d2-bc4c-4965-a921-431eb93b0c6f",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7973069Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

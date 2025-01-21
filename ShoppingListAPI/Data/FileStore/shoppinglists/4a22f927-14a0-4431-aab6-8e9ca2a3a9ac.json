@@ -1,0 +1,35 @@
+{
+    "Id":  "4a22f927-14a0-4431-aab6-8e9ca2a3a9ac",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T06:07:44.3125709+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4cbe031a-92f2-46f8-9b67-0b650a736822",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5448732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ccd8f90-8568-4994-931f-5454c2058903",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5448794Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "203662ef-b332-4a4b-b1d5-01b3343f5190",
+                      "Name":  "Handmade Cotton Keyboard",
+                      "Quantity":  1,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5449233Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

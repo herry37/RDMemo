@@ -1,0 +1,44 @@
+{
+    "Id":  "ac1fad3c-cc04-4acd-8c83-b316b1a91b3a",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-14T18:22:46.040081+08:00",
+    "Items":  [
+                  {
+                      "Id":  "13c92f3d-3373-4c2d-b6be-2ff6279264d8",
+                      "Name":  "魚",
+                      "Quantity":  10,
+                      "Price":  455.63437048436810,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:06:06.0722934+08:00",
+                      "CompletedAt":  "2025-01-19T22:34:51.865219+08:00"
+                  },
+                  {
+                      "Id":  "7792659d-6743-4d78-8a7a-c7df08719e86",
+                      "Name":  "餅乾",
+                      "Quantity":  7,
+                      "Price":  57.8788458198988840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:24:41.7945695+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "391a7875-ee5f-4416-b930-f7afd0936d75",
+                      "Name":  "可樂",
+                      "Quantity":  6,
+                      "Price":  166.305975478189670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:26:39.7414889+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f3cfd05-4958-483e-a5e5-3e1bc6b9c7d4",
+                      "Name":  "洋芋片",
+                      "Quantity":  6,
+                      "Price":  451.385767782884890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:08:58.7114347+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "978a80c3-45bb-49b2-8a25-17b9d582cedd",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T23:31:06.4115008+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ee83f493-0906-410b-8d6f-d817c3c2a784",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7042399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0dca77f-6596-4c8a-b3cc-2875e19e44fa",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7042458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90ba6a3b-a6fd-4b8f-bfe5-ffcdd635032b",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7042507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e10c2ebd-281f-4e55-a654-685be8e07ff0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7042529Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

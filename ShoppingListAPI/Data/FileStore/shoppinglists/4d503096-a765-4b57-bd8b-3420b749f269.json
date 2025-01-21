@@ -1,0 +1,44 @@
+{
+    "Id":  "4d503096-a765-4b57-bd8b-3420b749f269",
+    "Title":  "¤ë©³¤j±ÄÁÊ - ¤j¼íµo (01/20)",
+    "CreatedAt":  "2025-01-16T17:20:48.5535321+08:00",
+    "Items":  [
+                  {
+                      "Id":  "57e06ab2-d7d8-4a30-bb82-5d1e2927fbba",
+                      "Name":  "¤ÑµMªÚ­»¾¯",
+                      "Quantity":  4,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:09:09.5820993+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2121ba9-6259-4d81-95ec-5fcf2203e7a3",
+                      "Name":  "¤£ÄÃ¿û°Å¤M",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T05:30:15.9019074+08:00",
+                      "CompletedAt":  "2025-01-18T01:11:18.2064866+08:00"
+                  },
+                  {
+                      "Id":  "6aab593f-4734-4dd8-b448-a43f2295dce0",
+                      "Name":  "¨¾ÅÎ¹jÂ÷¨Å",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:18:59.4047801+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "450e3475-6eff-4a60-a4c1-6c3fbed25b42",
+                      "Name":  "§Üµß´Ö³Q",
+                      "Quantity":  3,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:40:55.611806+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

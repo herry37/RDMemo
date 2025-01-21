@@ -1,0 +1,53 @@
+{
+    "Id":  "81b95ac8-4566-4859-a41a-44f657b50363",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T14:10:01.6790526+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4f40169a-4d5f-4876-a4fe-0ee54807b1b7",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4746138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddcad70b-17cf-4a2f-b024-5b17fe90f489",
+                      "Name":  "Rustic Rubber Ball",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4746404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98a5ba1f-ce58-4fcf-9731-78e45bf01aad",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4746415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c962b64b-3905-46a7-93ea-af3986551e30",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4746425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78ad06dd-e0bc-4afd-9221-0e5c27da1a0e",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4746438Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

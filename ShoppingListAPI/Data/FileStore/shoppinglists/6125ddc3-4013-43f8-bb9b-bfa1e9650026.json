@@ -1,0 +1,89 @@
+{
+    "Id":  "6125ddc3-4013-43f8-bb9b-bfa1e9650026",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-19T22:58:55.2267591+08:00",
+    "Items":  [
+                  {
+                      "Id":  "207d0f25-0405-4e7e-a6de-4caaa22edae3",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b677f13-75bf-481c-b8c0-8e505c944a90",
+                      "Name":  "Generic Soft Salad",
+                      "Quantity":  1,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653252Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29cea9b5-53da-4b39-ab2c-bfabd4fb98b2",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653286Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78efa1e3-be96-4b26-89b1-996f2335ceb9",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653303Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d8723ba-b700-47dc-988b-b720ee141044",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653321Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3513be1d-2ecb-42e2-b979-f2a39d2536c5",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653353Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d3cdc74-345b-4e0b-a7ff-5ee3ca2dec83",
+                      "Name":  "Fantastic Cotton Pizza",
+                      "Quantity":  3,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "065f6b1f-f841-4e67-b7a7-0898c9ee5f94",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "553f923e-78f6-4f96-a3dd-0fd930d023b2",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4653451Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

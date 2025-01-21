@@ -1,0 +1,98 @@
+{
+    "Id":  "5840f024-7f6c-4805-81ec-edf4daee249b",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-18T21:10:50.6112345+08:00",
+    "Items":  [
+                  {
+                      "Id":  "af004396-b919-4cbc-8fcb-b8cc3260a2b3",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0265661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "846ec486-eb7d-421e-b535-2a58ac0c9f2b",
+                      "Name":  "Unbranded Granite Bike",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb0469a3-7ddb-4952-96f3-817c02b5cddb",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c746d4f3-9129-4ec3-94ad-fb0077950388",
+                      "Name":  "Handmade Rubber Pants",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266073Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcff61a3-40c6-4680-8f85-98606a7f81ff",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7686f96-c27b-4ab1-9d01-99fd8cb3b1bb",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266109Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9062e61-06d0-4031-8517-07bb5f43c47a",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f9faf14-c5ce-4455-ab78-53e365f787a6",
+                      "Name":  "Gorgeous Wooden Sausages",
+                      "Quantity":  5,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266157Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "640447d3-0d4c-4c04-8d37-684b2743e1cc",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266166Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60406ab2-3c11-486d-a193-cdf9a1d137a1",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0266183Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

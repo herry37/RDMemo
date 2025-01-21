@@ -1,0 +1,44 @@
+{
+    "Id":  "0f0f5976-35fd-4510-8be5-877360b43e35",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-16T06:13:19.5654623+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1feca9f-76a3-4c4b-b00b-c4cbe6448842",
+                      "Name":  "Awesome Concrete Pizza",
+                      "Quantity":  2,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7263022Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07974e68-fc31-492a-b96f-720bea8078f0",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7263047Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab9646c4-1051-413c-941d-6f9c4f6a2385",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7263066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a705b553-faa2-4f60-abf3-dea49d7e511a",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  398,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7263074Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

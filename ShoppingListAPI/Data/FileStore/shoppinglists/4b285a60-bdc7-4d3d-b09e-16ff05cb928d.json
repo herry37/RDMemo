@@ -1,0 +1,53 @@
+{
+    "Id":  "4b285a60-bdc7-4d3d-b09e-16ff05cb928d",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T19:01:07.4910359+08:00",
+    "Items":  [
+                  {
+                      "Id":  "78b6f153-95c4-495b-b3dd-31891bb0baad",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8989907Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d040fe70-027a-430d-8cff-c268a9e4b03e",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8989946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3abdafa9-0080-43b9-8f5c-0625c1cb90e2",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8989955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4295d17-7292-496e-aee6-e326aea99fba",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8989971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b4a7cf9-11ef-4dce-9633-9aefe83bd93a",
+                      "Name":  "Intelligent Cotton Keyboard",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8990171Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

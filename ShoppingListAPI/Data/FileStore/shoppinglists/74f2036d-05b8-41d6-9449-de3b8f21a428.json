@@ -1,0 +1,53 @@
+{
+    "Id":  "74f2036d-05b8-41d6-9449-de3b8f21a428",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T07:31:52.8892853+08:00",
+    "Items":  [
+                  {
+                      "Id":  "231ebc55-c774-4c0f-b83e-15b7d9355ec3",
+                      "Name":  "Sleek Fresh Tuna",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8077197Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4eda345-8ac9-443b-92c0-d0d37ce9c95b",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8077253Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e5cf923-4652-440d-844a-e3684dddf90f",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8077265Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c559388e-d5df-41a4-afb3-09764339175b",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8077277Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6af97431-acdd-404a-b3d7-e12f3ec7d01c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8077286Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

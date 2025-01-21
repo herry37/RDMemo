@@ -1,0 +1,44 @@
+{
+    "Id":  "09cf0dc2-5d86-4840-abe1-3a3b56cba528",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T11:44:37.7872111+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3406944d-f34d-4968-84ca-9982ec5a64c9",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:54:25.6160902+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a67f4dd-5517-4c91-a470-885495b8d448",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:06:06.9951913+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad7df805-f259-46cc-8c6f-87bacf4c4cfb",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:28:21.256831+08:00",
+                      "CompletedAt":  "2025-01-17T01:25:28.650571+08:00"
+                  },
+                  {
+                      "Id":  "e6fd97ed-983f-490b-93cc-3c6f33decddc",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:38:03.1408097+08:00",
+                      "CompletedAt":  "2025-01-20T22:03:20.8077391+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

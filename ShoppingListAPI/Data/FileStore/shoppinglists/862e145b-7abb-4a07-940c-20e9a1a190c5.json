@@ -1,0 +1,80 @@
+{
+    "Id":  "862e145b-7abb-4a07-940c-20e9a1a190c5",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T23:08:35.3705449+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b4f7b09-c807-46c9-9758-8dc3b9765601",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:54:30.3289602+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aefb3a52-bfd7-4f33-a403-27ba1cc31627",
+                      "Name":  "環保漂白水",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:59:53.3707899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11e96be9-ca87-4ecf-8283-31cd8026065d",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:11:48.6169315+08:00",
+                      "CompletedAt":  "2025-01-19T15:36:48.5883602+08:00"
+                  },
+                  {
+                      "Id":  "00709f25-4a3c-45b5-81c7-9003e5fc11a4",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:00:29.3040627+08:00",
+                      "CompletedAt":  "2025-01-16T09:36:01.0327208+08:00"
+                  },
+                  {
+                      "Id":  "0fdfbbaf-e1f9-4108-9de7-72a4f0807a80",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:35:40.3530393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71098da9-2c3c-4cce-8b5e-daa275314469",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:10:27.5855297+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24615eb5-3269-4483-b3db-f72df0814a00",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:57:04.7858452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e296fcbe-e95f-4c8a-94cc-b546a89ee1f0",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:51:38.2133809+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "07256888-8510-4c05-b66d-0544f1e79514",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-14T22:39:52.3881588+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e6b9f5ec-8572-4be4-acad-61f1d56ab7ab",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  385,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca754721-c48d-4acd-9cac-fa9485915722",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  389,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45e234e1-2757-4f1a-989a-1935158da28c",
+                      "Name":  "Licensed Granite Computer",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb4630b4-0050-4c9d-9ce7-ce29b2a4391e",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.93459Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e162e71f-984e-4dfe-929e-93d0d2332dca",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "597d8cc2-fe5f-41c1-8a4e-3d85f9d01d47",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3c237fa-0810-4531-93f5-6c473e62efc8",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  446,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "edb5ba43-29af-41bc-b7c8-9995c0a18b06",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  373,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9345988Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "793e651a-41ee-48d7-97bf-3c00d404e1c1",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9346002Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

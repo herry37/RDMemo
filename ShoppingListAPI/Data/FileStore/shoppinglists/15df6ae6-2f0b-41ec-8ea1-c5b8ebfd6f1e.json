@@ -1,0 +1,53 @@
+{
+    "Id":  "15df6ae6-2f0b-41ec-8ea1-c5b8ebfd6f1e",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T10:19:00.9092326+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4c8d46e-5898-483b-af2c-b2b339b9cb27",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  407,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7163075Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31078903-2395-44c4-a461-77df6e8028d9",
+                      "Name":  "Licensed Steel Shirt",
+                      "Quantity":  2,
+                      "Price":  318,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.716373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d199e9bc-aaa8-40df-a439-0f4ebde2fca0",
+                      "Name":  "Tasty Frozen Gloves",
+                      "Quantity":  3,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7163771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cc45918-a378-4588-9487-a0c2a8856f88",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.716378Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e40c5fa-215d-4252-a1d7-3c1b3835038f",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7163869Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

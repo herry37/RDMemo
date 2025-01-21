@@ -1,0 +1,62 @@
+{
+    "Id":  "cdab7f4c-3d5a-4345-9ad8-b0db56dbe266",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T22:34:30.8214749+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5db58255-d102-4304-ba6d-4e1de0b470fb",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:19:43.2116359+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8215c20a-d449-4647-adc0-6704e54ac415",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:16:31.3834039+08:00",
+                      "CompletedAt":  "2025-01-17T23:11:44.4255517+08:00"
+                  },
+                  {
+                      "Id":  "aac3734d-d784-4016-9a44-4a261dd0de7b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:08:43.8081001+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10aac534-9839-4eb4-b3f8-ec5ecb8763aa",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:44:00.5160748+08:00",
+                      "CompletedAt":  "2025-01-15T15:26:17.028587+08:00"
+                  },
+                  {
+                      "Id":  "384d56a1-1650-4759-8b07-9da806f2dcf5",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:27:05.9449322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ff121f6-6638-4c3e-a442-1f713590fc47",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:13:06.8437714+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

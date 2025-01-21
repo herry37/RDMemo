@@ -1,0 +1,80 @@
+{
+    "Id":  "0da9a3bc-1a02-4e50-8952-85fb86d2c7f2",
+    "Title":  "露營準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T18:43:44.658645+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2e841f5c-9dec-4b98-b838-b77d30edd437",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:35:12.0931605+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b20be879-d038-484a-9a98-0100a571b684",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:31:37.4483387+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae7b17ad-9b13-48ee-9452-c0b33fe530e6",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:29:47.8239557+08:00",
+                      "CompletedAt":  "2025-01-16T05:55:24.3857767+08:00"
+                  },
+                  {
+                      "Id":  "0859b225-3c73-48a0-8ff8-b3ba3f05e480",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:48:30.0788145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a621744e-11d0-4e77-83a6-6f9b46e57fd6",
+                      "Name":  "清潔手套",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:03:39.3724935+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e31986cd-279c-45fe-ae15-09d01a5605d5",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:51:36.226741+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bced4e8-e531-485a-9197-b68b0739400e",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:23:37.5802164+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f497b4c3-2f47-4e48-9253-26dfcd955e83",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:28:48.0711656+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

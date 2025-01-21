@@ -1,0 +1,89 @@
+{
+    "Id":  "b8a38770-a488-4fd8-a33b-89ceb48f25f3",
+    "Title":  "01/20 零食採買清單",
+    "CreatedAt":  "2025-01-18T17:01:26.2044975+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a872df99-07af-4adc-ad3e-c49b843ebfbb",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "544f365e-079a-43ad-8823-980acceb5402",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765426Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4600d008-8afc-4659-97d6-ebd0a1253d52",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765454Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cdc7ab4-b431-4b6e-8946-61de9460779b",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765462Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b6f1db5-a02f-4f19-a8e3-d0d3c2367645",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765471Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a72bd62-a2ba-41eb-a11a-f7b4ba6cd01f",
+                      "Name":  "Small Cotton Hat",
+                      "Quantity":  1,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bccae33-60d8-4f7b-a99b-c4bf41500a1a",
+                      "Name":  "Rustic Frozen Bacon",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9519e9c1-7fdc-4d32-84f1-08ae43264e0f",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0765989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34dd28cb-fde4-4851-b143-9610e1a602d9",
+                      "Name":  "Unbranded Granite Pants",
+                      "Quantity":  1,
+                      "Price":  493,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0766047Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

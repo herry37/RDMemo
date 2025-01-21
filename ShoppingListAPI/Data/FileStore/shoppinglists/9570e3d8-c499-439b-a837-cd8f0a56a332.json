@@ -1,0 +1,89 @@
+{
+    "Id":  "9570e3d8-c499-439b-a837-cd8f0a56a332",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T05:29:36.6488375+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e9333081-7d69-45ef-859f-efd29f26f9f9",
+                      "Name":  "Fantastic Soft Car",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e5876b4-3e16-42f8-b32d-2d813b331569",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "551c05b8-82f5-4cfe-9ce8-ac3ae14a0e4c",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dde9b6d4-6be6-41d3-b6a2-0bb87a3ea34b",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  449,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307853Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f9ed29c-5c0a-4d69-85a2-385e25e2feec",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307861Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c27cbb1f-b390-4dad-bb1c-473e9e60357b",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b2ded8c-1114-498f-94cb-17136dd5f2af",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7307889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22e22166-1efd-4b77-a5e0-1600f7a14134",
+                      "Name":  "Generic Concrete Hat",
+                      "Quantity":  3,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7309007Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6edbe9e3-331c-4de3-8d0b-e6f077a0f5b3",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7309019Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

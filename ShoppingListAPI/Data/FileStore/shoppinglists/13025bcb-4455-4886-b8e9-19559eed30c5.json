@@ -1,0 +1,35 @@
+{
+    "Id":  "13025bcb-4455-4886-b8e9-19559eed30c5",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T03:03:42.5392148+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f147fc8b-8716-44d2-88c9-ac97394e1869",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8888832Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4569b5fe-f995-4795-a57d-642700d069c9",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8888876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc9fa689-1ee6-46a5-b511-685cafef5d1f",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8888886Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

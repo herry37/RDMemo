@@ -1,0 +1,44 @@
+{
+    "Id":  "ad3f130e-920e-4df1-8ed7-1628ce3dc9d5",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-16T20:59:11.3890744+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0d2362d4-5ea5-4de7-b783-b2de201cf9c2",
+                      "Name":  "Rustic Soft Ball",
+                      "Quantity":  1,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7376676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0f6df64-fd94-407c-913a-3f68be945755",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  411,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7376711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e621bf1-f2c7-4678-8509-4e0f340c2112",
+                      "Name":  "Rustic Cotton Mouse",
+                      "Quantity":  5,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7376751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9525374b-0f34-4298-a3c6-d3eb2aeaad54",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.737676Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

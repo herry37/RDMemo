@@ -1,0 +1,89 @@
+{
+    "Id":  "6e248d38-513a-4009-8128-8961587beb78",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T08:00:03.7782611+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29efcfeb-b357-4f9b-83df-ebc129ecb889",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  438,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345778Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d88c43a0-efcf-4a6e-8d0d-253eedc5d2fd",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01896387-c1e5-4237-9f0d-044d970853d8",
+                      "Name":  "Rustic Rubber Soap",
+                      "Quantity":  4,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345884Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a82f2c9d-1b28-45d7-95f8-9b53c1fdfafe",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345894Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d8e1d28-9be6-424c-95c6-86795c8e6dac",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f742a7c-8eb3-458c-8495-1f30ce9882e3",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "339e2beb-0cd9-44d6-bb2f-7a190173a382",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6efd6bb-652e-4c8d-a55a-834d6ce3a232",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345953Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9504e07-fd2d-4ef2-9f02-9e375a9560e9",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7345963Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

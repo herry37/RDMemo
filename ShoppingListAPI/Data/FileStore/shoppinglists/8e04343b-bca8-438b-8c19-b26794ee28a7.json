@@ -1,0 +1,44 @@
+{
+    "Id":  "8e04343b-bca8-438b-8c19-b26794ee28a7",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-21T18:16:12.0235617+08:00",
+    "Items":  [
+                  {
+                      "Id":  "af73b50b-85dd-4ada-aa5d-a4a421db4a0e",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9601483Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "186b8ffb-c0ba-4d9b-a6cf-b80219866750",
+                      "Name":  "Unbranded Metal Soap",
+                      "Quantity":  4,
+                      "Price":  123,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9601803Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69308abf-7730-4c14-ad7a-f8e9d9eb5f16",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9601823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c51cbcb1-e85b-4c22-ba6f-1a81a590fa96",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9601848Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

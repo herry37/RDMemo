@@ -1,0 +1,71 @@
+{
+    "Id":  "d9ee50fa-7dc7-4289-abc1-16b965565895",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T16:49:51.2181864+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1d4e17ee-c03a-4550-acf6-fef7bd5c839f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6137764Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e2f61dc-e10e-41b1-9bb3-a523402ab521",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6137799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "100ba97a-9eae-4522-b845-b2580257f926",
+                      "Name":  "Rustic Rubber Cheese",
+                      "Quantity":  3,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6138081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cc6074b-14fc-4b7c-8af2-513dd2f338c2",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6138095Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66140e4e-e8cc-48b0-96cb-9a00da52b0fe",
+                      "Name":  "Ergonomic Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.613814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f9a0a4c-06a9-412f-bdd8-77c456b1b195",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6138167Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6be4d65b-45d4-41fa-98b8-65f9a1b0a2ca",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6138184Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

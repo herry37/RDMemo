@@ -1,0 +1,62 @@
+{
+    "Id":  "7d068397-d255-465a-9825-6606e5bf92d8",
+    "Title":  "年節採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-15T09:28:15.322759+08:00",
+    "Items":  [
+                  {
+                      "Id":  "895a0e9f-9a04-453f-b59b-54e6192058b2",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:32:27.6534014+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f831b30f-b281-440b-8fdc-b00c863165ae",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:18:03.585766+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bd62bed-f4d3-4755-9bd6-a9f0b3ca3026",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:12:12.2689803+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffca939f-cac3-42ef-a612-7fd1654da798",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  4,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:38:32.9017918+08:00",
+                      "CompletedAt":  "2025-01-19T08:53:34.5137372+08:00"
+                  },
+                  {
+                      "Id":  "729d94f8-673b-46f2-a647-cd9379417a0a",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:09:44.1184176+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8eb5f627-8f51-4208-b537-d089289488c7",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:15:08.7819382+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

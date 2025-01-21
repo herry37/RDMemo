@@ -1,0 +1,80 @@
+{
+    "Id":  "375354a8-f89b-43cf-a6f5-d7642c175399",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-15T05:32:56.8126201+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca00dc74-9ecc-4218-90fc-d63f4542b141",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2648681Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67fbbb8c-eb32-4aca-8c27-420a76ab6ae1",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.264874Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a9fec9e-f024-4ff7-a71b-ebcd1305239b",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.264875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1e134a3-cd91-405e-92f9-387021d39b78",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2648759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34b3cfd7-55ba-4f1d-b6dc-8cbd95f66df3",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2648767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "396ab6af-c7bc-49ed-9d6f-9f13e032fe0a",
+                      "Name":  "Gorgeous Cotton Towels",
+                      "Quantity":  1,
+                      "Price":  463,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2649024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33a5fcd4-df9c-4f73-82b4-7a7a64918fcd",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2649033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79885ba2-74ff-41f2-9261-a852422d7f92",
+                      "Name":  "Sleek Rubber Mouse",
+                      "Quantity":  4,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2649074Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

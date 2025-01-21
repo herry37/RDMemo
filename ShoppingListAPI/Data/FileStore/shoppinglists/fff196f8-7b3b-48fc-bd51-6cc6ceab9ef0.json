@@ -1,0 +1,71 @@
+{
+    "Id":  "fff196f8-7b3b-48fc-bd51-6cc6ceab9ef0",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T01:27:53.3843374+08:00",
+    "Items":  [
+                  {
+                      "Id":  "259fb5e0-43ef-4975-a603-c36f6fa577b5",
+                      "Name":  "Unbranded Fresh Gloves",
+                      "Quantity":  5,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56f90b9c-5780-46e5-856d-ffdfbd3502e7",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8cc05a1-45a3-4b2e-9b78-f3144b4bb603",
+                      "Name":  "Generic Soft Computer",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415472Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ebb0277-7a89-4783-9427-83077bde5b82",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.241549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f4bbe9b-febc-470b-845a-860cacd7ee37",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "112c0847-355b-4a8b-8233-459bb0ef355e",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11e4b19e-33b9-4e4a-b3f2-d989da264e21",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2415566Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

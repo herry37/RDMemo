@@ -1,0 +1,71 @@
+{
+    "Id":  "620ed819-7add-478f-9782-2201b277bc20",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-18T23:45:33.4523974+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b2fb8268-5eee-4882-887c-0fba78540215",
+                      "Name":  "糖果",
+                      "Quantity":  4,
+                      "Price":  434.013374273451550,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:10:05.5715238+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53832043-e1c4-46c1-b8af-5f7f97ad1da4",
+                      "Name":  "抹布",
+                      "Quantity":  2,
+                      "Price":  137.463647289551930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:11:05.8310562+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44e2f0f9-6f4f-4e55-88cd-64ef8c0b7b0a",
+                      "Name":  "巧克力",
+                      "Quantity":  5,
+                      "Price":  202.443944179542930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:08:14.4001104+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15b92ee3-76b3-416a-9202-fb6df2253501",
+                      "Name":  "巧克力",
+                      "Quantity":  6,
+                      "Price":  300.106326333256720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:14:16.4142864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "022356bf-2755-4ab5-875c-1366e0d002ba",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  114.405598887928590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:00:45.9826396+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae801977-ce15-4bb5-ac1a-86f2e2d8ec3f",
+                      "Name":  "乳液",
+                      "Quantity":  4,
+                      "Price":  366.274251230404710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:54:33.6568311+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8cb52a7-2729-4a66-b135-dc43f0537b1e",
+                      "Name":  "果汁",
+                      "Quantity":  8,
+                      "Price":  499.103896902301380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:11:40.2213674+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

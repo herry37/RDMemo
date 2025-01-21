@@ -1,0 +1,35 @@
+{
+    "Id":  "e2a8a85c-4003-4fa9-9cb3-20d6e33188e3",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T15:33:49.299619+08:00",
+    "Items":  [
+                  {
+                      "Id":  "118a3603-0ed6-4b0e-9a4e-2b6014b98c25",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7310403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e329c619-5822-4223-9435-da1772ba653b",
+                      "Name":  "Sleek Rubber Gloves",
+                      "Quantity":  2,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7310693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e2792da-3012-4e4b-9cc0-a97bd4af5184",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7310727Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

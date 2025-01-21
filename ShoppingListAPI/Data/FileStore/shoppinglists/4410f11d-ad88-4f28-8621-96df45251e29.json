@@ -1,0 +1,44 @@
+{
+    "Id":  "4410f11d-ad88-4f28-8621-96df45251e29",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T10:58:22.7535408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "caee8423-c33a-4446-899f-ad12e8d136d7",
+                      "Name":  "Handmade Soft Computer",
+                      "Quantity":  4,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6300001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec04684f-d17e-48fa-a865-ade690f8c76b",
+                      "Name":  "Tasty Frozen Soap",
+                      "Quantity":  3,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6300037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35e8eba7-be6c-4136-bae4-798ae5607e45",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6300048Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b23c9d2c-e247-4548-9299-22a76003e743",
+                      "Name":  "Ergonomic Plastic Towels",
+                      "Quantity":  4,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6300071Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

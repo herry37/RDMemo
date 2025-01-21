@@ -1,0 +1,80 @@
+{
+    "Id":  "6bc57913-83a3-4b9a-b68b-70d0fca4c5a5",
+    "Title":  "露營準備 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-15T08:22:51.6847666+08:00",
+    "Items":  [
+                  {
+                      "Id":  "efc88fba-4a06-4144-a201-f2bf8e1105f7",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:25:14.7696635+08:00",
+                      "CompletedAt":  "2025-01-16T02:01:29.9615814+08:00"
+                  },
+                  {
+                      "Id":  "17a9e892-1f82-4c99-8619-571bb7d2c6f7",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:29:15.1844809+08:00",
+                      "CompletedAt":  "2025-01-18T18:20:22.3835027+08:00"
+                  },
+                  {
+                      "Id":  "26b98934-8d94-46fd-a401-245645cba452",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  1,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:21:41.1588072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "314080c3-d9a4-4247-bdc2-86dcc261f677",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:32:16.6618647+08:00",
+                      "CompletedAt":  "2025-01-18T14:17:58.1857685+08:00"
+                  },
+                  {
+                      "Id":  "7d0ef81c-6bbc-473a-b839-64ec01ca7ac4",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:22:17.1947435+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d638c135-b36c-417f-a081-432cbb1afe5b",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:29:32.9325937+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bea28c4-c424-4b45-b8a2-981623996f24",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T20:45:07.8713958+08:00",
+                      "CompletedAt":  "2025-01-21T07:08:30.8478173+08:00"
+                  },
+                  {
+                      "Id":  "165b0b03-eb3c-4ce7-a2fc-45465b447e2e",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:17:43.2716635+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

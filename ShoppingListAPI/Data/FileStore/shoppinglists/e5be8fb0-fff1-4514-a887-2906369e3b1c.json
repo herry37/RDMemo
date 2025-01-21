@@ -1,0 +1,89 @@
+{
+    "Id":  "e5be8fb0-fff1-4514-a887-2906369e3b1c",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T01:55:29.3814276+08:00",
+    "Items":  [
+                  {
+                      "Id":  "79832524-1aad-40d3-9203-5e11e28321f3",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae3902c2-1b3d-473a-9ee1-2b51d0958727",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "450cfa01-2067-4b90-977c-863fa44cc3ca",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705182Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c6f32ba-7706-438c-ab29-cc036ded510c",
+                      "Name":  "Unbranded Frozen Gloves",
+                      "Quantity":  3,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705427Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1651b32-1158-4d19-b6e7-3c0b0aba0724",
+                      "Name":  "Gorgeous Frozen Keyboard",
+                      "Quantity":  2,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a2fb4ca-17f0-4a1b-802f-bc9dbba09cc1",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705506Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "390a150f-5a8e-49a2-a88c-9d64d947b8d0",
+                      "Name":  "Awesome Frozen Car",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58157de2-808b-42ff-9289-8c6f2768f1b8",
+                      "Name":  "Fantastic Rubber Ball",
+                      "Quantity":  2,
+                      "Price":  339,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705621Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8312565d-233e-4705-8bf3-c5df4c4a4185",
+                      "Name":  "Refined Cotton Hat",
+                      "Quantity":  3,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1705673Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

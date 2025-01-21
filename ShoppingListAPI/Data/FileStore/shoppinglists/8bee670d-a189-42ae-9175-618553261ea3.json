@@ -1,0 +1,62 @@
+{
+    "Id":  "8bee670d-a189-42ae-9175-618553261ea3",
+    "Title":  "月底大採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T12:38:11.4743102+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b0922e12-7859-4b61-84a2-8a2e05d65d9d",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:15:28.2593865+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ad77cf1-3ab3-4d07-8546-8fb09d2c07c7",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:26:41.7027624+08:00",
+                      "CompletedAt":  "2025-01-19T00:40:20.5323996+08:00"
+                  },
+                  {
+                      "Id":  "e6806b5d-2432-4623-9cad-22f65d4bd860",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:58:12.9620593+08:00",
+                      "CompletedAt":  "2025-01-21T00:04:27.7251519+08:00"
+                  },
+                  {
+                      "Id":  "4644f237-62bb-4a0b-ac0f-a078fc7bff0c",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:22:35.2608143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a47c506-b4ee-4e2e-92fc-fe8c9206b24b",
+                      "Name":  "黑巧克力",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:00:33.4628319+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38bb7305-634f-4468-839d-ee3b2cf130f1",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:36:53.7710754+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

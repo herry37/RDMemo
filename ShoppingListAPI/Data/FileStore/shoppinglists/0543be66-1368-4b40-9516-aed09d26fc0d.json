@@ -1,0 +1,80 @@
+{
+    "Id":  "0543be66-1368-4b40-9516-aed09d26fc0d",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T22:09:18.2183669+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1d74cdbd-ca12-4ac4-9df6-6e1c52df41d0",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  70.630426966114810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:56:02.8761906+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab6bd8ef-0a51-40b2-92e0-68c5e004f732",
+                      "Name":  "拖把",
+                      "Quantity":  1,
+                      "Price":  88.907858309364840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:18:13.0187665+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0eb5ec54-38f9-4cd5-868b-da39ad6fe5ee",
+                      "Name":  "鍋子",
+                      "Quantity":  10,
+                      "Price":  201.672405163961960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:27:03.1935569+08:00",
+                      "CompletedAt":  "2025-01-20T20:43:44.743438+08:00"
+                  },
+                  {
+                      "Id":  "fed5faa6-0172-4021-8de3-b1feb9565ab8",
+                      "Name":  "鍋子",
+                      "Quantity":  2,
+                      "Price":  50.0842285737336450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:06:44.778703+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "883d11a8-233d-4c49-b3f5-a87a998e8584",
+                      "Name":  "盤子",
+                      "Quantity":  2,
+                      "Price":  258.891408328262350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:26:11.8831771+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b3fcc0d-ba5d-41d3-a1a3-81545e170443",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  337.865168992786530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:53:08.7371976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02614693-f155-47bc-a7d5-057aa954a5ed",
+                      "Name":  "衣架",
+                      "Quantity":  7,
+                      "Price":  12.80823314869463520,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:42:25.9453381+08:00",
+                      "CompletedAt":  "2025-01-22T07:29:01.6662963+08:00"
+                  },
+                  {
+                      "Id":  "8df217b9-2ca2-4730-ac73-4e827e5f718b",
+                      "Name":  "洗衣精",
+                      "Quantity":  2,
+                      "Price":  414.366276739346460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:21:03.3164138+08:00",
+                      "CompletedAt":  "2025-01-19T19:35:41.754078+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

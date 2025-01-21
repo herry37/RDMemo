@@ -1,0 +1,53 @@
+{
+    "Id":  "2b99b147-0499-4e0b-a5cc-24289e11e295",
+    "Title":  "01/15 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T05:39:33.9513076+08:00",
+    "Items":  [
+                  {
+                      "Id":  "53c2038f-0cc8-4aec-b829-a6e11f15aa7b",
+                      "Name":  "Tasty Concrete Cheese",
+                      "Quantity":  2,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.769474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b4c99b1-059a-4d64-8316-96a8d4f6d09a",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  309,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7694781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27f30826-cedd-4ba9-806b-390168358424",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7694816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7899f616-9686-4efe-8308-a11227f90c10",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7694835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e40aee36-1f00-447c-bb17-d4dcd34a607a",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7694853Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

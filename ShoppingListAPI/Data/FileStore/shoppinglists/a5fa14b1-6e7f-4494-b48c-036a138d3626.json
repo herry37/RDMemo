@@ -1,0 +1,62 @@
+{
+    "Id":  "a5fa14b1-6e7f-4494-b48c-036a138d3626",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T00:06:57.4713226+08:00",
+    "Items":  [
+                  {
+                      "Id":  "936d039d-ffac-4c9e-b382-3a6407287fd8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.535299Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ada41d79-3d9e-48e4-b5ee-4f4190d2996a",
+                      "Name":  "Incredible Wooden Car",
+                      "Quantity":  4,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5353288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e035c2a-7b85-40cf-b659-fc5e66fb8e70",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5353325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7a0e212-fd47-4f18-b827-45bb14ed2c1d",
+                      "Name":  "Intelligent Frozen Sausages",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5353378Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9297c5b9-524a-422a-b4e9-d0d8a91f6689",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5353392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b929ec20-a198-4fca-82e6-40f419ceca5b",
+                      "Name":  "Generic Granite Tuna",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5353462Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

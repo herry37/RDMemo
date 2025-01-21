@@ -1,0 +1,44 @@
+{
+    "Id":  "b5ee6809-b270-4bb8-84ae-78ac7d4c562a",
+    "Title":  "早市採買 - 好市多 (01/20)",
+    "CreatedAt":  "2025-01-21T05:46:05.4303196+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d4c8ec8-63ac-4eb4-bf59-732708754f1b",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:06:28.5890595+08:00",
+                      "CompletedAt":  "2025-01-15T03:18:38.6425273+08:00"
+                  },
+                  {
+                      "Id":  "c0ff1c9f-c3da-468f-8874-e18000862ba1",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:53:17.8765686+08:00",
+                      "CompletedAt":  "2025-01-18T03:20:00.1576508+08:00"
+                  },
+                  {
+                      "Id":  "39decc28-bbd5-45d5-90db-1ef49257ce3c",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:01:52.7652378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d720dc51-fc8b-4122-b7eb-9ddaf4aed70d",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:52:52.5598989+08:00",
+                      "CompletedAt":  "2025-01-20T17:59:16.0271175+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

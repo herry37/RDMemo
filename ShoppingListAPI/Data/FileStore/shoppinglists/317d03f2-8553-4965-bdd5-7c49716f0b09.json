@@ -1,0 +1,80 @@
+{
+    "Id":  "317d03f2-8553-4965-bdd5-7c49716f0b09",
+    "Title":  "緊急採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-16T07:39:39.6513243+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ffc46200-a7ad-4a1f-b0b2-343eb8233578",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:28:56.3544403+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e210a970-a289-4066-a40c-86ca6b99bb2c",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:59:39.9215497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "564f5a95-ecfc-4bac-a89c-25cb4b1ac713",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:46:01.1031814+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8810b484-05f7-4602-908e-80c7637429aa",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  221,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:28:39.3174286+08:00",
+                      "CompletedAt":  "2025-01-18T18:41:14.4064347+08:00"
+                  },
+                  {
+                      "Id":  "3065860e-fcc2-4c75-a121-182523b350bc",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:39:36.2156496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd6cedf6-1283-49cd-85be-3a854991a0d2",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:57:50.1330947+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ad8f87f-24fb-4f7c-9f01-eadd14c1f538",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:11:53.3610043+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c359ac87-42e0-4a1a-ad5d-a8b8f3fe35ff",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:00:10.2308919+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

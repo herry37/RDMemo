@@ -1,0 +1,35 @@
+{
+    "Id":  "780d50fa-d5fb-43db-9d1a-14d17a0fddac",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T14:51:29.3642751+08:00",
+    "Items":  [
+                  {
+                      "Id":  "109e9d9c-d5de-4b5f-a699-637ad9abde25",
+                      "Name":  "抹布",
+                      "Quantity":  1,
+                      "Price":  447.421887666600130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:37:46.1219606+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "623e3997-328e-4486-b704-29f004882ea0",
+                      "Name":  "盤子",
+                      "Quantity":  9,
+                      "Price":  157.183906751933940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:41:40.9307528+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c05e1dfa-f4a6-43d9-865e-e5294a7dc159",
+                      "Name":  "可樂",
+                      "Quantity":  4,
+                      "Price":  21.7787574616354510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:44:20.4531479+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "99ef9f53-d46a-48fa-b9a6-47e1ccecff71",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T19:07:39.1304383+08:00",
+    "Items":  [
+                  {
+                      "Id":  "89975419-b1cd-4dfe-b3ad-c6ee99662f75",
+                      "Name":  "清潔劑",
+                      "Quantity":  1,
+                      "Price":  394.745026099397040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T12:24:38.6905787+08:00",
+                      "CompletedAt":  "2025-01-15T09:05:52.4804201+08:00"
+                  },
+                  {
+                      "Id":  "940029bf-2830-4bc3-8796-cde631e92de8",
+                      "Name":  "抹布",
+                      "Quantity":  9,
+                      "Price":  197.620500357485020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:25:10.3544732+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7888513-13b0-44cd-8b64-6d310d9618ff",
+                      "Name":  "芳香劑",
+                      "Quantity":  9,
+                      "Price":  48.4411988031087170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:34:27.0577039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6115d33-407e-4166-b3d0-63d237524195",
+                      "Name":  "乳液",
+                      "Quantity":  7,
+                      "Price":  114.967976837217690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:35:13.0113231+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "027bab56-9a8f-4011-be62-8e4a7f8adc91",
+                      "Name":  "洋芋片",
+                      "Quantity":  2,
+                      "Price":  150.665116863005420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:59:51.4384831+08:00",
+                      "CompletedAt":  "2025-01-19T12:44:11.9362966+08:00"
+                  },
+                  {
+                      "Id":  "85d618c4-715a-457a-b4cf-ea6f006c718d",
+                      "Name":  "護手霜",
+                      "Quantity":  1,
+                      "Price":  132.153219758516870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T16:46:38.4981446+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fcede27-d87d-4493-8640-ceab1c960715",
+                      "Name":  "資料夾",
+                      "Quantity":  7,
+                      "Price":  448.306459569225450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:02:06.1696423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d07e7e9-87eb-4f33-9e4c-31239d1b7ffb",
+                      "Name":  "棉被",
+                      "Quantity":  5,
+                      "Price":  50.7061645766411370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:37:09.7035334+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

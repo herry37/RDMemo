@@ -1,0 +1,44 @@
+{
+    "Id":  "79a51ae6-880c-4aec-823f-27091c2f9dab",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-19T01:46:29.9233467+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fddd7961-2728-40da-ab90-b91badea6706",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.684239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63e077b4-df38-427e-8947-c8950b238bee",
+                      "Name":  "Unbranded Plastic Table",
+                      "Quantity":  2,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6842808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b57adeb-af58-4360-bdea-61230c5e2880",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6842821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00a3f236-7f73-40bc-8dde-7d37f7cf42bc",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6842828Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

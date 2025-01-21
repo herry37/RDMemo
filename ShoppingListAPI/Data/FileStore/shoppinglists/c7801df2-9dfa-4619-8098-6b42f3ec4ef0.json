@@ -1,0 +1,44 @@
+{
+    "Id":  "c7801df2-9dfa-4619-8098-6b42f3ec4ef0",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-19T18:25:35.9914611+08:00",
+    "Items":  [
+                  {
+                      "Id":  "617e26b6-b66e-43e5-bb05-724b513ca271",
+                      "Name":  "漂白水",
+                      "Quantity":  6,
+                      "Price":  16.1341724639623610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:41:14.0634671+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f768893-dfb3-420a-8a2a-7e37041e0428",
+                      "Name":  "蛋糕",
+                      "Quantity":  10,
+                      "Price":  426.395188864998630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:54:03.6579811+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f35dfdd9-705b-4334-ba17-fadb8572c320",
+                      "Name":  "便利貼",
+                      "Quantity":  9,
+                      "Price":  445.679399491872340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T18:00:50.4393845+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "985c878f-91e6-48da-a68a-f6c8c0f9cf54",
+                      "Name":  "牙膏",
+                      "Quantity":  10,
+                      "Price":  492.217580907943230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T14:53:37.2374216+08:00",
+                      "CompletedAt":  "2025-01-15T08:34:33.3084459+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "b52952b8-63de-4ff8-8d64-523dc93a5bb4",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T18:53:38.6900822+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bdbec855-32cd-432f-9ddf-55350e416eb7",
+                      "Name":  "Handmade Fresh Gloves",
+                      "Quantity":  4,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719716Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad34ac39-9b9c-4364-ba29-776349a7655c",
+                      "Name":  "Fantastic Concrete Computer",
+                      "Quantity":  1,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92259cc5-49b2-4e71-b807-2423f24c7961",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719803Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac7a0112-b8c9-4ed1-95c5-26eb4b6d8dbc",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3b73bca-82cb-4d37-9550-e88d24655bf4",
+                      "Name":  "Gorgeous Metal Chicken",
+                      "Quantity":  3,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c3624f2-cdeb-442c-a91c-60aa975d7312",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50cb455a-2d6e-4d9c-a65c-1476acb7d411",
+                      "Name":  "Handcrafted Soft Shirt",
+                      "Quantity":  4,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8719943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "149c6aa4-5726-4c6a-8763-c7b3911082c0",
+                      "Name":  "Generic Concrete Tuna",
+                      "Quantity":  3,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8720005Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

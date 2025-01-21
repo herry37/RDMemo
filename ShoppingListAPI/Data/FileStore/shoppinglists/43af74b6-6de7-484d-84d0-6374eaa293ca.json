@@ -1,0 +1,35 @@
+{
+    "Id":  "43af74b6-6de7-484d-84d0-6374eaa293ca",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T05:12:27.7423482+08:00",
+    "Items":  [
+                  {
+                      "Id":  "81640e29-ef70-498c-b454-eb68714d673a",
+                      "Name":  "原木梳子",
+                      "Quantity":  2,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:30:38.7073656+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ae3a024-71b6-45c8-aafb-0ed0a0900bb4",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:57:43.8919632+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53e88cf5-ad7a-4196-aaae-33ab6173c18a",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:41:23.9608153+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

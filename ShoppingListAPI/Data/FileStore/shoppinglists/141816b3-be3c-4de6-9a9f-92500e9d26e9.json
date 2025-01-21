@@ -1,0 +1,53 @@
+{
+    "Id":  "141816b3-be3c-4de6-9a9f-92500e9d26e9",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T00:53:46.0709138+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a6979d0-c4fd-46a5-8139-c6e6a314d507",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6441056Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d0587f2-271e-48f5-8fd1-8b87420a88f6",
+                      "Name":  "Generic Wooden Pizza",
+                      "Quantity":  5,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6441356Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b54be4f-c485-44fe-b93b-c7b660be8c53",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  494,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6441373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ccf8af9-9484-4f70-9328-afb570bd51ed",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6441388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f173fcb-1a0d-4d31-913f-9abd92b430b0",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6441402Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

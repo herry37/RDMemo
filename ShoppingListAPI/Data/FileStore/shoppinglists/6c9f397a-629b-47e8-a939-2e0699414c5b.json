@@ -1,0 +1,71 @@
+{
+    "Id":  "6c9f397a-629b-47e8-a939-2e0699414c5b",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T06:25:47.0656061+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a78e50a2-b184-4c42-94bc-a520021894e2",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:10:32.5304623+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7bc1abc-e3d2-4453-997a-122ff25c8dcb",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:21:02.2714487+08:00",
+                      "CompletedAt":  "2025-01-18T09:08:21.0674668+08:00"
+                  },
+                  {
+                      "Id":  "e3054bc2-6cc2-4074-88e6-c49ceb985cc2",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:05:45.3847018+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aaae9948-1b0f-4c7e-a3d0-a5f8b0c81733",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:00:35.7786136+08:00",
+                      "CompletedAt":  "2025-01-18T10:34:55.8399843+08:00"
+                  },
+                  {
+                      "Id":  "9b2cb47a-9fe1-4049-b783-626d63e91c1c",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:06:48.9888107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3fd4d17-9173-4017-a96c-8ca2066e10ef",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:24:04.6189233+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "064b1440-8419-46ad-91db-47fccbc26cf7",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:47:21.1581612+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

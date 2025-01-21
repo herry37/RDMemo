@@ -1,0 +1,44 @@
+{
+    "Id":  "cc9bb6d6-c025-46aa-8b91-c512160437a2",
+    "Title":  "月底大採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-17T10:02:09.0055616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "060029e6-66c3-46f1-a3bc-1ef3e536afab",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:44:44.9329826+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b8c0ab0-396e-4f2c-8613-1904e24f001b",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:37:14.1514466+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb320eb2-9ab6-41db-b1a6-70ccf7ff8790",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:48:30.2797431+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a05e5aa-3aa2-43b9-bc94-19d0657c431f",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:45:12.4737988+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

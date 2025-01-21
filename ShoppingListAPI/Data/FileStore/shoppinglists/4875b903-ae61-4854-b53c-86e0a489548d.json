@@ -1,0 +1,53 @@
+{
+    "Id":  "4875b903-ae61-4854-b53c-86e0a489548d",
+    "Title":  "日常補充 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T09:26:36.1686716+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0f3d45eb-9c75-4e92-9d88-32206436ae27",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:57:13.055476+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dc94c59-5100-4f37-9f00-3b93f0187ac9",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:42:39.3368041+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "353d3f23-bf45-4bda-aed7-9e3a55aefeea",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:20:34.3617725+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8875cbe5-8685-497e-9a09-9df36a0a937a",
+                      "Name":  "天然肥皂",
+                      "Quantity":  4,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:10:00.8688623+08:00",
+                      "CompletedAt":  "2025-01-18T06:25:14.2935214+08:00"
+                  },
+                  {
+                      "Id":  "9e21c7ec-ca47-4fb4-b2c6-18bb32ab0cbe",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:35:04.9081842+08:00",
+                      "CompletedAt":  "2025-01-18T06:28:07.9705873+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "a44064f4-dfb2-4595-8101-444b6abc4fdc",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T12:28:36.7240803+08:00",
+    "Items":  [
+                  {
+                      "Id":  "51db0846-8f21-4250-85f4-2e9cebf2e198",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7443899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d3b9bc3-a81c-4906-89c0-a50f183efc6f",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7443961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e54b4bfc-138d-4a81-8113-caa1e1d17f1f",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7444214Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "7a6d9749-488a-4d53-ac64-a6956448bdf2",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T05:50:20.1680139+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fe922e05-b70c-4e9b-96fe-ebb1539d5a6b",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39ee07a6-d391-487d-b6c4-79a44d5d74c7",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  476,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cf4e2f3-205b-4953-a2be-95bd61ff24cc",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62ace2c1-3970-4b75-8100-02d95022a11d",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b188d60-28c8-4ac1-b0d3-2e1b66789313",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421594Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1cb9c04-0638-419f-8b8e-202c4c15c723",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421629Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a28a853-8098-4dba-97ea-a52982d1a3e2",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c44c7611-e916-457e-98b3-d9c420b68ad3",
+                      "Name":  "Rustic Frozen Gloves",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0421896Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

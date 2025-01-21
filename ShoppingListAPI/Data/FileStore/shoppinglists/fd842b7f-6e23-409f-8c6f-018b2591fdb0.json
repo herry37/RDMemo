@@ -1,0 +1,53 @@
+{
+    "Id":  "fd842b7f-6e23-409f-8c6f-018b2591fdb0",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T06:05:17.5433713+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d6464930-59e7-449c-8f15-6ed6adaa7431",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:50:10.1470781+08:00",
+                      "CompletedAt":  "2025-01-18T22:13:39.0005673+08:00"
+                  },
+                  {
+                      "Id":  "3b6d6a93-86cf-4274-ab53-8c61b3bcb8cb",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:28:49.3721227+08:00",
+                      "CompletedAt":  "2025-01-17T02:16:23.3911921+08:00"
+                  },
+                  {
+                      "Id":  "3fb48aec-fc90-4f4e-99e9-22a1c424cf89",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:14:51.0417763+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b2a163d-0beb-4273-95b8-72d87d1cf6b1",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:12:38.0017399+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59223f35-b3c1-4287-955a-bc0ba108faa1",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:44:07.5851352+08:00",
+                      "CompletedAt":  "2025-01-16T16:07:25.9934275+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

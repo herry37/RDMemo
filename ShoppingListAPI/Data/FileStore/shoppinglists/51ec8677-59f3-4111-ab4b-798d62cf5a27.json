@@ -1,0 +1,98 @@
+{
+    "Id":  "51ec8677-59f3-4111-ab4b-798d62cf5a27",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-17T23:21:13.3091327+08:00",
+    "Items":  [
+                  {
+                      "Id":  "41de8945-b38d-4d5b-869c-625d85f5f6fe",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9895296Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "658d5549-cc62-4bdd-a000-bdca6647ba9c",
+                      "Name":  "Tasty Wooden Salad",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9895579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef240e12-df6a-4eca-a207-fc43058b57d3",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9895619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c11b1a11-9300-45be-95e4-057cc283749f",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9895635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b82b37ea-d9cf-4085-a962-bb2956b866be",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.989565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b6a8311-5607-42b2-9d97-20b07591f8fd",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9896046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cf7cced-39a0-42c8-ad30-9acdc19b6e67",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.989609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "986ad7ed-1068-4e42-a07a-eda7d25d897c",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9896104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a99bd47-39c5-499b-b69d-7a50d6a33a8a",
+                      "Name":  "Ergonomic Soft Computer",
+                      "Quantity":  2,
+                      "Price":  454,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9896205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "377f6599-6b05-4849-b2d0-be8674e9107a",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9896242Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

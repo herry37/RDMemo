@@ -1,0 +1,62 @@
+{
+    "Id":  "faba1ab9-ad81-4e66-95a6-0b614db11416",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-16T14:08:17.348143+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01ce4802-9b68-4ae6-9e24-1cad326b79f6",
+                      "Name":  "芳香劑",
+                      "Quantity":  6,
+                      "Price":  11.98903288299246720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:58:33.1826655+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1c6f750-5aec-4a30-8e4b-745f6af28a73",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  470.056098430431020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:43:38.2984168+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "693a5c8a-54d9-49a5-afd3-4f928e18f5df",
+                      "Name":  "護手霜",
+                      "Quantity":  7,
+                      "Price":  30.6060266199140990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:20:30.1790334+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b80c7684-571d-4a73-8ca1-b8829cbf8da7",
+                      "Name":  "棉被",
+                      "Quantity":  3,
+                      "Price":  341.955510434724120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:07:19.5318706+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec234bd5-19d7-4989-a084-767c4004fd39",
+                      "Name":  "手套",
+                      "Quantity":  3,
+                      "Price":  275.538298286953790,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:42:24.4958537+08:00",
+                      "CompletedAt":  "2025-01-16T12:51:55.1190948+08:00"
+                  },
+                  {
+                      "Id":  "7c6bea41-c35f-4395-9089-e50f280d40e5",
+                      "Name":  "面紙",
+                      "Quantity":  5,
+                      "Price":  106.854087840138650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:09:35.059586+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

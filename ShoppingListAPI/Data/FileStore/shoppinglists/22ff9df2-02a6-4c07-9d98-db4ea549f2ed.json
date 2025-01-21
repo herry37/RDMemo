@@ -1,0 +1,44 @@
+{
+    "Id":  "22ff9df2-02a6-4c07-9d98-db4ea549f2ed",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T05:13:36.0130008+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8bbba504-cffc-43f7-a0d3-c90afdbc9124",
+                      "Name":  "Tasty Plastic Computer",
+                      "Quantity":  3,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8567882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fee4ae2-0902-4a95-84cd-b8a1d29471ed",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8567924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a128fbe-c442-43c4-94b1-1f5124310e09",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  402,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8567934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93524892-8e70-43fd-b0fd-a166d45d1277",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  381,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8567943Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

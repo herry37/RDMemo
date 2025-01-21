@@ -1,0 +1,80 @@
+{
+    "Id":  "3e14f4e5-b93e-49de-99d6-8faba3435c12",
+    "Title":  "露營準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T07:37:11.758602+08:00",
+    "Items":  [
+                  {
+                      "Id":  "445cfdd7-e529-4ea9-956f-c430b610c0d6",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:58:41.2564263+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3825b922-f644-4b30-b9e8-1a5f1d0dc1aa",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:42:52.716976+08:00",
+                      "CompletedAt":  "2025-01-18T14:33:37.7308309+08:00"
+                  },
+                  {
+                      "Id":  "d05d5c2e-8599-4608-88f5-6a8d9e4c4e4c",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:35:37.5663099+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5631ca43-dbce-47bb-8fe1-94d10164a26d",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:22:54.5575869+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6995134-4b7b-43db-92d8-d9a17e890676",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:50:18.9300343+08:00",
+                      "CompletedAt":  "2025-01-16T08:23:01.0734532+08:00"
+                  },
+                  {
+                      "Id":  "4c417f7e-0bf3-4754-9182-5b8b25fda0ce",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:00:31.6877343+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c102b881-c7d9-4e4c-a0d2-a6d8afaebf59",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:52:08.2624749+08:00",
+                      "CompletedAt":  "2025-01-19T13:04:18.4229106+08:00"
+                  },
+                  {
+                      "Id":  "70d266ae-e3d6-45fa-a7be-19b52067d9e1",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:33:24.8399842+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

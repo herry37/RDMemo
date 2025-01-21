@@ -1,0 +1,44 @@
+{
+    "Id":  "0e04deb2-06e6-404e-a7ca-307b8dfb25d1",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-16T23:57:18.7096673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45b75222-4675-4c64-873e-c49703727001",
+                      "Name":  "Gorgeous Metal Mouse",
+                      "Quantity":  3,
+                      "Price":  317,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1520677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69dea11d-3181-4ca6-9590-4c052d4551ac",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1520744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae8b50df-3ada-427a-aa42-4559b3bb9859",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1520802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c824b620-726c-452b-a436-34b3fd3918a8",
+                      "Name":  "Small Cotton Sausages",
+                      "Quantity":  3,
+                      "Price":  459,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1521645Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

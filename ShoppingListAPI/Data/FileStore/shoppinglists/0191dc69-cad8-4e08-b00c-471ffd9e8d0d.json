@@ -1,0 +1,62 @@
+{
+    "Id":  "0191dc69-cad8-4e08-b00c-471ffd9e8d0d",
+    "Title":  "每週採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-15T03:51:08.8095035+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b115bc1-65c0-4b13-8437-75592892c34c",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:56:48.4787101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9f2afcb-77a9-4243-8024-3b9517d6f748",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:54:50.7689461+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18f554b9-80a0-4515-a469-d7905b7f156b",
+                      "Name":  "透明膠帶",
+                      "Quantity":  1,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:56:41.898724+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d26865b-c861-4805-bf0d-984d6a47bf8f",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  5,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:01:23.2974204+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2378e926-55d8-4d70-9b0f-3a6916b6109a",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:58:28.9951629+08:00",
+                      "CompletedAt":  "2025-01-21T11:31:28.4942835+08:00"
+                  },
+                  {
+                      "Id":  "eaddd5ff-2819-4157-af3d-61e4c3af6ad4",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:51:28.6921699+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

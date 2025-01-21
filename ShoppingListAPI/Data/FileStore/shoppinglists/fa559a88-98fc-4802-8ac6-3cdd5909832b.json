@@ -1,0 +1,71 @@
+{
+    "Id":  "fa559a88-98fc-4802-8ac6-3cdd5909832b",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T16:22:27.7636887+08:00",
+    "Items":  [
+                  {
+                      "Id":  "814874c1-cd70-4604-891d-a78ea4b657a8",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:59:17.0528639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9c0a70a-b7aa-477f-8f78-67159cd6873b",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:08:54.6559124+08:00",
+                      "CompletedAt":  "2025-01-16T00:33:03.8782818+08:00"
+                  },
+                  {
+                      "Id":  "957ad0c1-d85e-4b67-a912-32ece32c5a00",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:13:32.5841187+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ba5efdd-6b3e-4c4a-8c53-c552c34bafa0",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:37:12.1037363+08:00",
+                      "CompletedAt":  "2025-01-22T06:54:50.2143747+08:00"
+                  },
+                  {
+                      "Id":  "f56ba6d1-74b8-4282-a8f1-c469e61e9e66",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:01:40.6200129+08:00",
+                      "CompletedAt":  "2025-01-18T01:42:06.2258474+08:00"
+                  },
+                  {
+                      "Id":  "f9ef09fb-a39e-4e18-9b96-02abf87921c6",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:49:31.6818235+08:00",
+                      "CompletedAt":  "2025-01-20T18:31:25.2302766+08:00"
+                  },
+                  {
+                      "Id":  "2ead1eb0-7ded-46e6-825c-d71432f4668d",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:17:21.4479255+08:00",
+                      "CompletedAt":  "2025-01-17T14:47:08.7918954+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

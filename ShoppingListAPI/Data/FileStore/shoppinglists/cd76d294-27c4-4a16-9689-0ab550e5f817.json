@@ -1,0 +1,62 @@
+{
+    "Id":  "cd76d294-27c4-4a16-9689-0ab550e5f817",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T00:19:17.7212503+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9557d04e-a4ab-423e-b6a9-ae6de83274ed",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6251927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "357f75ef-76d4-4f3c-85c7-28a22eff08a9",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  399,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6251971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45fa23aa-6bf1-4a5d-bad6-2c2f82293843",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6251983Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55c9fa34-9367-4ceb-a29f-3bb2c56a1113",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6251995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6622422-36a6-48a5-9b02-5cfe627fc3d5",
+                      "Name":  "Incredible Granite Gloves",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6252294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f510539-0938-47a6-bb54-39cce18559c3",
+                      "Name":  "Rustic Granite Pants",
+                      "Quantity":  5,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6252356Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

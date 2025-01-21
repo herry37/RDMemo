@@ -1,0 +1,53 @@
+{
+    "Id":  "c532de69-0806-4385-8e75-033f87711283",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T12:02:21.6351962+08:00",
+    "Items":  [
+                  {
+                      "Id":  "24640159-adb0-4bc6-9235-0fc3423e5152",
+                      "Name":  "雞肉",
+                      "Quantity":  4,
+                      "Price":  156.482147213230290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:38:43.6868832+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5995b7aa-bf96-496a-be7b-dc4271fc1a84",
+                      "Name":  "訂書機",
+                      "Quantity":  8,
+                      "Price":  109.394945056719340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:53:41.3471344+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "110003b1-6297-4ebd-8229-db1ca8da96aa",
+                      "Name":  "運動飲料",
+                      "Quantity":  7,
+                      "Price":  460.971737559366170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:32:41.3539059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "357c4af9-fc81-4ed0-861f-528c7380647d",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  226.342740416253360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:31:04.3251204+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "739e27f8-e51f-4e5b-83ce-2b83e1aca896",
+                      "Name":  "抹布",
+                      "Quantity":  10,
+                      "Price":  347.241006219508650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T01:49:32.3618127+08:00",
+                      "CompletedAt":  "2025-01-17T02:47:17.6505516+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

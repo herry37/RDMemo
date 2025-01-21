@@ -1,0 +1,44 @@
+{
+    "Id":  "8b34641a-bc6d-48bd-bede-2d9cc59024f6",
+    "Title":  "聚會準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-20T18:59:22.0225368+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f239e392-633d-43b8-a890-73ddf8447257",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  5,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:39:25.022373+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4dbdf4fe-e573-49f5-a00f-9f57880195ce",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:47:24.0350193+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ac25512-e96d-48d7-adc9-83609ee0a4f7",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:36:38.0457101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d093418-fad9-4112-bd65-91f20c035360",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:45:19.870303+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

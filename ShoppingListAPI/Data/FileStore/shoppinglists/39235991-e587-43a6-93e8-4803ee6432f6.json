@@ -1,0 +1,62 @@
+{
+    "Id":  "39235991-e587-43a6-93e8-4803ee6432f6",
+    "Title":  "月底大採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T06:42:10.7689824+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27e4f961-21d9-4b50-aa53-1e9a00f22ff6",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:28:51.9861584+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fd1a96b-8432-4fd7-a3b4-c0bd8ab96353",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  4,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:22:59.1217492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d5d6ecc-792c-4c44-a8cf-61613bc21488",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:24:46.1022918+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b3bd1f9-47ff-426f-97c2-4471cb53a59b",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:50:52.5686962+08:00",
+                      "CompletedAt":  "2025-01-20T10:49:28.4781856+08:00"
+                  },
+                  {
+                      "Id":  "46658086-ad12-4e8e-b204-c6716d43012e",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  235,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:36:12.2390144+08:00",
+                      "CompletedAt":  "2025-01-19T04:13:43.1019959+08:00"
+                  },
+                  {
+                      "Id":  "cd0b66b4-68ae-459d-b738-0950c2b44642",
+                      "Name":  "氣泡水",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:32:37.6329318+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

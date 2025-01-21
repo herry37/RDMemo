@@ -1,0 +1,89 @@
+{
+    "Id":  "8ecb927f-08ca-4538-9710-77054863d327",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T01:07:12.1953845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7f83b236-6e41-46c4-98ba-5b91dc159341",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c517b24-0eea-474f-8b71-e3b294e08eb1",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6a68646-dfcf-421b-bf69-84d3abab6302",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  449,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7078d54d-b08d-42f2-86cd-58209110b595",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81d4ff0b-d5c6-4f77-996e-a28e1559170f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  495,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9c80521-28ac-44f7-b375-1b22ae9b7251",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c64ee84-d892-4301-a932-25f6275775df",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5101823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "484515b1-de5b-4c5b-a27d-a96829d9bdcf",
+                      "Name":  "Gorgeous Rubber Keyboard",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5102082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61fed36b-6ea6-4bcc-9e1f-b0e4d5d1808c",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5102093Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

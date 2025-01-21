@@ -1,0 +1,71 @@
+{
+    "Id":  "2a802f6b-7b75-4251-9910-f58a4de6318a",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T06:34:53.6268637+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9eb2f135-fa5f-4363-bdd8-07565e3a38d7",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18d9fb86-d57d-47a5-bc10-d85f1d23e5b6",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe73b028-7408-4db3-89f3-04ca8ad983dc",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  448,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17785a09-0bd9-451b-a719-255810430388",
+                      "Name":  "Awesome Granite Sausages",
+                      "Quantity":  4,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273238Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee55c61b-d145-4ab4-a5c3-be8dad3fdab1",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad68cc7f-2ce9-4bbc-acfc-568efb582e94",
+                      "Name":  "Handmade Fresh Cheese",
+                      "Quantity":  5,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69d2dfd4-3f59-4273-84be-d6e3ee2fa54d",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6273352Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

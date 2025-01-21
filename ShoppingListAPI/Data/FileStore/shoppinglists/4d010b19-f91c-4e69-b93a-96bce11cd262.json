@@ -1,0 +1,53 @@
+{
+    "Id":  "4d010b19-f91c-4e69-b93a-96bce11cd262",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T07:08:26.1401254+08:00",
+    "Items":  [
+                  {
+                      "Id":  "483516e6-afff-45b2-ada8-0bd54fe7d535",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9166858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e7bcd21-2c22-48eb-ac47-c4d4a39af5fa",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9166929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76c4e25c-05e9-42c5-849b-36b00981e72b",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9166944Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9faea89b-e326-4753-8a8f-ce15ce460a79",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9166959Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1881a367-78b6-403e-be29-430a4ac630ad",
+                      "Name":  "Incredible Soft Gloves",
+                      "Quantity":  4,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9167226Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "455cb49d-d5ce-4510-a02d-fa44cda552f0",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T04:28:02.7016776+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58b29ffb-834f-4e2f-b437-35246f2944db",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3300857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f42144e2-66bb-4877-9690-b3494b0a90fe",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3300882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3abdc133-58af-4ae8-b104-5d1b44c71b0a",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3300891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90fd2121-13a7-4150-959b-f1c1293f3a2e",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.33009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf652501-78af-4dfe-ba78-589a22a8169c",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3300915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23cabcf7-9c64-4989-ad65-119b91635f3c",
+                      "Name":  "Ergonomic Concrete Cheese",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3301199Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

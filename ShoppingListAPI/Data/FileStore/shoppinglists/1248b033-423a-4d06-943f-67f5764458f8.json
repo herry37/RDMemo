@@ -1,0 +1,80 @@
+{
+    "Id":  "1248b033-423a-4d06-943f-67f5764458f8",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T23:17:34.0332028+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0f5f9826-12a7-4671-ac3d-ecaf2e0e3cfc",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2740479Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "548a77be-0f6d-40c5-bfa6-c52023aff8b9",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2740548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50c837d3-7ae6-48af-a895-c6516ec86bba",
+                      "Name":  "Awesome Plastic Salad",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2740839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "444a0602-c6ad-43e0-ac61-d166046af0eb",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2740857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f02502ec-b656-49a4-8cc9-1b59687e8f19",
+                      "Name":  "Unbranded Fresh Hat",
+                      "Quantity":  5,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.274092Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa062a0b-338f-4ec8-88eb-8dae3da2a4ac",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2741269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34ee8803-0fc2-4604-8ab5-d2aaf94ce4c0",
+                      "Name":  "Fantastic Metal Mouse",
+                      "Quantity":  1,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2741381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b17263bb-2eca-4bf3-8c42-7bec4378b036",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2741397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

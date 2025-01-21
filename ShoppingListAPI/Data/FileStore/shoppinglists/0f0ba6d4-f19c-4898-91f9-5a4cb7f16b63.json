@@ -1,0 +1,71 @@
+{
+    "Id":  "0f0ba6d4-f19c-4898-91f9-5a4cb7f16b63",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T11:46:42.9904277+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74ba19f1-b31e-4a58-86d2-13f2dc106d69",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  496.319191544935770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:22:55.2321214+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e07a658-1bad-468e-a338-18a36925f04c",
+                      "Name":  "化妝品",
+                      "Quantity":  2,
+                      "Price":  263.570790407895940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:10:57.0922864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c37a0052-f451-4dac-a468-9e08313ee0f0",
+                      "Name":  "盤子",
+                      "Quantity":  10,
+                      "Price":  463.93404169599290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:47:12.8219454+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3879f21c-fb0e-4a43-a088-ac2d3bf57c07",
+                      "Name":  "抹布",
+                      "Quantity":  1,
+                      "Price":  476.630410382203690,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:21:17.4575015+08:00",
+                      "CompletedAt":  "2025-01-21T03:35:23.9399773+08:00"
+                  },
+                  {
+                      "Id":  "8562d21b-803c-4f49-b234-703d3d90d27e",
+                      "Name":  "口香糖",
+                      "Quantity":  3,
+                      "Price":  371.173800974588910,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:15:53.3589136+08:00",
+                      "CompletedAt":  "2025-01-18T09:14:20.908863+08:00"
+                  },
+                  {
+                      "Id":  "c12dc8f2-25d9-434b-8b4e-3d469969ac7e",
+                      "Name":  "牙刷",
+                      "Quantity":  10,
+                      "Price":  275.085778458095420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:58:21.3035505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ea67f89-fc46-4734-a04f-838f6ec002bd",
+                      "Name":  "梳子",
+                      "Quantity":  4,
+                      "Price":  306.710404333680260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T18:14:37.6808319+08:00",
+                      "CompletedAt":  "2025-01-15T12:39:41.7195554+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

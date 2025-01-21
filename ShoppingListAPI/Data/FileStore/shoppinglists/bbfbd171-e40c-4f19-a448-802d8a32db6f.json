@@ -1,0 +1,35 @@
+{
+    "Id":  "bbfbd171-e40c-4f19-a448-802d8a32db6f",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-14T15:48:04.129457+08:00",
+    "Items":  [
+                  {
+                      "Id":  "723fd092-7c20-404d-8f5b-afc96dba8023",
+                      "Name":  "堅果",
+                      "Quantity":  1,
+                      "Price":  65.889559176287830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:14:58.5846723+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3699bc2f-93c0-4694-a8a5-9ecfb0cdadc0",
+                      "Name":  "口香糖",
+                      "Quantity":  10,
+                      "Price":  16.092839181773120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:06:37.3809881+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d44d012-7859-4cdf-9e35-e35f25a051df",
+                      "Name":  "棉被",
+                      "Quantity":  1,
+                      "Price":  31.7890275493748060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:38:14.1123633+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

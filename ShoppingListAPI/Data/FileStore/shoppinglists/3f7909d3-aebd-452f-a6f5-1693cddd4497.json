@@ -1,0 +1,80 @@
+{
+    "Id":  "3f7909d3-aebd-452f-a6f5-1693cddd4497",
+    "Title":  "年節採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T17:57:53.6677164+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7884076-5d48-4398-8212-46dc78907f25",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:35:54.9262417+08:00",
+                      "CompletedAt":  "2025-01-21T16:24:25.3335232+08:00"
+                  },
+                  {
+                      "Id":  "82277b1c-2d2b-4e7e-901b-89f75977edb2",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:45:37.7345673+08:00",
+                      "CompletedAt":  "2025-01-18T00:14:54.2260321+08:00"
+                  },
+                  {
+                      "Id":  "e097271e-6856-4701-96fa-50284e90cd1b",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:20:25.1012832+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "171c092b-4f54-47bf-8716-adaf06e0a602",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:14:43.0661095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a91b367-e062-40b9-97c8-9e6f7b616441",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:16:00.3095666+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e295e09c-dd3a-4678-a021-165a134c78a7",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:32:19.4722444+08:00",
+                      "CompletedAt":  "2025-01-19T15:10:42.6127809+08:00"
+                  },
+                  {
+                      "Id":  "dca0ace9-5205-45ee-b7ab-cd53d4d9af99",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:47:37.7514967+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c18000a1-c92b-4074-b5c8-0a8a1765f9d0",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:03:30.4452749+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "db401e86-e797-413a-bd10-1d3885c81052",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T05:33:14.8380078+08:00",
+    "Items":  [
+                  {
+                      "Id":  "df3a716d-f487-4eba-8104-6c0bf03f64da",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:25:33.2998963+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90b55738-dbf1-4c67-b4fe-8a6f415f78e9",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:54:43.5421306+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5663bec-4de7-4de7-9903-76693720262f",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T20:23:22.7552426+08:00",
+                      "CompletedAt":  "2025-01-19T21:45:35.0838116+08:00"
+                  },
+                  {
+                      "Id":  "e75447bf-2b9a-437e-8109-4dc2648739b2",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:34:57.4538072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3730985f-3443-4450-8920-2910e674f13f",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:44:22.6717786+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15046f03-32ab-4a9c-8ae9-8c6a11af415e",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T02:57:53.0384358+08:00",
+                      "CompletedAt":  "2025-01-16T08:06:07.7378287+08:00"
+                  },
+                  {
+                      "Id":  "f436d4ab-7066-439e-ab7c-81fc46800e8a",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:30:27.2641167+08:00",
+                      "CompletedAt":  "2025-01-16T07:43:51.0689354+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

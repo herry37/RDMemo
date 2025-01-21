@@ -1,0 +1,71 @@
+{
+    "Id":  "9b5115d0-0063-4171-a9aa-7f1fcb911612",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-19T03:53:10.8781123+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc572425-717a-4ed2-a37a-69fa648d3abf",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:11:26.8869328+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24e96ecd-2c2b-4c45-b13a-21eb5e5a977a",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:43:05.0076806+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c76d94e-06f7-42ab-975b-d553eed15bf5",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  4,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:49:09.881379+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cbe9c9c-fb50-454e-95d5-a3031e8d9420",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:11:17.8652373+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96952e4c-6721-42f9-935f-9c97a087d0d8",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:24:02.761169+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61ce57e5-77bf-41a6-b3c6-6d7cf3a13c51",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:50:46.8069094+08:00",
+                      "CompletedAt":  "2025-01-18T06:23:31.0342284+08:00"
+                  },
+                  {
+                      "Id":  "9a60a97d-ac28-45bd-a310-46c2f5505bc9",
+                      "Name":  "透明膠帶",
+                      "Quantity":  5,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:29:43.9233335+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

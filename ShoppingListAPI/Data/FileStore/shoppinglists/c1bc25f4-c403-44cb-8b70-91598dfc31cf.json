@@ -1,0 +1,71 @@
+{
+    "Id":  "c1bc25f4-c403-44cb-8b70-91598dfc31cf",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T23:08:03.6793262+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7338d536-ac67-4dbd-86fd-ee6793635edb",
+                      "Name":  "Fantastic Plastic Sausages",
+                      "Quantity":  1,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.91727Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba4e5e6b-25b7-4bd4-ad33-22ae02c5f207",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9172728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1adfa3c-cb61-45bc-9657-37693f3bf779",
+                      "Name":  "Handmade Wooden Chicken",
+                      "Quantity":  4,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.917278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8af5039-feeb-444d-9d4a-b4289e4db507",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  493,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9172792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f116ccf-9287-4bd7-a8e0-bf4077fcab60",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9172808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "480f9962-e904-4c75-8c24-cd21b711f88e",
+                      "Name":  "Sleek Fresh Fish",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9172876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dfb0004-f6df-433e-86c2-7ad49c766ca1",
+                      "Name":  "Unbranded Rubber Salad",
+                      "Quantity":  5,
+                      "Price":  498,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9172924Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

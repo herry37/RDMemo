@@ -1,0 +1,53 @@
+{
+    "Id":  "97297c12-1127-4ffe-b7a5-f761ee2614a0",
+    "Title":  "早市採買 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-17T01:54:49.1231614+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bb906a61-b95b-4199-a49c-2f02c5fa3baf",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:32:13.5264677+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a176b3a-28f6-490c-986a-faf876474600",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:27:00.1498321+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8cd9c15-6365-4a51-a8c0-a1df3304b388",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:41:46.775413+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1179cddf-76f8-4684-bde6-b07f5b94f906",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:12:09.1717247+08:00",
+                      "CompletedAt":  "2025-01-17T10:40:07.698017+08:00"
+                  },
+                  {
+                      "Id":  "addb6ca9-025a-4048-9e19-1b4113f22130",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:51:38.8193821+08:00",
+                      "CompletedAt":  "2025-01-21T07:56:39.1999548+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

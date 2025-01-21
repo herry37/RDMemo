@@ -1,0 +1,35 @@
+{
+    "Id":  "f0532dab-4a9a-4e15-a572-d5b403e05300",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-14T15:12:11.1958804+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8865817e-e75c-4aea-a5dc-abafd5d5b0c3",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  458.751995174180950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:40:08.1825943+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "724d5e1e-ef0b-41ee-bb68-2052b08d8572",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  476.496326897910820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:12:53.3290196+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b60f25f-1885-4b67-9d91-d9e7c87b285b",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  401.881873981651340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:12:56.70411+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

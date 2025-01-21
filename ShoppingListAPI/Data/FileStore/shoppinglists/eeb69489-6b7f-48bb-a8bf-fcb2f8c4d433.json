@@ -1,0 +1,98 @@
+{
+    "Id":  "eeb69489-6b7f-48bb-a8bf-fcb2f8c4d433",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-18T19:04:41.5422817+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0697f8b9-53b6-4e60-b25d-5a0804c3d18a",
+                      "Name":  "置物盒",
+                      "Quantity":  1,
+                      "Price":  493.276066569723140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:12:37.2648505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed1a6f6a-c090-4886-b8fa-d61175c4c651",
+                      "Name":  "餐巾紙",
+                      "Quantity":  4,
+                      "Price":  263.688067146092110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:43:45.4365699+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a543b1e2-661c-416a-b031-f53846c65368",
+                      "Name":  "芳香劑",
+                      "Quantity":  4,
+                      "Price":  494.791474788206740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:16:07.0476755+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df270203-5f97-4255-bb62-2dcf3dc2a13e",
+                      "Name":  "掃把",
+                      "Quantity":  5,
+                      "Price":  354.369619210724240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:59:35.3790383+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c266bf32-b566-439c-8a3e-5e12598de8a7",
+                      "Name":  "餐具",
+                      "Quantity":  6,
+                      "Price":  278.453823471308370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:50:09.1387022+08:00",
+                      "CompletedAt":  "2025-01-16T04:04:24.0062363+08:00"
+                  },
+                  {
+                      "Id":  "08b8e766-b9e8-4305-bbe8-b858164dd2cc",
+                      "Name":  "抹布",
+                      "Quantity":  4,
+                      "Price":  115.877243188407950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:38:24.9099672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b68ae98-cdd5-49d7-bac6-60c3866bb06a",
+                      "Name":  "鍋子",
+                      "Quantity":  7,
+                      "Price":  46.6779015692916190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:33:45.0978586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f44fc0a9-2e5e-4abd-b49a-10512bc81be0",
+                      "Name":  "保鮮膜",
+                      "Quantity":  8,
+                      "Price":  206.400539035620920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:51:46.6333546+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a07fe5f-c903-45cf-87bf-6260ea90b799",
+                      "Name":  "面膜",
+                      "Quantity":  8,
+                      "Price":  34.8781963671407460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:28:19.1692672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf85a6c6-bfba-4195-bee7-1c49df066915",
+                      "Name":  "巧克力",
+                      "Quantity":  2,
+                      "Price":  164.420726900285230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:37:45.2439943+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

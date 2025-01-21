@@ -1,0 +1,35 @@
+{
+    "Id":  "8cfc3282-5ac9-4a46-b754-a4a6460ff260",
+    "Title":  "每週採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-18T21:07:36.1704801+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ea16027-17ea-40bb-ba89-d9e623b6b87a",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:50:05.965516+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db3a065c-422f-473f-bcd3-398a75b620f5",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:27:58.1544414+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8106f008-01fc-417a-b83e-b3267ef91986",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:45:19.7642065+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

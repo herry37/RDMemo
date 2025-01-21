@@ -1,0 +1,44 @@
+{
+    "Id":  "44424f4f-dd09-418f-a09e-52f7d6942557",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T18:51:40.8294827+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1c61ae08-4a77-44e9-930e-ff8a9cebe9f6",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9187301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "640a8d8f-0d90-4d83-b0d9-4f6ce154babb",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.918734Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b55c352-b82a-4689-aa60-c4e5504286dc",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9187358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56acdb0e-1784-42a9-ae7a-f81ed8971bc7",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9187375Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

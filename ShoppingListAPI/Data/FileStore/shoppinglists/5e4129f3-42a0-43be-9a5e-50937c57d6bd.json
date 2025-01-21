@@ -1,0 +1,71 @@
+{
+    "Id":  "5e4129f3-42a0-43be-9a5e-50937c57d6bd",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-18T12:35:31.8038507+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3477b5e6-6178-4a75-b557-42ae02840fbd",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  412.178014970297440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:35:43.9846449+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5160bea-2e95-4034-b8a5-31a2304c9c80",
+                      "Name":  "運動飲料",
+                      "Quantity":  8,
+                      "Price":  151.497670188601580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:42:23.6437089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7815cff1-ab00-4aa2-acbb-9d31042cd085",
+                      "Name":  "肥皂",
+                      "Quantity":  10,
+                      "Price":  77.859111412621620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:20:28.7536421+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49a2f752-3243-492a-8ede-685e7a7e68b7",
+                      "Name":  "巧克力",
+                      "Quantity":  1,
+                      "Price":  202.928149660897980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:00:13.0893948+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eec1334c-c686-4862-b06d-902764599ef6",
+                      "Name":  "魚",
+                      "Quantity":  6,
+                      "Price":  46.382653334855730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:17:27.7689165+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7a5fddb-b3e1-4d2d-bf1c-8155a96e36c1",
+                      "Name":  "保鮮膜",
+                      "Quantity":  4,
+                      "Price":  349.254895844827830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:46:18.288155+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a2c5527-4206-4185-aaa8-e58585ac0b7d",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  471.808486278502440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:31:40.5207385+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

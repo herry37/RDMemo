@@ -1,0 +1,89 @@
+{
+    "Id":  "366ec863-8003-45aa-aea6-5b569078a08c",
+    "Title":  "01/18 零食購物清單",
+    "CreatedAt":  "2025-01-15T13:52:19.7111099+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e84ac0cb-cfa1-45c0-92e0-194e26d4702e",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c42aef4-2fca-4363-a1c8-2a343de80d76",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30852186-23c4-4528-ad6e-cee1bde970f3",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  479,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53c492c9-2040-4c92-a3d5-2a6a968ac52b",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2db58731-7118-4167-8587-086a50687002",
+                      "Name":  "Tasty Soft Table",
+                      "Quantity":  1,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622678Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "129a62dc-1627-4a93-8f10-9e8146e99dbc",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622698Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff640cd7-03cd-437e-8ba1-2632f3db3e28",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e6ef3bd-be6c-402a-a530-8b31c5c8f1c3",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622721Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3965ac86-5dbd-469c-bcdd-78064c538994",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4622731Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

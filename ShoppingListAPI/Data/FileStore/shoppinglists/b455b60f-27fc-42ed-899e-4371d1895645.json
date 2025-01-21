@@ -1,0 +1,35 @@
+{
+    "Id":  "b455b60f-27fc-42ed-899e-4371d1895645",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-14T20:44:32.1747724+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9c56b751-f43a-4693-b168-230aee157d27",
+                      "Name":  "可樂",
+                      "Quantity":  2,
+                      "Price":  205.765028329775170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:59:35.511472+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f55d0c45-2ce9-46e4-8e85-1af10891ef92",
+                      "Name":  "衛生紙",
+                      "Quantity":  9,
+                      "Price":  256.929897653104120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:59:47.4599277+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6fed020-f318-47ef-8205-6dcfdca61448",
+                      "Name":  "保鮮膜",
+                      "Quantity":  5,
+                      "Price":  491.06950372207020,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:56:34.5693898+08:00",
+                      "CompletedAt":  "2025-01-20T23:22:24.1821053+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

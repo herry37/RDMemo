@@ -1,0 +1,80 @@
+{
+    "Id":  "4d9a6757-f813-4f74-acca-2acdfdcdeb65",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T15:17:01.9187599+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1018232d-4989-4dd2-bdfc-1d60af112990",
+                      "Name":  "Small Metal Bike",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.380696Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53e9a41d-1678-43dc-904c-b86ef9e76253",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.380701Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f963b041-8834-4159-ad6c-cc19ffe0a566",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3807025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7d159bd-e729-464b-8e5f-5b7ea7f60e52",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3807046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95ee7509-517f-4a47-a3f1-e760ecf43088",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.380706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e510f23-f673-4408-be4f-e9cebd002172",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  494,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3807094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a4288e0-8fee-4396-a5b2-9bee856b0457",
+                      "Name":  "Practical Plastic Chicken",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3807155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3f0ea7a-ac4a-4846-adc6-b2643be3424f",
+                      "Name":  "Ergonomic Concrete Shirt",
+                      "Quantity":  4,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3807213Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

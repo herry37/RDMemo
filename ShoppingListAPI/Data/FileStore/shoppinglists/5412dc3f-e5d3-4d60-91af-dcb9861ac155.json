@@ -1,0 +1,62 @@
+{
+    "Id":  "5412dc3f-e5d3-4d60-91af-dcb9861ac155",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T02:23:57.2392891+08:00",
+    "Items":  [
+                  {
+                      "Id":  "921cf62e-2e9e-4b10-ba7f-af3d111cf08c",
+                      "Name":  "Handmade Cotton Cheese",
+                      "Quantity":  3,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba51f601-1fed-4f8d-a62d-a1da97028ed0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051907Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36ec197c-dee6-4d95-af6d-838e9919258f",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df2231e1-05bd-420f-b338-8df9d7dd18f7",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  459,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62dd9f02-59b2-43cc-bbd8-499fbb0d1a44",
+                      "Name":  "Unbranded Wooden Mouse",
+                      "Quantity":  5,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051981Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "feb6ca33-bf2b-4117-9ae9-9b677f8e97fd",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  398,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9051997Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

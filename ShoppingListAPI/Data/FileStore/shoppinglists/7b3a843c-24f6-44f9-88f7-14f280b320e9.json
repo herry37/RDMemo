@@ -1,0 +1,62 @@
+{
+    "Id":  "7b3a843c-24f6-44f9-88f7-14f280b320e9",
+    "Title":  "派對用品 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-20T09:22:36.974347+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6dbc7763-a3bc-4edc-9ec3-6fb640028348",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:05:29.5825951+08:00",
+                      "CompletedAt":  "2025-01-16T12:54:25.5265662+08:00"
+                  },
+                  {
+                      "Id":  "1798bea4-1afd-4228-a849-8b8261076ed9",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:18:45.3335045+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "878ff15b-0aef-4d68-b0ee-c84275a8d194",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:40:00.8261874+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf12a87a-21cf-4161-9ad8-7b7acdcf4f9e",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:33:21.4942087+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "658cb19b-d158-47dd-974b-359a9cebb25f",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:23:28.0731588+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21d8a84c-85d5-4b65-9776-e5a94e6c4e6c",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:33:51.0389703+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

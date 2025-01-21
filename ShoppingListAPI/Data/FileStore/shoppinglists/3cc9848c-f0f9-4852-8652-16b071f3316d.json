@@ -1,0 +1,89 @@
+{
+    "Id":  "3cc9848c-f0f9-4852-8652-16b071f3316d",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T20:51:43.08333+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eca4654f-cf04-45ac-9948-a42d229e8271",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104084Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e7baca8-52f5-4871-90cf-ebcdc17f8f20",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6b602ec-4eb8-4508-9361-0ee45e624d57",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd1faa85-7331-4e10-a898-06205ea5b0fd",
+                      "Name":  "Handcrafted Fresh Keyboard",
+                      "Quantity":  2,
+                      "Price":  418,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fcb2219-c56a-4601-8119-e2ff58a0ef9d",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5271dd3-7d0a-4560-873d-04930400cf7e",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee18dd25-94ee-40d8-8260-42faa0c2eaec",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef435aab-cde5-448c-969a-cee0be97398d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2104416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b183174f-200c-49b5-857c-bacd54ac732b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.210443Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

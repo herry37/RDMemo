@@ -1,0 +1,71 @@
+{
+    "Id":  "63159fff-0f58-4a04-918d-36606230136a",
+    "Title":  "月底大採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T09:11:48.3677119+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0758bb41-fa78-4869-9fc3-83a1e10b1e6e",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:16:43.600396+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3dee4fd-ebec-4d77-a475-17a7c1633967",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:47:11.909202+08:00",
+                      "CompletedAt":  "2025-01-18T07:25:16.5362315+08:00"
+                  },
+                  {
+                      "Id":  "9f56c1cd-5caf-4fa4-afe4-56c2b20a694b",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:10:17.7009969+08:00",
+                      "CompletedAt":  "2025-01-16T09:18:47.4719545+08:00"
+                  },
+                  {
+                      "Id":  "b0c24f02-708e-47a5-8970-3a061c098794",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:19:55.3805233+08:00",
+                      "CompletedAt":  "2025-01-16T07:32:14.3988629+08:00"
+                  },
+                  {
+                      "Id":  "8da525d7-4c49-48e9-9ce1-c45d4f7f7537",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:56:41.3187619+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "617ab031-472f-4579-99ff-bca3d20d8a51",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:02:55.5805862+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4c7c4eb-ace9-438f-885d-2c7d1e82cd15",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T18:57:43.2178186+08:00",
+                      "CompletedAt":  "2025-01-19T09:31:50.1566781+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

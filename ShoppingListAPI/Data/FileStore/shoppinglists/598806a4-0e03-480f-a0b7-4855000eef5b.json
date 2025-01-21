@@ -1,0 +1,62 @@
+{
+    "Id":  "598806a4-0e03-480f-a0b7-4855000eef5b",
+    "Title":  "日常補充 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-18T02:33:32.7824387+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0c518cea-cc0e-46bb-8587-a08c0ab70ba1",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:24:05.3860774+08:00",
+                      "CompletedAt":  "2025-01-18T07:33:35.3681988+08:00"
+                  },
+                  {
+                      "Id":  "3fdd65a3-bd22-4e1a-99de-4ecc325ca2e2",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:05:16.1751129+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbe54aad-4bb2-48b6-ad40-c1cadc6af4ec",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:17:17.872299+08:00",
+                      "CompletedAt":  "2025-01-20T01:02:52.2958362+08:00"
+                  },
+                  {
+                      "Id":  "15116c30-b8ce-4752-ab67-2596961eec9b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:31:33.1545266+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b8abeae-5215-46ea-a244-fa2914500140",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:33:19.8970328+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9be57f5a-45d1-46e1-b2bd-fff0ca8ecde4",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:41:18.2911959+08:00",
+                      "CompletedAt":  "2025-01-20T09:11:35.5889596+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

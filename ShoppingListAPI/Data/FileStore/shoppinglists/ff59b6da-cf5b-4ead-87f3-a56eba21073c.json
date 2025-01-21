@@ -1,0 +1,35 @@
+{
+    "Id":  "ff59b6da-cf5b-4ead-87f3-a56eba21073c",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T01:17:22.3914333+08:00",
+    "Items":  [
+                  {
+                      "Id":  "010f133c-4944-4a0b-a938-c18b8a2b5862",
+                      "Name":  "筆",
+                      "Quantity":  6,
+                      "Price":  42.2795164210639470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:10:04.196258+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e3ad81d-8735-49af-97f0-13a7ab0e3f78",
+                      "Name":  "棉被",
+                      "Quantity":  4,
+                      "Price":  416.409581372433170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:30:14.9769208+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "515a8bf1-6cdb-4d04-b625-2c645eccb4d0",
+                      "Name":  "豆漿",
+                      "Quantity":  6,
+                      "Price":  477.363227927804390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:08:52.638723+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

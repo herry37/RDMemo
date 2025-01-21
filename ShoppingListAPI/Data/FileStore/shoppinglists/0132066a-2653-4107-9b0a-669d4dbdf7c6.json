@@ -1,0 +1,62 @@
+{
+    "Id":  "0132066a-2653-4107-9b0a-669d4dbdf7c6",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-15T09:56:53.4366838+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2ca634e2-9787-497e-bc27-44d81d0d3af1",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9001174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "505a879a-cea2-4d6d-88f8-3c8b7f374e66",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9001201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d5c7770-7751-4fe7-bdf8-ed395da9a58b",
+                      "Name":  "Awesome Rubber Tuna",
+                      "Quantity":  2,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9001425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4855ef3b-5a7c-4bc5-ae6e-2d0317a22f01",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9001435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30b6de5e-ef07-4ec8-8bff-52b7467f4d12",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  316,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.900145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "901c0384-4877-456c-86ff-ea5ec9c9f728",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.900147Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

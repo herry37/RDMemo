@@ -1,0 +1,35 @@
+{
+    "Id":  "da9d8bff-cefe-410f-ab91-9b6e1c8d2f3c",
+    "Title":  "01/20 飲料購物清單",
+    "CreatedAt":  "2025-01-19T15:35:37.8885936+08:00",
+    "Items":  [
+                  {
+                      "Id":  "314c6dce-9eec-4c77-9357-0947a92055e0",
+                      "Name":  "Practical Plastic Gloves",
+                      "Quantity":  5,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6594854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8613433-59b4-4d88-837e-153171f6c62c",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6595018Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bcd4bd6-7599-47c5-9fbb-c98e18cab214",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6595031Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

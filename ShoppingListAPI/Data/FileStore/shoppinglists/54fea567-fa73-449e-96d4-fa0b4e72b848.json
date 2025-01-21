@@ -1,0 +1,80 @@
+{
+    "Id":  "54fea567-fa73-449e-96d4-fa0b4e72b848",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T11:50:35.9267184+08:00",
+    "Items":  [
+                  {
+                      "Id":  "34149125-0caf-47b8-96a1-9f27b14dcc5d",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0942857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df2ed7e3-154e-4891-bc80-f6bd6e1b71bb",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0942887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40140252-1c46-4e15-8c74-646a0c90a645",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0942899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "026f429b-d6ac-40a8-8ee0-b4a056530355",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.094291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a9ed8b8-cf2b-49e6-a62e-9aaf39a59ee3",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  463,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.094292Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92ff4076-c0c4-4435-91b1-4f41e7345428",
+                      "Name":  "Small Wooden Salad",
+                      "Quantity":  4,
+                      "Price":  415,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0943031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56ed816a-96d5-4a77-bcf1-8f9052e9d6e2",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.0943042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3411aa6-526e-478c-8237-ea656bafa824",
+                      "Name":  "Generic Rubber Towels",
+                      "Quantity":  5,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0943122Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

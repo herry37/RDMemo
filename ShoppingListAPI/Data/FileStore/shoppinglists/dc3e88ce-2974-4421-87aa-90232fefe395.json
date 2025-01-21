@@ -1,0 +1,62 @@
+{
+    "Id":  "dc3e88ce-2974-4421-87aa-90232fefe395",
+    "Title":  "聚會準備 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-19T16:02:09.5746571+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ce3f689f-aff1-4ae8-ad0e-09396de43106",
+                      "Name":  "透明膠帶",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:13:33.2111312+08:00",
+                      "CompletedAt":  "2025-01-21T13:36:10.0498523+08:00"
+                  },
+                  {
+                      "Id":  "c4afe979-f3d6-4b1f-9226-b061a7e7088a",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:21:25.2777184+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc752f66-48ea-4dd3-8af2-ce58e6730f2e",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:26:55.3350904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10f9ebe2-85af-4d02-965e-ff506c351f0b",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:53:17.9388791+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e27c5975-bdd6-4d47-b4de-3c7645c1c79c",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:55:20.6170461+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9a13e7a-54ea-4ca8-9c8a-11d58d08f457",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:57:23.402962+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

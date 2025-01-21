@@ -1,0 +1,44 @@
+{
+    "Id":  "b8b5ec32-129b-4967-97e7-515cdd4000dd",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T08:26:36.0029392+08:00",
+    "Items":  [
+                  {
+                      "Id":  "005f208e-77d2-4234-a363-f7d358b0c17d",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2257708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "010ecbe5-ed0c-41c2-81c9-5803693492f6",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2257723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14232fc6-ae5f-439d-b64f-89f01054ee29",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2257733Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac8aad9f-df85-45e0-b509-9f6077e4aae3",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2257742Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

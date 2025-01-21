@@ -1,0 +1,44 @@
+{
+    "Id":  "d95f6b46-345b-4602-9fc0-5eb1f73407de",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T05:02:00.912057+08:00",
+    "Items":  [
+                  {
+                      "Id":  "140ac8d0-f6d1-4934-93f2-1c98389d33b0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2400938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "289f85bc-4d36-4526-9b24-3efe79970d61",
+                      "Name":  "Tasty Cotton Sausages",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2401214Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f3ea412-1fcd-4167-879e-36fa78ee507c",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2401227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1643919e-a2ce-43bf-a04c-3be3fdb48420",
+                      "Name":  "Sleek Rubber Hat",
+                      "Quantity":  5,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2401301Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "fe963a94-200b-4648-82ff-513aa8d5deae",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T03:43:10.2694854+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9643e7d6-0caa-4175-bf8e-94d38aad025e",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3304688Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d1f2290-445f-47d9-b2d7-6de03d76f2cb",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3304722Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5bfc4177-7f38-4f70-8565-a62bd0452260",
+                      "Name":  "Practical Fresh Gloves",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.330504Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b3256c1-04a7-4dd5-99b0-78f36f23519d",
+                      "Name":  "Intelligent Wooden Hat",
+                      "Quantity":  1,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.330512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e15e813c-079f-417d-99bc-915da47a20f6",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3305137Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cc22c88-51ad-4c64-9216-e494a5297604",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3305165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66c41286-1e0f-4f6c-9b13-c1897310d216",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  461,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3305177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67ba0517-8f01-494d-9d2e-73217ce077f9",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3305193Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

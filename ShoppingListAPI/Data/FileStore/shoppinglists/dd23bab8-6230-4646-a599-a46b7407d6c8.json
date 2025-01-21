@@ -1,0 +1,35 @@
+{
+    "Id":  "dd23bab8-6230-4646-a599-a46b7407d6c8",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-16T13:11:03.3966938+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4baf566-1255-4c2d-8191-2f1724963e89",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:33:57.9549189+08:00",
+                      "CompletedAt":  "2025-01-21T11:31:53.818145+08:00"
+                  },
+                  {
+                      "Id":  "4641cea3-48ab-49c1-a5bd-999c6aae0f78",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:38:47.5986551+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd795b02-5da2-4182-a3eb-600108a52c31",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:19:20.2486893+08:00",
+                      "CompletedAt":  "2025-01-19T17:37:47.5735427+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

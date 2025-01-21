@@ -1,0 +1,89 @@
+{
+    "Id":  "aab1db7e-38b0-4fd3-be97-e0bbeb45a9ec",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T08:35:16.9693389+08:00",
+    "Items":  [
+                  {
+                      "Id":  "399142f9-dc48-4058-a3bc-4e9424045b4c",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9529392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31bb7ade-e7a5-4062-a9a5-ee631e93a029",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9529589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f741e6b-c9d3-4ded-a4a9-6d72fbfdd6c4",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9529636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "927b0de0-6272-4a56-bb68-2979ed1c604c",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9529655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab9e0dc9-4afe-41e7-b461-8590d27d0b96",
+                      "Name":  "Tasty Granite Gloves",
+                      "Quantity":  3,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9530548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96e9c5e0-d246-418d-86f0-2aa957a38a1c",
+                      "Name":  "Incredible Wooden Mouse",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9530668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef40e3db-f6a1-4f21-9e1c-8b576bcce24c",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9530692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3eec9abd-ffd0-4812-bdeb-a644cb1347b7",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9530702Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa31e6bc-8494-48c0-b647-1777a16af8ba",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9530968Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

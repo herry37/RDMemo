@@ -1,0 +1,62 @@
+{
+    "Id":  "265dfaf1-4f5e-455c-805e-1bcdf82a75de",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T04:45:39.8125033+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c38b686f-a906-4bbd-98f7-fe00b2395fef",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2435361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcb53f96-9ea6-4f80-8b55-dd249300a8df",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2435379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3deb3456-9080-43dd-8540-65db6fefcdfe",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2435388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "009590e2-d8fa-414b-bd50-b34146f8a809",
+                      "Name":  "Fantastic Metal Soap",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2435474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acaf90fe-c29a-4bcd-8ff4-43cbb3e0fa1c",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2435484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b47ae9a9-9c4b-4f71-bc06-b1b5864a41b8",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.24355Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

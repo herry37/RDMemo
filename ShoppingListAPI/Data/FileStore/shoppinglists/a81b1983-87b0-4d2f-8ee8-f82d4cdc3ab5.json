@@ -1,0 +1,80 @@
+{
+    "Id":  "a81b1983-87b0-4d2f-8ee8-f82d4cdc3ab5",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T11:19:27.3130906+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35c3c2c6-5732-4254-8607-f7c7f74f6e7c",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  395,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de6c63e6-720a-403b-be9e-db95d5d6584f",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9200ee6-4525-4064-8e0e-ce15a8dbbd80",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667544Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61dd30f6-79ff-4a9a-ada4-fdf1a7897653",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6927c8d4-c7f4-4d2e-aaa7-3b89235e9a51",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62f302e9-7848-4d3a-9e3c-4db60fc750f8",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54252136-c58a-4f69-8d5b-86842a7e6f35",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0667598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59ff5e62-680e-4005-b6ae-d201bf7f7515",
+                      "Name":  "Generic Soft Tuna",
+                      "Quantity":  3,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.066812Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

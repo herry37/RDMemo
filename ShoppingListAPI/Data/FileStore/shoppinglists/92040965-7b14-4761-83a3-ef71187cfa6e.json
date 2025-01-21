@@ -1,0 +1,89 @@
+{
+    "Id":  "92040965-7b14-4761-83a3-ef71187cfa6e",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T13:51:58.2720284+08:00",
+    "Items":  [
+                  {
+                      "Id":  "50ede996-0a5a-4a84-81a5-87903fba0f5b",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2184965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "627251a9-fbc6-4c9f-9916-1be4e5e3d1e6",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2184995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81bb902e-4059-47fe-9b83-c17d630293ca",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185007Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "567a3952-d730-4d7f-a7f8-04018e46e509",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff35dfeb-a40d-4c03-bc20-68bbf4e209a5",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b763227-5d3f-47c6-b44f-fd22e9aa1fea",
+                      "Name":  "Ergonomic Concrete Sausages",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec7b26e0-569e-4ec8-b67a-c992cbdfd89b",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.21854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "debd0f1f-dfd5-40eb-9c67-6d07f8917f54",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bfe45e70-016a-4ec1-9a55-35170350209f",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2185427Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

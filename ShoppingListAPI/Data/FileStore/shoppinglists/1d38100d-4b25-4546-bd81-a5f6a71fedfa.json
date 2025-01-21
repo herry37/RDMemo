@@ -1,0 +1,53 @@
+{
+    "Id":  "1d38100d-4b25-4546-bd81-a5f6a71fedfa",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T11:59:19.054124+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e2460d0e-44c3-4ad9-a4f1-ca87f0cdcfc5",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9269874Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "442265a3-ef43-4484-b591-7f93b7c3f83d",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.926993Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0567f086-258e-499d-8b6e-020d8aa7d295",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9269945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38fee5c9-b228-4c9c-93c9-6bf43ef5d6e1",
+                      "Name":  "Gorgeous Plastic Towels",
+                      "Quantity":  4,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9270205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9283f008-699a-4330-98b0-172a249e9cb0",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.927022Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

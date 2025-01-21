@@ -1,0 +1,62 @@
+{
+    "Id":  "d6a41baf-94b9-4ce5-bccd-295e9b8e96b2",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T01:19:29.2002945+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2aad0145-375b-47da-8b69-5efb74dcfe7c",
+                      "Name":  "巧克力",
+                      "Quantity":  1,
+                      "Price":  472.090513466593620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:35:11.4253597+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80e7bbb0-4cc3-433c-af25-2655cfd70f0d",
+                      "Name":  "衛生紙",
+                      "Quantity":  10,
+                      "Price":  291.212331055306490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:20:53.363631+08:00",
+                      "CompletedAt":  "2025-01-19T13:56:22.8753394+08:00"
+                  },
+                  {
+                      "Id":  "efbdbdb7-c88c-4be8-a7ac-d3ac065117f3",
+                      "Name":  "膠帶",
+                      "Quantity":  5,
+                      "Price":  367.387119276803560,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:07:54.7741934+08:00",
+                      "CompletedAt":  "2025-01-19T06:17:33.5208105+08:00"
+                  },
+                  {
+                      "Id":  "89f5084e-626c-4752-b02e-f86c0d277789",
+                      "Name":  "雞肉",
+                      "Quantity":  8,
+                      "Price":  350.441468900455370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:26:37.1913471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ded9a893-bf5f-4a0a-ab59-9f4d96c1cc73",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  77.560809608864040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:08:44.8666697+08:00",
+                      "CompletedAt":  "2025-01-22T23:27:42.2724198+08:00"
+                  },
+                  {
+                      "Id":  "dae0aa34-58c1-48a3-ba5a-6fb4fc5cda09",
+                      "Name":  "洗衣精",
+                      "Quantity":  7,
+                      "Price":  33.2146776114587530,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:11:43.0066322+08:00",
+                      "CompletedAt":  "2025-01-15T21:40:57.7701114+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

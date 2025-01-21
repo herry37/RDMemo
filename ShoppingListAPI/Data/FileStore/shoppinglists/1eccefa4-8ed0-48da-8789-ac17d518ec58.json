@@ -1,0 +1,35 @@
+{
+    "Id":  "1eccefa4-8ed0-48da-8789-ac17d518ec58",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-17T07:33:02.5136888+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27d0fa65-dc5a-4abf-8add-5589a3ea6af6",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8476332Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84f9e64d-3e6a-4e36-8b15-316f74273b08",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8476362Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b3dc573-4939-4a56-a983-1463f1811de0",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.847638Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

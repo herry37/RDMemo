@@ -1,0 +1,35 @@
+{
+    "Id":  "2bf491ce-72ad-49b1-8b45-014106107f41",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T00:00:33.4949567+08:00",
+    "Items":  [
+                  {
+                      "Id":  "63103e68-e31f-4ccb-a95c-20e23cff7f71",
+                      "Name":  "天然果乾",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:15:08.5699449+08:00",
+                      "CompletedAt":  "2025-01-20T20:22:12.4333517+08:00"
+                  },
+                  {
+                      "Id":  "dd66cf5f-a512-40f2-a28a-37445cfdeefa",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:31:32.202867+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce9f18e2-c395-4927-af1f-5baba6ed5bd2",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:23:09.5839318+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

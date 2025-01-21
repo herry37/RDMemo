@@ -1,0 +1,53 @@
+{
+    "Id":  "8181512e-1a62-4df8-b434-c76fee07fefd",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-16T03:57:39.1820437+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1d40a3c1-9968-4726-b200-6ed6dd33146e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6270592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5274ae0b-0108-43f9-b9b6-ffd2997c1475",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6270621Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efde3a01-d368-4b4f-9742-028865cdb8b3",
+                      "Name":  "Handcrafted Metal Shoes",
+                      "Quantity":  2,
+                      "Price":  286,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6270814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9a9271b-eccc-4671-a9d9-3d5c24284c93",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6270862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a79eb82-6d78-4890-8278-e9cbe25fbe0c",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6270887Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

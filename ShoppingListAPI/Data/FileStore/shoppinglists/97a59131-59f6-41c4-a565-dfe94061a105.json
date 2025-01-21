@@ -1,0 +1,53 @@
+{
+    "Id":  "97a59131-59f6-41c4-a565-dfe94061a105",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-17T05:33:59.8293923+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c3839a37-7378-45f0-8ae5-465cc2d7b070",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:01:35.0257731+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a5839f2-c266-41b5-b793-2601cdbfd30e",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:13:24.4156913+08:00",
+                      "CompletedAt":  "2025-01-15T17:59:12.1934012+08:00"
+                  },
+                  {
+                      "Id":  "b2e8f536-53c1-4b29-aa9a-644edc2f92b5",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:51:06.9280115+08:00",
+                      "CompletedAt":  "2025-01-15T16:30:26.576209+08:00"
+                  },
+                  {
+                      "Id":  "9bf43370-e9ff-45be-ac33-32874d53a2aa",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:04:56.8232647+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a75747a9-ade8-4f4d-9622-5c4b782ebd70",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:47:01.0497873+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "7312eba8-9f70-4352-9ec8-644597f8ad39",
+    "Title":  "日常補充 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-17T02:17:27.272032+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6c104bc6-11fb-464f-90f3-bf9d80ff0092",
+                      "Name":  "LED檯燈",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:10:31.7213164+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ad96973-73f8-4aa2-8dbb-2b88095acc47",
+                      "Name":  "天然果乾",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:28:00.3720469+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78f3a6fe-9594-4ce5-8114-6d1f644265c4",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:08:52.9839707+08:00",
+                      "CompletedAt":  "2025-01-18T14:58:15.3289029+08:00"
+                  },
+                  {
+                      "Id":  "f24ff3fb-fac5-46b9-9bed-534fe58d3542",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:26:10.9284705+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b6940b1-4b62-4957-b3b2-61474033cbd4",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  3,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:47:31.234875+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9a7ddb9-8c3f-4653-8d6f-f9e8e7b4616b",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:40:49.3765805+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ec281ed-d0cd-4b3e-b337-47e598dde7d3",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:18:54.2162676+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

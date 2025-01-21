@@ -1,0 +1,89 @@
+{
+    "Id":  "40ce7109-74b5-4add-81a6-7328e43a0156",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-21T02:49:31.3165985+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b38d9413-81dd-4a66-a7ae-60a8a407d3d0",
+                      "Name":  "Ergonomic Frozen Tuna",
+                      "Quantity":  1,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac0e14f4-8ec0-41ee-8a10-0275e1a462be",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.884269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7428021-1b6d-4806-9068-2efb8bbb21ae",
+                      "Name":  "Small Plastic Mouse",
+                      "Quantity":  3,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.884276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "876dde6c-6a41-4ae5-94df-85f3ce6f54c0",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0cda630-0c36-4b15-8ed9-d08fb67eafa7",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842782Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de9e641e-d1ac-4c42-aafe-969cfe3a52e3",
+                      "Name":  "Refined Fresh Fish",
+                      "Quantity":  3,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26009cc4-0551-40ed-9004-a97a901fdde9",
+                      "Name":  "Gorgeous Metal Soap",
+                      "Quantity":  2,
+                      "Price":  167,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5fc6917-b8be-4ae8-a965-7157b07fd015",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842956Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dabcf8a-7ab6-45ac-a550-094e3f4acdc6",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8842965Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

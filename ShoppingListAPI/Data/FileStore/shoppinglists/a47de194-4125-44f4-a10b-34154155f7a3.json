@@ -1,0 +1,35 @@
+{
+    "Id":  "a47de194-4125-44f4-a10b-34154155f7a3",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T02:54:12.4374892+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dabd51c7-6bb1-4bf3-9728-184d0d01b470",
+                      "Name":  "Generic Granite Table",
+                      "Quantity":  4,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.94738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29cf2d7c-9344-4ad9-9516-d91d5f41cbce",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.947383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb94959f-d863-4cd5-9b14-d2af400dc3d2",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9473846Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

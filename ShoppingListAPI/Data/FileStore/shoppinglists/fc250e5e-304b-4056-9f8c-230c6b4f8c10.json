@@ -1,0 +1,35 @@
+{
+    "Id":  "fc250e5e-304b-4056-9f8c-230c6b4f8c10",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T07:12:04.1047944+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fcb98570-4d6c-43c9-8730-cce90e4998f2",
+                      "Name":  "乳液",
+                      "Quantity":  10,
+                      "Price":  149.656513267039370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:56:11.1087322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "036be55a-5766-4e14-aeba-0a3d145279da",
+                      "Name":  "護手霜",
+                      "Quantity":  9,
+                      "Price":  377.484208685917470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:18:57.8911601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ad6ed4d-b209-4c5f-a8f9-9aea75a830f7",
+                      "Name":  "清潔劑",
+                      "Quantity":  6,
+                      "Price":  24.3513031041282070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:55:05.7296321+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "8591f4b7-bede-4458-b01b-b6f89be22159",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T14:20:29.8087389+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bcc3c469-f1e8-4b10-8f74-b8322dbda991",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.877327Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "800900b2-dd95-4382-93b4-f7d66a471967",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8773327Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a695d787-7041-4ef8-9758-bfbd8072c9e6",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8773356Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

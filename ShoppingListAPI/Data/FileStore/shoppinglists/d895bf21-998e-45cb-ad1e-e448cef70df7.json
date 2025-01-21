@@ -1,0 +1,44 @@
+{
+    "Id":  "d895bf21-998e-45cb-ad1e-e448cef70df7",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-21T11:56:00.3286682+08:00",
+    "Items":  [
+                  {
+                      "Id":  "367467f0-8184-42f8-9fe3-0e22bc3bb307",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  123,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:05:53.9063161+08:00",
+                      "CompletedAt":  "2025-01-16T12:24:22.7717031+08:00"
+                  },
+                  {
+                      "Id":  "834a684b-32f9-46f9-b185-3def1c70f403",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T19:57:42.4203193+08:00",
+                      "CompletedAt":  "2025-01-15T12:01:34.5681596+08:00"
+                  },
+                  {
+                      "Id":  "8bc0b771-2154-4d64-86fc-e5d4a618b0b5",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:59:21.1581245+08:00",
+                      "CompletedAt":  "2025-01-21T07:54:54.7943982+08:00"
+                  },
+                  {
+                      "Id":  "c7415619-8e15-4eeb-a33d-4510793c2f21",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:46:52.1987815+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "83ba61a4-94bd-4b60-8a5a-63f3982e770b",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T07:58:48.2664791+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a419ecc0-ff4f-4b99-a536-602ae0869fd1",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5799742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88c3b5db-0408-4243-8bbe-0b83d0025a74",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5799793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9c4ab24-a728-47a7-9ab2-0d05f2398535",
+                      "Name":  "Small Frozen Chips",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "222dea21-f35f-4bda-b052-cf658d901ab6",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  458,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99a1458b-e48e-4ca5-9fad-ea60192afb48",
+                      "Name":  "Handcrafted Fresh Pants",
+                      "Quantity":  5,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800126Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7da33ed-c24f-450b-bd13-21421037caf0",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800167Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b221498a-bb54-4c33-a33b-a886515e81ed",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c869bc7d-ece6-43ac-9cee-e212ec24299f",
+                      "Name":  "Tasty Wooden Chair",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5800263Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

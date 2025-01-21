@@ -1,0 +1,53 @@
+{
+    "Id":  "bf068b69-7611-4232-b06b-c36bd448905c",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T04:22:46.1475741+08:00",
+    "Items":  [
+                  {
+                      "Id":  "57cc0ee7-3187-4e78-8c4e-225718a490d9",
+                      "Name":  "Tasty Granite Fish",
+                      "Quantity":  4,
+                      "Price":  500,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0452647Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62d0ec26-7025-4b42-9e5c-bee145aad6a0",
+                      "Name":  "Generic Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0452735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7184a660-cfc5-4795-b85c-8d2ea2c695ac",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0452749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e499c13-3bc0-4af6-bc01-1d74b952ef02",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0452758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "762510e9-ea6a-4774-bd91-96d31863d255",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0452772Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

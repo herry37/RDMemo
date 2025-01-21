@@ -1,0 +1,44 @@
+{
+    "Id":  "fbe7acf9-c3ef-4608-9f5e-2c244c18bd52",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-17T20:09:39.0180468+08:00",
+    "Items":  [
+                  {
+                      "Id":  "10b23750-4f5c-469a-9c1e-3b9ce096f704",
+                      "Name":  "Unbranded Concrete Salad",
+                      "Quantity":  1,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2599368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31c5aa2c-1705-4ec0-9527-2ecf61b1e7a2",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2599405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "763a9809-db64-4145-95d4-7c898bb8efec",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2599424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1d41798-b938-4e4c-ab48-c5bf57cd7248",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2599447Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

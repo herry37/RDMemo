@@ -1,0 +1,44 @@
+{
+    "Id":  "5cc520fd-bc7e-4c5e-b390-f5c047eb2e24",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T16:03:21.3750429+08:00",
+    "Items":  [
+                  {
+                      "Id":  "50cdf9b5-610f-4ff2-9fb7-263b8099c064",
+                      "Name":  "啤酒",
+                      "Quantity":  3,
+                      "Price":  492.335356255421760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:53:40.2361972+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb21af99-38bc-4d8b-9df5-1e77fd775e0a",
+                      "Name":  "拖把",
+                      "Quantity":  4,
+                      "Price":  439.522389869586510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:23:14.5239319+08:00",
+                      "CompletedAt":  "2025-01-22T10:55:30.6703585+08:00"
+                  },
+                  {
+                      "Id":  "0570f933-1bdf-45f1-b9a6-9067db43d2aa",
+                      "Name":  "餐具",
+                      "Quantity":  5,
+                      "Price":  339.075039800497340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:52:51.688818+08:00",
+                      "CompletedAt":  "2025-01-18T21:47:18.2540647+08:00"
+                  },
+                  {
+                      "Id":  "984ee184-422b-4cbf-ac0b-c791b2695ac0",
+                      "Name":  "化妝品",
+                      "Quantity":  5,
+                      "Price":  179.444407314730940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:27:37.4664284+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

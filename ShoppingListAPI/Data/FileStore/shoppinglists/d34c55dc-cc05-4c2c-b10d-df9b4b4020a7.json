@@ -1,0 +1,35 @@
+{
+    "Id":  "d34c55dc-cc05-4c2c-b10d-df9b4b4020a7",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-19T06:18:46.4465797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ccfd2f18-666a-4284-bee0-f0addaed131d",
+                      "Name":  "運動飲料",
+                      "Quantity":  6,
+                      "Price":  255.898609657112860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:27:27.7508331+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82f1f157-f9b2-4e66-8a1f-ade7c45bc1c9",
+                      "Name":  "清潔劑",
+                      "Quantity":  6,
+                      "Price":  335.453979873251040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T21:22:00.6523944+08:00",
+                      "CompletedAt":  "2025-01-18T10:20:57.5557848+08:00"
+                  },
+                  {
+                      "Id":  "c94fc7c2-7248-43a5-8cfb-77dc3a74ec9a",
+                      "Name":  "尺",
+                      "Quantity":  6,
+                      "Price":  129.284443804364790,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:49:16.8136738+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

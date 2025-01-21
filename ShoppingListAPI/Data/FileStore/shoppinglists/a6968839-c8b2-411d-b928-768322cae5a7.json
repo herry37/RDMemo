@@ -1,0 +1,62 @@
+{
+    "Id":  "a6968839-c8b2-411d-b928-768322cae5a7",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T08:20:48.3864168+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4e33e28b-043e-48da-a176-84bca0fd8476",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9b82eb1-8cec-4a87-a075-68badba48c99",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db85f8f0-d5e5-49cb-8e3b-428bd4a19b4d",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a2893c0-89d8-4177-8cd5-0a15d0574197",
+                      "Name":  "Awesome Rubber Chicken",
+                      "Quantity":  1,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d47b6ddd-a118-4011-93fb-3ee7f0905733",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "629a62f4-6aa8-4e66-9354-c18d5024156d",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5233835Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "614b4e98-8100-4f4e-a75f-34130ce45e52",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-15T21:00:21.8880625+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4c11c5b-d0cf-47a5-a558-5fc57adfb2c4",
+                      "Name":  "毛巾",
+                      "Quantity":  4,
+                      "Price":  224.167884767635330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:16:02.5950881+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d61d9f5e-b882-402c-b99e-333bdb9aac6a",
+                      "Name":  "芳香劑",
+                      "Quantity":  9,
+                      "Price":  361.843589185748450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:52:50.4891055+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb3d73f5-d9df-4587-b798-1a0bdaabd2df",
+                      "Name":  "手套",
+                      "Quantity":  9,
+                      "Price":  85.990014598156330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:15:23.9787972+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5ef6b5c-5ff3-4b87-82da-5d4986780919",
+                      "Name":  "餐巾紙",
+                      "Quantity":  9,
+                      "Price":  453.142506305889460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:43:52.0879827+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

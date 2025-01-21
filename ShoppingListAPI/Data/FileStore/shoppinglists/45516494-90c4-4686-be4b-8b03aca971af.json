@@ -1,0 +1,80 @@
+{
+    "Id":  "45516494-90c4-4686-be4b-8b03aca971af",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T21:12:50.4813403+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26ab6fef-2d88-4c0f-86b1-489aee97fe7d",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:04:49.9750066+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25c87584-7a1b-473b-87ca-3d295463d35c",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:46:18.9465363+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4b4fa6f-806b-4ecf-9d78-94c0cc7b4ccd",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:28:08.082488+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60036b4a-659c-488a-b116-d356169953ab",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:36:36.969073+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c353b50e-a1c9-4543-9763-f79c00f48e39",
+                      "Name":  "黑巧克力",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:44:08.1907934+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71bf2796-dd19-40b0-8439-f0ab5cb0188b",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:58:39.1112298+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9063cb4d-8ec7-4e85-bf95-a92c9b11fc98",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:39:06.0050288+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94b1c991-6ccb-43c5-9094-1cabdc66c284",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:47:25.6856766+08:00",
+                      "CompletedAt":  "2025-01-18T07:53:51.6454094+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "c7710aac-927e-4ffa-93af-d4b360ee0397",
+    "Title":  "月底大採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T23:48:26.0058402+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6e302d30-a98d-4ff7-b607-d6ac94fb0584",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:41:22.5642578+08:00",
+                      "CompletedAt":  "2025-01-19T14:04:49.9686149+08:00"
+                  },
+                  {
+                      "Id":  "d7287a24-5105-4c45-b7d5-5fe4012339b9",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:54:42.3113098+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22a1df40-f97f-4051-bef7-c8037dfa0803",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:33:32.2397215+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e79dece-621c-484c-b99e-95afb0f54081",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:48:15.5141712+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53c26eae-78ba-45f5-9ccb-f78bbc4eb6e7",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:33:48.9411729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4810d7cd-e61a-4d83-ae4f-042cacb4cdc1",
+                      "Name":  "保養化妝品",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:13:12.8091615+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d66c8c61-30e3-450b-b8a0-b147e4b923f7",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:17:43.7128211+08:00",
+                      "CompletedAt":  "2025-01-17T17:24:52.507829+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

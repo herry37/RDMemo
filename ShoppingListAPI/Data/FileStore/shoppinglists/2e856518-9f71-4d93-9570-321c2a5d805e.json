@@ -1,0 +1,71 @@
+{
+    "Id":  "2e856518-9f71-4d93-9570-321c2a5d805e",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T17:52:57.3494344+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2d52afbc-1b69-4960-b71e-681ab77daa2f",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3169156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f74f776-07f9-4663-bafa-38a5447666d4",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3169215Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2835081d-7b9f-47d5-9973-b508b224dfd3",
+                      "Name":  "Intelligent Cotton Bacon",
+                      "Quantity":  5,
+                      "Price":  407,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3169535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "902108fb-da08-4b02-a97f-141662ba86d3",
+                      "Name":  "Ergonomic Soft Bacon",
+                      "Quantity":  3,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3169598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "998dd140-7292-44d8-8b3a-68189f506e35",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.316963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bafa2fbd-d2b3-4ae1-824b-3689276d7b0f",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3169672Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a8863ca-3b17-4c15-b3fb-2c495a0938d5",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.31697Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

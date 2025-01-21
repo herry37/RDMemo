@@ -1,0 +1,80 @@
+{
+    "Id":  "40d8e76c-c988-4a14-bc7a-dcdc3cc19417",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T06:29:19.0990748+08:00",
+    "Items":  [
+                  {
+                      "Id":  "770d7fd8-36f5-4546-a2fe-d6ee98505640",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48b7be2d-f336-42c4-9202-a987963e3b01",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1937da9-a03b-43c8-ada1-254325088489",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3cc15c2-aef2-4578-aee4-41382c4c1347",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.731676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9129bf10-49fe-4cce-9d74-3067494fc3d2",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "261e7a77-15a4-445d-8e3b-bb7bb3c858c3",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de516c91-4062-4828-b004-7632b11c2ac6",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316787Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "412cce1e-2c1e-46f1-a69e-2032fc44f02f",
+                      "Name":  "Rustic Concrete Soap",
+                      "Quantity":  5,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7316888Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

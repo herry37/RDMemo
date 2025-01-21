@@ -1,0 +1,35 @@
+{
+    "Id":  "eaafe648-248f-4eb0-910c-42cfa6553f67",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T18:12:27.4726925+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ea26acf-588f-45a2-a628-3f24876f5726",
+                      "Name":  "堅果",
+                      "Quantity":  2,
+                      "Price":  188.124663692150840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:52:25.3376099+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b985358-bb83-45d0-b9f7-40d492c7e973",
+                      "Name":  "洗碗精",
+                      "Quantity":  1,
+                      "Price":  34.7371497796812830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:54:49.7794968+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93f3ee4c-82be-4cf6-9ba1-eb5ff8264c01",
+                      "Name":  "杯子",
+                      "Quantity":  2,
+                      "Price":  388.966754238858240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:30:41.941098+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

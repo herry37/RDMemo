@@ -1,0 +1,89 @@
+{
+    "Id":  "d897760a-6a86-40db-8840-bd9b2ed7d4c7",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T08:22:43.4050032+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26731d47-6e91-42e7-9a69-2000b99b6237",
+                      "Name":  "Awesome Plastic Sausages",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.706818Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b530e7dd-e2d8-43d2-97c8-362d10ebfc6a",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b5500e9-2ae0-4a4c-a152-ebc1f1fa7776",
+                      "Name":  "Tasty Wooden Salad",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e304d4c-a785-426a-b45e-15e366543906",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068263Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fda14d9-6b53-478b-96dd-da5d38b45dcf",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e14d20bd-4500-456c-80d3-9775970d9747",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  347,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fd91fa7-beea-4966-ac59-df0a553d8f55",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.70683Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e5f40a9-d570-4d0a-92cd-2fb264205aaf",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7312114c-d7e5-4552-b0c2-5f62e65acc77",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7068312Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

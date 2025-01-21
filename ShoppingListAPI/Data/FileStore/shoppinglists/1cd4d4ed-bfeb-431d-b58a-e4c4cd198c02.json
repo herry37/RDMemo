@@ -1,0 +1,44 @@
+{
+    "Id":  "1cd4d4ed-bfeb-431d-b58a-e4c4cd198c02",
+    "Title":  "月底大採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-19T07:34:48.8652347+08:00",
+    "Items":  [
+                  {
+                      "Id":  "850c2f25-5c99-432b-871e-2a18a8e14535",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  267,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:10:44.1473673+08:00",
+                      "CompletedAt":  "2025-01-18T05:21:42.6737749+08:00"
+                  },
+                  {
+                      "Id":  "9795ee51-7de7-4980-8854-824ccf028086",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:00:37.0934589+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8edeb55-4943-49a2-b234-ee7107a3203f",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:55:52.7793324+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5f83148-7efa-45b6-bae9-adf99bfb5b12",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:36:59.6375876+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

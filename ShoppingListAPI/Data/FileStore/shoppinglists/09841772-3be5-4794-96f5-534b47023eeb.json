@@ -1,0 +1,53 @@
+{
+    "Id":  "09841772-3be5-4794-96f5-534b47023eeb",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T07:36:16.5153489+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7a91b54-0d38-4027-9b77-0380944bbdb0",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:06:27.7243514+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d0865c9-5aba-49b7-9ede-d32381a5ee94",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  5,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:13:35.0427256+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf5836a4-51fb-4923-88e0-f716b8043d5a",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:44:41.8786429+08:00",
+                      "CompletedAt":  "2025-01-17T15:23:48.9024572+08:00"
+                  },
+                  {
+                      "Id":  "4ee7d3e8-7ad2-43b5-b800-dd2ac7274788",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:28:37.4127733+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50d1418f-63f5-403e-ac60-469aeaa8e4d4",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:31:22.1819547+08:00",
+                      "CompletedAt":  "2025-01-17T16:42:26.968388+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

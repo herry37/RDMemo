@@ -1,0 +1,35 @@
+{
+    "Id":  "e6303507-12bc-4fea-ac97-c78ea8da415f",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T12:48:07.618166+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8246f089-39de-4651-9909-a8b5f28385aa",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  69,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9423663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38f9daca-7053-40e9-9e53-ee3694ff3689",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  485,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9423703Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71eb2826-10ec-475a-9412-f1269eba2164",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9423724Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

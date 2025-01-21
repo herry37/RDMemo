@@ -1,0 +1,62 @@
+{
+    "Id":  "306c273d-ef9d-4b19-8bc1-87ab4334023e",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-16T23:23:35.4197793+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ee25ea72-c4d2-4e90-8fbc-6147de6dd99a",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0902561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47049bb9-6e33-479d-810c-52eeeb4a3581",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0902629Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45cf1365-5691-4ce5-9dd1-0981ed5b2269",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.090264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b035b103-7336-4b70-b348-67fa08f2a866",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0902659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21967157-1f5e-46e6-a64f-91f7012979fb",
+                      "Name":  "Sleek Metal Shoes",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0902899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70de9813-3662-40c1-a74c-61047a385133",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  187,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0902929Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

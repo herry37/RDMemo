@@ -1,0 +1,98 @@
+{
+    "Id":  "7263035c-d2e3-4d50-91d8-36d366fd18ab",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T16:16:17.8436548+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cb15699c-3681-4325-8d76-d292c61586d4",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6aceab6-6c00-4be5-94ae-6e3f86619069",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945185Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c59f706-6a51-4ed0-b89a-58f229097951",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7505a213-02ce-467e-9d2f-ca03abf1682b",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945221Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ccf14f8-7951-4315-83cc-c9f0e14959e1",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.794524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "831e2fde-3c99-48bc-ade1-074dfc60f21d",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2400aaad-98c5-43ce-ae43-2badbb572b85",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  303,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945292Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b85b3b30-68aa-4de0-a8a4-f509db35febc",
+                      "Name":  "Practical Cotton Bike",
+                      "Quantity":  2,
+                      "Price":  324,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945543Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13d3ebca-beb5-4b6a-a708-4cabf46084a1",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.794557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4aae1166-5ad5-439d-954d-fbb1f6fca8a2",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7945714Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

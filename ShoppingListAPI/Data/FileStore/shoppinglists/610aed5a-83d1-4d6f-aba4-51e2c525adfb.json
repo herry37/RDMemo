@@ -1,0 +1,98 @@
+{
+    "Id":  "610aed5a-83d1-4d6f-aba4-51e2c525adfb",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T02:18:03.1327023+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fa7b44eb-6186-4393-bfd4-360c61c14483",
+                      "Name":  "Rustic Wooden Shoes",
+                      "Quantity":  5,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bddc9425-c422-4ce3-93ed-39b427b3c8ce",
+                      "Name":  "Refined Metal Tuna",
+                      "Quantity":  5,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "149e29ca-6523-4500-8024-447046d1d116",
+                      "Name":  "Unbranded Cotton Shoes",
+                      "Quantity":  2,
+                      "Price":  48,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67bbc485-ff44-4ae1-bddf-0ee0df5168eb",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  313,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec258780-db18-4589-a3bb-885c7c6c24a0",
+                      "Name":  "Handcrafted Granite Bacon",
+                      "Quantity":  3,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa641850-5ca0-4782-8e61-6834850cd383",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9444972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3350fcc7-5d9d-4c8a-ba9c-a75c274f2295",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9445074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd027c4b-70b1-4c08-8e11-951848605d22",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.944509Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cb893b5-b619-4134-a8b0-ed24e66f4cf9",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9445111Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df5fd5ae-dbf1-4af6-8a65-3c1b4f485b67",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9445129Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

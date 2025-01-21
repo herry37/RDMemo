@@ -1,0 +1,44 @@
+{
+    "Id":  "601535f6-5656-4b78-bb13-8a24e07b4d30",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-19T04:55:02.7562298+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9fd0d9b8-af9c-413a-89e2-a17a7f0c6a42",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1450741Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "569d684e-bb89-46f7-be5c-3a456310f0fb",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1450772Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54a5dacb-de86-48e3-99e0-9179bcc7c1cc",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1450783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c953da3d-a1ab-496b-a884-6a3db4547ef7",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1450793Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

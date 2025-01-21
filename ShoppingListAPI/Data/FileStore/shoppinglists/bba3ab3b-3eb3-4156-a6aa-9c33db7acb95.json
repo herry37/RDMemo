@@ -1,0 +1,71 @@
+{
+    "Id":  "bba3ab3b-3eb3-4156-a6aa-9c33db7acb95",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T00:48:20.5717826+08:00",
+    "Items":  [
+                  {
+                      "Id":  "71c12bad-e27b-4518-ac6b-3ec88dea1f08",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:19:35.4783221+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e33926bd-5cf6-46a2-af43-822d928eefc0",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:54:51.7358601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5354133-5378-4ce1-bf99-b244421b4d5d",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:55:06.7896527+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaa18e41-d123-4419-9fe0-193e4b00174a",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:10:07.346365+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f907aade-c8d3-41d3-8f37-7833d786582b",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:22:25.8567678+08:00",
+                      "CompletedAt":  "2025-01-15T12:35:01.5759223+08:00"
+                  },
+                  {
+                      "Id":  "dc3f5151-3c23-48a0-83b5-0bb2851dbdaa",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:37:57.0506891+08:00",
+                      "CompletedAt":  "2025-01-19T00:39:45.6964945+08:00"
+                  },
+                  {
+                      "Id":  "783cf9dc-3d13-4a1d-8510-54577a262ca5",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:19:53.1810873+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

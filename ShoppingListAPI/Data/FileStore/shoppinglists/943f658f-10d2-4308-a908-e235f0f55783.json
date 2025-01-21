@@ -1,0 +1,53 @@
+{
+    "Id":  "943f658f-10d2-4308-a908-e235f0f55783",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-17T12:33:34.5599956+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8a281029-25d8-4404-8c45-d1109b60cd32",
+                      "Name":  "Intelligent Frozen Hat",
+                      "Quantity":  4,
+                      "Price":  18,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4299741Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6088fa05-727d-412b-bb27-4050a14f9bf3",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4299769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8af19fdf-65e7-4383-9984-e075bb3cf1ba",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4299798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3326ebfd-5f15-4c4e-9677-702ae283bd77",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4299857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d7950b2-22bc-45c9-a497-aaeaa5907225",
+                      "Name":  "Small Plastic Gloves",
+                      "Quantity":  3,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4299925Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

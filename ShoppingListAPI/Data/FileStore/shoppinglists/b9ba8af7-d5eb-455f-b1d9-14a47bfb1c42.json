@@ -1,0 +1,44 @@
+{
+    "Id":  "b9ba8af7-d5eb-455f-b1d9-14a47bfb1c42",
+    "Title":  "01/20 零食購物清單",
+    "CreatedAt":  "2025-01-22T01:50:29.1029955+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f99c26c9-39aa-4530-ba70-f7a3a6fb9dfc",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7899072Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97c1736f-b437-4dab-b29a-46911680bb84",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.789909Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "271d69a5-1475-4e45-a3d1-784080f3537b",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  48,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.78991Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f7b1946-1600-453d-818b-45e6abafe852",
+                      "Name":  "Unbranded Granite Gloves",
+                      "Quantity":  5,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7899262Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

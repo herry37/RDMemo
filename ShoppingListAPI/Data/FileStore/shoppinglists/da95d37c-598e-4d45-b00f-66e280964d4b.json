@@ -1,0 +1,98 @@
+{
+    "Id":  "da95d37c-598e-4d45-b00f-66e280964d4b",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T23:49:27.8384115+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a536413-a01f-4fd1-bb81-e61d91c49e99",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b27fc87c-b929-44f3-a63e-63cfe9dfa645",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.591928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f06e87b4-fa9a-46e1-a1ee-da0e7b95c8da",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76e9ebfb-7b7c-459b-9705-c9b48099794a",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  336,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33bd5894-631e-4397-91a5-3c36849fb575",
+                      "Name":  "Sleek Wooden Chair",
+                      "Quantity":  3,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d180fcf-df77-440b-9c07-ede74c3da775",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc48c3a7-435c-49f0-b50b-b1588ab06181",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919702Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddf50afb-e17d-40c6-bd27-98a1a4f3a2c9",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4977a0e6-d04a-4d3a-90ae-aa0d0da442e7",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919757Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "218af7d7-5570-4765-951e-6253aced6d81",
+                      "Name":  "Intelligent Metal Table",
+                      "Quantity":  5,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5919823Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

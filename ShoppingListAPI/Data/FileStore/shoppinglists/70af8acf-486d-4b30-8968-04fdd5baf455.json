@@ -1,0 +1,35 @@
+{
+    "Id":  "70af8acf-486d-4b30-8968-04fdd5baf455",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T08:13:01.1631617+08:00",
+    "Items":  [
+                  {
+                      "Id":  "46832789-3bcd-4314-bb27-880234015023",
+                      "Name":  "Intelligent Rubber Bike",
+                      "Quantity":  5,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3938961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf64e60e-196a-404e-a67b-85e628405712",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3938991Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08ae0944-3b95-479a-8e53-1ecb8001d1e6",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3939003Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

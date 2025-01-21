@@ -1,0 +1,44 @@
+{
+    "Id":  "075ea72a-4a15-4934-9a8f-8083c35f73ae",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T16:30:56.3921098+08:00",
+    "Items":  [
+                  {
+                      "Id":  "53474200-1828-49d7-a4fc-93c137bcb63a",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:58:07.4813436+08:00",
+                      "CompletedAt":  "2025-01-21T03:24:43.5861288+08:00"
+                  },
+                  {
+                      "Id":  "384d6c86-60f9-45d0-abe3-81976b5dcdc1",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:37:07.3736828+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15789766-69a9-4d5d-8bfc-fe55d08ce1f2",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:38:21.5338855+08:00",
+                      "CompletedAt":  "2025-01-16T12:54:34.365654+08:00"
+                  },
+                  {
+                      "Id":  "7c30a929-36d4-4610-91c7-e4162f68dc61",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:53:33.252995+08:00",
+                      "CompletedAt":  "2025-01-20T10:20:58.7422698+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

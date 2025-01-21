@@ -1,0 +1,44 @@
+{
+    "Id":  "ce60af1c-b6a3-4862-b69d-83d10c2a364f",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T08:51:40.7320708+08:00",
+    "Items":  [
+                  {
+                      "Id":  "079edbee-39ba-4d46-b513-1d203bbdd7d2",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:40:48.8950394+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b14d4c7d-a0d8-41a3-8b68-89134e5faf83",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:49:17.7194546+08:00",
+                      "CompletedAt":  "2025-01-17T18:13:39.4374095+08:00"
+                  },
+                  {
+                      "Id":  "b8f785d4-ab86-4145-b60f-c471609b2413",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:25:14.2981036+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8dbb0650-4bf6-43b9-84bd-2cf8b41b75bb",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:55:40.3407847+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

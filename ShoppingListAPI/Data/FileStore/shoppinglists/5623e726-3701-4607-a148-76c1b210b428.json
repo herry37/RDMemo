@@ -1,0 +1,62 @@
+{
+    "Id":  "5623e726-3701-4607-a148-76c1b210b428",
+    "Title":  "日常補充 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T16:57:16.9308868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "df833ea2-e33e-417c-85f7-20b0fd358e7f",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:15:12.7111783+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14a352f3-1e70-4725-b106-2a8c014455f2",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:45:30.4531269+08:00",
+                      "CompletedAt":  "2025-01-17T14:21:17.5053956+08:00"
+                  },
+                  {
+                      "Id":  "c130017e-37cc-41a1-a0cc-f252e675f940",
+                      "Name":  "中性筆組",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:10:00.5622283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b290045-8808-4d51-b191-afccaa79294c",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  1,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:09:06.2616895+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa8a6678-3b2d-41d0-b548-97874b70b4d7",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:33:25.3865158+08:00",
+                      "CompletedAt":  "2025-01-18T06:52:03.5110728+08:00"
+                  },
+                  {
+                      "Id":  "73312090-6c80-4c0e-9728-3f7d47190075",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:44:05.3387108+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

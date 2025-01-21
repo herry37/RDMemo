@@ -1,0 +1,35 @@
+{
+    "Id":  "f2561c66-bed4-42e1-be9e-d924f01cebe1",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T23:49:10.9048052+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1aaa0cad-a9fb-43fe-9da5-248b9d8ca8cf",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9644775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c62705f4-d2d7-4684-b6c1-146d8c3c86fe",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9644807Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5082914-3fa9-436b-a86f-8585a9a648a0",
+                      "Name":  "Generic Soft Pizza",
+                      "Quantity":  4,
+                      "Price":  485,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9644972Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

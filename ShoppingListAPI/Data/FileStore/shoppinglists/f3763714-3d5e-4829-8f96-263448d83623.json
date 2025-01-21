@@ -1,0 +1,35 @@
+{
+    "Id":  "f3763714-3d5e-4829-8f96-263448d83623",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T11:47:04.0257271+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cab77f66-3479-400e-bd96-6e5f18db925e",
+                      "Name":  "Gorgeous Frozen Chicken",
+                      "Quantity":  2,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8791828Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cfb32f7-4739-460f-95e7-109e92f4d1fe",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8791868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "527df2d0-6de4-44e7-83e3-66805180454f",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  40,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8791879Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

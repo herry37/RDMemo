@@ -1,0 +1,44 @@
+{
+    "Id":  "a3853d56-1e27-47f5-b2e0-4f2dc7972460",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-17T04:56:05.8439831+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7042c4fd-db7d-423c-893b-da20778f0313",
+                      "Name":  "蛋糕",
+                      "Quantity":  2,
+                      "Price":  127.376258026331920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:17:45.0921221+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de38f102-3346-4f40-8ae7-e3db92b925df",
+                      "Name":  "拖把",
+                      "Quantity":  1,
+                      "Price":  16.905995539944340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T16:56:52.350958+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92618f46-4f97-44fb-bea0-e606b452357e",
+                      "Name":  "香蕉",
+                      "Quantity":  6,
+                      "Price":  420.702719366970660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:24:27.5614233+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6aa289fd-c085-43e3-965f-01cfa38fe0af",
+                      "Name":  "便利貼",
+                      "Quantity":  2,
+                      "Price":  24.0238996632320880,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:27:14.6861446+08:00",
+                      "CompletedAt":  "2025-01-18T14:40:26.1836535+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

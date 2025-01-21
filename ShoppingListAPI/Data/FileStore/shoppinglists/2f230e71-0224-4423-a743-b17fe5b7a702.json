@@ -1,0 +1,71 @@
+{
+    "Id":  "2f230e71-0224-4423-a743-b17fe5b7a702",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-21T11:18:10.8700987+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ab41135a-8163-4e29-bbd6-aa8c07e5e0a0",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056195Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a54ed4d5-213c-453e-a437-b2c914359d28",
+                      "Name":  "Sleek Granite Pants",
+                      "Quantity":  1,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b74a6eef-1da3-42fe-b32a-cc2f10c2ab3e",
+                      "Name":  "Fantastic Granite Hat",
+                      "Quantity":  1,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b825661-a8c1-47c9-901e-bd1b0fc47640",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  405,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.705639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42db0676-a3ad-4593-8e25-6483bc6cb0d5",
+                      "Name":  "Incredible Soft Towels",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056413Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0e7add4-aed5-4725-b182-3243b08ece33",
+                      "Name":  "Rustic Fresh Pants",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7423ebd3-a3c1-447b-b759-dfab16c5e652",
+                      "Name":  "Licensed Metal Soap",
+                      "Quantity":  4,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7056463Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

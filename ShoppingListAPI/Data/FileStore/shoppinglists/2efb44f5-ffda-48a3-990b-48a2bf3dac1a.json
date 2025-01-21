@@ -1,0 +1,53 @@
+{
+    "Id":  "2efb44f5-ffda-48a3-990b-48a2bf3dac1a",
+    "Title":  "01/20 零食採買清單",
+    "CreatedAt":  "2025-01-18T08:56:15.1656765+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b0feaa49-6acb-4c0e-bb28-6add8c6e0b90",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9033761Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b8bb59d-d5b5-4c0c-8c05-38a610693fd5",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  434,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9033804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "deb28e56-42ff-42aa-b9b3-10775049c966",
+                      "Name":  "Awesome Fresh Mouse",
+                      "Quantity":  2,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.903399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a07224e-a46d-41f6-b6f2-0582c57e2656",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9034001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa910172-277a-411c-bbfe-8d01e372fa26",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  352,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9034011Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

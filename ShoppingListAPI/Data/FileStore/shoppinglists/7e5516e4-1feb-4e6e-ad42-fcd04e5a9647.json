@@ -1,0 +1,44 @@
+{
+    "Id":  "7e5516e4-1feb-4e6e-ad42-fcd04e5a9647",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-18T17:33:46.0943921+08:00",
+    "Items":  [
+                  {
+                      "Id":  "900a441d-c52b-440c-b457-e9bc78ee901d",
+                      "Name":  "Awesome Cotton Gloves",
+                      "Quantity":  4,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8717891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f9525fa-8b4e-4415-bda9-71c4ce0fdbb8",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8717949Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f46df3f-6b2c-4405-a10c-ae10a4a901bf",
+                      "Name":  "Licensed Fresh Chips",
+                      "Quantity":  3,
+                      "Price":  95,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8718245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa23c82e-bfa1-4727-a828-aae5387a2262",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8718262Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

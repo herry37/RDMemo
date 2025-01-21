@@ -1,0 +1,35 @@
+{
+    "Id":  "80df2a97-3e14-4299-83a6-cf8a4babbc9a",
+    "Title":  "聚會準備 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-17T20:26:08.4304614+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dfc511a7-3e69-4833-ad2d-e330389e1efa",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:25:23.9470684+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2daaadf-f65f-4dea-be7a-1f3a5bff4587",
+                      "Name":  "日本泡麵",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:53:15.1506171+08:00",
+                      "CompletedAt":  "2025-01-15T20:55:06.1868145+08:00"
+                  },
+                  {
+                      "Id":  "c38a33ba-01c3-430a-9ea1-6bbac09584c2",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:05:26.1839524+08:00",
+                      "CompletedAt":  "2025-01-18T06:05:11.8440448+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

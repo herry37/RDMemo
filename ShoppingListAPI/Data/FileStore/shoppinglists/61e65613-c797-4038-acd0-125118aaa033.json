@@ -1,0 +1,53 @@
+{
+    "Id":  "61e65613-c797-4038-acd0-125118aaa033",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-19T17:31:52.0986321+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12b87fe0-66f6-4208-9e1b-02e31b07b8e2",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8811399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88518b33-9786-4145-aecc-24e7feaa6882",
+                      "Name":  "Incredible Fresh Pants",
+                      "Quantity":  5,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8811613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d820bc1-3f59-4589-929c-873744009f08",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8811643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a1846ea-7425-4731-90f3-b90aa8785404",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8811654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b37d4f3e-66fe-4b1d-8a73-73986bf0beaf",
+                      "Name":  "Awesome Metal Table",
+                      "Quantity":  1,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8811703Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

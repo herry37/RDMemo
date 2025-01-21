@@ -1,0 +1,80 @@
+{
+    "Id":  "d9fc4c4c-b548-4e7f-9d34-761288b7c6c6",
+    "Title":  "早市採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T18:05:07.5954123+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e0f2085c-4717-45e5-a974-a3132950f1dd",
+                      "Name":  "LED檯燈",
+                      "Quantity":  4,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:33:53.3061978+08:00",
+                      "CompletedAt":  "2025-01-20T16:27:07.4235273+08:00"
+                  },
+                  {
+                      "Id":  "6ff5aef5-389e-4f39-8a31-bcfd46a90240",
+                      "Name":  "清潔手套",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:04:50.995382+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "488ee123-80af-4911-9d34-85ee1df5eee6",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:05:02.4891511+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "524233c4-c35d-4ca6-88e9-8aefe4ae7e0b",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:38:50.9219601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df1f3bab-4ca6-4f26-859f-a521fe201cb1",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:51:12.4429255+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49342c2c-18ea-41e9-9022-316ddb2aea92",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:52:58.6265361+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7490b34e-e191-4337-a60d-abcecc830a9f",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:19:46.4835157+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a70f1e4e-86e9-486d-bbc4-582adba1df92",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:06:53.3216526+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

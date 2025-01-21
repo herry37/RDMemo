@@ -1,0 +1,35 @@
+{
+    "Id":  "bc05fb28-db14-4a8a-9a2d-493c88e56fed",
+    "Title":  "緊急採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-15T20:05:27.5130818+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e01abc44-e977-43b1-850c-dfc05e976e88",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:43:43.4185058+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec727ba9-34c6-4224-9c98-c7e4d3155c07",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:22:41.3484881+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ed16086-7444-4c14-a3f8-f56587be4315",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:08:36.2143308+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

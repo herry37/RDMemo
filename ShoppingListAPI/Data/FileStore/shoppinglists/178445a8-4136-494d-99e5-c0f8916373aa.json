@@ -1,0 +1,53 @@
+{
+    "Id":  "178445a8-4136-494d-99e5-c0f8916373aa",
+    "Title":  "緊急採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T17:50:10.8349437+08:00",
+    "Items":  [
+                  {
+                      "Id":  "adf15e13-caa6-4e0a-b1bd-3b6fe34141af",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:36:26.2376806+08:00",
+                      "CompletedAt":  "2025-01-19T11:33:47.4297235+08:00"
+                  },
+                  {
+                      "Id":  "7849e30a-7f7b-4c68-97c5-df6a73af1ed6",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:14:50.8070766+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de7aab17-38f9-41c0-948b-ee23e7a44517",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:32:31.9315793+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7cc6f36-ae2c-4a5f-8df8-85fb934ab83f",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:26:22.6546709+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acb045aa-4568-44c6-88c9-daeaf94daa95",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:33:33.3469165+08:00",
+                      "CompletedAt":  "2025-01-21T13:02:11.9457131+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

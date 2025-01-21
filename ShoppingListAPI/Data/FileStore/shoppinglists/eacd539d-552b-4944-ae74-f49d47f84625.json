@@ -1,0 +1,53 @@
+{
+    "Id":  "eacd539d-552b-4944-ae74-f49d47f84625",
+    "Title":  "月底大採購 - 好市多 (01/20)",
+    "CreatedAt":  "2025-01-20T15:34:26.4296008+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27219355-b7d0-4336-a2d5-d14e64dafaa5",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:11:14.663284+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dae805bb-10d7-4495-87ea-c0dd4523673a",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:43:34.1619214+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de386afe-a274-46e2-be1c-7f8c064d5845",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:22:01.5577405+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de7b16b6-76c3-4fc4-9d9f-8a39aa085b78",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:16:48.9574912+08:00",
+                      "CompletedAt":  "2025-01-15T23:55:00.0940402+08:00"
+                  },
+                  {
+                      "Id":  "fffa14be-b39b-4161-b2d8-a6c2f05dd709",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:56:12.3968094+08:00",
+                      "CompletedAt":  "2025-01-21T20:02:12.6754088+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

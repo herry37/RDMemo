@@ -1,0 +1,35 @@
+{
+    "Id":  "9dc3a4d1-7089-4db5-9270-0bb3fd077246",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T05:45:24.2161378+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4f7ae386-ffda-4aa0-9bd7-fa5f0120cf40",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5438156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc01ca2a-fc78-4eb6-abea-a3fef6940b43",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  499,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.543817Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b356182e-d9db-40de-bfd6-8744c72b78cb",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5438177Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

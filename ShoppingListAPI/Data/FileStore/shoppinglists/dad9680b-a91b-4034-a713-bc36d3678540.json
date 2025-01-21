@@ -1,0 +1,80 @@
+{
+    "Id":  "dad9680b-a91b-4034-a713-bc36d3678540",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T23:50:25.1667206+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a837c042-5692-4ea5-8aef-192524fb064e",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3e51520-aab5-4b9d-aaae-ced6160879bb",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3da009b4-b67e-428e-b544-b554e3e7dcbd",
+                      "Name":  "Fantastic Rubber Ball",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ec7cc1b-9bc7-4425-8f38-30db374d7619",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  388,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f748de0-9a01-45a4-8a11-495016ddd121",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9dbbf45c-9a98-4f2f-833b-d2acada7e8ae",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  454,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed9dd51f-dc90-4e44-a09b-06acdc60a5f8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff54c8bd-3e7b-45fd-b00a-bf42390e1f26",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2324884Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

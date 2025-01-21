@@ -1,0 +1,53 @@
+{
+    "Id":  "bcd3f87e-0f52-4e63-b173-f376c9dd4c30",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-18T05:20:03.5501854+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fa32e1d3-a441-4e48-8648-a143434cb58e",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5063563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17db519a-f010-4539-82f8-62c616a0a15e",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5063608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52f5d52c-51d3-4387-9e9b-24645183b699",
+                      "Name":  "Ergonomic Concrete Towels",
+                      "Quantity":  1,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5063865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58149c94-4b19-45fc-b7b5-1b8b1ec1c67b",
+                      "Name":  "Refined Granite Tuna",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5063927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0748b232-10fe-4799-8c2e-d300ff29a200",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5063937Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

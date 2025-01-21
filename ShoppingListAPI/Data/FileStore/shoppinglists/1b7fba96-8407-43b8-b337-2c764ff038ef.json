@@ -1,0 +1,35 @@
+{
+    "Id":  "1b7fba96-8407-43b8-b337-2c764ff038ef",
+    "Title":  "月底大採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-19T19:13:17.6705339+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f06e9772-cba4-4f7c-a58d-ed6eff938ba4",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:26:51.6972728+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbc611e9-822c-430c-bab0-f8babe06af97",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:02:00.6515565+08:00",
+                      "CompletedAt":  "2025-01-17T12:30:17.5802416+08:00"
+                  },
+                  {
+                      "Id":  "f88715bd-d2ad-4e07-8099-7f2d64c51990",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:26:45.4704764+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "a696a75e-1f9a-429c-a612-113e1639957a",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T04:28:20.1149771+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ddcaf14e-2fc1-4a78-bc69-09ce0ce9826e",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:28:02.2078115+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dd6bd2e-7757-4f05-9f5f-3096b0a52bfe",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:28:58.5367755+08:00",
+                      "CompletedAt":  "2025-01-18T18:34:39.8634197+08:00"
+                  },
+                  {
+                      "Id":  "73d826a5-1baa-4a41-9f61-199676ed822f",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:27:33.1596876+08:00",
+                      "CompletedAt":  "2025-01-20T15:58:51.155252+08:00"
+                  },
+                  {
+                      "Id":  "ff104c46-1244-438f-a3d8-e9de74d514e2",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:01:57.3177776+08:00",
+                      "CompletedAt":  "2025-01-19T11:37:47.4382913+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

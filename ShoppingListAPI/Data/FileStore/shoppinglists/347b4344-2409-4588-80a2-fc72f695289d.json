@@ -1,0 +1,53 @@
+{
+    "Id":  "347b4344-2409-4588-80a2-fc72f695289d",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-15T04:43:57.0985993+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dfd0f132-771e-468c-b008-d93bdd571d12",
+                      "Name":  "Intelligent Steel Shoes",
+                      "Quantity":  3,
+                      "Price":  455,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4928832Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81da0db4-1157-4081-b2a0-872e6fd29a0e",
+                      "Name":  "Sleek Wooden Table",
+                      "Quantity":  2,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4928911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba258bed-ed90-4910-b11f-5832a5271b8d",
+                      "Name":  "Awesome Granite Soap",
+                      "Quantity":  5,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4928962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5c98d82-883a-4166-9fc3-f51e5e0e4912",
+                      "Name":  "Gorgeous Fresh Fish",
+                      "Quantity":  1,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4929018Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36279edd-94ee-4aa6-abf7-57e164d6fc44",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4929033Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

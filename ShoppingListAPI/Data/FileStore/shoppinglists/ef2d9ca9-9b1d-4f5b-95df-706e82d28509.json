@@ -1,0 +1,53 @@
+{
+    "Id":  "ef2d9ca9-9b1d-4f5b-95df-706e82d28509",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T12:03:55.6543202+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7bfac2aa-8632-4fe7-90bf-997647a4c535",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0106033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cb7e7ca-1591-4e67-b4f8-ac8cdbdc1753",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0106079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd76aa40-9819-4ad7-9b6f-87a324c49717",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0106094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bb644fa-e55d-4ae4-be82-7d595f720d47",
+                      "Name":  "Refined Concrete Bacon",
+                      "Quantity":  3,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0106623Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19c273ef-eaba-42d8-a89e-5982901df8dd",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.01067Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "0eefa124-b6cc-44a2-84ee-9e6c20dc4f9a",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T18:00:34.1961104+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ec5a0c3-f3f2-49da-998e-d8b199e8a6f7",
+                      "Name":  "Generic Frozen Ball",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5662425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f693998-6255-461f-905d-3761af0a50eb",
+                      "Name":  "Incredible Rubber Towels",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5662532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c0d0f50-326c-4293-ad64-2b9381bc8173",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  53,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5662551Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

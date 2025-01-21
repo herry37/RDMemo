@@ -1,0 +1,35 @@
+{
+    "Id":  "09b5a6c2-e686-4098-abcd-af42f515fbf3",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T21:02:19.2035762+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b8e01ef0-3c02-4d7c-a8f8-9a10b405541a",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:13:46.3796543+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f913eceb-72e8-4dd9-a399-b56f468ff2d0",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:09:30.3007147+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1954fdf2-7f26-40b9-a354-4998058decaf",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:13:44.89059+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

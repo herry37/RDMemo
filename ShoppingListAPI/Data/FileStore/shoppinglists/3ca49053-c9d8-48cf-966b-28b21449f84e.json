@@ -1,0 +1,35 @@
+{
+    "Id":  "3ca49053-c9d8-48cf-966b-28b21449f84e",
+    "Title":  "月底大採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T10:13:51.7040359+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7004e8b7-4a22-4bc2-a62c-a4bd07e61bcb",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:59:58.5874846+08:00",
+                      "CompletedAt":  "2025-01-18T23:07:48.582723+08:00"
+                  },
+                  {
+                      "Id":  "925146ad-43bb-486c-8397-4a53fa8016a7",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:22:21.6473948+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a19e528-c16b-48b0-9d54-d58e365e9b1b",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:57:56.7126361+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

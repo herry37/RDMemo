@@ -1,0 +1,35 @@
+{
+    "Id":  "d9483e14-8ea3-460e-b5d7-621a26d7caa1",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-15T21:44:02.3470789+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6e9b56fc-48a3-414b-b77d-a899a4c0494c",
+                      "Name":  "洗碗精",
+                      "Quantity":  7,
+                      "Price":  412.296054996100020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:19:27.0624594+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fda54895-3998-44ea-a14a-89bfbef888c7",
+                      "Name":  "面紙",
+                      "Quantity":  6,
+                      "Price":  493.990571276288720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:29:28.383675+08:00",
+                      "CompletedAt":  "2025-01-17T16:29:40.748658+08:00"
+                  },
+                  {
+                      "Id":  "c51df3cd-cd61-488f-8c03-6f4a92de718e",
+                      "Name":  "牛奶",
+                      "Quantity":  8,
+                      "Price":  322.114383941051090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:47:05.9883193+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

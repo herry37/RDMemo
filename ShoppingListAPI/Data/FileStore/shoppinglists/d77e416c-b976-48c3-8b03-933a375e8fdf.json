@@ -1,0 +1,53 @@
+{
+    "Id":  "d77e416c-b976-48c3-8b03-933a375e8fdf",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-16T20:06:53.0309644+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0e6f37e3-efe9-4033-88e3-c861da55129b",
+                      "Name":  "Small Steel Ball",
+                      "Quantity":  3,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0982617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ee29bf4-9224-4717-9573-861d9405cdd7",
+                      "Name":  "Intelligent Soft Mouse",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.09827Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85874f59-0af3-4eb9-add9-53352a0d1063",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0982725Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "224ac048-68e9-46ed-8e29-33e7c66fd2ac",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0982748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3a95819-be0d-4e42-84a6-3c103a9a6127",
+                      "Name":  "Licensed Concrete Salad",
+                      "Quantity":  3,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0982803Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

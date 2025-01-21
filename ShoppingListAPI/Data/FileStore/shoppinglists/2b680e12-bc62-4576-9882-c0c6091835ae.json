@@ -1,0 +1,62 @@
+{
+    "Id":  "2b680e12-bc62-4576-9882-c0c6091835ae",
+    "Title":  "早市採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T02:15:04.6740229+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5461478c-3aa8-4b17-84eb-60c098849b2e",
+                      "Name":  "木質相框",
+                      "Quantity":  1,
+                      "Price":  60,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:57:11.1091415+08:00",
+                      "CompletedAt":  "2025-01-15T18:50:23.9661618+08:00"
+                  },
+                  {
+                      "Id":  "43c4ec81-23c3-4e7b-8e06-fde1e18a2cdf",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:38:08.7612034+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbb415af-61a2-4ab1-b863-e796eb4756c7",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:22:34.5799877+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb0a1b63-a959-406a-999f-187c66eda8ad",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:30:18.4163309+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcffae0f-2b4f-4942-8961-c64b652a5197",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:31:27.0063459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f893806a-33d4-473e-a501-6937f8e8ed81",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:43:55.9099367+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

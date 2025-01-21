@@ -1,0 +1,35 @@
+{
+    "Id":  "c0a2e806-cf75-4669-8455-54d95bf63703",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-16T04:14:44.1606064+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b7268ff1-777a-417e-9110-42ce67cac8d7",
+                      "Name":  "防曬乳",
+                      "Quantity":  10,
+                      "Price":  302.938900185885240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:34:03.0678845+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "529779d3-0275-4726-b522-f95fb879306b",
+                      "Name":  "化妝品",
+                      "Quantity":  10,
+                      "Price":  88.041244711225110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:46:34.7509052+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0237204-197e-485d-ac35-77e9895b64de",
+                      "Name":  "餐具",
+                      "Quantity":  4,
+                      "Price":  275.370781088118370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:11:46.3009119+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

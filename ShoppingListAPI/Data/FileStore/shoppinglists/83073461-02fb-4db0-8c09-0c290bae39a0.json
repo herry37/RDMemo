@@ -1,0 +1,53 @@
+{
+    "Id":  "83073461-02fb-4db0-8c09-0c290bae39a0",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-18T03:50:25.38776+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d78f024a-0137-4d28-bd54-f07623fb0232",
+                      "Name":  "Small Soft Chicken",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8420571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f92457e-4cb2-4338-8cb9-ed9ea4d5588e",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8420604Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f44a4f82-7741-467c-800a-b40f572db080",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  368,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8420615Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f82fa819-ca91-40cd-a355-1b7e3c32e646",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  359,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8420629Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c124a4c-c37e-4491-86b7-e28fe9e6a1b8",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8420639Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

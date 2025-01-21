@@ -1,0 +1,71 @@
+{
+    "Id":  "153ec6d1-700f-44b8-ba7a-b01576bf7026",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-20T13:45:02.8637095+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8babc944-bfa7-414d-b119-8829c35616f6",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:56:12.5898303+08:00",
+                      "CompletedAt":  "2025-01-20T22:44:19.7075402+08:00"
+                  },
+                  {
+                      "Id":  "5f4808a9-8111-4ee3-b7aa-c8d923679e21",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:52:14.4888144+08:00",
+                      "CompletedAt":  "2025-01-15T12:48:27.0690583+08:00"
+                  },
+                  {
+                      "Id":  "62cb57dc-bed4-4e7a-846a-b0d87627ed5c",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T01:56:00.8241016+08:00",
+                      "CompletedAt":  "2025-01-16T03:33:28.577313+08:00"
+                  },
+                  {
+                      "Id":  "87cbb39f-2061-44b5-9c9f-94cf9567a159",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:25:18.8553946+08:00",
+                      "CompletedAt":  "2025-01-15T18:12:25.0449922+08:00"
+                  },
+                  {
+                      "Id":  "69a571b8-4318-49ec-ab96-595c3d2a88e3",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:18:10.2728008+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cbeb863-dcc3-4bf9-9461-a768d3444279",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:52:01.8927222+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e45dfb37-4da7-4816-aa0b-d73960b3cb5a",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:45:29.6260425+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

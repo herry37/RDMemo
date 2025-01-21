@@ -1,0 +1,80 @@
+{
+    "Id":  "d61c1746-5f7b-48cc-8ad5-079d9cf45a3c",
+    "Title":  "日常補充 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-18T19:11:13.3456476+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2a4e5da0-1a29-48d7-90e0-f7c0b589509c",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:08:54.1422966+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bf9868e-3737-4edb-ab93-db04c75d2ba6",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:36:12.4480533+08:00",
+                      "CompletedAt":  "2025-01-19T22:26:10.6741365+08:00"
+                  },
+                  {
+                      "Id":  "850bcd96-13e3-43a1-a628-57bcd2a0401e",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:16:28.37866+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c78cc2b5-2a83-4e0b-998f-834b5d327f66",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:11:11.817246+08:00",
+                      "CompletedAt":  "2025-01-17T12:55:10.891229+08:00"
+                  },
+                  {
+                      "Id":  "cb23049c-ff7c-4b23-85f8-ccbcd402a665",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:57:45.5915864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12d6b2df-7e68-4259-9baf-ac701940b501",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:43:40.810163+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6c68efa-36fa-4ff1-9a2a-0786475eff23",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:58:55.6277174+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02b8b600-5d3c-44bc-8697-3f716ce0bc1a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:41:19.0943986+08:00",
+                      "CompletedAt":  "2025-01-16T13:14:56.5712644+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

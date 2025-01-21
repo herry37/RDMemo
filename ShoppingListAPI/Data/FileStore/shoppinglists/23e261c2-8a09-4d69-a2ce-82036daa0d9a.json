@@ -1,0 +1,98 @@
+{
+    "Id":  "23e261c2-8a09-4d69-a2ce-82036daa0d9a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-16T07:27:51.7124944+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0e1fc052-c02c-45b0-9247-cfa14334f73b",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  6,
+                      "Price":  197.309945873648920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:11:33.8501652+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b523dd5b-0c94-40af-b65f-cae0d3a54c0d",
+                      "Name":  "梳子",
+                      "Quantity":  6,
+                      "Price":  178.564150149518060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:40:58.7118647+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f3a8235-21f0-48f1-83d0-8b64525364c4",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  358.075677586021420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:12:56.331189+08:00",
+                      "CompletedAt":  "2025-01-15T09:08:58.3289615+08:00"
+                  },
+                  {
+                      "Id":  "f7a787eb-36b1-4fe8-ae97-6bc2cd8232fe",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  302.771357119511270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:41:07.9650617+08:00",
+                      "CompletedAt":  "2025-01-18T18:51:57.9527673+08:00"
+                  },
+                  {
+                      "Id":  "6e6790e8-c1b1-4ed5-81c7-d40b2a47d20d",
+                      "Name":  "手套",
+                      "Quantity":  6,
+                      "Price":  283.197594217082920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:06:52.6004337+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "030c3075-4cba-486d-9580-36bd2bec5ac0",
+                      "Name":  "訂書機",
+                      "Quantity":  8,
+                      "Price":  51.4348277726318390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:33:15.3605331+08:00",
+                      "CompletedAt":  "2025-01-17T08:35:10.185476+08:00"
+                  },
+                  {
+                      "Id":  "6c3d15dd-d686-4e2b-b36a-68151d5376e5",
+                      "Name":  "糖果",
+                      "Quantity":  3,
+                      "Price":  413.408249840260560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:30:54.6059406+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "104232ac-90aa-4e89-bc76-cefa3865fd74",
+                      "Name":  "芳香劑",
+                      "Quantity":  3,
+                      "Price":  47.1833510349925820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:47:49.7492365+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76bc242d-ede4-49a1-9f9b-63c26c964c7b",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  226.814402750977710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:55:17.8518873+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bb16067-a2cd-4d47-8301-15d6a908a380",
+                      "Name":  "便利貼",
+                      "Quantity":  2,
+                      "Price":  92.148096826766180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T16:27:05.1362452+08:00",
+                      "CompletedAt":  "2025-01-18T13:37:14.486018+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

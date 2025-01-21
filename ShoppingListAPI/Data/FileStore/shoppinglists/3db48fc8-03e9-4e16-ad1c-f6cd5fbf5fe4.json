@@ -1,0 +1,62 @@
+{
+    "Id":  "3db48fc8-03e9-4e16-ad1c-f6cd5fbf5fe4",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T14:50:12.7977542+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fe9c8e22-4848-4302-9d8b-9558825670cb",
+                      "Name":  "Unbranded Fresh Sausages",
+                      "Quantity":  1,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4833763Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bc626df-27eb-49be-95fd-734fbf9b096b",
+                      "Name":  "Fantastic Fresh Chips",
+                      "Quantity":  3,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.483379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c39d47d7-d857-4172-a6c8-dcf3e39e944d",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4833799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "450e355a-38a7-4f02-a8b8-aef64ab44390",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4833809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93008d94-4b36-4435-8e57-deb55777556e",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4833817Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7824251-2cbb-4395-bf0b-8750849822d4",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4833828Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

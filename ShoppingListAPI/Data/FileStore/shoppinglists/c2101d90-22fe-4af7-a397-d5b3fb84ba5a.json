@@ -1,0 +1,98 @@
+{
+    "Id":  "c2101d90-22fe-4af7-a397-d5b3fb84ba5a",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T08:41:52.8698783+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43e8aa8c-316f-47c4-b9bc-fb9b1823b0fe",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9706ee5c-ebb8-4d6d-8518-a6bc1bce2707",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  185,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648803Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d4da6dd-6e5a-42a0-a109-ec53cc9b6860",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.564881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d49b3a04-5751-42d1-998f-c2e4b62abee1",
+                      "Name":  "Generic Steel Computer",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd4c139e-db42-4d86-86a7-907de307e343",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a49c43ed-2e4b-4506-9f03-e5b9c76b7e38",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648936Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08b9a238-0598-485e-9ae8-5549550242c8",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98ca16e5-df3b-4d14-8111-75f2651fa5d2",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3b2d538-1449-4953-a99c-4d5745767a8b",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648958Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92df0c88-f572-49bd-a26c-dabf56d0c308",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5648966Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "50eee343-59ff-4289-8bfd-785017ef2c50",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T09:14:02.9222648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85c6d7d6-521b-4fca-bbc2-87a13b0c2077",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:24:33.2378745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "418906a2-226d-4b1e-9c42-273ed6ee6d39",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:12:23.3561384+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e00bdd3f-bbc9-494b-b999-ffcc719cbcd6",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:39:55.4118644+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

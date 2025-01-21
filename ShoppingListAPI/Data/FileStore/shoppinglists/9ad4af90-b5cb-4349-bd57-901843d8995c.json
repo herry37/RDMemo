@@ -1,0 +1,62 @@
+{
+    "Id":  "9ad4af90-b5cb-4349-bd57-901843d8995c",
+    "Title":  "01/20 飲料購物清單",
+    "CreatedAt":  "2025-01-19T23:51:44.6145446+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58563a05-dfe1-4da9-ab6d-067747a08f87",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9333911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec458e3d-8c75-42c0-8a68-82d199dee720",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9333942Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83a00404-9f88-40f0-be2f-46df76ec0759",
+                      "Name":  "Awesome Soft Sausages",
+                      "Quantity":  3,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9334227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b3a86d9-e822-47ab-9859-3f218b9cdb73",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9334243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8f94447-ab4e-4a10-90c9-b888b6bc1038",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9334252Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0ef66aa-db42-4787-aa36-04ed440924c8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9334276Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "891fba8a-aef9-4522-9301-455b08da4890",
+    "Title":  "居家整理 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-18T02:39:46.0674845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3b5b4d85-1df0-4663-a46e-754dc4b6af0c",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:58:57.1171702+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "331b93da-b118-471d-8353-1629f06fd603",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:47:41.190869+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a94a338d-361e-4643-9ef5-6c78f2c3d531",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:35:45.0472178+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c8b58c1-d138-4b01-967e-180d75d2283f",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:57:30.9300962+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08cc5e63-3507-4abe-8a0c-464b59f633fe",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:08:32.7637877+08:00",
+                      "CompletedAt":  "2025-01-21T02:14:35.9635916+08:00"
+                  },
+                  {
+                      "Id":  "a7c766b7-4980-49be-a9bf-4df51b0c27c3",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:13:51.5814931+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cab979fe-7ec7-4094-a2f3-23d49af5d59e",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:52:07.2043156+08:00",
+                      "CompletedAt":  "2025-01-19T16:37:23.7330867+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

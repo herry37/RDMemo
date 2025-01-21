@@ -1,0 +1,35 @@
+{
+    "Id":  "52ca7a2d-6c18-4f74-b732-a30303958ae5",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-21T15:21:49.3760773+08:00",
+    "Items":  [
+                  {
+                      "Id":  "322dd5e9-1531-487f-a837-da9a6737418c",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4155373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6167b82f-f318-49d0-8a56-d069f8a312af",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4155426Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ddcdd2d-0dd8-4c62-af32-dbc7eaea2ac0",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4155436Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

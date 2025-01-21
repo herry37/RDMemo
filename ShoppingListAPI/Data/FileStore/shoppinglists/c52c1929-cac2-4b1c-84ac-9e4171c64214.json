@@ -1,0 +1,98 @@
+{
+    "Id":  "c52c1929-cac2-4b1c-84ac-9e4171c64214",
+    "Title":  "01/16 零食採買清單",
+    "CreatedAt":  "2025-01-20T19:35:59.9266027+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d82ada1b-6370-43df-87dc-e9843a25322a",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d290a076-6004-43d8-91e4-fe686427015d",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800202Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a7f46a0-4d06-4e0c-8079-a9fc67876349",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.580022Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ec25052-cac6-4f20-98b5-3d32c72a13cc",
+                      "Name":  "Unbranded Rubber Shirt",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88db0348-a892-4a70-91c4-338533ec3ca7",
+                      "Name":  "Rustic Steel Hat",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800622Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c06bb56c-209c-437e-873c-7e8416824eb4",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800652Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a95ef88a-105f-4b4a-87b8-f27db99eb08c",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b34a891a-3f48-4fc6-846c-8ac45cc80356",
+                      "Name":  "Ergonomic Steel Shoes",
+                      "Quantity":  1,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1507c74-cc36-450a-a4e9-438d9b9da41f",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51c8a227-a542-47f5-9fe3-a63985d751ea",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5800786Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

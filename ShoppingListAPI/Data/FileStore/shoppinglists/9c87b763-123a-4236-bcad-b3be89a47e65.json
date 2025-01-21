@@ -1,0 +1,71 @@
+{
+    "Id":  "9c87b763-123a-4236-bcad-b3be89a47e65",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T17:27:42.6532445+08:00",
+    "Items":  [
+                  {
+                      "Id":  "055a62ef-ccae-487b-90a9-49c7c1cd47fd",
+                      "Name":  "電池",
+                      "Quantity":  8,
+                      "Price":  280.091185693157430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:27:55.3583144+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccbfb958-ba63-4fa6-aea3-efe30dc3adb0",
+                      "Name":  "剪刀",
+                      "Quantity":  2,
+                      "Price":  67.005411423553180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:27:07.7395174+08:00",
+                      "CompletedAt":  "2025-01-19T14:52:18.2004025+08:00"
+                  },
+                  {
+                      "Id":  "f8ce91bb-181f-4296-8aa3-9907faed8f5d",
+                      "Name":  "筆記本",
+                      "Quantity":  5,
+                      "Price":  189.125728054460250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:47:43.3177775+08:00",
+                      "CompletedAt":  "2025-01-21T18:09:04.7375201+08:00"
+                  },
+                  {
+                      "Id":  "5994228c-29b1-46af-8dc4-39388f8b42ae",
+                      "Name":  "拖把",
+                      "Quantity":  3,
+                      "Price":  246.361836418144920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:48:01.4504697+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b26c51e3-d83a-45cc-bdcb-ab84c71b3313",
+                      "Name":  "牙刷",
+                      "Quantity":  8,
+                      "Price":  316.533659667721360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:48:00.8251235+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fc5d9a1-438e-494d-b606-d2486d232522",
+                      "Name":  "運動飲料",
+                      "Quantity":  8,
+                      "Price":  497.484238049700360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:00:22.8740453+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc5fe1d4-e670-44a9-bb94-bf0fdc88589c",
+                      "Name":  "啤酒",
+                      "Quantity":  6,
+                      "Price":  474.561844514092640,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:21:57.7829998+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

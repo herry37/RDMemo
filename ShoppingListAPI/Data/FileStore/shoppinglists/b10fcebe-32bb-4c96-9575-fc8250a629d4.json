@@ -1,0 +1,98 @@
+{
+    "Id":  "b10fcebe-32bb-4c96-9575-fc8250a629d4",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T17:25:28.5156657+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7e54765f-b7be-4ff4-ae10-254756b31fc8",
+                      "Name":  "Gorgeous Granite Tuna",
+                      "Quantity":  3,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d93edee3-d0db-44b2-ac52-0c57ab4892d6",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.604532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7165d287-0cae-4ab8-836f-6cf7d6a1ef66",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0a14c29-993c-4100-859d-cfe8787e4633",
+                      "Name":  "Handcrafted Granite Chicken",
+                      "Quantity":  5,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c338ff43-4d56-424e-8632-b7033698a74d",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045427Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ebcdacc-c8aa-4198-b559-1281f513a717",
+                      "Name":  "Fantastic Concrete Fish",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41422d77-27eb-4c2a-8d50-80bfc4d8ed86",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045697Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f475be87-7188-4444-989c-603c90243606",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "585bc785-4b68-46a7-be8c-b18594752619",
+                      "Name":  "Sleek Concrete Computer",
+                      "Quantity":  2,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5478f2e6-4b7c-46f7-bb91-7dbf601b9b57",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6045798Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

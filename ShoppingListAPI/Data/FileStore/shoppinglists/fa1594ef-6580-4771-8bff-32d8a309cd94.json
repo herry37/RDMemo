@@ -1,0 +1,98 @@
+{
+    "Id":  "fa1594ef-6580-4771-8bff-32d8a309cd94",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T09:01:49.7921696+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0c2b4901-3258-40af-8977-ebdbf37004f7",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.66585Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6556c27-6306-44c0-81a2-5f4bc6310fff",
+                      "Name":  "Small Steel Tuna",
+                      "Quantity":  2,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "493bd350-a751-4fb2-9c2f-e1dc259eda72",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be26b818-cbf3-4096-9a63-22e9e2edc617",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e434be0-46e6-4faa-bb17-b388b3d6b000",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658864Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68272801-a139-4015-b42e-da98e9df00f2",
+                      "Name":  "Intelligent Granite Shirt",
+                      "Quantity":  2,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe4c22af-36b2-45c6-835e-45f9a42c39d5",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fef341ac-58aa-4daf-8ac1-07823debc5c0",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  397,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6658998Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9031893-b909-4613-b0c2-eb3d79f08dae",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6659016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2106fdfc-44e9-4828-a8ce-69fe9658ef82",
+                      "Name":  "Intelligent Fresh Ball",
+                      "Quantity":  5,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6659204Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

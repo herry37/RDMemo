@@ -1,0 +1,89 @@
+{
+    "Id":  "cfa10385-507e-447b-8302-e6ae4331908f",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T17:44:23.2281398+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6b3f9789-da5f-4c99-b321-e36f903ce547",
+                      "Name":  "Incredible Wooden Car",
+                      "Quantity":  5,
+                      "Price":  387,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.724328Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "368e4acc-0e6d-49b7-bcad-9e7a8b741f0e",
+                      "Name":  "Rustic Granite Shirt",
+                      "Quantity":  4,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9c579af-3cd8-42db-9a43-ebc4e39e7252",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  434,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61664dde-0e56-4abd-9322-6d30d9be294f",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  444,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19dd17f0-ec25-410e-8ba4-c7daf9784d2e",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f3eb89d-1305-4798-b52c-e503bc5e2aa5",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "095b043d-b2d5-49ef-9df5-ea529a098ce7",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0dd318d-5f84-474d-a232-1fec7d53e869",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243901Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cd24d5f-6def-4c1f-8939-12126fbef324",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7243923Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

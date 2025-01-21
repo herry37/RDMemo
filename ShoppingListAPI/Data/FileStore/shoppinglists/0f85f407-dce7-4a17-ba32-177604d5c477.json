@@ -1,0 +1,44 @@
+{
+    "Id":  "0f85f407-dce7-4a17-ba32-177604d5c477",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T23:55:34.9444782+08:00",
+    "Items":  [
+                  {
+                      "Id":  "52b70092-719a-4ad4-96db-6d123e81ca08",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.159305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb047d3a-3898-4e73-bb0b-1d88cdfb6d11",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1593101Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a929e16-2cec-4a78-adb7-08b5d883521e",
+                      "Name":  "Handmade Frozen Chicken",
+                      "Quantity":  2,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1593335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6062df51-c7b1-4c7f-8844-c68edfdd288b",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1593355Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

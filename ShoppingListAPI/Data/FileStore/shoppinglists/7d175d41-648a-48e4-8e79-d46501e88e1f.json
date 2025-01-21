@@ -1,0 +1,80 @@
+{
+    "Id":  "7d175d41-648a-48e4-8e79-d46501e88e1f",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-16T10:45:45.1451964+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cc1e5893-c4c7-4bb9-a22b-f37d6136f575",
+                      "Name":  "芳香劑",
+                      "Quantity":  10,
+                      "Price":  30.4175889445758370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:46:58.8186953+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c293f0be-a695-4f65-be1f-70ba633b92c8",
+                      "Name":  "洗髮精",
+                      "Quantity":  8,
+                      "Price":  184.551105129450560,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:22:29.8152927+08:00",
+                      "CompletedAt":  "2025-01-19T20:03:18.8861794+08:00"
+                  },
+                  {
+                      "Id":  "dd510e8d-b7b4-4f13-94f0-8ac9b35a5e22",
+                      "Name":  "尺",
+                      "Quantity":  4,
+                      "Price":  175.91531520702040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:18:23.0764706+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d0ca32f-4c09-49c5-b250-03bdd568375f",
+                      "Name":  "可樂",
+                      "Quantity":  8,
+                      "Price":  328.223510895553130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:15:15.6549392+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33d06194-4f7d-4b9d-bdd5-0fb3b99f3f4e",
+                      "Name":  "鍋子",
+                      "Quantity":  7,
+                      "Price":  336.356943634575280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:26:28.2959952+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9faf614a-6e7e-4c38-9887-ca6054a31b55",
+                      "Name":  "爆米花",
+                      "Quantity":  10,
+                      "Price":  204.246488255988420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T17:23:33.0551455+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07c1edf5-83b7-496f-af27-d4080ac7ef97",
+                      "Name":  "肥皂",
+                      "Quantity":  8,
+                      "Price":  206.325895605129080,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:51:49.4394958+08:00",
+                      "CompletedAt":  "2025-01-20T15:49:48.7792953+08:00"
+                  },
+                  {
+                      "Id":  "863ecee0-229d-4608-a4a4-e25444493a33",
+                      "Name":  "除霉劑",
+                      "Quantity":  9,
+                      "Price":  256.489217000602240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:25:14.2051983+08:00",
+                      "CompletedAt":  "2025-01-18T02:47:30.5397854+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "8dc235f2-ac60-4bb2-85fa-006164ac19a6",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T10:43:07.8714279+08:00",
+    "Items":  [
+                  {
+                      "Id":  "40f4727b-4615-43b0-b503-b25536ec1949",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9682814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "977476c8-b7c4-45cb-88b9-3ff45bcfc15c",
+                      "Name":  "Unbranded Wooden Tuna",
+                      "Quantity":  1,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.968317Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b32256f-8510-4e29-a983-6ee04fdda798",
+                      "Name":  "Practical Plastic Shoes",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9683271Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58d8a366-75d7-47e4-837e-5293683868b6",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  411,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9683287Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c63c007e-41b3-4ca6-9275-42a4398d9961",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9683301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81b42805-fdcd-46bd-918b-2883559a2fab",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.968334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb9897d8-74cd-4d7e-a24f-de487b4ad5d0",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9683359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74a05920-bd56-4671-a89c-0efef8a417db",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9683375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56a6822e-6b12-4a4f-b0f2-6918690f9a44",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.968339Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "ac2d535b-cb22-48b7-8398-2e7d3f082a00",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-14T21:05:06.7082513+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e2e340d-d908-4e3a-aaed-5403b927c7ba",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:25:58.136305+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37392495-99f0-4156-8a59-9192ed28e839",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:43:50.6555556+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "198b6abe-477c-4cc6-9c7b-b3daae8d3c5b",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:15:37.4928419+08:00",
+                      "CompletedAt":  "2025-01-17T11:59:22.0636922+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

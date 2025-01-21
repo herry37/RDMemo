@@ -1,0 +1,89 @@
+{
+    "Id":  "58208327-5648-456e-ba94-8cc709cc5199",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T21:27:06.1387924+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ed4aac3-0577-4637-9ddc-b77589b85f0f",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  399,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231218Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d904025b-a3e0-478a-a452-8963127c8c34",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  323,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231262Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d563a900-80ba-454e-be86-5d8fa667c5c2",
+                      "Name":  "Small Frozen Pizza",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.623155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a6c8ae2-672e-41d1-9d08-1d9888950030",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6f055d5-664e-4b36-a1bd-5c0f0449c2b2",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231603Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f948266f-dc3f-4130-b8e0-1a30e1d72668",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "779d4bcd-b589-4dd7-8c50-986aa14d2bc7",
+                      "Name":  "Refined Concrete Salad",
+                      "Quantity":  4,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e705dbe-3e02-4def-9b9d-8997ffd28e32",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a10e6eea-c9e4-4d59-9d8b-7c1f2f586700",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6231758Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

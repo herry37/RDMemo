@@ -1,0 +1,44 @@
+{
+    "Id":  "a1ab7d8f-698b-4a3a-9119-cbef6689df7a",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T13:49:02.1583313+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5083c1e-6b6b-4792-8941-164ea5c14c44",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7858097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31040b55-8bd8-40e9-a2c0-e63890b8ce8a",
+                      "Name":  "Gorgeous Frozen Towels",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7858422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "562d69b4-c4d2-4c4a-b25b-19a54af42ccb",
+                      "Name":  "Ergonomic Steel Chicken",
+                      "Quantity":  2,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7858478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97fe106f-e9f9-47c1-92ff-749c601da25f",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  395,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7858492Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

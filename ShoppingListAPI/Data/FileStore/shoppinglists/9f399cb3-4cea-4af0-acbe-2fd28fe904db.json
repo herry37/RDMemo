@@ -1,0 +1,44 @@
+{
+    "Id":  "9f399cb3-4cea-4af0-acbe-2fd28fe904db",
+    "Title":  "01/20 ¹s­¹ÁÊª«²M³æ",
+    "CreatedAt":  "2025-01-20T20:25:40.4083964+08:00",
+    "Items":  [
+                  {
+                      "Id":  "75e6d092-ffe4-49a9-a6cd-d457994c88e0",
+                      "Name":  "ÆQ",
+                      "Quantity":  1,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2789984Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae4ebeb9-2c81-42f5-947d-54ab00196397",
+                      "Name":  "¬~¦ç¯»",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2790034Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c9de4ae-2d9b-4a60-9506-235aada3a7a9",
+                      "Name":  "¬~¦ç¯»",
+                      "Quantity":  5,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2790069Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2aa49fcd-62e7-42a1-9bde-14f4f14089af",
+                      "Name":  "Sleek Steel Pizza",
+                      "Quantity":  4,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2790347Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "6af29451-c166-4a69-93bc-e698328dcd4a",
+    "Title":  "緊急採買 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-17T17:47:53.1774364+08:00",
+    "Items":  [
+                  {
+                      "Id":  "199d3e13-a951-48b5-a06d-0d9600258418",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:09:57.3379846+08:00",
+                      "CompletedAt":  "2025-01-21T22:18:11.825822+08:00"
+                  },
+                  {
+                      "Id":  "2b2e0f42-5b9f-43c9-8329-cb604b65d5d8",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:58:32.4518295+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efc85fa0-adbf-4ae3-a70a-0be556b02790",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:32:48.6611247+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6921c17b-a86f-48d2-803b-67ce4d68453b",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:15:58.5093582+08:00",
+                      "CompletedAt":  "2025-01-16T06:12:44.4175529+08:00"
+                  },
+                  {
+                      "Id":  "9343809c-6077-47ba-b148-a416ed4ee336",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:41:12.0157711+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

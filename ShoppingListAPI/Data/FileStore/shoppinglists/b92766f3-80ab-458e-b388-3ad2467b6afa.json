@@ -1,0 +1,80 @@
+{
+    "Id":  "b92766f3-80ab-458e-b388-3ad2467b6afa",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T01:24:27.1334702+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c529fe6-3c6d-4de4-8aed-ec8eb64a04e4",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed86d44f-3ae3-4b13-a088-2f35b62476ee",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e19f394-d211-4136-a944-06e456e87506",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b12b832-fe66-435f-b323-8d351f9394a3",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  399,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.747706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02d89f00-2906-40a8-ab11-b2054474d10e",
+                      "Name":  "Awesome Rubber Salad",
+                      "Quantity":  5,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "946f9ba8-f5f6-4b1e-87c0-8e94afbece3f",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  352,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.747723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "249976cc-a722-46e3-8aa6-fb4f759278a0",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477238Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e915571-ab1c-45a2-8658-b3f3faa9288e",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7477244Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

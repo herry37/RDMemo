@@ -1,0 +1,71 @@
+{
+    "Id":  "49c00582-01ac-47a9-b27c-503732a1a5a6",
+    "Title":  "早市採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T08:54:13.2702854+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc0e9e04-fc6b-4d3f-8e49-c157d9c338f5",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:20:29.9404841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1024d9f5-0a23-4fd0-aed3-2a3eec743574",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:17:42.9486098+08:00",
+                      "CompletedAt":  "2025-01-21T05:35:23.0303511+08:00"
+                  },
+                  {
+                      "Id":  "b5a89969-cdf0-4f95-bd8a-d0346332489c",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:13:37.3469453+08:00",
+                      "CompletedAt":  "2025-01-19T15:05:36.3742561+08:00"
+                  },
+                  {
+                      "Id":  "70b0a9fc-565c-4fbc-8663-6ae7f2a668cd",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:32:08.1340492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc31ce41-c4a9-4edc-a8d2-4b7ba4ae5ebb",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:45:10.9842662+08:00",
+                      "CompletedAt":  "2025-01-21T18:30:30.5540326+08:00"
+                  },
+                  {
+                      "Id":  "392923b8-3663-406b-9cc3-df289ad4e0e5",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:56:43.4127588+08:00",
+                      "CompletedAt":  "2025-01-16T16:44:11.8532685+08:00"
+                  },
+                  {
+                      "Id":  "5967d87f-0f6c-4063-aee6-8253814f4dac",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:02:30.6689007+08:00",
+                      "CompletedAt":  "2025-01-20T17:49:58.3220869+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

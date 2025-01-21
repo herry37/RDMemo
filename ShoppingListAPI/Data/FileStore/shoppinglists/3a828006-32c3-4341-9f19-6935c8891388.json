@@ -1,0 +1,53 @@
+{
+    "Id":  "3a828006-32c3-4341-9f19-6935c8891388",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T23:25:16.2219019+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c91b730e-d3d7-4b4d-a7fb-bc708cf96842",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9293627Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55871310-157f-478d-b1a3-3bbc892d7f32",
+                      "Name":  "Handcrafted Frozen Tuna",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9293805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d41cb692-5afe-44b5-b09d-90a4319f4ecc",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9293818Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3704294-963c-4c52-9c08-0d5aec1a9ce3",
+                      "Name":  "Refined Wooden Mouse",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9293876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77a0dbc3-8f42-4ebd-90e2-2f22910ff8a9",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9293887Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

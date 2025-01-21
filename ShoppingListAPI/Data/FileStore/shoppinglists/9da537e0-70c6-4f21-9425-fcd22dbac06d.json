@@ -1,0 +1,53 @@
+{
+    "Id":  "9da537e0-70c6-4f21-9425-fcd22dbac06d",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-21T06:55:45.6804463+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8717c386-bd91-4e84-adec-6bad0142714d",
+                      "Name":  "Small Concrete Chair",
+                      "Quantity":  5,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5842854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dba3b7c-d2b5-4035-b87e-aca47ccdfe56",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5842895Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5ca7687-7929-4190-97c3-8fa29082158e",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5842928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5be24893-86df-41d7-9558-185e4f8a3021",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  223,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5842941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5dae695-f631-45ed-8643-28f6a3103e28",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5842952Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

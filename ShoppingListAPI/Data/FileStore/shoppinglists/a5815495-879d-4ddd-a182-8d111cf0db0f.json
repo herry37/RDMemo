@@ -1,0 +1,35 @@
+{
+    "Id":  "a5815495-879d-4ddd-a182-8d111cf0db0f",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T18:52:23.975426+08:00",
+    "Items":  [
+                  {
+                      "Id":  "caa24976-ccaa-496f-adeb-29c95828ddcd",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:20:37.7551346+08:00",
+                      "CompletedAt":  "2025-01-20T11:33:08.51015+08:00"
+                  },
+                  {
+                      "Id":  "1c7d3134-c120-4921-8305-46967291a9f5",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:20:20.777008+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8b03f35-753e-4e85-bd42-1bf8af4f6815",
+                      "Name":  "環保漂白水",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:15:47.1703823+08:00",
+                      "CompletedAt":  "2025-01-18T07:29:19.3418102+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "99c18547-b683-4933-b0ec-46199f5b6f0d",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T02:41:18.0369101+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7bed300f-3904-4d60-942d-cc2ea797d6b5",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  68.171724654494150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:34:30.0092974+08:00",
+                      "CompletedAt":  "2025-01-17T23:18:59.7012512+08:00"
+                  },
+                  {
+                      "Id":  "05d52bc2-dde8-4d04-9891-a8602c2b8c36",
+                      "Name":  "番茄",
+                      "Quantity":  6,
+                      "Price":  193.867729889504780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:11:21.1137688+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a611814-d3cf-4313-bdc1-6aa7582f4354",
+                      "Name":  "口香糖",
+                      "Quantity":  5,
+                      "Price":  398.936609327042630,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:46:04.1866002+08:00",
+                      "CompletedAt":  "2025-01-19T20:28:48.2867881+08:00"
+                  },
+                  {
+                      "Id":  "ca1c41c1-dd84-4371-80df-c8aecf280c70",
+                      "Name":  "筆",
+                      "Quantity":  9,
+                      "Price":  452.055343537966690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:00:18.7340444+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba7212c3-5854-48c5-acbe-54ac398dd23e",
+                      "Name":  "清潔劑",
+                      "Quantity":  8,
+                      "Price":  192.55276309532780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:24:16.8988892+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01a8e2e2-d9f9-4e23-81fc-7b872e0a8b4c",
+                      "Name":  "面紙",
+                      "Quantity":  2,
+                      "Price":  138.265214108239110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:15:32.6072022+08:00",
+                      "CompletedAt":  "2025-01-16T21:24:09.8211788+08:00"
+                  },
+                  {
+                      "Id":  "a1088487-18cc-45be-9ae1-3c49412630e1",
+                      "Name":  "資料夾",
+                      "Quantity":  8,
+                      "Price":  103.580945291756650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:40:29.2683951+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "edc57634-5511-4dcd-ace0-1272b9741487",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T10:16:23.6228188+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2c9d09ca-31f5-42e5-a703-2146c90b81ac",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  474,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1240736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "765bd6b9-ed2a-4a76-828c-bd9a777cf25d",
+                      "Name":  "Generic Granite Cheese",
+                      "Quantity":  2,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1241089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ae17960-ef91-4790-9bc5-c18ebc37d9cf",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1241128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fc80d57-3e88-482f-be70-4b11c83d7f3d",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1241145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51af038d-aea6-44e7-abb7-e139152d0d88",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1241159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2c90d01-ab69-478c-a585-b2548269110c",
+                      "Name":  "Rustic Concrete Chicken",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1241244Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

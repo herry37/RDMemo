@@ -1,0 +1,71 @@
+{
+    "Id":  "dca7ed50-c333-43d3-bbf0-b58619d96b13",
+    "Title":  "月底大採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T06:19:10.8227425+08:00",
+    "Items":  [
+                  {
+                      "Id":  "df680cce-4b28-4880-98f5-96ae9989a323",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  4,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:12:28.0172009+08:00",
+                      "CompletedAt":  "2025-01-21T13:04:08.9109501+08:00"
+                  },
+                  {
+                      "Id":  "9624ce5d-a6e3-4a1b-9e97-7ef69fee028c",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:40:00.4827145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d800449-757e-47f7-a73f-946f34944c71",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:46:44.6285545+08:00",
+                      "CompletedAt":  "2025-01-18T04:30:39.5889364+08:00"
+                  },
+                  {
+                      "Id":  "8b388e44-5aa0-4362-b745-5c3ba7bae993",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T05:39:38.8665833+08:00",
+                      "CompletedAt":  "2025-01-16T08:00:52.6208837+08:00"
+                  },
+                  {
+                      "Id":  "c7ada43a-1451-4228-ab63-269b4ef1fb6b",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  4,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:13:56.3184171+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f6f356f-25c2-477e-93a6-807fedf9dc19",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:01:33.0574231+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6eded522-5a18-4b18-9c9d-1fa6b460d865",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:20:22.5576671+08:00",
+                      "CompletedAt":  "2025-01-20T22:07:07.3717223+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

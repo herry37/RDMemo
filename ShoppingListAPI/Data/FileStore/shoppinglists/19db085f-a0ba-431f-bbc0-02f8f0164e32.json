@@ -1,0 +1,35 @@
+{
+    "Id":  "19db085f-a0ba-431f-bbc0-02f8f0164e32",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T11:01:30.7023085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b898d5e1-9eb5-42aa-83f9-7daaec99e6fe",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:28:46.4943451+08:00",
+                      "CompletedAt":  "2025-01-21T20:33:26.841318+08:00"
+                  },
+                  {
+                      "Id":  "9ea0c810-b76a-4273-9e5d-7ff1effb16fa",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:14:12.9559902+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f49a3b45-80ad-4ccf-8485-9206cc9f621d",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:18:37.135126+08:00",
+                      "CompletedAt":  "2025-01-18T06:49:13.4669244+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

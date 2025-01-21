@@ -1,0 +1,53 @@
+{
+    "Id":  "9a123d1b-8fc4-4330-956a-5a450137369b",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T04:39:41.0464604+08:00",
+    "Items":  [
+                  {
+                      "Id":  "44dd10c0-2c13-4a05-ace0-afd3a82805a2",
+                      "Name":  "天然果乾",
+                      "Quantity":  2,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:31:02.9172171+08:00",
+                      "CompletedAt":  "2025-01-16T09:05:08.9157899+08:00"
+                  },
+                  {
+                      "Id":  "1caff577-b159-4575-a22f-86a80e118d4c",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:15:20.0768653+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81ecb27e-5667-4a5f-bf2b-cdcf667a1df9",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:03:02.3438237+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b603eb67-238d-4664-a7f0-264984fb3305",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:38:12.9511708+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be48086d-aa18-4dc7-a4c3-8d3df03e7fc0",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:46:13.8128662+08:00",
+                      "CompletedAt":  "2025-01-21T05:15:36.8285813+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

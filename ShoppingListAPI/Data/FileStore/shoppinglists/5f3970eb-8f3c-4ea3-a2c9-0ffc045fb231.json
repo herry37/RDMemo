@@ -1,0 +1,44 @@
+{
+    "Id":  "5f3970eb-8f3c-4ea3-a2c9-0ffc045fb231",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T15:23:05.4933487+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9e998dc3-ebd1-4b87-809c-3e48a0ce2796",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:52:39.5568821+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad82c546-0621-4ab4-a471-3431ad840c40",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:36:34.3319851+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99d7cc30-0bb0-4b74-a8c8-5d2cf20d7a96",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T22:57:49.9137017+08:00",
+                      "CompletedAt":  "2025-01-20T17:55:46.2853707+08:00"
+                  },
+                  {
+                      "Id":  "93cd3ec9-6b4e-4935-bd11-b5c761592786",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:00:33.0944343+08:00",
+                      "CompletedAt":  "2025-01-18T13:38:16.4772766+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

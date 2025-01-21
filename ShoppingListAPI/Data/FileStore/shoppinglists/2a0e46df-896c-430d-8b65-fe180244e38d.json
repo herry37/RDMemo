@@ -1,0 +1,62 @@
+{
+    "Id":  "2a0e46df-896c-430d-8b65-fe180244e38d",
+    "Title":  "月底大採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T17:10:44.7707264+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c681417-f7c2-45b5-869e-e5b2ed4778de",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:16:13.7572449+08:00",
+                      "CompletedAt":  "2025-01-14T22:42:19.1383525+08:00"
+                  },
+                  {
+                      "Id":  "e5af21b6-9dc9-47e0-9583-0f1625cdd7de",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:01:11.5052444+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d850d9b-78a4-45ef-b622-f0b6043c3691",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:59:00.2063807+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87e1b33c-138d-4131-9f4e-e2c1d1ba149b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:58:09.1398141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d40dca7-f5fb-4182-8447-fbd829aa9411",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:20:05.4237563+08:00",
+                      "CompletedAt":  "2025-01-17T09:48:33.4790959+08:00"
+                  },
+                  {
+                      "Id":  "7fa508f7-e7e1-430b-9f0b-633915bbafad",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:42:57.1237404+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

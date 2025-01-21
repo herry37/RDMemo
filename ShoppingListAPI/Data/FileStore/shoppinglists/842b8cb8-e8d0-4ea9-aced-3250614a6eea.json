@@ -1,0 +1,44 @@
+{
+    "Id":  "842b8cb8-e8d0-4ea9-aced-3250614a6eea",
+    "Title":  "居家整理 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-15T12:36:20.7075604+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4bd73e95-1e41-4b2d-9cb7-543fc61baf33",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:28:48.037296+08:00",
+                      "CompletedAt":  "2025-01-22T00:25:19.0810678+08:00"
+                  },
+                  {
+                      "Id":  "f1baaa5b-0e2c-40ea-b7a8-802d6a7026c2",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:38:33.6235765+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91bb24a7-fd29-46b9-9913-00a95cc2495d",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:03:24.9581724+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fffc965-dee0-4b18-9757-92de2ceb5b5b",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  287,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:37:55.5151868+08:00",
+                      "CompletedAt":  "2025-01-18T21:20:42.0158968+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "2b1cd1aa-3efe-428e-80cd-d72f03ae25e2",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T07:37:19.4412789+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1928e224-0dff-4701-9ac7-8b74134826b0",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8740318Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c76b994-74c0-44b1-9393-5a73bd63d8b6",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8740361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa85a32a-a5c5-44dc-9474-b6cb271b4108",
+                      "Name":  "Incredible Fresh Car",
+                      "Quantity":  1,
+                      "Price":  496,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8740689Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38eb901a-68fc-4b33-aaa5-7d2abc769f8f",
+                      "Name":  "Awesome Cotton Shirt",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8740769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46dc85a3-c83a-4e86-a4cc-7755962a7500",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8740779Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e669180-6592-45b9-8a76-6d7ed773ad3c",
+                      "Name":  "Sleek Granite Pizza",
+                      "Quantity":  1,
+                      "Price":  411,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.874091Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

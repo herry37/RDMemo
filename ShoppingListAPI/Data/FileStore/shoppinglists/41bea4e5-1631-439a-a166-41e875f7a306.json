@@ -1,0 +1,89 @@
+{
+    "Id":  "41bea4e5-1631-439a-a166-41e875f7a306",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-17T00:23:43.635581+08:00",
+    "Items":  [
+                  {
+                      "Id":  "78f80d64-aae6-49fb-a0e3-d51c3ae91497",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  374,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3461907Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45f4dded-05b3-48e8-9041-d9ea202e0483",
+                      "Name":  "Rustic Rubber Tuna",
+                      "Quantity":  5,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca5deb41-726c-4fcd-b0cc-ada9d4b04690",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6e54450-df2d-498b-9756-20ba3c763006",
+                      "Name":  "Sleek Granite Cheese",
+                      "Quantity":  3,
+                      "Price":  465,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e677217c-ccee-4a13-af91-e9c996a97a19",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "493cedfa-5985-46a9-aba0-ad50a9a4dc93",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462733Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a3f8489-836a-43a2-af28-d6977db87db1",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "066a69a9-7e5a-4ffe-bc1d-61ffa54fbf7e",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  349,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.346278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8d2df42-c41a-4209-b85b-66e7a5ebe34d",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3462792Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

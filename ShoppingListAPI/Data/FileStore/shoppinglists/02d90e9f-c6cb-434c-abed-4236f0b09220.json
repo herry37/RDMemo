@@ -1,0 +1,53 @@
+{
+    "Id":  "02d90e9f-c6cb-434c-abed-4236f0b09220",
+    "Title":  "早市採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T08:28:00.011683+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bf3efa26-32b4-4bc7-972e-05a6fbd7b501",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:58:20.8872718+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1b4bfaf-59a9-4f2f-9011-0b82f17168e4",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:55:31.8172778+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2db3e93-07d8-4078-b347-75a263ac82de",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:03:02.4490732+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09fb204e-ae06-4e9b-a1ba-7190dd1a3358",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:17:51.7350471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a134b4e-ea00-4125-a98b-29aba305af85",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  5,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:08:49.824593+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

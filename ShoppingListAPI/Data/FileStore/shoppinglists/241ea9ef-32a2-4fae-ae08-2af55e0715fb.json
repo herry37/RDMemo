@@ -1,0 +1,71 @@
+{
+    "Id":  "241ea9ef-32a2-4fae-ae08-2af55e0715fb",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T01:22:47.3859158+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4a553378-3301-4b1b-abbf-47d107d94fcf",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1358994Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df6dcc27-e928-459f-943a-335e974f345b",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9beafd99-4e68-4ac5-af2f-1a16fab78f66",
+                      "Name":  "Incredible Granite Bacon",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359267Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "242fd82b-aeff-499f-8925-d43f8d986ea3",
+                      "Name":  "Handcrafted Metal Chair",
+                      "Quantity":  4,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359319Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e38063ce-aa62-4844-b98d-c332eeca68df",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359349Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14e7f116-002a-41e8-a390-86452b2fa073",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359382Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c702dca-f26a-494c-be1f-aafe97c5d13c",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1359403Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

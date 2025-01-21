@@ -1,0 +1,62 @@
+{
+    "Id":  "3b93322a-e69d-4eb4-9626-f70b98980cf6",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T20:53:44.357789+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b31318b6-aa86-4695-a3f4-d0cb4bf9943d",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:16:01.5464153+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf74a31d-caac-4be8-9d99-0bdef216837f",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:40:09.8497973+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5da53505-b920-47d7-89e2-62e5e6bf7718",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:05:35.0760457+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74300efc-9f65-411a-abbb-66c0141f80bc",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:24:17.0718432+08:00",
+                      "CompletedAt":  "2025-01-16T14:51:52.7444782+08:00"
+                  },
+                  {
+                      "Id":  "e8e3c8f3-74ea-4746-85b1-ed12318acff3",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:37:22.444436+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc489d0a-2923-469a-b4f8-03baa45a78c7",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:07:46.2227859+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

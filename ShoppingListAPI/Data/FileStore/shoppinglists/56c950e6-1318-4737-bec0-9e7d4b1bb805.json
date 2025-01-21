@@ -1,0 +1,44 @@
+{
+    "Id":  "56c950e6-1318-4737-bec0-9e7d4b1bb805",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T06:58:49.2595891+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58b3e92e-e9d7-48df-9aa5-abc98ed8a16e",
+                      "Name":  "Fantastic Fresh Soap",
+                      "Quantity":  2,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6176771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef47d372-f085-4152-99fa-48644ba1d428",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6176815Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "780b73a0-b8b7-4baa-95e9-5ec95fd1e222",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.617686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee7fe9ed-300e-47fe-98b0-e148e12e60da",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6176875Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

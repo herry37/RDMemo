@@ -1,0 +1,80 @@
+{
+    "Id":  "f6556442-a16a-45b2-80fd-52cc28e29d59",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-18T05:20:41.4756404+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27c6c04c-8824-4d47-952f-d5f13c9da6aa",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  398,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0442832Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d737ba6-2f55-4ddd-a93a-aa96989a7378",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0443241Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07636d79-3a60-4e03-bb84-9529f427bf8f",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0443358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b584850-fc15-4ee3-bdb7-da824b2ce263",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0443478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca10b419-baff-43f0-a142-c030030205e6",
+                      "Name":  "Handmade Cotton Chair",
+                      "Quantity":  1,
+                      "Price":  445,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0444458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2ca512d-61b2-46e6-843f-d24739debd38",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  271,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0444518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "019e6b23-4f33-47fd-be8d-4d4db8c0beef",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0444533Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a8a9747-2447-433a-bdf5-ca42e3508300",
+                      "Name":  "Awesome Cotton Pants",
+                      "Quantity":  1,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0444597Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

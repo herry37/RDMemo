@@ -1,0 +1,71 @@
+{
+    "Id":  "dd5d7604-646e-4056-8c64-19afbacb6351",
+    "Title":  "派對用品 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-17T01:32:28.0705806+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eec2df71-d423-421b-906d-f6e392efea98",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:31:11.8041389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "184ce714-eb07-487e-a8e5-cf4ab2b4499e",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:53:06.8192414+08:00",
+                      "CompletedAt":  "2025-01-20T01:37:08.7595082+08:00"
+                  },
+                  {
+                      "Id":  "0fae7ad6-2d21-43df-a274-9f1199dbf6f9",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:40:21.9141048+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c195ab9b-f02d-4f51-b3ce-4b80d8bee0cc",
+                      "Name":  "有機番茄",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:10:19.8936142+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d7d0d21-c40a-4e2e-b71c-7bec499edf5b",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  1,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:36:52.1439724+08:00",
+                      "CompletedAt":  "2025-01-17T19:50:29.4359742+08:00"
+                  },
+                  {
+                      "Id":  "831a2ada-a366-4f79-81d8-93ef1cfaf895",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:09:17.2604717+08:00",
+                      "CompletedAt":  "2025-01-17T17:54:43.0124428+08:00"
+                  },
+                  {
+                      "Id":  "42209ae8-922b-4bf7-83c2-a647fa9fb1b9",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:35:35.5760736+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

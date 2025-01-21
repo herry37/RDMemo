@@ -1,0 +1,71 @@
+{
+    "Id":  "b8e90651-1135-4d4f-84a7-a233f6ea615d",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T04:41:51.3734814+08:00",
+    "Items":  [
+                  {
+                      "Id":  "99742532-eed3-4716-b215-dd032846c194",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21714dea-f1d8-4894-8e85-4f490e52f27b",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "054e1cbd-0682-4fba-9da0-79e0b74ab575",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.015153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b759d16-9dd3-4f4f-87dd-6d0b4f42770c",
+                      "Name":  "Unbranded Rubber Hat",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab8b6e41-7586-4e77-b185-79d9e6f18fab",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa2a0c80-0ac0-4970-b8e7-88f11ff480d7",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151838Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f0cc14e-b451-4d07-a415-d03dba9dbf9a",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0151851Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

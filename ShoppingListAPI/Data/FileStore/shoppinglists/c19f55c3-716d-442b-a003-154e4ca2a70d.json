@@ -1,0 +1,62 @@
+{
+    "Id":  "c19f55c3-716d-442b-a003-154e4ca2a70d",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-14T12:23:56.9101822+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1fc28db7-d485-449a-af30-35e07cb50799",
+                      "Name":  "餐具",
+                      "Quantity":  10,
+                      "Price":  342.684298082081610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:15:29.853422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69a33f9b-24f2-4b8e-90a1-8757ab85b5a2",
+                      "Name":  "資料夾",
+                      "Quantity":  2,
+                      "Price":  226.407484895874720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:56:10.660262+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3d1bec5-84b3-4b0e-b241-e002fdc766fc",
+                      "Name":  "清潔劑",
+                      "Quantity":  9,
+                      "Price":  162.928434821714720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:45:49.054834+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f817b4b0-477b-4804-aad1-8069569bbf08",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  284.50904258198890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:29:12.2169723+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1c75f6a-2d7b-4a3b-8e19-1dee7dc7a8c7",
+                      "Name":  "便利貼",
+                      "Quantity":  5,
+                      "Price":  207.118262958155910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:08:24.7442045+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baed8f3d-2058-4dfa-b00e-cc1ff48307ad",
+                      "Name":  "掃把",
+                      "Quantity":  6,
+                      "Price":  353.919750806122260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:09:35.6244076+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

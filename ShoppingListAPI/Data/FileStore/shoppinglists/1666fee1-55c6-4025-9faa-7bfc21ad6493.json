@@ -1,0 +1,80 @@
+{
+    "Id":  "1666fee1-55c6-4025-9faa-7bfc21ad6493",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-21T01:04:25.2738069+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4ccd53ba-31b4-4885-bdff-51cbddb267dc",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6720358Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e545ba2-44d8-45f1-9b7c-1c4c47a1811e",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6720428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b9fea3e-2c44-4d3c-97de-8adc0c6249b6",
+                      "Name":  "Gorgeous Granite Tuna",
+                      "Quantity":  2,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79f44c68-8fc4-4ca2-8dfe-b3dd0580054a",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  286,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721247Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e445ef66-dd61-4ad2-93fb-e841b0f66a54",
+                      "Name":  "Awesome Wooden Computer",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87811a7e-0d3f-4272-a263-849c7bd9fae3",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d0c7ee0-f9aa-4838-8ac6-be848838633b",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a99878d6-625e-462c-8813-72f75128f8e5",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6721431Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

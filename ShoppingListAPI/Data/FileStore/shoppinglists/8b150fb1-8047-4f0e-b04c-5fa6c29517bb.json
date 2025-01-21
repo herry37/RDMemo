@@ -1,0 +1,98 @@
+{
+    "Id":  "8b150fb1-8047-4f0e-b04c-5fa6c29517bb",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-20T11:24:57.6973425+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1697ef68-4548-4bfd-bcbd-d65d9806a28c",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.930861Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0e13159-1979-4cc0-89f4-e8b5e7cff670",
+                      "Name":  "Sleek Cotton Tuna",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b9f5d74-39f8-47d5-b36f-dcb2cb4a5bf2",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.930881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05d27f5b-43ad-4e1a-b9e8-57c91096bb3f",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d72437f-426f-47d5-8cef-2565d11945b4",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb9d356a-5db6-4b72-932f-ca2a4b9f2ae0",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b175904e-1ad6-4018-888b-4e70dcc4b579",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d6d31fd-c7d7-4a4c-98d1-fc178b241089",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d75a4b11-f369-4234-8617-d7ba60af0dc9",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d11d3ba-afee-48b1-b86f-c490d0488f45",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9308902Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

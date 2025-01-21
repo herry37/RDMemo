@@ -1,0 +1,35 @@
+{
+    "Id":  "e9abecf7-f849-4f8b-a19c-2681ded7bd39",
+    "Title":  "01/18 零食採買清單",
+    "CreatedAt":  "2025-01-16T17:38:59.2901685+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eb4ea51a-506d-49a1-8838-76dc86eff669",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.207428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ddf39e4-c73e-4ab9-9648-5079f593c56e",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  491,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.207433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44b40e7d-f10b-4d04-a6a9-15d30f071d0d",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2074341Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

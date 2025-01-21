@@ -1,0 +1,44 @@
+{
+    "Id":  "52006e02-8051-4bd9-b109-14f31d4ef5b8",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T08:02:20.3501855+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0037622e-197f-4d84-a275-ac0eeb95f1be",
+                      "Name":  "Ergonomic Metal Tuna",
+                      "Quantity":  4,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4040571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f04c6826-a0cf-4ff7-8a25-9c6334f796bc",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4040587Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77ffc1e9-616e-4c1f-bcdf-2ad3d5986d8f",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4040595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89d64c4d-cd6b-4665-9b32-4c9262acdd46",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4040603Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

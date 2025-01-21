@@ -1,0 +1,35 @@
+{
+    "Id":  "78365f5b-2757-44e1-b87a-10131c257c22",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T13:12:28.6767153+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f125a0ce-482a-4619-937c-bd1e27af0602",
+                      "Name":  "Rustic Rubber Hat",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9204955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83347840-73e4-4eab-857f-7065a3e2f523",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  488,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9204993Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c93d534-bc28-44cf-98c3-b89b782388d6",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9205013Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

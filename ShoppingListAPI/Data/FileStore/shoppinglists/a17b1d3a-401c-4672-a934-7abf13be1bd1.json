@@ -1,0 +1,35 @@
+{
+    "Id":  "a17b1d3a-401c-4672-a934-7abf13be1bd1",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T21:54:32.719829+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3adfc002-a9be-417a-9064-9155356fb8da",
+                      "Name":  "Gorgeous Wooden Shoes",
+                      "Quantity":  1,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7672673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b18c9339-b2d9-41a0-948b-75130d0c1841",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7672727Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1b933a9-da49-4f12-ab3d-d4ded97fce17",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7672748Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

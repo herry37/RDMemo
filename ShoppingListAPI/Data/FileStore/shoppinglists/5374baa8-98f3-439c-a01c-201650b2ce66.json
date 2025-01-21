@@ -1,0 +1,35 @@
+{
+    "Id":  "5374baa8-98f3-439c-a01c-201650b2ce66",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T20:50:19.3671412+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2fa5eb56-9d53-43e7-ac76-980342222a63",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1138608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e1053c4-6f50-43e2-a4a4-ce3e5c8dfbdc",
+                      "Name":  "Refined Rubber Bacon",
+                      "Quantity":  1,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1138988Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7c23804-5931-46ad-993f-1484c2997821",
+                      "Name":  "Practical Metal Gloves",
+                      "Quantity":  3,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.113905Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

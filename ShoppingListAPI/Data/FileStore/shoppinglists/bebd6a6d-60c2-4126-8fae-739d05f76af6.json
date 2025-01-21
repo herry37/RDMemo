@@ -1,0 +1,71 @@
+{
+    "Id":  "bebd6a6d-60c2-4126-8fae-739d05f76af6",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-16T19:26:22.5392399+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aa73eee0-4693-4b89-850e-7e5fa4f6f716",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81f4d9f2-e4b6-4b76-b3e3-e33633d2367a",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732135Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1af746a2-05d2-48ba-9706-370b15c0d18c",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732185Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "350c85a3-41f6-44fa-bf62-9c3aad25ee39",
+                      "Name":  "Unbranded Wooden Cheese",
+                      "Quantity":  1,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732456Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "751d804a-b21d-46e3-8cb4-facbf57a1dd3",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.773248Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68d5b000-6c97-4848-8666-b5c6cdaaf81d",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732523Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7761cf7-58b7-4d02-b022-6ec4db8f3d67",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7732551Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "2c16c652-e5cb-4b8e-96a2-b8ed395c7f7e",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-21T06:39:34.9220091+08:00",
+    "Items":  [
+                  {
+                      "Id":  "46408496-3814-4ef1-975b-f51180ae3139",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4003862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "234c4284-1fa7-41ca-88d7-3134346a3621",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4003905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd93ced5-75fa-49b6-b754-1df027216838",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  173,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4003915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b342f0b-a6ec-4c96-a995-066cd7a375a5",
+                      "Name":  "Licensed Frozen Chair",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4004129Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

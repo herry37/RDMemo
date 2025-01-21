@@ -1,0 +1,71 @@
+{
+    "Id":  "540ee778-b177-40b3-a503-2c40d4fc247e",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T16:48:56.5174983+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3970517b-29e2-4b36-bf49-1e6419fcff79",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.987819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "965b7755-4cc8-45f1-b350-fe78ed01365d",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9878235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d72a58f-cf8b-40a1-8970-358b9fb2e4c3",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9878266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9231eae9-2f53-4846-8766-db7f43ec9745",
+                      "Name":  "Practical Granite Fish",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.987856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0b988e5-c396-4604-b7ed-318f8e670c42",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9878577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d1c66a5-575e-4158-a3b1-ca91e7f941e6",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9878612Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62b8735a-1823-4a8e-9592-4e04f5e3b084",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9878631Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

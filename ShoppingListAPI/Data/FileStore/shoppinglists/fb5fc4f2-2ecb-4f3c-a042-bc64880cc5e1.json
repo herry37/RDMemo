@@ -1,0 +1,89 @@
+{
+    "Id":  "fb5fc4f2-2ecb-4f3c-a042-bc64880cc5e1",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T13:03:21.1352522+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8cbfe797-1bf1-4ab9-8663-fae2b4e8e4e5",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6940813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef696236-9f3e-4ac9-b777-c4617d26a2b3",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6940855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "805552a2-997c-4fdd-9b78-1f2edabe2246",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  17,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6940868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a01d4a3-ce5b-4516-9b2b-0e447abb5d2d",
+                      "Name":  "Ergonomic Concrete Bacon",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f59171d5-e30c-4ed7-b08f-490be826ea1e",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941137Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c366311-d209-4b0f-9ac1-94f176491619",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941166Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10a99c46-931d-4ae4-9478-ed550b64e704",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  457,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc190885-0280-46c6-9be4-5945ed17251e",
+                      "Name":  "Refined Concrete Sausages",
+                      "Quantity":  4,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941296Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b4cce00-a142-4fa9-93bf-bda36a43b596",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6941307Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

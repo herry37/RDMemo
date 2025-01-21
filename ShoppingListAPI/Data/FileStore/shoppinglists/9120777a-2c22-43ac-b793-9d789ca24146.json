@@ -1,0 +1,98 @@
+{
+    "Id":  "9120777a-2c22-43ac-b793-9d789ca24146",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T19:31:52.6525144+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c67c7475-825f-4c51-a6db-6f325dfc02e2",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d56a5844-e751-4612-905d-72fed34621c6",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4713819b-b912-4acc-9bac-548444ed44d7",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cf7cadd-7203-4a32-a5f7-b4e8047ec5be",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514173Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18a23791-8044-4ffc-ba9c-db30c08c17e4",
+                      "Name":  "Handcrafted Steel Shirt",
+                      "Quantity":  4,
+                      "Price":  377,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514387Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d6d2164-4a9e-4e09-a308-e3a6c83dc44b",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514419Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2547a0a-91a9-48b9-9cdf-7086cea0bebf",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08c332ea-580d-46f7-bda5-97cfbd101818",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "685339be-94d7-4086-abfa-a51e0169aed8",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.051445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cb56e3b-87fd-4960-9ec6-b1875c59c469",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0514465Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

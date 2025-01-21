@@ -1,0 +1,53 @@
+{
+    "Id":  "3dc5313a-54fb-45c1-a6aa-976f158175b6",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-14T19:00:07.1166913+08:00",
+    "Items":  [
+                  {
+                      "Id":  "54fa7283-a854-4a58-9051-80003157583a",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:15:55.9628522+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ff3e227-1b7b-480b-9082-15580424062e",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T05:15:19.3686264+08:00",
+                      "CompletedAt":  "2025-01-18T02:27:49.9874156+08:00"
+                  },
+                  {
+                      "Id":  "7b720e18-2efd-4fe8-8b1c-6cb880b13f92",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:59:50.5953802+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8acf1be-e349-44a0-8392-dc4da6108930",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:00:41.4301269+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99d0131b-bc52-4ee1-8734-1e22650e5934",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:27:29.916004+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

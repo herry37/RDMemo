@@ -1,0 +1,35 @@
+{
+    "Id":  "c603c7e9-8962-4db2-b869-25ff3dcac1ee",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-16T22:25:29.7695294+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86b17f32-115c-4872-a482-19f9790e9cee",
+                      "Name":  "日本泡麵",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:41:01.9224976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ed22bda-3b2c-4c49-8241-af51b6d89fca",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:53:47.8118896+08:00",
+                      "CompletedAt":  "2025-01-18T00:42:10.1055785+08:00"
+                  },
+                  {
+                      "Id":  "7ac63f86-4d74-4e59-a137-e03a929f5959",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:50:21.7922994+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

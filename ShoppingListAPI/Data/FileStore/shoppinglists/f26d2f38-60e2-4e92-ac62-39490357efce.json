@@ -1,0 +1,62 @@
+{
+    "Id":  "f26d2f38-60e2-4e92-ac62-39490357efce",
+    "Title":  "派對用品 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-18T01:57:57.3151987+08:00",
+    "Items":  [
+                  {
+                      "Id":  "182f306c-5317-41ef-8bcc-0f57ea2dbaca",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:15:33.767143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaeb09bd-1b7b-476c-bb4a-c8a3e99ce49e",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:43:55.3459213+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ea0f83e-a139-4583-81f9-be1ef3608902",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  221,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:24:36.3106692+08:00",
+                      "CompletedAt":  "2025-01-19T11:26:38.9759099+08:00"
+                  },
+                  {
+                      "Id":  "16f261fa-5752-414e-9e68-859985e44122",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:59:22.7575518+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3cc5343-af3b-4abe-bf3d-d5372dc7e797",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  42,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:49:50.7481419+08:00",
+                      "CompletedAt":  "2025-01-21T17:53:42.2994645+08:00"
+                  },
+                  {
+                      "Id":  "1f61fdbe-854e-4672-9444-d3a18f406cb3",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:10:29.4859236+08:00",
+                      "CompletedAt":  "2025-01-16T13:54:47.3183076+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

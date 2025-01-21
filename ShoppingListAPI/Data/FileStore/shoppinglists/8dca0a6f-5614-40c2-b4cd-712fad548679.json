@@ -1,0 +1,71 @@
+{
+    "Id":  "8dca0a6f-5614-40c2-b4cd-712fad548679",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T00:48:38.5992589+08:00",
+    "Items":  [
+                  {
+                      "Id":  "279b77c8-f9f3-4730-8102-4e846375b711",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7a22f31-43d4-4268-a7a6-a7a9954ecf30",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ff22d62-10e8-4796-b7a1-a36590f5df1f",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350385Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17ef2d0c-59cc-4a57-8d70-3e30aa9b7bd2",
+                      "Name":  "Tasty Steel Salad",
+                      "Quantity":  5,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd565e78-f3a0-4ec5-80d5-ba29ccd696a8",
+                      "Name":  "Sleek Fresh Salad",
+                      "Quantity":  1,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ad29e38-2d7b-4c7b-a377-4a3135eb8883",
+                      "Name":  "Incredible Metal Bike",
+                      "Quantity":  4,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb36d252-4fa2-4b33-a8c0-e064f9b24f71",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  221,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2350539Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

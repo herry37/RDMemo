@@ -1,0 +1,44 @@
+{
+    "Id":  "e59abada-7a7c-45b7-bfbb-7d276f123818",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T21:50:29.3319695+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8885bc43-af3d-481c-885f-94c98c39dde1",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4416415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcff5d59-0e94-4329-b6d7-b173b6b3c0e7",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4416459Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a16b034-29ed-434a-b36f-342faf749171",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4416497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91fcb97f-86e2-4260-b8ad-ede9011cf7cd",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.441651Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

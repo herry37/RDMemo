@@ -1,0 +1,80 @@
+{
+    "Id":  "681621b6-78a2-44d4-9d87-c9e7e2b37208",
+    "Title":  "日常補充 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T07:39:24.1377175+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88a8435a-780a-4191-9468-35c0f0299f24",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T20:47:59.8765678+08:00",
+                      "CompletedAt":  "2025-01-19T22:56:33.6111541+08:00"
+                  },
+                  {
+                      "Id":  "beab6280-dae8-42be-b8d6-ec122096a286",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:49:51.5753954+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39585aec-0e20-49ab-bb89-52cbac8518f9",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:07:48.9679817+08:00",
+                      "CompletedAt":  "2025-01-20T09:26:51.1338734+08:00"
+                  },
+                  {
+                      "Id":  "a25e3a9a-dd59-4afd-be46-585540917b7d",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:51:26.0420958+08:00",
+                      "CompletedAt":  "2025-01-21T03:45:14.3246719+08:00"
+                  },
+                  {
+                      "Id":  "b0fa3872-7356-4fb6-a88d-c9938e75c0d1",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  1,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:26:42.8937216+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b01848c1-cbcf-4076-8ce6-2e28ca9b5651",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:54:26.0452318+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c26872de-60bc-426b-8961-53536b8ac3ec",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  3,
+                      "Price":  96,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:38:07.2140954+08:00",
+                      "CompletedAt":  "2025-01-22T01:31:49.2644746+08:00"
+                  },
+                  {
+                      "Id":  "a59ef0a9-0f0e-41e5-a6bd-8759fb7166eb",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:37:57.7467029+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

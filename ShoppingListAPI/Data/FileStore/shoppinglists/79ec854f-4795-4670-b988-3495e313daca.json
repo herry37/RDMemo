@@ -1,0 +1,80 @@
+{
+    "Id":  "79ec854f-4795-4670-b988-3495e313daca",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T21:00:12.6876783+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e15489a7-7eac-487f-a2fd-0613918d6407",
+                      "Name":  "便利貼",
+                      "Quantity":  10,
+                      "Price":  336.247981606966930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:35:28.7232788+08:00",
+                      "CompletedAt":  "2025-01-18T03:39:38.7525989+08:00"
+                  },
+                  {
+                      "Id":  "cb031e5e-f7a5-48da-853b-8e2affa04038",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  386.001506349409710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:06:28.5259535+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f4d570b-3775-4499-a5bc-75a267753b62",
+                      "Name":  "便利貼",
+                      "Quantity":  8,
+                      "Price":  32.6969578647567210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:07:22.9038104+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af062117-fd1a-45f1-a9d0-cbe5d65d8d97",
+                      "Name":  "泡麵",
+                      "Quantity":  8,
+                      "Price":  417.288324544263190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:17:17.3373629+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ed0bced-9940-4d3d-8222-d17c1d044a6a",
+                      "Name":  "芳香劑",
+                      "Quantity":  7,
+                      "Price":  156.740204864146040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:37:47.8277004+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4751d4d-d63c-4bb7-98de-9e8fd3a2a547",
+                      "Name":  "抹布",
+                      "Quantity":  6,
+                      "Price":  248.553028058970870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:22:47.69409+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb20dc54-7ac5-4a06-b102-d4ac8e969d20",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  340.105493455389960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:09:48.2767229+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cddfb670-0ae8-43e3-a2ec-8defd15ea1b7",
+                      "Name":  "檯燈",
+                      "Quantity":  9,
+                      "Price":  327.990808910940760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:36:49.9990003+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

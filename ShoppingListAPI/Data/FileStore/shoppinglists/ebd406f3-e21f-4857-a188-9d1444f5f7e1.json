@@ -1,0 +1,89 @@
+{
+    "Id":  "ebd406f3-e21f-4857-a188-9d1444f5f7e1",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T09:02:23.4042059+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4e0fedf7-727b-42bf-b3bc-d35f336580cc",
+                      "Name":  "Awesome Rubber Mouse",
+                      "Quantity":  2,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206091Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48295889-58c2-4f5b-8776-ca57568392fb",
+                      "Name":  "Gorgeous Steel Salad",
+                      "Quantity":  4,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38b852d8-c7e7-4335-938f-e46a4e2d9d7c",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206176Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a563ed3-f576-4b53-85a1-657b1f5271ee",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.920619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4159c8c-a70b-4ad0-b0c5-6ce04297c6de",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48f00d30-3019-4d72-b033-3c5f0b0c1b29",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206222Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c77123e5-2d96-4ed6-8b22-aac6c842dc4c",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.920623Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a254bd1-d429-4882-8a2e-8a57785dc7e8",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9206242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e7572dd-94f9-4c98-b1f9-2ff8b62b2574",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.920625Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

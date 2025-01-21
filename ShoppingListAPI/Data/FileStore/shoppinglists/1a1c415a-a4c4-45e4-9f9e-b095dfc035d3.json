@@ -1,0 +1,80 @@
+{
+    "Id":  "1a1c415a-a4c4-45e4-9f9e-b095dfc035d3",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T01:26:35.1606305+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e41d2fe-1025-433c-907b-bced7e5c6b1e",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351838Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f48d88a2-ebac-4bac-ac94-391e19b4b0c7",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351903Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "247e7d91-f56a-412f-bdcb-4c624f7f6736",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351914Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52d57358-479a-4c75-aa88-2ad5cf37ad92",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c5163e1-a85b-40b2-922f-6453846fdadb",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351933Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35dccef9-fcec-429e-b209-8c25c69555f4",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee0891f8-f9ce-4951-b460-e79dee726a31",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97e91765-9820-47e2-958a-b80b838a46db",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0351983Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

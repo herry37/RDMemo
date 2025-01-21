@@ -1,0 +1,35 @@
+{
+    "Id":  "94971f21-e904-4c77-aa67-deca06011453",
+    "Title":  "每週採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-15T05:56:22.3175033+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37e4bba5-7214-4d96-83b5-59e5b7e58ac5",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:55:09.8402144+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4de43571-208e-47a5-ae7e-28e627035f80",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  4,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:00:01.2449291+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b796cae-d67e-4255-a4d2-ec44f0e63d35",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  286,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T21:20:41.5290102+08:00",
+                      "CompletedAt":  "2025-01-20T16:28:17.4072439+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

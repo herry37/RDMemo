@@ -1,0 +1,44 @@
+{
+    "Id":  "d6aed647-05bf-4fd7-9e00-21f831050b3e",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T14:25:10.6314608+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a6969c4f-73af-4b6f-8672-c9bdcbee673d",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  195.761905237627180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:34:25.7388958+08:00",
+                      "CompletedAt":  "2025-01-17T02:40:59.4099268+08:00"
+                  },
+                  {
+                      "Id":  "cb3aed25-fe8d-455c-9dac-01241b8701a7",
+                      "Name":  "拖把",
+                      "Quantity":  1,
+                      "Price":  212.054153951481860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:13:06.7783036+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ada6bc0b-507e-45c0-99e6-985b6b523f80",
+                      "Name":  "相框",
+                      "Quantity":  10,
+                      "Price":  150.89472426872850,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:20:51.0403621+08:00",
+                      "CompletedAt":  "2025-01-19T11:15:38.0736913+08:00"
+                  },
+                  {
+                      "Id":  "2fd7f3c9-cdac-43c4-ba32-3a93044e78c7",
+                      "Name":  "橡皮擦",
+                      "Quantity":  9,
+                      "Price":  275.729576219146550,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T15:18:48.7418959+08:00",
+                      "CompletedAt":  "2025-01-14T22:45:45.0832468+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "06c38013-4c77-44e0-b20b-5587e3c4adae",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-14T17:26:00.0129428+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f2ed2c1e-5f07-4026-9bbd-94b62715bef0",
+                      "Name":  "杯子",
+                      "Quantity":  1,
+                      "Price":  196.145608045374320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:11:10.5200865+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52b38be9-2fa0-405a-9723-2b375eacaf8b",
+                      "Name":  "毛巾",
+                      "Quantity":  9,
+                      "Price":  225.103957832505210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:02:36.5231278+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac08626d-1721-4fe9-898f-6d78c9ba17d8",
+                      "Name":  "洋芋片",
+                      "Quantity":  7,
+                      "Price":  96.708019546945580,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:56:01.4495342+08:00",
+                      "CompletedAt":  "2025-01-18T21:24:03.0987526+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

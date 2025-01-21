@@ -1,0 +1,44 @@
+{
+    "Id":  "e4df6ded-18f7-4566-bd63-df79d64b9340",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-20T10:38:43.318631+08:00",
+    "Items":  [
+                  {
+                      "Id":  "167a8f0e-3805-4bd0-9266-f94305926463",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:36:52.8408996+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de7cd8a9-9278-4014-a68a-0b3279cfd855",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:41:39.6152414+08:00",
+                      "CompletedAt":  "2025-01-18T06:42:37.9925592+08:00"
+                  },
+                  {
+                      "Id":  "c7186cc8-e429-4338-a8bd-d4f4af5be26e",
+                      "Name":  "靜電掃把",
+                      "Quantity":  1,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:31:32.9516762+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99fe29a6-7fa4-4841-bfd4-6c880174d752",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:58:51.0618508+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

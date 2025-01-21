@@ -1,0 +1,35 @@
+{
+    "Id":  "c7d61404-f5ed-47eb-a2fd-18ed881a6113",
+    "Title":  "日常補充 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-19T15:24:55.4746297+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dcf6eb72-d851-4f74-a95a-f6f4dbbce8d4",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:22:29.3676039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9748dd0-024d-4c14-b30e-2deb4777a443",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  207,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:35:47.37569+08:00",
+                      "CompletedAt":  "2025-01-20T14:40:19.0837367+08:00"
+                  },
+                  {
+                      "Id":  "9926b5cd-571a-4b7b-b80f-760f0b64def8",
+                      "Name":  "金屬直尺",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:50:45.1952941+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

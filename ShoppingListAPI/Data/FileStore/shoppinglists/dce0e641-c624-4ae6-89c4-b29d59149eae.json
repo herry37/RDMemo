@@ -1,0 +1,35 @@
+{
+    "Id":  "dce0e641-c624-4ae6-89c4-b29d59149eae",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-18T09:13:19.2907302+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e540d12e-6b98-445e-932f-3e40ebb9a2d3",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5529179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db1ce951-5606-4ed3-90af-e7decf08d64a",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5529222Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cf7cbab-e5a9-4a93-a428-a081e2b42336",
+                      "Name":  "Handcrafted Frozen Soap",
+                      "Quantity":  2,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5529474Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

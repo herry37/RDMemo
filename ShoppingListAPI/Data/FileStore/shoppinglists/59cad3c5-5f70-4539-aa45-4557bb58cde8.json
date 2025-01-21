@@ -1,0 +1,62 @@
+{
+    "Id":  "59cad3c5-5f70-4539-aa45-4557bb58cde8",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-20T03:39:42.6372459+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c736041a-3dce-4a19-9dc1-2a91d282e1f7",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  226.919529172147970,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:26:48.0048393+08:00",
+                      "CompletedAt":  "2025-01-19T02:43:11.5518965+08:00"
+                  },
+                  {
+                      "Id":  "fdb0ab37-08af-47d9-9f03-4c5e6e8b1143",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  41.1458447610861250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:00:38.4159986+08:00",
+                      "CompletedAt":  "2025-01-17T09:04:05.7650047+08:00"
+                  },
+                  {
+                      "Id":  "e2713911-ef19-4de4-8a5f-119e304c8bb6",
+                      "Name":  "碗",
+                      "Quantity":  10,
+                      "Price":  88.522150820854510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:24:30.0649576+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "136badaa-9eb6-432b-8036-7d49e6511eb2",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  318.658061830198850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T18:05:14.571867+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a9594c8-2c52-4f62-b1f7-8369d007b99d",
+                      "Name":  "巧克力",
+                      "Quantity":  9,
+                      "Price":  495.869239519732180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:58:09.3139003+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c4e7fab-2cc6-4d22-b50d-d8915f0e1ff4",
+                      "Name":  "膠帶",
+                      "Quantity":  1,
+                      "Price":  233.137374386787210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:00:57.9496121+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

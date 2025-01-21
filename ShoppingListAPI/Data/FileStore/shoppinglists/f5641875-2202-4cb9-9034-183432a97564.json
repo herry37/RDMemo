@@ -1,0 +1,62 @@
+{
+    "Id":  "f5641875-2202-4cb9-9034-183432a97564",
+    "Title":  "露營準備 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-19T11:29:34.8461636+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b8f3a62-299e-4e63-88c8-e431664d4c2a",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:01:32.3500997+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5e59ff5-c5f8-494b-8bf2-363b0136fc47",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:15:38.2925441+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ea06f34-2d30-4334-87fe-bd9ba6ed6db3",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:24:12.0920889+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e531614a-8ffa-4073-8b9a-d3697fe9384f",
+                      "Name":  "美白牙膏",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:31:47.5548225+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f25aab1-936e-4f4c-bc1e-3be0896356ab",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:34:19.5823913+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cd422c2-f358-4f4b-bc22-e624abbffdbc",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:48:19.0888135+08:00",
+                      "CompletedAt":  "2025-01-18T10:59:07.5025878+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

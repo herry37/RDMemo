@@ -1,0 +1,44 @@
+{
+    "Id":  "034de8bf-1865-409c-af46-b761905dc857",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T20:03:45.2489304+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5cdddd5d-ecef-429c-a863-1380d0223828",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.413465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9fff422-52eb-42e9-8c11-ccea6c009519",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4134662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5088df50-03c1-41cb-a547-b996d90baa21",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4134671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdba676e-1abb-43fa-ac8f-e324c2a5d98f",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4134681Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

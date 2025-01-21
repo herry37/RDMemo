@@ -1,0 +1,80 @@
+{
+    "Id":  "0a9884b3-76a7-449f-816f-8eb89e2cc321",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T13:50:30.0659555+08:00",
+    "Items":  [
+                  {
+                      "Id":  "49537f83-0885-4a91-bb83-4b3af2aa3a2b",
+                      "Name":  "筆筒",
+                      "Quantity":  6,
+                      "Price":  111.960746794179840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:26:26.1568785+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "711e0983-8e80-4ea3-816c-5b8831bb7782",
+                      "Name":  "清潔劑",
+                      "Quantity":  10,
+                      "Price":  364.05344506911540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:28:40.9731883+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcaa1f2d-b703-4f59-8e88-5922a503f5aa",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  465.206517033130030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:58:35.8324381+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73cb2513-8874-475c-ba49-8eadb9c1566d",
+                      "Name":  "筆記本",
+                      "Quantity":  3,
+                      "Price":  186.239633601647840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:50:55.7839623+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dabc319f-653f-4642-b092-0a4a2cbec23a",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  7,
+                      "Price":  439.021520406867290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:49:42.3454911+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c8aeb49-8bcb-41d1-9d97-fb81db773a79",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  318.530780185905760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:59:07.6488308+08:00",
+                      "CompletedAt":  "2025-01-15T15:54:08.3823429+08:00"
+                  },
+                  {
+                      "Id":  "61d310f1-9d08-4ff8-ad90-07172d22d7b4",
+                      "Name":  "置物盒",
+                      "Quantity":  8,
+                      "Price":  281.764570383489960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:32:35.220872+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb18652e-2e60-4f57-b83c-712fe76f4611",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  290.539907127408530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:24:08.9527534+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

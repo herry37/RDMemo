@@ -1,0 +1,44 @@
+{
+    "Id":  "3a2aef90-a65d-4c19-a6d6-4df87270b471",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-17T09:53:47.4567172+08:00",
+    "Items":  [
+                  {
+                      "Id":  "736dbbcb-cd69-47e6-8f6a-5476560c1bc2",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  175.295471840793770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:15:03.6147393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1936e891-843b-4715-a5dd-70783f186753",
+                      "Name":  "漂白水",
+                      "Quantity":  10,
+                      "Price":  30.118559698385050,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T20:47:56.3763056+08:00",
+                      "CompletedAt":  "2025-01-21T13:02:24.9868159+08:00"
+                  },
+                  {
+                      "Id":  "819c043b-4b58-4c2a-8ca8-390e3242aa83",
+                      "Name":  "洗髮精",
+                      "Quantity":  7,
+                      "Price":  461.177189971717160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:25:34.7179524+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fed14ee4-a032-463f-a6bf-8a99aeb741bc",
+                      "Name":  "洋芋片",
+                      "Quantity":  5,
+                      "Price":  427.757078871263390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:06:14.6736403+08:00",
+                      "CompletedAt":  "2025-01-22T03:29:23.559851+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

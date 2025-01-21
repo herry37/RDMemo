@@ -1,0 +1,80 @@
+{
+    "Id":  "61499d76-a0ff-4266-9c4a-e46f730351d4",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T00:57:46.6610666+08:00",
+    "Items":  [
+                  {
+                      "Id":  "67a06e9d-f2f6-4286-a707-8f6135d450bb",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  442,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164286Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b3da859-0a1e-4ef8-a34b-44eafe5f9f03",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.816433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa452ebd-4552-4765-911f-7338e649c5ff",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  461,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdfe948d-617c-43ae-9b07-188363511615",
+                      "Name":  "Handcrafted Cotton Bike",
+                      "Quantity":  2,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164632Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa1026e6-0050-4516-9d51-f4178f1acf64",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77c2d54f-6f8a-4f57-9463-d2284a4901b8",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5693ae00-9fcc-426c-8891-21a47d4c407a",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3bd50e5-4309-40df-8eea-0ab432f4ccbd",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8164697Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

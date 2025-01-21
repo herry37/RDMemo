@@ -1,0 +1,71 @@
+{
+    "Id":  "988585f5-ef87-44bb-a345-2c2fe5868871",
+    "Title":  "日常補充 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-20T02:30:27.2346919+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0c8f842-34c4-4006-830e-ace9c36670ab",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:00:15.3998782+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c7fa7f6-0391-4680-8dc6-21e7025fdb38",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  1,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:14:41.7802002+08:00",
+                      "CompletedAt":  "2025-01-20T23:50:43.1088939+08:00"
+                  },
+                  {
+                      "Id":  "b8cd517b-5eac-480f-aa7e-af70ba71d635",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T19:48:57.815215+08:00",
+                      "CompletedAt":  "2025-01-16T11:28:15.7889789+08:00"
+                  },
+                  {
+                      "Id":  "6da858fc-7521-4a01-8de0-2a3bd431c91f",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:30:46.0121527+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fb1450a-e784-4e13-b6f2-78fb15e4cf54",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:50:46.7559075+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8ea69ab-1702-4b8f-b3b0-7f166faae895",
+                      "Name":  "有機綠茶",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:03:47.0845957+08:00",
+                      "CompletedAt":  "2025-01-16T19:52:17.3289783+08:00"
+                  },
+                  {
+                      "Id":  "9ac8e7e0-407e-4108-b6c8-4fbd89b5cc65",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:40:48.5930832+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "b5116132-ec70-432b-a506-b76a19a406d4",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T04:02:41.2688649+08:00",
+    "Items":  [
+                  {
+                      "Id":  "652088c4-0b73-485b-9e18-7a7d59b985fb",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  322,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507019Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0a1cb59-5dd8-445c-8a86-3f416c472e93",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507048Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f1069bb-880e-442c-97a6-d2c110feae0e",
+                      "Name":  "Ergonomic Frozen Shirt",
+                      "Quantity":  1,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc77f050-5cf7-4494-947d-55983dec3204",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507274Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bfb84e7a-fcca-4b52-be44-24ba962853cb",
+                      "Name":  "Licensed Granite Gloves",
+                      "Quantity":  3,
+                      "Price":  357,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.150731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1429279f-54ed-4c4f-b3f1-d595e5976d9f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  337,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507331Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9883c91-84b8-426f-8881-7ec01cc8d7c3",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94a97a09-613b-44aa-8b98-05de089111b0",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.150735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a461791-00bc-4840-a99d-027e6bec2850",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "909f6a8c-1857-4a79-9af3-d7ebbcd19211",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1507368Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

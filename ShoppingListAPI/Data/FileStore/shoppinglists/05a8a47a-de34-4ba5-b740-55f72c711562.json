@@ -1,0 +1,35 @@
+{
+    "Id":  "05a8a47a-de34-4ba5-b740-55f72c711562",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-16T08:21:09.3506096+08:00",
+    "Items":  [
+                  {
+                      "Id":  "40f4d7cc-8a42-4730-89ac-2e3b0b4ca6c7",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0308149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8685818-5435-4298-8fd3-cecce8daf32f",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0308183Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ecc672e-dbde-424a-bde5-4ce0680317c0",
+                      "Name":  "Gorgeous Steel Pants",
+                      "Quantity":  1,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0308436Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

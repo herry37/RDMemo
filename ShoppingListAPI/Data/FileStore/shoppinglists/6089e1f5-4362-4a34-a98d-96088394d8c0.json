@@ -1,0 +1,35 @@
+{
+    "Id":  "6089e1f5-4362-4a34-a98d-96088394d8c0",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-15T14:42:31.4487706+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c41b482a-3645-495f-90b5-ede0bf595ba6",
+                      "Name":  "Generic Granite Cheese",
+                      "Quantity":  5,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8808165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1cdfff2-c8a7-4e90-8514-e046ad60d5e5",
+                      "Name":  "Incredible Metal Shoes",
+                      "Quantity":  4,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8808233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "676b06e0-b4ad-412b-b4a2-a57cc1575f31",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  429,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8808266Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

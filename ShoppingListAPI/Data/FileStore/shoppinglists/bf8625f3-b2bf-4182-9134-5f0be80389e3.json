@@ -1,0 +1,89 @@
+{
+    "Id":  "bf8625f3-b2bf-4182-9134-5f0be80389e3",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-17T08:28:04.3536353+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86d9fdee-c0ce-4b31-93da-758f990c6616",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9429786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5fb399c5-99cf-4309-bfb4-6dccbabc600b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9429841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bc75c95-7e1c-4755-b321-16f241a3b46b",
+                      "Name":  "Rustic Fresh Sausages",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.943015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a66a87da-22cb-44b1-aede-ecb9e518719a",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.943017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b8159dd-efda-4222-9256-b4f3c7ff5b47",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9430184Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b51c3de-15f7-476e-9115-0341e287dec3",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9430217Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14e1a109-6d01-4501-9d6e-e130f0342551",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9430237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fe3000b-bd82-4a13-9421-316a1daaf2b8",
+                      "Name":  "Fantastic Granite Ball",
+                      "Quantity":  2,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9430305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24b2a18b-d73c-4b51-97a3-7ab08ec403ea",
+                      "Name":  "Sleek Fresh Hat",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9430425Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

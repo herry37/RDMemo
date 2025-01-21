@@ -1,0 +1,62 @@
+{
+    "Id":  "4dcd3fd4-979e-4bef-9f9c-41f33f8750c4",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T08:21:20.0638452+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c0aef1b-f761-400f-8200-01366e3d80fe",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:09:49.409336+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1064d827-46f5-49f0-af2b-75e9bebb1839",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:38:39.2443404+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9881eb84-ceb9-4147-8c92-f8339c885454",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:49:24.2863007+08:00",
+                      "CompletedAt":  "2025-01-16T03:05:12.5805985+08:00"
+                  },
+                  {
+                      "Id":  "b0112515-f34e-40f0-abd8-729bbdd8c7d6",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:42:11.7439891+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bce3b3f5-7a27-4682-bc17-1c000e90a647",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:21:22.8040364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a8852e2-4fad-4bc6-b269-4fcebca76bab",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:18:54.1049031+08:00",
+                      "CompletedAt":  "2025-01-18T03:47:06.484275+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

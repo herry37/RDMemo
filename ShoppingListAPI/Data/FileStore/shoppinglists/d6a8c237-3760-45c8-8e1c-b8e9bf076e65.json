@@ -1,0 +1,89 @@
+{
+    "Id":  "d6a8c237-3760-45c8-8e1c-b8e9bf076e65",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T17:58:51.054454+08:00",
+    "Items":  [
+                  {
+                      "Id":  "61708db6-a38f-49f9-a763-6ef572b1fa43",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746476Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6ba0a3a-b48e-489c-bf1f-d658d77805dc",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b5ad427-9c6f-4a52-be55-bddf4d6847c4",
+                      "Name":  "Gorgeous Plastic Bike",
+                      "Quantity":  3,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "137d913e-2541-4f8d-9a76-69a6bdc14a25",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.774682Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba860bbf-611d-4b04-be41-1cf4467676a8",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  418,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "683df4cd-2b87-4f28-9682-68c5d3549251",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "995bf29c-06c8-4871-9810-247724efbadd",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  437,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.774691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd9fda0e-029d-4a71-b2eb-6874fcf06a1c",
+                      "Name":  "Licensed Fresh Bike",
+                      "Quantity":  2,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7746976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98865b21-66f2-4854-aa7e-c77bb02a4ed7",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7747096Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

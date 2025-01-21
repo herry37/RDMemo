@@ -1,0 +1,71 @@
+{
+    "Id":  "c927d3e5-952a-483e-8e75-a15e6c1757c2",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T23:35:29.274131+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ec7710d3-01f5-4acc-9c3b-78c77a3d4152",
+                      "Name":  "衣架",
+                      "Quantity":  2,
+                      "Price":  146.31444265761420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:09:52.5496884+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23b2f321-e1f2-452f-a387-34fec3454674",
+                      "Name":  "除霉劑",
+                      "Quantity":  7,
+                      "Price":  82.108898725964590,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:41:28.5424088+08:00",
+                      "CompletedAt":  "2025-01-18T02:23:55.4402177+08:00"
+                  },
+                  {
+                      "Id":  "c2e26f86-14bf-4ed5-bc1e-0793f7c201c0",
+                      "Name":  "洋芋片",
+                      "Quantity":  2,
+                      "Price":  380.849126979701020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:00:09.3012976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70227559-9cca-45cb-984c-7ee7dd622499",
+                      "Name":  "置物盒",
+                      "Quantity":  7,
+                      "Price":  136.361240238385460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T16:25:06.6726224+08:00",
+                      "CompletedAt":  "2025-01-17T14:44:13.1992163+08:00"
+                  },
+                  {
+                      "Id":  "5f5d9594-0d31-4c69-9d10-41efb128c10a",
+                      "Name":  "啤酒",
+                      "Quantity":  4,
+                      "Price":  339.985761488047070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:49:52.6008107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63194141-1fc4-4431-9220-951fa871cb67",
+                      "Name":  "盤子",
+                      "Quantity":  9,
+                      "Price":  24.8888568093522740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:25:10.9786957+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77be0fa7-1c73-451d-9e20-78abedef1732",
+                      "Name":  "棉被",
+                      "Quantity":  8,
+                      "Price":  45.8891909621774340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:21:59.6866084+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "329e3290-eea7-48e7-a04e-327c483bdb40",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-17T18:08:59.6075059+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2a98c33e-62cc-4b49-868d-2e2c32e75a4c",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5404673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26ccdbf9-d851-4685-8df0-a364000486b4",
+                      "Name":  "Handcrafted Steel Chair",
+                      "Quantity":  1,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5404974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b121ebe-fd12-4cbb-a005-849f768bbf98",
+                      "Name":  "Ergonomic Granite Chair",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5405017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b7e0d2a-a53b-4e92-a971-74d4c3bca121",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5405035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1453ba8e-edc7-44ea-88ed-a7e979fec9f9",
+                      "Name":  "Tasty Rubber Fish",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5405074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69b805b3-6528-4a23-a895-2ae2ba06e91c",
+                      "Name":  "Rustic Metal Towels",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5405162Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

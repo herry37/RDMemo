@@ -1,0 +1,62 @@
+{
+    "Id":  "863c8330-56fe-479c-b0d9-ac11371d4679",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T09:40:11.7040572+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2ad55c0c-937f-4c03-ac5e-47a0ad5b2ae8",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.84422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de20673e-2c70-4980-8577-43dfd64e1657",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8442241Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26b411dc-f535-47d5-a6d1-c25118958689",
+                      "Name":  "Incredible Wooden Salad",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8442437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f79402dd-1549-4267-acc2-5391395ef92b",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.844246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8737ecdc-27c6-4c95-96ca-71c15f509bd3",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8442484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a518019f-9777-47e6-9b95-618e8bb86365",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8442518Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

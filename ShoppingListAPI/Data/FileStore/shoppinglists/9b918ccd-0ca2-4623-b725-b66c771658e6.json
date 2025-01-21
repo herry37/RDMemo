@@ -1,0 +1,62 @@
+{
+    "Id":  "9b918ccd-0ca2-4623-b725-b66c771658e6",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T17:35:31.9953468+08:00",
+    "Items":  [
+                  {
+                      "Id":  "10c2514d-20d8-43a8-8ca1-5c975e7deb49",
+                      "Name":  "掃把",
+                      "Quantity":  8,
+                      "Price":  96.714117658290150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:15:37.2445196+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e610dc2-c8bf-49a1-bb84-3d15d796a36e",
+                      "Name":  "便利貼",
+                      "Quantity":  9,
+                      "Price":  95.042230575173550,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:28:51.0048064+08:00",
+                      "CompletedAt":  "2025-01-17T23:29:46.8133372+08:00"
+                  },
+                  {
+                      "Id":  "91326b59-da4d-4c9c-a69e-c53ad1c2a14b",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  213.214366243651350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:35:09.6139909+08:00",
+                      "CompletedAt":  "2025-01-17T01:41:27.7839871+08:00"
+                  },
+                  {
+                      "Id":  "2187a2f2-61b1-4a7a-8230-15d7d6daa700",
+                      "Name":  "護手霜",
+                      "Quantity":  1,
+                      "Price":  122.13110534075170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:52:49.465742+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f78546ce-c584-4ae7-86b3-509dad2a8eea",
+                      "Name":  "杯子",
+                      "Quantity":  1,
+                      "Price":  158.775315483689930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:01:47.957357+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44bce8cb-97b1-4f5c-9bda-bfedc491b4fb",
+                      "Name":  "訂書機",
+                      "Quantity":  6,
+                      "Price":  418.504337251679550,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:22:52.1159446+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

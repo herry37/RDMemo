@@ -1,0 +1,71 @@
+{
+    "Id":  "bbbb9e5a-c216-49b2-b2da-7e581671bcb1",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T04:25:06.3483687+08:00",
+    "Items":  [
+                  {
+                      "Id":  "23b9d56c-f05c-4c82-85a8-b9a7489c79d2",
+                      "Name":  "Awesome Metal Mouse",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0650922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8174cfad-7832-48cb-84fd-4860045ce30b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0650976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a8072ae-3f6d-4bf5-ba28-3b079e20d15f",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0651038Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eeff4043-4ce6-4be5-8842-7c108996ccbd",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  457,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0651075Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28d8c3fa-110a-4483-8d68-210672ed8065",
+                      "Name":  "Handcrafted Fresh Soap",
+                      "Quantity":  4,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0651169Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a283a435-6633-468b-8b74-98e2d140a168",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0651216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd10dac7-c371-4e99-bc2c-47255e0d6b07",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0651257Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

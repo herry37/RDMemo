@@ -1,0 +1,53 @@
+{
+    "Id":  "750a6e50-13e9-447f-927a-2ea95ab9d2d8",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T14:16:42.1879028+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b9631700-3380-44df-a8c3-2bc5381a4704",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4055963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a1840df-1540-40ac-a812-aaf8ae31cd3d",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4056012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3d5a207-a20f-4b3b-b435-9f8caa20ca3a",
+                      "Name":  "Incredible Soft Bike",
+                      "Quantity":  3,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4056464Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "206814bc-5162-4f92-aa31-113ac1f2d02d",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4056502Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdff7fe0-a542-45ff-a22c-d15f44a3ef98",
+                      "Name":  "Intelligent Soft Soap",
+                      "Quantity":  1,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4056583Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

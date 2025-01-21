@@ -1,0 +1,53 @@
+{
+    "Id":  "8e64e162-72d5-4643-9bf5-c4780b53ad88",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-14T21:43:20.8656399+08:00",
+    "Items":  [
+                  {
+                      "Id":  "63571f16-7410-4b3d-8cf8-2e712f3e65a5",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2577192Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5e98a9f-60ef-4191-b605-3c4096362d83",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2577229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1632ba4c-129e-4972-a09a-7a9990eab370",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2577264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "302e63a6-f1b9-4d3c-949a-179cbed79271",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2577279Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69a2b10a-3cbe-4be7-a39f-d1649e0976bf",
+                      "Name":  "Sleek Frozen Mouse",
+                      "Quantity":  3,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2577658Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

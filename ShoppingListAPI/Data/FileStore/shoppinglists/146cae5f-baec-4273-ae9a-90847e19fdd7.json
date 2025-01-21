@@ -1,0 +1,80 @@
+{
+    "Id":  "146cae5f-baec-4273-ae9a-90847e19fdd7",
+    "Title":  "聚會準備 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-19T14:24:42.0161736+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7d0db650-84c8-4410-8f3f-e21b1e443b93",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:05:32.8558781+08:00",
+                      "CompletedAt":  "2025-01-19T17:05:10.8332241+08:00"
+                  },
+                  {
+                      "Id":  "ccf2771e-d6a9-49a4-b811-3b11ad4fd7aa",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:01:53.5195407+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ec8acf8-f6af-41a6-bb2a-07a3bf81ab2d",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:03:45.1743365+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec4b526d-875a-4f25-a10a-2e6f229e92ec",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:50:27.0715774+08:00",
+                      "CompletedAt":  "2025-01-17T20:27:27.0426701+08:00"
+                  },
+                  {
+                      "Id":  "bf73dfe4-a2e0-4278-a404-d5afe4c30321",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T03:53:00.0230594+08:00",
+                      "CompletedAt":  "2025-01-20T19:59:33.2159252+08:00"
+                  },
+                  {
+                      "Id":  "442d64bb-b732-401f-9b0d-addd393b9d8a",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:55:10.7503784+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98dd9dbe-f619-4deb-aa74-03c3471825b2",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:15:17.0093984+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "258f21cc-8c43-4d61-bbcc-89e43a78c23a",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T12:56:56.6476066+08:00",
+                      "CompletedAt":  "2025-01-19T02:05:29.2483414+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

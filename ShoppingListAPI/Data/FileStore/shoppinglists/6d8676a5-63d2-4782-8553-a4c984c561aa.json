@@ -1,0 +1,35 @@
+{
+    "Id":  "6d8676a5-63d2-4782-8553-a4c984c561aa",
+    "Title":  "每週採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-21T15:21:04.7068568+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3be62fd-b279-4456-9417-0d25800e4511",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:34:48.1793097+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dcb1be4-0c6e-49cb-b94e-5f4e785f43e3",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:38:13.8470136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66e3c24f-d22d-4df7-81c4-bf523cc57fff",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:04:45.931244+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

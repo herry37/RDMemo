@@ -1,0 +1,35 @@
+{
+    "Id":  "22779c5d-e9d4-463d-a061-0b35ffe37ffd",
+    "Title":  "01/14 飲料採買清單",
+    "CreatedAt":  "2025-01-20T06:05:04.5069085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8838de50-94cb-4984-82a8-3d1ce6dd829b",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6753553Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc481673-d85b-453f-ba17-d2cb91bfdc1a",
+                      "Name":  "Refined Granite Pizza",
+                      "Quantity":  1,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6753847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78e20de1-8cb8-468d-82e8-49519ff512eb",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  386,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.67539Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

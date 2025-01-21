@@ -1,0 +1,80 @@
+{
+    "Id":  "cfe33e5b-10ce-4725-94a0-c945ec02c8aa",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-21T17:04:15.4007745+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d76a8aa2-3fd9-48b2-a6a0-acb0c4de7e50",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:57:07.5816146+08:00",
+                      "CompletedAt":  "2025-01-22T09:56:50.44248+08:00"
+                  },
+                  {
+                      "Id":  "5efa20b2-7ec9-4134-ab31-02b0713e6691",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:37:31.1352288+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c5fc6aa-80be-4792-b0b1-de5876f886c2",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:31:08.9503595+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5a0c70f-c5dd-4006-9fb0-cc596cf5f84f",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:37:39.8548743+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "323665c1-3bfb-4ba6-9937-252ebafd1e81",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:15:08.3488155+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7abb679e-87b8-40e2-afc1-556c3c45bf7a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:37:39.1685098+08:00",
+                      "CompletedAt":  "2025-01-16T04:26:05.5049055+08:00"
+                  },
+                  {
+                      "Id":  "6d747e3c-2a0f-4a81-bdf2-80a90b60b87d",
+                      "Name":  "綜合堅果",
+                      "Quantity":  5,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:42:16.0317679+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5538374-b9a0-40e5-85ab-b0b40df57521",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:50:54.7751944+08:00",
+                      "CompletedAt":  "2025-01-18T04:10:18.7192368+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

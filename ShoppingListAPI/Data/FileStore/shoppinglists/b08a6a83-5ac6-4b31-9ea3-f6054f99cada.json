@@ -1,0 +1,98 @@
+{
+    "Id":  "b08a6a83-5ac6-4b31-9ea3-f6054f99cada",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-18T17:44:22.9776845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3565ffbd-b36e-4e84-ac9e-d1373bc04383",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "074868f2-e43b-4e6a-a61c-3ae00d016993",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525217Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d410d64c-2c25-45d0-bafb-7d8301605a6f",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c40b4ca-f1f3-43ce-a019-42d6cf09452f",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525257Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dc2b516-40d5-4595-b0c9-95b843492eea",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525267Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5af3f2f3-54b0-48a2-8bae-bec9b78598b9",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d839f47-35ce-4823-a7f7-aeb854760103",
+                      "Name":  "Gorgeous Frozen Cheese",
+                      "Quantity":  3,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525521Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "606d212f-676b-4501-bac6-f12653f9c5eb",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7396a698-93b3-4804-ad80-719830ae6c8d",
+                      "Name":  "Refined Rubber Chair",
+                      "Quantity":  3,
+                      "Price":  491,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbf9ca41-ba8f-4b10-a3e3-dc4b2fef9e65",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1525605Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

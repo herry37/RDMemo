@@ -1,0 +1,44 @@
+{
+    "Id":  "eb1a5ed4-2b42-45ce-8c1d-aca8465bbd62",
+    "Title":  "緊急採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T14:45:56.0857683+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5311533f-35dd-410d-afbb-831b87734177",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:44:40.9952017+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac8d4696-cb89-46fb-88c9-3f010bd960c9",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:18:20.0477108+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9164c2cd-9564-4346-8f1e-05499f15c4d5",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:39:12.5679396+08:00",
+                      "CompletedAt":  "2025-01-17T09:49:46.5872119+08:00"
+                  },
+                  {
+                      "Id":  "667136dd-7e2b-4336-8cc4-ada84162a071",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:49:42.9537357+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

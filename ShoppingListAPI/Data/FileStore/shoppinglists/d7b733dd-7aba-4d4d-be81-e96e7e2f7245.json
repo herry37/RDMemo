@@ -1,0 +1,71 @@
+{
+    "Id":  "d7b733dd-7aba-4d4d-be81-e96e7e2f7245",
+    "Title":  "01/17 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T20:28:21.4293204+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27643d52-8e1d-41d6-808c-ff025f8a4ba5",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.929289Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a99d3351-99a9-4026-944f-caeff66a256a",
+                      "Name":  "Fantastic Soft Sausages",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c50161a5-c225-49cf-9084-4db3739b3c40",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293256Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8e0eb70-ed57-4a9e-8b37-92d15cebe596",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea2da0d2-2680-4983-95d6-70c717fa8f9a",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293321Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "275afb15-69b6-40aa-aa46-66c1a266963d",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e03ee686-590a-498a-9dc9-d10ea5c03509",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  428,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9293407Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

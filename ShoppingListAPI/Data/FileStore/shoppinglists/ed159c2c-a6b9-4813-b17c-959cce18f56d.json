@@ -1,0 +1,62 @@
+{
+    "Id":  "ed159c2c-a6b9-4813-b17c-959cce18f56d",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T22:00:44.8819765+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c5ca922-a7de-4d50-b50d-3eb9147a85bc",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48625f9d-89f1-4efa-b908-8defc36603bf",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326499Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52efc059-309e-473b-93f2-1e79a3a85c19",
+                      "Name":  "Gorgeous Frozen Shirt",
+                      "Quantity":  4,
+                      "Price":  419,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66866684-43d4-4db8-8114-80202156659d",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23cc690b-ce3f-4863-81cd-17869147527e",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326818Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2db9f9a0-00a6-4182-bb3a-0951f4c876ca",
+                      "Name":  "Incredible Granite Gloves",
+                      "Quantity":  1,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6326897Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "4e1766ac-92a4-4d46-8029-0b5b2bb054dc",
+    "Title":  "年節採購 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-19T13:42:51.1939143+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fcd2606d-8c7e-4bf1-85eb-93b3c2600d11",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:50:46.8205724+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98577c37-7069-41dc-b089-1cc217be6d04",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:53:05.4326704+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b25fe8b0-e7a4-4b08-bf55-2c4690585e30",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  2,
+                      "Price":  177,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:16:14.5421703+08:00",
+                      "CompletedAt":  "2025-01-19T02:55:47.0243002+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

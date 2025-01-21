@@ -1,0 +1,44 @@
+{
+    "Id":  "7a531f62-801e-4cb4-878f-1a2a15d99a1a",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-14T20:23:04.6680626+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca429370-ac68-4647-b696-b8fb0eef2693",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:34:37.0871784+08:00",
+                      "CompletedAt":  "2025-01-18T00:05:07.7686002+08:00"
+                  },
+                  {
+                      "Id":  "756f2377-547d-409d-8b1c-404427aac4e7",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:21:53.2394981+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6b182b1-d003-46fb-97c3-1f2188da794b",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:58:46.5598064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a83596c-05aa-487c-b37b-48bf04a86877",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:24:04.7137815+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

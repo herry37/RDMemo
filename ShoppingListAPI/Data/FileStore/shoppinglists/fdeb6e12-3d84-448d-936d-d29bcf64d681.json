@@ -1,0 +1,53 @@
+{
+    "Id":  "fdeb6e12-3d84-448d-936d-d29bcf64d681",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T04:09:16.0024991+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b587c444-4913-441d-a052-6aaadc81d249",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6614566Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b55b1999-2cff-4c68-a79a-09cf30e440b3",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6614589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48c7bd4f-9a23-41e5-851a-7419c12118f1",
+                      "Name":  "Generic Cotton Bike",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6614771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ce6be05-e733-4e74-90a2-ab0fbab452fe",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6614781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba5fd1c8-56cc-4de3-8ea4-8295577da8dc",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6614788Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

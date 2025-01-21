@@ -1,0 +1,80 @@
+{
+    "Id":  "64660901-584b-45ed-8318-cbb1bff570ed",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-20T19:23:19.0432715+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26537786-31a5-4df8-8c29-74c950f9da52",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:26:31.6513043+08:00",
+                      "CompletedAt":  "2025-01-20T00:03:00.2926806+08:00"
+                  },
+                  {
+                      "Id":  "14dd7c0d-9c6f-4d59-9a2e-8a71142f2d01",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:04:39.434072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70fb3099-d11c-44b3-ad2d-884148d8331e",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:57:26.3249999+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cd6acc1-1074-46b8-92dc-b7964116978a",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:56:10.3128482+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9452511c-62eb-4f3b-a4fe-db7b326a4e42",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:05:31.840538+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0091a9e3-a6f9-4e30-a9ee-50d2d7b5777c",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:22:36.7826679+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08229ad7-b52c-46e7-97d3-0efb129ab5a7",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:18:10.6660153+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24ef667b-6d38-496b-adb5-7d2d80976715",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:46:33.8190252+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

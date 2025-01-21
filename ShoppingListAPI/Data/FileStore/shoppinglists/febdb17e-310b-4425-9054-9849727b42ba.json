@@ -1,0 +1,62 @@
+{
+    "Id":  "febdb17e-310b-4425-9054-9849727b42ba",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T20:24:52.3784982+08:00",
+    "Items":  [
+                  {
+                      "Id":  "03664d39-450e-42fd-9359-77b73240ffd6",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  145.243828625078810,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:44:50.3028408+08:00",
+                      "CompletedAt":  "2025-01-17T20:30:37.4481867+08:00"
+                  },
+                  {
+                      "Id":  "bfe5e68f-64c7-47bf-bf9a-4d78ea385c35",
+                      "Name":  "果汁",
+                      "Quantity":  8,
+                      "Price":  336.750851219590840,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:12:49.9520935+08:00",
+                      "CompletedAt":  "2025-01-19T08:00:05.608944+08:00"
+                  },
+                  {
+                      "Id":  "22bdfbd4-3a8e-44da-9342-d080961e448b",
+                      "Name":  "爆米花",
+                      "Quantity":  7,
+                      "Price":  155.584959554834940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:56:22.5981279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9a3551d-2381-4943-91dd-bb5426c07b60",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  10,
+                      "Price":  378.01362816263920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:58:11.4473263+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3027dbe-f8c7-4616-9ead-544396a53eb7",
+                      "Name":  "可樂",
+                      "Quantity":  1,
+                      "Price":  415.693331064106330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:24:34.2979096+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0185d5d-3c4e-47ed-b870-70bdbb912b01",
+                      "Name":  "碗",
+                      "Quantity":  10,
+                      "Price":  301.432977241126840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:55:46.7673307+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

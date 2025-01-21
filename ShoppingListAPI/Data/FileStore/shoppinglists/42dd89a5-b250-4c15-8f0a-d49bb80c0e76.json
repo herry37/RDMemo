@@ -1,0 +1,62 @@
+{
+    "Id":  "42dd89a5-b250-4c15-8f0a-d49bb80c0e76",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-16T12:54:23.1221116+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35f68a04-b5e7-4713-b2ca-29f2220b6c02",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0695211Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ee27c05-fac4-47b4-9507-204ff0b3da5e",
+                      "Name":  "Intelligent Rubber Sausages",
+                      "Quantity":  1,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0695495Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3e57b1d-324b-4b18-be08-3c279515ef6d",
+                      "Name":  "Awesome Plastic Bacon",
+                      "Quantity":  5,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0695573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7817ea3-da20-40f8-a37f-37bd2b5cd627",
+                      "Name":  "Practical Metal Bike",
+                      "Quantity":  3,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0695901Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4db0651-66bf-4d4b-bba3-d4f03c29017f",
+                      "Name":  "Ergonomic Steel Mouse",
+                      "Quantity":  5,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0696Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3a84b27-657f-4360-b39c-f5e0ec586784",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0696052Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

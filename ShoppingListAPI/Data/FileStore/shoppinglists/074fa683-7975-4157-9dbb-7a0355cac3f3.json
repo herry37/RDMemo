@@ -1,0 +1,80 @@
+{
+    "Id":  "074fa683-7975-4157-9dbb-7a0355cac3f3",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T09:53:58.8487835+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aaf8bb58-a2d4-4a50-83dc-0c5bc398617c",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.772089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc199bfa-99f2-48ae-b05e-d8f79a483d64",
+                      "Name":  "Intelligent Soft Tuna",
+                      "Quantity":  5,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7721156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f2d01ee-0224-4764-8132-4f56f288d53a",
+                      "Name":  "Unbranded Granite Sausages",
+                      "Quantity":  4,
+                      "Price":  164,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7721208Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b011d884-1396-4e0e-92f4-137cd39455af",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.772122Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5e5068b-134d-40b8-9c6e-985e5930ccf3",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7721239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01f95fe8-c864-4365-b696-e9e52072c97e",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7721265Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cea1c1bc-819b-41d2-a3b0-71ba0beb90fd",
+                      "Name":  "Fantastic Rubber Car",
+                      "Quantity":  5,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7721309Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39e77734-8601-48b3-9c9c-ec735e64afce",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  401,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.772132Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

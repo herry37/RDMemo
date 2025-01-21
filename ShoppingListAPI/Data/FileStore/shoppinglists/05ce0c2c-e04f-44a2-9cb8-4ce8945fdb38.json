@@ -1,0 +1,44 @@
+{
+    "Id":  "05ce0c2c-e04f-44a2-9cb8-4ce8945fdb38",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T05:32:19.7738708+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cc3bfa7f-fe21-4aee-83b6-c4efbe6ebf75",
+                      "Name":  "Refined Metal Towels",
+                      "Quantity":  3,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6090786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "265857e1-6100-4394-9bd6-8d48248dd286",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6090834Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9db65b40-ab98-4664-a6fa-78f8cc5a2c27",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6090912Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b38bd40e-0c85-4f1e-b79b-136019201b40",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6090924Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

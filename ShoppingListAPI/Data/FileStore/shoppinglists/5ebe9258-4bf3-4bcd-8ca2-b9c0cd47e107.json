@@ -1,0 +1,53 @@
+{
+    "Id":  "5ebe9258-4bf3-4bcd-8ca2-b9c0cd47e107",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T07:58:55.5399654+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d2c6fe31-936a-4bc8-83c8-031fe479c0fa",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7597649Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cabe4ef1-f1ad-4f30-9620-3caa947d95c1",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7597707Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b23eea46-5a2a-4ca8-ad7d-c82d59f6fd20",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7597737Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96be382d-c9a5-49f7-bd62-c8d7bf37c45a",
+                      "Name":  "Small Fresh Bike",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.759801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e553851-bd99-474e-a743-fd3f096d26ab",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7598025Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

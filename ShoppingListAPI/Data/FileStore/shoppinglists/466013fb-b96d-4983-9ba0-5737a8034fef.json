@@ -1,0 +1,62 @@
+{
+    "Id":  "466013fb-b96d-4983-9ba0-5737a8034fef",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T00:00:36.0744458+08:00",
+    "Items":  [
+                  {
+                      "Id":  "218fafd6-e5fd-4108-98d1-68ca0471f88a",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  67.649278273396460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:38:07.2262648+08:00",
+                      "CompletedAt":  "2025-01-21T20:56:16.323406+08:00"
+                  },
+                  {
+                      "Id":  "77e02583-9701-4408-abe5-b1e41c317035",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  238.456499726517370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:19:03.3818583+08:00",
+                      "CompletedAt":  "2025-01-21T14:37:42.3115465+08:00"
+                  },
+                  {
+                      "Id":  "48520258-d28e-4079-a04c-6628ced764fe",
+                      "Name":  "豆漿",
+                      "Quantity":  1,
+                      "Price":  127.504543326099720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:46:12.0340687+08:00",
+                      "CompletedAt":  "2025-01-18T03:02:12.963031+08:00"
+                  },
+                  {
+                      "Id":  "89abb649-40f0-46f5-8972-664e6a2a76d7",
+                      "Name":  "毛巾",
+                      "Quantity":  3,
+                      "Price":  484.709853068369240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:10:09.4116212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b29d6ad4-b1ee-4fe7-a435-8dca60de0dde",
+                      "Name":  "堅果",
+                      "Quantity":  5,
+                      "Price":  20.6641026514395380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:56:59.9955743+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d052eb87-5cb6-4a1f-bd15-1f2dac8399fe",
+                      "Name":  "洗碗精",
+                      "Quantity":  3,
+                      "Price":  101.632062068002050,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:22:09.5919178+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

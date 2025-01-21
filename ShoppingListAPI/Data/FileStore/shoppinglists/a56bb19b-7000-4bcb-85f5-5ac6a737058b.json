@@ -1,0 +1,89 @@
+{
+    "Id":  "a56bb19b-7000-4bcb-85f5-5ac6a737058b",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T03:41:33.5385482+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f2845b45-bde0-47dd-8aed-9c8680d3b2cb",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9445644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a9523ae-7a92-40dd-b26a-d37f78660110",
+                      "Name":  "Rustic Cotton Soap",
+                      "Quantity":  2,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9445942Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9459b2b2-230f-4a28-8ab2-ba2b02c24439",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9445967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c558b3d-8a64-4822-a742-9456021c8298",
+                      "Name":  "Incredible Steel Sausages",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9446024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d359066e-575e-4d82-b072-2802885ab4f6",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  469,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.944605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05ddbb2f-f91c-4021-9f50-4f858b065468",
+                      "Name":  "Refined Metal Car",
+                      "Quantity":  5,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9446125Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "170ad749-8bd7-4a12-a099-957b816a0b98",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9446147Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc98dbc2-66d5-4194-87d5-929a2ea4eaa0",
+                      "Name":  "Gorgeous Soft Tuna",
+                      "Quantity":  2,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9446205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a7c0fcb-ff12-4b22-8427-b9b67e7c1768",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9446234Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

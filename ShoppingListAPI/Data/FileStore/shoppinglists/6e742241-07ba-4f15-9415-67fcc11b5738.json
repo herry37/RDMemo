@@ -1,0 +1,80 @@
+{
+    "Id":  "6e742241-07ba-4f15-9415-67fcc11b5738",
+    "Title":  "早市採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T19:24:33.4284578+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d5e5ab14-d664-466f-9872-fb11a4368dd2",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:05:10.2334858+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5c506fb-058c-4fa4-bf85-2b86ad04f3d8",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:46:35.3626374+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "948cac38-91f5-4973-8070-fbcd290b95c1",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:36:42.628372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01dfbf5a-34dd-4f29-8e76-9eb92e952b16",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:29:51.9782903+08:00",
+                      "CompletedAt":  "2025-01-20T07:57:59.2248192+08:00"
+                  },
+                  {
+                      "Id":  "16a55b23-6186-491d-99e8-56de4dccc979",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:33:58.5829979+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcd18d15-a9e9-4a6d-9dac-4f569538538e",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:37:45.9895893+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9048ec99-5671-44ae-945b-67d934fe118f",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:54:43.8789805+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfdc3864-c868-4452-8de2-f3c8c8593d10",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:52:31.4606774+08:00",
+                      "CompletedAt":  "2025-01-19T15:50:40.0039586+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

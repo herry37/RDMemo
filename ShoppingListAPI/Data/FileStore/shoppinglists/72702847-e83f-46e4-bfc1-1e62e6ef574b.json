@@ -1,0 +1,89 @@
+{
+    "Id":  "72702847-e83f-46e4-bfc1-1e62e6ef574b",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T22:40:14.1044029+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22c7b764-b35c-4837-8cdf-7a74f80d64bd",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3554408b-9249-43a7-ac1a-9dd83c4d88a8",
+                      "Name":  "Sleek Cotton Pizza",
+                      "Quantity":  2,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9da418b0-45af-44ca-83f9-42c9077a8af5",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4087a55a-b4f0-4bf4-a46f-25cdcda41611",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f3e9c3f-fe3c-4c54-aff3-6fdca9af745a",
+                      "Name":  "Ergonomic Frozen Fish",
+                      "Quantity":  3,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "566bb234-37ec-41c5-abb9-a0a6ed6a0df2",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0626957Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb293401-bf0b-494f-83d6-c6d0019ed944",
+                      "Name":  "Awesome Steel Computer",
+                      "Quantity":  4,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0627001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cab40b9b-b1ee-4413-af46-7fe7707fc87f",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0627021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cabaf6e3-c48c-4aa8-8ce0-9d74d5f7bcd9",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0627053Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "135c4416-371e-4c8d-9073-357569f0fe96",
+    "Title":  "01/14 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T07:18:24.5592947+08:00",
+    "Items":  [
+                  {
+                      "Id":  "91df5479-a492-4503-ab44-f6f2c146f8ef",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.969133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd91651e-4359-4294-94a8-2eadd9d865b2",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691382Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cfb966e-db39-4dad-a0bf-e7a5db9f9a9d",
+                      "Name":  "Intelligent Fresh Cheese",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fda23e24-2da0-443f-bd56-7cb53fcdc067",
+                      "Name":  "Handmade Frozen Salad",
+                      "Quantity":  5,
+                      "Price":  430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691824Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cadac3b9-d8c4-4d59-8f5d-151390cf9fc7",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  470,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcd510c5-4b63-4c43-abeb-85d0fb048b26",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "735b0f73-a34d-4a8b-ad66-e416f9f597b5",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9691924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b70ebbff-6337-4485-94b7-db80d032db46",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  38,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.969198Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

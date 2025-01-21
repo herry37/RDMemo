@@ -1,0 +1,53 @@
+{
+    "Id":  "bf80c8f3-8425-4a32-bb86-1860580ebf5d",
+    "Title":  "居家整理 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T10:03:25.9028882+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5897760e-f94a-4750-bbb2-5d1125fbc885",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:56:25.0045675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73fc5b96-1ba5-4765-a2d2-27c80031e608",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:24:44.8180073+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "295f3254-dd10-4a92-98e4-c16210dbdcbe",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:58:24.5371477+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9cc07c2-2aec-4e54-a082-4441e29125eb",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:39:15.6802825+08:00",
+                      "CompletedAt":  "2025-01-17T20:41:47.6974352+08:00"
+                  },
+                  {
+                      "Id":  "5643430d-23c4-4355-85f7-cf68f1dea436",
+                      "Name":  "保濕面膜",
+                      "Quantity":  4,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:10:59.1743545+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

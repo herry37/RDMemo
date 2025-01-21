@@ -1,0 +1,80 @@
+{
+    "Id":  "f2a652d2-c8ee-4f4a-b1ea-6a0566cedfea",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T10:55:40.6218967+08:00",
+    "Items":  [
+                  {
+                      "Id":  "932ff495-27d2-48d8-ab8a-9c0240debbdf",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:38:38.7321245+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bf714a7-9892-4044-a89e-0b26a3832b0e",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:46:49.9181288+08:00",
+                      "CompletedAt":  "2025-01-15T13:36:47.1773695+08:00"
+                  },
+                  {
+                      "Id":  "3a0af894-f76c-47d1-8767-12ca9d8d37bd",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:40:50.2483763+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f630e633-d757-4200-a1bb-c09037a22f05",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:58:50.5207249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6374b1b0-6b0f-4c1a-b8e9-0c8bd0d5fda0",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:17:33.262395+08:00",
+                      "CompletedAt":  "2025-01-21T19:39:26.7468765+08:00"
+                  },
+                  {
+                      "Id":  "9cb674e8-6f07-472d-8e53-e719f3ff6bfb",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:30:06.4156363+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d17c091-18d0-4407-87e4-1be52b458a41",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:43:21.9412726+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1126097-7f6a-4f84-8d88-73e6a283bb1b",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:22:10.6192357+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

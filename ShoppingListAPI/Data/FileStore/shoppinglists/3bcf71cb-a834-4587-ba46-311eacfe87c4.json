@@ -1,0 +1,44 @@
+{
+    "Id":  "3bcf71cb-a834-4587-ba46-311eacfe87c4",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T05:45:46.6703167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "024e75c3-ae6d-48a5-884f-06179bfab2ed",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:09:49.3188341+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b2713b4-78fe-4c9c-8b47-0bdb8f67c9f4",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:13:52.147179+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e8a188a-d268-418c-9471-4b11cc904d74",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:40:12.7842471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ce4ae1a-cd85-4451-859c-2a90174326b4",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:43:11.7546527+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

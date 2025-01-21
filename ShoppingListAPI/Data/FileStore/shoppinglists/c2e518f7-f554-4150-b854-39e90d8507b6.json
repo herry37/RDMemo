@@ -1,0 +1,71 @@
+{
+    "Id":  "c2e518f7-f554-4150-b854-39e90d8507b6",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T23:23:58.7240482+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e182400d-49a3-4d96-b03b-e62b75a9bdbc",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5530854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c65dec8d-16f6-49da-b6b4-01edf5ef8459",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5530891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49056594-737a-4691-9230-449ae75bfa23",
+                      "Name":  "Sleek Metal Mouse",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5531151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd6702d5-1fea-4447-91b0-847f4c619339",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5531172Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b542d717-5b2c-4bdc-b875-38704c1a1796",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5531199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa5f2cc2-fafc-4485-86cf-a9248b21069a",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5531228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cbacf04-5f2e-4429-8fd7-1ab27de05de1",
+                      "Name":  "Generic Metal Keyboard",
+                      "Quantity":  3,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5531307Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

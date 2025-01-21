@@ -1,0 +1,71 @@
+{
+    "Id":  "f66fad9c-37e1-4fa8-91dd-e67a8000b00a",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-15T07:54:51.0140747+08:00",
+    "Items":  [
+                  {
+                      "Id":  "56b6d6bb-f10a-4cf6-b877-1016f2720e22",
+                      "Name":  "保鮮膜",
+                      "Quantity":  4,
+                      "Price":  63.871659730744940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:13:04.6916321+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42f85504-1201-4148-ac9f-06c53dad8c95",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  236.257132647307230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:31:25.9024717+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5f77511-32da-4fee-9c76-2a3b4bcb37cf",
+                      "Name":  "果乾",
+                      "Quantity":  4,
+                      "Price":  36.8615651257208850,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:17:06.6675111+08:00",
+                      "CompletedAt":  "2025-01-21T06:52:28.0327101+08:00"
+                  },
+                  {
+                      "Id":  "883c430b-5f4d-4657-a1ec-bac9738aa6d1",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  170.991390231586670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:25:41.336157+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4ff9834-801b-4dbb-80ae-1948b9094f90",
+                      "Name":  "相框",
+                      "Quantity":  10,
+                      "Price":  300.204996990507060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:53:34.2181569+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63110e8a-d16d-42e9-ac1b-788a79136687",
+                      "Name":  "梳子",
+                      "Quantity":  7,
+                      "Price":  267.14693883690280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:17:00.6438346+08:00",
+                      "CompletedAt":  "2025-01-22T06:32:56.859941+08:00"
+                  },
+                  {
+                      "Id":  "83d2c8ba-596d-4a34-98d6-fec1033c088a",
+                      "Name":  "膠帶",
+                      "Quantity":  5,
+                      "Price":  468.05946424240240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:43:06.4266479+08:00",
+                      "CompletedAt":  "2025-01-20T06:32:54.6097551+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

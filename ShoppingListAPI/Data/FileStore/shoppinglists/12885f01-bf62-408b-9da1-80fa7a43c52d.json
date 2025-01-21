@@ -1,0 +1,89 @@
+{
+    "Id":  "12885f01-bf62-408b-9da1-80fa7a43c52d",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-17T03:56:54.4575426+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08f04959-dfd2-495a-834c-51f0db9fa519",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9677f993-6918-4901-8c70-ae348d1897a3",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36794ac1-6e40-49d8-a36d-f121eb9edafc",
+                      "Name":  "Practical Wooden Cheese",
+                      "Quantity":  4,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7481cdcb-58d4-4870-b240-938331f847e0",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b792a21f-402a-44e6-8d84-d131dc7fd276",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25796486-b2da-4e6b-a8dc-bdd68e67bee1",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "134f97fd-4b34-4b75-80d2-051be32d56a7",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6164d605-9e87-4c55-96bf-fae103e35c8a",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0729867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee3cc446-ce61-49c7-a3b3-b266d212c6fc",
+                      "Name":  "Practical Steel Shoes",
+                      "Quantity":  3,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.072993Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "bc5c378f-8c4f-4f4f-b082-73839993b7de",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T14:07:22.1247983+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b79ce55-621b-4153-8eab-5cfd702a928a",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca638d59-8d44-44f1-b1fa-c7510efb084e",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735203Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bf298e9-18ab-4579-9f11-3644f8deb1fd",
+                      "Name":  "Refined Cotton Shoes",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735467Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3b92e32-79dc-4230-b871-1651a70a4df3",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.373548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "206ad1ea-77f5-4733-a97c-4c5f657b9196",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.373549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88e2dd18-5473-4dea-b21b-841cd5ff68d4",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c7d32fd-326c-4dad-a7c6-84d0151b2683",
+                      "Name":  "Fantastic Rubber Pants",
+                      "Quantity":  4,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735634Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cc0927f-3c11-4d49-851b-171afeed98c2",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14a54ff0-cb31-4d38-a2ec-4482fdfc00f5",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a83ad90-5bc2-4a52-acb9-94f80b222b37",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3735671Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

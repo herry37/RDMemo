@@ -1,0 +1,62 @@
+{
+    "Id":  "939124fe-a0f1-4f7e-87ba-b23ab055fd74",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T19:46:11.5654386+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38fa9801-3f06-492b-a04b-4a9e31b79411",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654337Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89f11e25-314a-45ea-a260-ba063a3f3542",
+                      "Name":  "Ergonomic Plastic Gloves",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a07f13dd-e542-48a8-b949-a93b8e51c578",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654616Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "111cbe6c-3638-457e-8861-cf08c7fd3a5d",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37ffeec7-e301-4a1e-8682-fa1a41f9bbed",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654634Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c385046-95c9-40b6-b459-64a2e4c40816",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4654716Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "405454ff-a092-45fd-a26c-b90ac542543a",
+    "Title":  "01/16 零食採買清單",
+    "CreatedAt":  "2025-01-20T12:07:17.1964714+08:00",
+    "Items":  [
+                  {
+                      "Id":  "adcd9aa4-c6c4-437d-8e2a-01185a9c5f36",
+                      "Name":  "Handcrafted Rubber Gloves",
+                      "Quantity":  1,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5874205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0305384d-4b59-418a-a63b-9b1f79e3a060",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5874267Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a4c3205-6184-4b5f-aec4-353ac6c4019d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5874291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f8da5f9-944b-41bd-9eb6-8dbfcb34f663",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  371,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5874505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "462879e1-0459-4681-8eba-651a5213f51b",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5874527Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

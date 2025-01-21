@@ -1,0 +1,53 @@
+{
+    "Id":  "9ced196c-2025-41e7-b553-01b1a8bcffe7",
+    "Title":  "01/17 飲料採買清單",
+    "CreatedAt":  "2025-01-18T20:57:07.5600834+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d8e59063-8df2-4701-8a36-9c79e9725ff2",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.711599Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "887ee70d-574a-46df-a050-0cfafba8c5f9",
+                      "Name":  "Unbranded Steel Shoes",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7116419Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9b1e77e-2066-41a0-9254-c70fa8537198",
+                      "Name":  "Tasty Cotton Salad",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7116493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "001baae9-1f76-4785-aac8-4b0ef182cb94",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7116508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ecaf1b4-d1b0-4886-af68-62664b246edd",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7116522Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

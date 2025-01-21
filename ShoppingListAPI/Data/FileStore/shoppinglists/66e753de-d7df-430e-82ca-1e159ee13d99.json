@@ -1,0 +1,44 @@
+{
+    "Id":  "66e753de-d7df-430e-82ca-1e159ee13d99",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T04:01:04.0744403+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7c72cf3-243b-4f38-8388-1cf0105f56c2",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8159028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c59249a9-5976-4f32-8685-bd4a01383896",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8159275Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "016d2194-6b03-44cc-9247-9d0d0b3c30fd",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8159301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc0f3861-0de8-4e45-9abe-006a95c5ed8d",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.815931Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

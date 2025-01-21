@@ -1,0 +1,44 @@
+{
+    "Id":  "7bd76ace-144f-424f-8080-6354c0fa5dd4",
+    "Title":  "聚會準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T23:24:43.8705028+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c02fc6e7-3219-4215-9175-768ec43a5c01",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:41:19.7368495+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dd13ef7-161c-4542-a94e-9104a7b4ac41",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:24:46.0380413+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1583f65b-3bd1-49ca-a5df-515d4871b146",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:09:05.5918559+08:00",
+                      "CompletedAt":  "2025-01-16T08:00:50.0647356+08:00"
+                  },
+                  {
+                      "Id":  "d7c0b48a-f68a-4920-ae57-847936b351ca",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:55:45.714164+08:00",
+                      "CompletedAt":  "2025-01-21T07:09:21.1384572+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

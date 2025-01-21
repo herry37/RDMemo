@@ -1,0 +1,35 @@
+{
+    "Id":  "bab3809e-385d-4528-bae4-0bae81f272d6",
+    "Title":  "月底大採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-17T20:09:07.9355634+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1cc75421-c852-422e-a13c-b481561ec044",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:00:06.6282095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdf883bd-8c08-40f3-af4e-3c3baf001004",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:44:57.2887001+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab584711-1a4f-4be5-a0c4-d756f3a1f3da",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:14:18.5462056+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

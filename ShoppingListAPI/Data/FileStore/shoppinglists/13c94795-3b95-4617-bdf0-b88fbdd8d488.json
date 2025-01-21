@@ -1,0 +1,62 @@
+{
+    "Id":  "13c94795-3b95-4617-bdf0-b88fbdd8d488",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T18:27:24.5239926+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ce76624c-ba6b-4428-9703-ce3760adaef0",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3887552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef5ed266-ee6b-41e8-9b0a-fe426e257fdf",
+                      "Name":  "Ergonomic Fresh Cheese",
+                      "Quantity":  2,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3887926Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5de28541-5f04-413a-8700-fa0274e8348c",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3887951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e30b9800-9d35-454a-9103-2ed8fe56b10b",
+                      "Name":  "Refined Soft Bike",
+                      "Quantity":  5,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3888016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "462d4863-5465-4702-9811-e28a35624dff",
+                      "Name":  "Incredible Plastic Salad",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3888083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ceb00f5c-d8ef-4129-ace2-b2cf61152dee",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3888128Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

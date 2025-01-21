@@ -1,0 +1,62 @@
+{
+    "Id":  "d01aa2ce-3620-44b5-948f-eabcfeb113ab",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T12:37:42.3670218+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85211bf4-57f4-4152-a485-0807ab917562",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779593Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9dec118-7bc4-45c6-a1c8-252e7b4e917a",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779622Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a1c9792-a025-4362-a633-d57ee7bcf63e",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2617eed-6af5-49f0-bbca-9f44737d1914",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  472,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ee76f86-3ced-48a1-8b40-825acdf28b90",
+                      "Name":  "Awesome Frozen Salad",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779893Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4057ff4c-c895-42c4-ba5e-436d7a4e5c75",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5779919Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

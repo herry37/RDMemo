@@ -1,0 +1,80 @@
+{
+    "Id":  "850d7b27-ba77-4a2d-86c1-199f4334711c",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T05:39:54.3037786+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06f893f0-8d20-438a-9258-705c1261af29",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.098776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ffff931-bc16-431f-b272-8a586797dc40",
+                      "Name":  "Handmade Metal Pants",
+                      "Quantity":  4,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0987956Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dad39674-50ed-4c42-8fa4-ba05d901a979",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd7f0722-f8c9-49a1-ab54-f3d9fca386fe",
+                      "Name":  "Practical Concrete Gloves",
+                      "Quantity":  4,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988047Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89effbbe-d13d-4235-a7ba-defe805fe671",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f22dba33-bc87-44a7-9415-b5f7aaabe6d2",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988075Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f7ad5fc-0bca-47d9-b3eb-07123f133e00",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fa0f262-17dd-4025-9193-c58c9e16fa37",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.0988093Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

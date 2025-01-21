@@ -1,0 +1,98 @@
+{
+    "Id":  "0be64679-5172-4225-a7a0-eda28858e025",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-19T04:34:14.3903563+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a3efe150-9555-49b1-a4fa-d5dbfc89a55b",
+                      "Name":  "Small Frozen Hat",
+                      "Quantity":  3,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa4beeb4-8ab3-4de8-bc6b-b5c8a27a1e84",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e139716c-efe9-4d97-8738-13ea93e7580d",
+                      "Name":  "Ergonomic Wooden Computer",
+                      "Quantity":  5,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8148b5d-8636-419d-8626-2b41956f06f3",
+                      "Name":  "Incredible Wooden Cheese",
+                      "Quantity":  4,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84dc6e40-25cc-4c77-a984-1b5ebcdc1624",
+                      "Name":  "Ergonomic Cotton Chicken",
+                      "Quantity":  4,
+                      "Price":  453,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "236a6b65-4805-4572-803f-d17a881ae192",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.751889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9932e994-523d-464f-9a90-9bfb1364f339",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  329,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9a2c844-98b3-4424-8c45-29a26dfdda69",
+                      "Name":  "Practical Wooden Pants",
+                      "Quantity":  2,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b36f756b-ec9b-48ec-bc4c-6b8ee02cdbad",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7518931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2facb69-3110-4ca6-8a7b-d41449acd952",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.751894Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

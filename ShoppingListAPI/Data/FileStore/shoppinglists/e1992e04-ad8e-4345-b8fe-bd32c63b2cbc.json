@@ -1,0 +1,71 @@
+{
+    "Id":  "e1992e04-ad8e-4345-b8fe-bd32c63b2cbc",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-19T05:19:04.4771411+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f1b580d-e2f6-4ba5-a462-7e7be12af33f",
+                      "Name":  "可樂",
+                      "Quantity":  7,
+                      "Price":  14.65642657179234710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T18:35:58.0707926+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c58e987-709d-423f-a311-d27d8d4ab876",
+                      "Name":  "牙刷",
+                      "Quantity":  3,
+                      "Price":  67.441080878556760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:07:57.6977617+08:00",
+                      "CompletedAt":  "2025-01-16T20:48:00.0063982+08:00"
+                  },
+                  {
+                      "Id":  "33e2b9b5-da34-472b-9f8d-d97c5e11aa91",
+                      "Name":  "手套",
+                      "Quantity":  6,
+                      "Price":  135.788833945017110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:52:15.7542435+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d608872a-ca2d-44d1-9b56-6e8943a0bce3",
+                      "Name":  "清潔劑",
+                      "Quantity":  6,
+                      "Price":  51.032604312010290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:21:40.5645084+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f467627d-7e12-4a8b-851f-e5c6d74f8461",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  431.610588237946730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:33:30.2411161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "892f503b-5f95-4b1d-9f95-2501d680524f",
+                      "Name":  "護手霜",
+                      "Quantity":  2,
+                      "Price":  115.405460523184570,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:02:20.7141679+08:00",
+                      "CompletedAt":  "2025-01-16T11:32:45.6403097+08:00"
+                  },
+                  {
+                      "Id":  "50c81191-1de7-4283-a6bc-875216a87efc",
+                      "Name":  "護手霜",
+                      "Quantity":  7,
+                      "Price":  192.646822298890390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:04:04.1703268+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

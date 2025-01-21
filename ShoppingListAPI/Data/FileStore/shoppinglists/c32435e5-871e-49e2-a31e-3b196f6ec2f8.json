@@ -1,0 +1,80 @@
+{
+    "Id":  "c32435e5-871e-49e2-a31e-3b196f6ec2f8",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T20:34:28.5287921+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a0cb5ec0-2296-4ee7-a870-18c715a6943d",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9557828Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c188d440-2c73-4fb9-9cfd-7998542d5762",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9557878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48bcd116-adaf-4359-921b-fe19843e675f",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9557895Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c0cf18b-3a0c-431f-9da4-b1995e8f9f36",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9557912Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2e52d87-8707-4edb-a894-bdd62a76941f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9557934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d02755fd-264a-475c-a657-547463de7ced",
+                      "Name":  "Handmade Wooden Car",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.955885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a610e71-aa5a-4f9a-a81a-455791ea5cfd",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  289,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9558873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0c63fae-9088-4d49-b7ac-b8ee92d44a76",
+                      "Name":  "Practical Plastic Gloves",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9558965Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

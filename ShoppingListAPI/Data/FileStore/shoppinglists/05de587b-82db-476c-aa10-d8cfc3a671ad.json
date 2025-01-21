@@ -1,0 +1,71 @@
+{
+    "Id":  "05de587b-82db-476c-aa10-d8cfc3a671ad",
+    "Title":  "年節採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T00:18:52.4336206+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dea5eb5b-97c2-4b09-a590-e15c21f5aea5",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:20:48.559048+08:00",
+                      "CompletedAt":  "2025-01-22T13:29:28.450925+08:00"
+                  },
+                  {
+                      "Id":  "b6e1e448-4cb7-428f-a92a-8bea22f7d051",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:30:13.6542995+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9725841f-41ee-43cd-8e14-0a2dd6307781",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:07:42.0106838+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92bf580e-51b9-47a1-8db3-0f5757e9a014",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:08:16.2703561+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7ced6ea-d826-4ad5-9b0f-64c105fc4a51",
+                      "Name":  "保養化妝品",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:48:19.7406485+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "282eb32b-5b0b-42ff-a29c-3b4150975582",
+                      "Name":  "保養化妝品",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:46:04.1992102+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2d7bac0-99aa-4771-9f6c-403fd9385c86",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:31:15.7228014+08:00",
+                      "CompletedAt":  "2025-01-17T16:32:47.9482342+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

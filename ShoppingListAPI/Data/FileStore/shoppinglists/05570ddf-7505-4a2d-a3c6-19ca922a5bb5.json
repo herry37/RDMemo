@@ -1,0 +1,98 @@
+{
+    "Id":  "05570ddf-7505-4a2d-a3c6-19ca922a5bb5",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-20T22:13:34.7336105+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1012fa39-d36b-4a97-8911-0c070fd4f808",
+                      "Name":  "手套",
+                      "Quantity":  4,
+                      "Price":  21.7577289657793560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:14:00.352176+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaba479d-c968-49ec-8238-15cce192508b",
+                      "Name":  "豆漿",
+                      "Quantity":  2,
+                      "Price":  178.391734057231510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:46:35.1167423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bec908a7-1d2d-4da6-abe2-3044cebb3996",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  9,
+                      "Price":  428.704050181123210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:23:30.0390775+08:00",
+                      "CompletedAt":  "2025-01-20T01:28:53.1058746+08:00"
+                  },
+                  {
+                      "Id":  "82f34df4-6b4b-4635-b22e-702c05a262cd",
+                      "Name":  "保鮮膜",
+                      "Quantity":  5,
+                      "Price":  105.480792235069920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:14:41.6792874+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3042dcd9-48d8-474d-87c8-d1daf705c40c",
+                      "Name":  "清潔劑",
+                      "Quantity":  2,
+                      "Price":  170.927466115393530,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:22:23.5438017+08:00",
+                      "CompletedAt":  "2025-01-16T05:44:57.335319+08:00"
+                  },
+                  {
+                      "Id":  "41882b89-2215-4efe-85da-ec611bc70176",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  53.9990374976832050,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:07:12.5499545+08:00",
+                      "CompletedAt":  "2025-01-16T18:40:50.2947644+08:00"
+                  },
+                  {
+                      "Id":  "334984a6-5e5f-4cbc-b3bb-8e8fc2e6765d",
+                      "Name":  "青菜",
+                      "Quantity":  7,
+                      "Price":  405.987945622096590,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:47:47.5738249+08:00",
+                      "CompletedAt":  "2025-01-20T19:17:58.0124936+08:00"
+                  },
+                  {
+                      "Id":  "cfded77c-1ad1-443d-a052-7d564933ad8a",
+                      "Name":  "洗碗精",
+                      "Quantity":  5,
+                      "Price":  88.228490473732620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:45:21.8103735+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e929b81-f7f2-4af6-93c7-f6e12e79073e",
+                      "Name":  "衣架",
+                      "Quantity":  6,
+                      "Price":  101.345656547549530,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:07:54.1284003+08:00",
+                      "CompletedAt":  "2025-01-21T20:50:25.4909277+08:00"
+                  },
+                  {
+                      "Id":  "35f8d4aa-79a6-4b60-9ebc-e99c10f4e396",
+                      "Name":  "餐具",
+                      "Quantity":  10,
+                      "Price":  81.449570733945110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:00:50.6422214+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

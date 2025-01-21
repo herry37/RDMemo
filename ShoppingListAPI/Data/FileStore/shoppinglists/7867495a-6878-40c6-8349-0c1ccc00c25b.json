@@ -1,0 +1,98 @@
+{
+    "Id":  "7867495a-6878-40c6-8349-0c1ccc00c25b",
+    "Title":  "01/22 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T22:33:10.2495797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e2b9e1ad-f177-48de-b3be-27c3054a6043",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6525816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17c11212-0437-4285-8efe-92d81f4ddfac",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6525854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94933c46-adeb-4c24-83be-c30bf89c11cf",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6525865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd976fec-8dc1-41d8-aa9c-d64fae51ab32",
+                      "Name":  "Tasty Rubber Mouse",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6526042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52b6bca8-0047-4553-ba44-7710dffdb984",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6526052Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64a26c8b-338c-4134-9012-8e9f738d6aa0",
+                      "Name":  "Fantastic Steel Hat",
+                      "Quantity":  3,
+                      "Price":  321,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.6526231Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45054255-deeb-4741-9143-bb05e122929a",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.652624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84fa4695-857b-4e5c-b874-2a2391a5b353",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.652625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a010a6ff-d32e-497d-b8fc-58726a2cf998",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6526259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbc4ef61-461d-4f73-a84c-9acc8c9ab4be",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6526274Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/22"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "fe46ed67-e4d3-4167-aaf1-abf4b24f3435",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T00:09:34.0401604+08:00",
+    "Items":  [
+                  {
+                      "Id":  "921f3781-793b-4743-9074-ed8374c943c9",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.721972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "469ca0fc-0e98-4f69-9f3a-19a318b9b6df",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.721978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45b6df48-2d8b-4a6b-b739-b70812ed2b84",
+                      "Name":  "Gorgeous Soft Fish",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.722012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baf43a68-4076-48df-9ca7-101ba560d4ff",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7220156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "690ecd29-fb47-43f0-a228-3c5c5a36affa",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7220185Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

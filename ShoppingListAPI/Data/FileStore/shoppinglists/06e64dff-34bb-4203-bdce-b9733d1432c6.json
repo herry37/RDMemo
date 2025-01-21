@@ -1,0 +1,80 @@
+{
+    "Id":  "06e64dff-34bb-4203-bdce-b9733d1432c6",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T10:48:55.4599909+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5be8bb23-630b-44a3-b908-759a4be3d99c",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:13:16.7028827+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd4a08c5-093b-4d7a-ab2f-3f3e8398fe90",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  77,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:10:17.0956588+08:00",
+                      "CompletedAt":  "2025-01-17T23:16:25.937034+08:00"
+                  },
+                  {
+                      "Id":  "fc4e8814-f420-401e-8450-07e021c61209",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:54:00.062579+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55e0f670-ed47-4452-8d69-d7538dbe5a8e",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:09:47.0508655+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e683b883-77d6-47db-a413-70348235b4aa",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:56:55.1047159+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d38a192-98b4-4d48-b699-f9d60e7c5367",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:40:36.1660228+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e390ed8-2626-4a94-a7a0-79d8c352a993",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:18:26.4690748+08:00",
+                      "CompletedAt":  "2025-01-20T11:59:50.0579855+08:00"
+                  },
+                  {
+                      "Id":  "aca51a5c-bf27-4d0b-a5e2-e46e701969e4",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:23:53.9775806+08:00",
+                      "CompletedAt":  "2025-01-18T10:36:12.2153072+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

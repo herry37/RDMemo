@@ -1,0 +1,71 @@
+{
+    "Id":  "d8a134e8-2d0d-4c16-9633-67eb3463bfc0",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T17:14:15.9842088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2916f6a6-b131-4c9e-bb58-4d0d9a8ca4d5",
+                      "Name":  "Unbranded Soft Bacon",
+                      "Quantity":  2,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0495987Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d01981fe-a49b-4d2f-a447-f101b6e98000",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.049603Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ef0dd33-5e0c-4de9-b4e5-888ee0b84614",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.049604Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "636155bb-0645-4fd4-94c6-323f58e0d321",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.049605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "059c097f-5f14-4a77-9718-d9ff7d3d30a9",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.049606Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14cfd8ef-48ff-4770-9c3c-66a8fde9fcf7",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0496086Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f9bdf65-37d0-48cc-8a77-56b67f15f92f",
+                      "Name":  "Ergonomic Plastic Keyboard",
+                      "Quantity":  2,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0496136Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

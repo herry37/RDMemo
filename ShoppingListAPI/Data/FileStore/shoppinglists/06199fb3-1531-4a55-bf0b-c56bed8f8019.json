@@ -1,0 +1,80 @@
+{
+    "Id":  "06199fb3-1531-4a55-bf0b-c56bed8f8019",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T11:37:55.0796192+08:00",
+    "Items":  [
+                  {
+                      "Id":  "847c378c-276d-464f-a555-8c6c35876c6e",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35565bdb-da68-4e2f-b937-80342a5a4030",
+                      "Name":  "Rustic Fresh Keyboard",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b1aeda6-f35c-4d74-b4b9-890f177ff5a5",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "985d3008-56a8-482c-b3ff-06dbaf93d51f",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529319Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f1ace18-3d3b-49d1-9e4b-1603cb4b0023",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  351,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.252934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6723d6e3-9cc3-4630-94b4-721fdacf1979",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caa69bc7-1851-4f25-9d53-2c1addfbb721",
+                      "Name":  "Small Concrete Pants",
+                      "Quantity":  5,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d40710c-9dbd-4be1-9682-6b245883c6ec",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  247,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2529419Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

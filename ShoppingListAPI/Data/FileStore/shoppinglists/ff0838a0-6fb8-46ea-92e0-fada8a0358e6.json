@@ -1,0 +1,44 @@
+{
+    "Id":  "ff0838a0-6fb8-46ea-92e0-fada8a0358e6",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T18:48:48.8718352+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff064205-9a4d-429a-9ea2-d6711436f9c7",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4504259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92dc1c30-afdf-4f7c-96c4-a03aba9f674a",
+                      "Name":  "Ergonomic Concrete Soap",
+                      "Quantity":  2,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4504329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83103878-c522-4355-9f0e-f0d6d86d577d",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4504338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f951b21-e0b3-4f8c-9837-688bf69c157c",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4504346Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

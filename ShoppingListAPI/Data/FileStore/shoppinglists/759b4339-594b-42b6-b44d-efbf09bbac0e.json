@@ -1,0 +1,80 @@
+{
+    "Id":  "759b4339-594b-42b6-b44d-efbf09bbac0e",
+    "Title":  "每週採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T19:57:00.8257291+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a2a4bff8-6098-4de4-9366-05db1ff9b41a",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:56:50.4043334+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "366b48eb-7842-4ddf-a4e8-03ef87abbfe2",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:06:42.3989746+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "740275b5-2660-41d7-9e4a-6fdfc661259c",
+                      "Name":  "防滑衣架",
+                      "Quantity":  5,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:11:28.3953927+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ca96e7e-428b-47cf-8859-a6bc1ff832ac",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:20:55.6853817+08:00",
+                      "CompletedAt":  "2025-01-15T23:49:22.9563259+08:00"
+                  },
+                  {
+                      "Id":  "abccb202-c646-49a2-8430-42e61767535c",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:14:21.7211573+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c92b7a8-6f3c-4103-b45f-2baef85ee2b9",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:45:33.0178339+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23d1f46f-90e3-4401-be03-b8577f53f18a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:15:25.0682627+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8c7e999-e16a-4ee2-a0bd-f5f137f27126",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  247,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:19:25.2363919+08:00",
+                      "CompletedAt":  "2025-01-15T11:08:33.7942761+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

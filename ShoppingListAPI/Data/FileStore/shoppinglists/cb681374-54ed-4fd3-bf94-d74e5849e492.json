@@ -1,0 +1,71 @@
+{
+    "Id":  "cb681374-54ed-4fd3-bf94-d74e5849e492",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T01:55:51.2413321+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6bb0e088-7bad-496c-837f-f643d3f4dd57",
+                      "Name":  "Intelligent Soft Computer",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0221e98a-a7ce-4173-bd37-205ec8be8705",
+                      "Name":  "Tasty Steel Mouse",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a6215de-3f59-4dca-b7da-913cfe4aa8c4",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5d756bf-5987-494f-af7a-a7a510866dab",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b3f7088-81ba-411c-ab97-dd77be932a0d",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6805ff5-7e52-47c4-83ac-81f02abdb5da",
+                      "Name":  "Sleek Wooden Chair",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.020662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0736ba1-cc3a-45b4-84a6-3e51ec1a26d0",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0206629Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

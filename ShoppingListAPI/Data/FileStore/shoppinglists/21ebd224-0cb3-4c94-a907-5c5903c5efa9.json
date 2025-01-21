@@ -1,0 +1,62 @@
+{
+    "Id":  "21ebd224-0cb3-4c94-a907-5c5903c5efa9",
+    "Title":  "年節採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T22:44:56.6687444+08:00",
+    "Items":  [
+                  {
+                      "Id":  "21d6f3fd-1e2d-4549-b4f3-171bb543d4da",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:04:49.864663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5d453a0-fc22-4f99-a7fb-b70c070ee959",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:46:56.9501031+08:00",
+                      "CompletedAt":  "2025-01-18T23:49:31.4266662+08:00"
+                  },
+                  {
+                      "Id":  "d6faf1b1-afac-4be1-8284-4da317677025",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:35:32.7771304+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea584580-5382-40ea-9b0c-91c9d8b34fbc",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:38:46.1881457+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c83f6d10-e219-489d-aec5-8b5f9f19b6a9",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:04:31.625541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20613527-9f63-4061-a5f3-c0362c285274",
+                      "Name":  "氣泡水",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:08:32.8435212+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

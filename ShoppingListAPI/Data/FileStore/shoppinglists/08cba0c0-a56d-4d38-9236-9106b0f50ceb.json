@@ -1,0 +1,71 @@
+{
+    "Id":  "08cba0c0-a56d-4d38-9236-9106b0f50ceb",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T16:33:05.712779+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5ed11961-2713-40be-bb80-b2f8deaefc56",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:03:40.9631685+08:00",
+                      "CompletedAt":  "2025-01-19T14:31:10.3060766+08:00"
+                  },
+                  {
+                      "Id":  "3f308bdf-f4ed-46b6-8549-504007ac1fab",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:36:23.5038497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "830ddb7e-5050-4a3e-b761-ee0a3beff2e4",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:05:29.3488746+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "375c4c76-d9ba-4eca-8c0e-58c7d298e965",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:05:08.9346818+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2d9202b-63e0-4a23-a437-c8a13c86355b",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:27:33.4023567+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "275fcc30-8589-44d2-9580-2f75ebf27319",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:23:19.3733593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d14fc17-002c-4bc7-8433-2b7d06230851",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:38:57.7076029+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

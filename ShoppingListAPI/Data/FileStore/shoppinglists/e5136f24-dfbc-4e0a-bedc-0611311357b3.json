@@ -1,0 +1,71 @@
+{
+    "Id":  "e5136f24-dfbc-4e0a-bedc-0611311357b3",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T23:07:09.1290844+08:00",
+    "Items":  [
+                  {
+                      "Id":  "076e2602-7c66-4e07-a611-0697ec01a0e3",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2012759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93df72fd-02a4-403c-8af5-fd229fb4caf7",
+                      "Name":  "Gorgeous Steel Fish",
+                      "Quantity":  5,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013064Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74fc9a41-9cf2-436c-abd9-f74be11da951",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6e14d58-bdd6-4f47-b82b-902646987f06",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa282e7a-2b59-4456-9339-2813ca107533",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  379,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013117Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1b695a7-fd90-4cd0-875e-91ca3ca72118",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  475,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "069905cd-6415-4a4f-b886-26e159b187fb",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  396,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2013164Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

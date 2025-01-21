@@ -1,0 +1,35 @@
+{
+    "Id":  "47ca1829-0a8a-4602-8558-c092f6545453",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T10:59:26.7964883+08:00",
+    "Items":  [
+                  {
+                      "Id":  "36085f01-90d4-4f50-bf91-e65c4a297d78",
+                      "Name":  "清潔劑",
+                      "Quantity":  3,
+                      "Price":  190.419838557597380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:38:35.9283406+08:00",
+                      "CompletedAt":  "2025-01-19T21:46:01.7112653+08:00"
+                  },
+                  {
+                      "Id":  "014fa9ba-116d-4b21-bb57-8b175bb5739f",
+                      "Name":  "餐具",
+                      "Quantity":  4,
+                      "Price":  394.87907679203290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:00:04.8483975+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5fa459f1-bc19-4a7d-82e3-23f214eb4f28",
+                      "Name":  "豆漿",
+                      "Quantity":  1,
+                      "Price":  125.966416653525340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:09:08.7183667+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "8b24aa7c-0e47-4d5f-9295-385e7ae841e2",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T18:59:59.965906+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c0daf46b-880a-4f7d-b6f9-95f9dbe08929",
+                      "Name":  "Gorgeous Rubber Chair",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0874322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3e0253b-67e8-446b-a7d2-88198180812c",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0874372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2df8708d-ee37-4d94-a957-c0bd11f80385",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  391,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.087439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29a41617-e45e-4d11-85a7-0fe4a6b10c44",
+                      "Name":  "Handmade Metal Chips",
+                      "Quantity":  3,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0874743Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cf4ea05-6f90-4153-afdb-eac023ed08cb",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0874771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc449ed7-ff43-4bc2-8d94-2c04dd270c28",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0874832Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

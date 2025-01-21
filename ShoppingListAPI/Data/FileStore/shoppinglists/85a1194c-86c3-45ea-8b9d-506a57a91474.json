@@ -1,0 +1,98 @@
+{
+    "Id":  "85a1194c-86c3-45ea-8b9d-506a57a91474",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T19:01:29.8159917+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82d1ce67-229e-4430-95cb-8ef996fbbc7e",
+                      "Name":  "Refined Soft Bacon",
+                      "Quantity":  3,
+                      "Price":  411,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7844813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16ca80e2-a92c-40b3-b214-0fa48c223b3f",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7844855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ca31d8c-fef2-4478-a6bc-06d9b9e49ec3",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7844868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a68d08d3-96fd-4ca9-9910-1a86413aeb87",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.784489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6e83dc8-c42b-4a65-ad8d-c53921d8c7ed",
+                      "Name":  "Generic Metal Table",
+                      "Quantity":  4,
+                      "Price":  354,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845029Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8603f6c-38f6-47f9-84a2-10fc4819ead8",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845064Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e83f790d-6ede-4935-8fd6-73c21791e621",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ddde639-e2e0-4bac-be22-06c04cd36252",
+                      "Name":  "Sleek Concrete Fish",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845131Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ac9fac8-467d-4a71-8464-c2c2f4b3c324",
+                      "Name":  "Licensed Cotton Keyboard",
+                      "Quantity":  4,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8badf1b-509a-4f16-8597-876d5bfbe530",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7845196Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

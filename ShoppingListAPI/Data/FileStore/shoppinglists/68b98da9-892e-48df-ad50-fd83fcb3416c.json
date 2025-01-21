@@ -1,0 +1,80 @@
+{
+    "Id":  "68b98da9-892e-48df-ad50-fd83fcb3416c",
+    "Title":  "01/20 飲料購物清單",
+    "CreatedAt":  "2025-01-18T15:53:07.3330832+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04cd7ead-2d26-4c8b-b626-9bfcb99a2188",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2eed58e4-ac76-4adc-b3d1-20292dc039b5",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154367Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7a5c896-47cb-4df8-a5ea-1ee2fe7ea5de",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33e38a6b-7d8d-45aa-b990-aaa0481c5d7a",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3efb4c6f-599f-44ee-813f-08ce4ac81f49",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "657cfca8-d9ac-4787-b3a4-75014cc37926",
+                      "Name":  "Incredible Concrete Bike",
+                      "Quantity":  3,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154657Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98aaaa60-2c45-4ba3-834b-845b55be624d",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6081293-b77e-41e9-9320-fc1f21d7f530",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4154685Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

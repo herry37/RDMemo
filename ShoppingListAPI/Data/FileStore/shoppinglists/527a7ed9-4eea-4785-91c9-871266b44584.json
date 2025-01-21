@@ -1,0 +1,89 @@
+{
+    "Id":  "527a7ed9-4eea-4785-91c9-871266b44584",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T02:17:56.8824384+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f84e0de0-5269-44f6-af83-9f6465fc5fda",
+                      "Name":  "Ergonomic Plastic Soap",
+                      "Quantity":  5,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.623419Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4259d47a-b858-4ba0-bac3-6a251f109846",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6234239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7c23a7f-66f0-4781-8dea-ae8078d77dd1",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6234259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "262e365a-5879-43e4-88a7-71839fa77052",
+                      "Name":  "Rustic Wooden Car",
+                      "Quantity":  3,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.623432Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29261466-82d9-408e-b617-45c8430dd645",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.623434Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09d9d7c1-d978-4b4e-8381-5bcd84871323",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.623437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "921b7327-e8e7-4185-aa33-e194d1224b0a",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6234383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbb8ada3-51ec-4d99-b0c9-445846ce6732",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  94,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6234398Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d68bb54-ec49-4a1d-b9c0-85cc6638e5b7",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6234416Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

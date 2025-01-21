@@ -1,0 +1,71 @@
+{
+    "Id":  "56b671a0-edd3-4714-badb-c5f5277fdc35",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T04:34:03.5718805+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aca4ff1c-c34e-4057-9f44-e7a4fb1287e9",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4164977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1db57266-9032-4a7c-a411-2649b3c25111",
+                      "Name":  "Intelligent Concrete Salad",
+                      "Quantity":  2,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92c9574f-5c17-4d22-8588-2ebb4a6e57be",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165238Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94ea992f-2c3b-43b1-94ae-80f3149dfdca",
+                      "Name":  "Tasty Soft Pizza",
+                      "Quantity":  1,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70029662-2da4-49df-9f50-6e11038152c3",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b1144ae-cd19-4020-940c-2136f63e86b5",
+                      "Name":  "Tasty Steel Gloves",
+                      "Quantity":  4,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1792ed0-d631-4643-9e94-d4d59b656023",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4165342Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

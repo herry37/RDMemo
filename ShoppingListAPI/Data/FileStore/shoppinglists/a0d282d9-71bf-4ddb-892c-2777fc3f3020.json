@@ -1,0 +1,89 @@
+{
+    "Id":  "a0d282d9-71bf-4ddb-892c-2777fc3f3020",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-18T14:27:34.7464177+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b5f2c93a-de77-4433-bee7-b4e9c45ea391",
+                      "Name":  "手套",
+                      "Quantity":  10,
+                      "Price":  463.982333594679610,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:59:40.011092+08:00",
+                      "CompletedAt":  "2025-01-19T17:18:38.7721953+08:00"
+                  },
+                  {
+                      "Id":  "f9e32654-10bd-4ade-bfff-dfe2bb6ddee5",
+                      "Name":  "化妝品",
+                      "Quantity":  4,
+                      "Price":  344.889493138763010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:25:35.8921608+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fce131a-98be-4a5b-9251-70dff1463463",
+                      "Name":  "香蕉",
+                      "Quantity":  6,
+                      "Price":  113.232757018622770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:53:38.0176371+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd3c7f27-2298-408a-a2a5-07b15fa1c5fb",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  362.879513125376090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:33:22.8771721+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed8ea173-e0c5-4601-b81f-82682f82e682",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  349.486007144637360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:40:28.8976712+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbe8c085-3c8d-4c9d-a2b0-e88d48d82766",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  314.146003941610180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:03:21.422819+08:00",
+                      "CompletedAt":  "2025-01-15T23:09:36.9684217+08:00"
+                  },
+                  {
+                      "Id":  "71e1b080-6231-4272-aed8-626518cfefbb",
+                      "Name":  "可樂",
+                      "Quantity":  10,
+                      "Price":  136.529508253706460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:08:11.2935672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80207133-e67c-435b-81ec-d1103c142cfd",
+                      "Name":  "爆米花",
+                      "Quantity":  8,
+                      "Price":  105.586499518968290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:54:27.2160943+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13593f37-72f1-49ca-a1ef-c5a75180427e",
+                      "Name":  "口香糖",
+                      "Quantity":  5,
+                      "Price":  408.62697417834340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:42:36.5486906+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

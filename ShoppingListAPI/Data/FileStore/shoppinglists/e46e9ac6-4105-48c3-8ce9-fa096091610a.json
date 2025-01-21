@@ -1,0 +1,98 @@
+{
+    "Id":  "e46e9ac6-4105-48c3-8ce9-fa096091610a",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T22:33:08.8726119+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86cc6ff0-a03d-4da8-917d-6bf93e39c357",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0333947Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14c7f23d-831e-40a5-8130-5500026e444e",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c7c8b44-0a6c-45c6-927b-4bca296e7410",
+                      "Name":  "Unbranded Fresh Ball",
+                      "Quantity":  1,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a951ca6e-3d4c-48fd-abf5-682373833d24",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334217Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2cbe711-7398-4bc9-8baf-24f21ddf5bf9",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07cde9c6-240c-46fd-856b-b3816712da31",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334265Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f15e5cf8-347c-4214-972b-5ce914b9ba30",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334286Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99d49e5e-e251-4170-b9fb-86e232e50e8e",
+                      "Name":  "Gorgeous Rubber Shirt",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c623d71-eca2-4da8-8b44-2acdae67f277",
+                      "Name":  "Tasty Wooden Hat",
+                      "Quantity":  2,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e5b0d46-79d4-4447-93ba-8afcdf24aa0a",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0334427Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

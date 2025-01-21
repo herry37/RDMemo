@@ -1,0 +1,71 @@
+{
+    "Id":  "5759b915-d500-4e51-9243-e596258c9fb1",
+    "Title":  "01/14 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T13:47:15.4772645+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4eddc74-6093-40d1-a838-b40d3b059415",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaca2466-835b-4d85-adba-15059cd9b498",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ba32f50-6ff1-4793-9cdb-76758829bf2c",
+                      "Name":  "Intelligent Rubber Soap",
+                      "Quantity":  1,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5424b8af-42f1-4971-b69f-4fd5bcb8d766",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc739269-f443-4888-afdd-43cd5dd61f1e",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cecfa17e-5401-4652-977e-18f312245891",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0264576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87095645-8b5e-4176-b41a-9dfb1b3cd97d",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.026459Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

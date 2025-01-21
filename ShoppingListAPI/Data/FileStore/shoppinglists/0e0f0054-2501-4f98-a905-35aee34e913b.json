@@ -1,0 +1,53 @@
+{
+    "Id":  "0e0f0054-2501-4f98-a905-35aee34e913b",
+    "Title":  "早市採買 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T10:04:58.0958387+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58231f75-ffba-4210-8ede-acc81109ea68",
+                      "Name":  "防滑衣架",
+                      "Quantity":  2,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:13:30.4956979+08:00",
+                      "CompletedAt":  "2025-01-19T07:13:40.7059304+08:00"
+                  },
+                  {
+                      "Id":  "810fe326-de9a-4450-b9da-110bbf092c2b",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:16:50.725256+08:00",
+                      "CompletedAt":  "2025-01-19T22:33:21.2610791+08:00"
+                  },
+                  {
+                      "Id":  "6e8698d1-6bb0-48f5-87a3-e3cd55b66e26",
+                      "Name":  "木質相框",
+                      "Quantity":  1,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:42:52.9657919+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ceefa97-42fd-4074-9933-dbbe0e92a5cc",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:14:29.4310678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb52dddd-77e5-485d-b2f4-2e4b30e04441",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:56:43.5643353+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

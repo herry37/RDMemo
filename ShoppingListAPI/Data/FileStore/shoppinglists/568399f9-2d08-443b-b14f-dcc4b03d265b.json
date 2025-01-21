@@ -1,0 +1,80 @@
+{
+    "Id":  "568399f9-2d08-443b-b14f-dcc4b03d265b",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T13:10:32.7370597+08:00",
+    "Items":  [
+                  {
+                      "Id":  "420aa8ff-4f71-40e8-a518-f72534d4086b",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:37:44.6258353+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbb975da-c16c-4128-9331-c1c8bfe9111b",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:08:16.1761832+08:00",
+                      "CompletedAt":  "2025-01-18T14:17:47.8547903+08:00"
+                  },
+                  {
+                      "Id":  "31e49460-071d-4754-bb2d-b753aef331e6",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:58:26.1081624+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95a9558b-346c-41c2-a366-5dcbd064de7d",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:04:09.3371641+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ab8907e-f1e3-4ffe-b912-029a8a09486a",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:09:51.477536+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8feba3d-9f48-4def-adca-de3f1426a87b",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:53:50.422643+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8faf6654-be9d-4420-a8fb-d6cd5992037d",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:07:27.5795468+08:00",
+                      "CompletedAt":  "2025-01-20T22:40:18.62596+08:00"
+                  },
+                  {
+                      "Id":  "a92d2214-2e32-4ad1-a581-c41faac1d2de",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:41:40.4147393+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "2a6c32ec-ccb6-4f50-8985-e7924b437d87",
+    "Title":  "派對用品 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-21T15:11:07.9810574+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b98e80b7-2ced-4f6a-a2ba-fb943fd99838",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:59:49.564456+08:00",
+                      "CompletedAt":  "2025-01-21T15:42:05.3089264+08:00"
+                  },
+                  {
+                      "Id":  "34c3229b-390a-4eca-bfe4-62cee2c0ae6f",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:23:23.6835508+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30c5d259-b6ea-4d69-b67d-8ce3c9e9898f",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:08:48.6886558+08:00",
+                      "CompletedAt":  "2025-01-18T04:51:09.1869998+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "c715d61e-f094-43f7-be02-d35937b92637",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T18:48:39.9741415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0cbb36b8-cc5f-422f-9567-5652669d64c6",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:02:44.21683+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa196d59-966a-4319-b467-5052120594c3",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:43:46.0474492+08:00",
+                      "CompletedAt":  "2025-01-16T16:28:17.7927458+08:00"
+                  },
+                  {
+                      "Id":  "197f6de0-0159-4d76-8ec7-885a8732e18b",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  3,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:52:38.8129921+08:00",
+                      "CompletedAt":  "2025-01-19T14:40:15.1494752+08:00"
+                  },
+                  {
+                      "Id":  "97810d76-1b83-4f59-8ede-d59ac2bba524",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:27:58.3982212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57a3635a-c4b0-4c06-a9ad-5804591b400a",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:12:42.5715174+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "592af4ab-3bd6-4f0d-805a-ec21571f7307",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:39:22.6200233+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4142d4bb-f2cd-4dbb-80e3-eb07af74c839",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  221,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:15:27.6112524+08:00",
+                      "CompletedAt":  "2025-01-18T22:22:38.322381+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

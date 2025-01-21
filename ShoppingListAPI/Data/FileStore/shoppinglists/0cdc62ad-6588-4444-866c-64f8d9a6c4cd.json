@@ -1,0 +1,98 @@
+{
+    "Id":  "0cdc62ad-6588-4444-866c-64f8d9a6c4cd",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T08:46:39.3160929+08:00",
+    "Items":  [
+                  {
+                      "Id":  "830ba612-1146-4d76-955f-a37212cfcf53",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0773997Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4070a682-3070-4536-96ac-6729a73df6cf",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0774061Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40229c81-4be0-42f8-9bf8-78901322332c",
+                      "Name":  "Practical Granite Soap",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e992b91f-b09d-40ce-9839-018e4a16c237",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777102Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5dd69b88-3b40-4467-b909-9334b393daab",
+                      "Name":  "Unbranded Plastic Hat",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a768b08f-a4b3-4b4a-8896-47f9448de6cc",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777481Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74c16476-ca53-4e9e-ac03-41ffc22b6a7b",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0eaf791-4a2b-4a13-aa28-f4d308a73c01",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.077767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9898621e-858f-4c46-b29e-62869ad9490e",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcc1492a-e980-4446-a942-807b4fe638a3",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0777738Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

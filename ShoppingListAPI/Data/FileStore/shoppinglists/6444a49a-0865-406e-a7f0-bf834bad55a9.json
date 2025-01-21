@@ -1,0 +1,35 @@
+{
+    "Id":  "6444a49a-0865-406e-a7f0-bf834bad55a9",
+    "Title":  "早市採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T18:53:55.2779643+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bf0e72dc-6cf7-4367-bd7f-a850c5dc36e7",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:13:48.5601029+08:00",
+                      "CompletedAt":  "2025-01-15T19:37:14.2070432+08:00"
+                  },
+                  {
+                      "Id":  "ad01e817-79e6-4a40-92a8-f5b224e5ee8a",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:56:25.1644847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19b76d99-1981-49c6-8b86-658ca4ad5051",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:59:09.8584321+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

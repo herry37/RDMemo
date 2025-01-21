@@ -1,0 +1,62 @@
+{
+    "Id":  "62510e93-e443-448d-add3-e90ea95e6938",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-19T09:38:02.6954631+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3880877-9852-427f-bc07-4a66367f9cfc",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  323,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9081472Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7964e192-c592-402c-878d-53ba1a3e4dc0",
+                      "Name":  "Ergonomic Granite Pants",
+                      "Quantity":  2,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9081879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a1d1216-e459-4e1f-8f76-8162ce979409",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9081895Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f83ba37a-be71-4776-9289-6be6dff2e31c",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.908191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9b4e244-6012-415f-9e35-6d6dc4961d4b",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9081923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93c4b831-6368-40bc-9eb1-4cb282d30634",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9081966Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

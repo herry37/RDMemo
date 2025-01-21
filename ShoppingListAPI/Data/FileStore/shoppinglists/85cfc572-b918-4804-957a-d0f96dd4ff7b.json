@@ -1,0 +1,89 @@
+{
+    "Id":  "85cfc572-b918-4804-957a-d0f96dd4ff7b",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T08:36:06.1671767+08:00",
+    "Items":  [
+                  {
+                      "Id":  "974f1af4-3e6e-476e-8c55-82a25f63792f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9383924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ae0d65f-5153-4493-ac7b-889de8cc2c71",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9383957Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc7e985b-a9db-4ab9-8298-cc06e3f8e0ce",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9383977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c02227d6-ceb3-4de7-9f14-8d9f9b623280",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9383986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f84fe6fa-3870-434f-a877-cbf71426b23f",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  339,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9383995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29df734b-2433-47a3-bef5-7fa4a4edbf25",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9384015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e5ffb3d-bb9a-4c2b-bc94-f51cf3d6a267",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9384027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "477a9694-399c-4ab4-9eca-7e017cd4ca06",
+                      "Name":  "Tasty Plastic Sausages",
+                      "Quantity":  5,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9384246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef822a6c-91ff-41e1-b7ec-e860cb82c849",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9384257Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

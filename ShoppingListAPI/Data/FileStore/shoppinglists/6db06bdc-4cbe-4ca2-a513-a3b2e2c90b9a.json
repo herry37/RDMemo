@@ -1,0 +1,44 @@
+{
+    "Id":  "6db06bdc-4cbe-4ca2-a513-a3b2e2c90b9a",
+    "Title":  "派對用品 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T13:03:25.7774239+08:00",
+    "Items":  [
+                  {
+                      "Id":  "13783300-fc17-4765-94af-a55e2a4e8ca5",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T20:45:36.0027851+08:00",
+                      "CompletedAt":  "2025-01-16T09:14:36.1500527+08:00"
+                  },
+                  {
+                      "Id":  "510252a8-c73e-42b0-bb0c-5bb2e81be388",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:20:05.5043393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70207bf7-c022-491b-a93d-19838b65a509",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:58:08.7800121+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4a45b63-eef8-45a2-8c3e-c46a03838802",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:55:32.2063406+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

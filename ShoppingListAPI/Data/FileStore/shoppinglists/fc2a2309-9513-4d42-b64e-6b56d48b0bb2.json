@@ -1,0 +1,89 @@
+{
+    "Id":  "fc2a2309-9513-4d42-b64e-6b56d48b0bb2",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T11:21:04.0418094+08:00",
+    "Items":  [
+                  {
+                      "Id":  "607687a0-d14e-4517-9831-a5fad7756e3d",
+                      "Name":  "Incredible Wooden Car",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3545378Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b159b07e-651f-4cc3-a97a-d56a3f8a6e92",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3545415Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a04bf88a-6528-41ed-8421-e4f060874351",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3545633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3a59f63-ce50-45ac-8da3-391026073452",
+                      "Name":  "Gorgeous Cotton Tuna",
+                      "Quantity":  2,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.354571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e8f480a-e828-42e5-a4a5-46729f7512ed",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.354572Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53671cb6-fb4b-4325-9fa6-ef0d63b8475c",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.354575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66509258-d530-4a10-b0ff-0a498e27fa6b",
+                      "Name":  "Handmade Frozen Pizza",
+                      "Quantity":  1,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3545799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "782b35a8-108b-4ff9-ac4b-b1422fbcd827",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3545808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61db06c3-ec4a-4f22-a8c0-e18e2dc0715a",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.354582Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

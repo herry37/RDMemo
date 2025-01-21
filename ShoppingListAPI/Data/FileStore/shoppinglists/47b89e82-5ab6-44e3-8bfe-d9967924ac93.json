@@ -1,0 +1,80 @@
+{
+    "Id":  "47b89e82-5ab6-44e3-8bfe-d9967924ac93",
+    "Title":  "露營準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-16T15:44:44.2662768+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ac0020e-6b5c-45a2-9c4d-2c1acc9068b8",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:32:04.822949+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a684d368-7cc7-485c-aa7e-3650dad9d5e3",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:20:27.5485511+08:00",
+                      "CompletedAt":  "2025-01-19T18:39:15.0302138+08:00"
+                  },
+                  {
+                      "Id":  "38242c93-024c-4e4b-b214-657e247ce105",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:11:08.5332505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa8849a3-c323-4534-ade6-847aad876979",
+                      "Name":  "進口糖果",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:18:17.3297452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a69b9244-f1de-4f91-8915-ad3f16ff7b8b",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:16:44.346101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "184ddbeb-358e-44fd-855b-8dbafe65e270",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:26:48.4653293+08:00",
+                      "CompletedAt":  "2025-01-19T05:42:07.6825326+08:00"
+                  },
+                  {
+                      "Id":  "54265765-98ef-4e0a-8819-d4bae8082e5e",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:42:39.013138+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e614a948-e25a-4f0c-a14b-2880bd9c9d83",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:08:20.0480424+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

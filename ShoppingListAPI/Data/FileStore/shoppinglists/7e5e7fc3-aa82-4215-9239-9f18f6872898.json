@@ -1,0 +1,44 @@
+{
+    "Id":  "7e5e7fc3-aa82-4215-9239-9f18f6872898",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T03:36:22.9216883+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4c224346-09f4-4ed8-af55-373ab032c15b",
+                      "Name":  "Rustic Plastic Shirt",
+                      "Quantity":  1,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8323031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39c4ed4d-8745-4713-b257-722b68077d42",
+                      "Name":  "Ergonomic Granite Chair",
+                      "Quantity":  1,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8323145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a57fae6-b94f-47f8-a144-5490abcbbf92",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8323155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "749ae8d1-3b8c-48eb-824a-2503aec4d2d4",
+                      "Name":  "Licensed Cotton Tuna",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8323195Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

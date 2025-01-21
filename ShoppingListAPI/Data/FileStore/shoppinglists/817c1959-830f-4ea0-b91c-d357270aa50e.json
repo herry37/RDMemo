@@ -1,0 +1,98 @@
+{
+    "Id":  "817c1959-830f-4ea0-b91c-d357270aa50e",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T01:11:57.408809+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aca8d738-202b-4a0c-be28-ef40a2a3743c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  472,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9ad696b-8105-4328-97fe-f30ac81b8746",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67627d01-d7f5-4463-a829-9484905ab564",
+                      "Name":  "Practical Wooden Car",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9d3066b-ed50-4194-bef2-b905956cb791",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13588db4-1f4c-4ad3-9038-534b178a9ac2",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848638Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b17047e-9266-4bfd-a73c-3559730e1b54",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848678Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62a3d271-c8db-4f5f-a129-ae1fbdb6a36e",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7848688Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5e43f37-b684-4df4-b5b3-14434b2f2b39",
+                      "Name":  "Ergonomic Cotton Fish",
+                      "Quantity":  5,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7849026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "495ff104-5988-4c6b-ad33-8b29bb7f58f2",
+                      "Name":  "Intelligent Steel Chicken",
+                      "Quantity":  4,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7849085Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb4fe432-a107-4838-81dd-12cbd62710ff",
+                      "Name":  "Fantastic Fresh Bacon",
+                      "Quantity":  3,
+                      "Price":  374,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7849163Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

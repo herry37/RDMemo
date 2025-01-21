@@ -1,0 +1,80 @@
+{
+    "Id":  "ca9daa03-6e0b-4ba1-bd16-8f56574c00af",
+    "Title":  "緊急採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T07:18:54.1429376+08:00",
+    "Items":  [
+                  {
+                      "Id":  "14a667f3-a70e-4dbc-b96e-988d60dc6676",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  3,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:48:46.3785067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3f10d7d-560e-412f-9fbb-e3830ccfb863",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:44:39.8865256+08:00",
+                      "CompletedAt":  "2025-01-18T07:42:37.0640038+08:00"
+                  },
+                  {
+                      "Id":  "0948f990-91bf-45d6-a85e-e98c22047fd6",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:58:35.6060701+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "749c3a65-2c7d-4a93-b4fd-2180bf8dcf0e",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:01:45.9281339+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91f90faa-5d35-4200-95be-6dee3430e44f",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:43:51.8587473+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e3760c0-cafa-4b98-b8c6-13d43a54eb50",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:05:41.5309901+08:00",
+                      "CompletedAt":  "2025-01-18T11:25:07.2727907+08:00"
+                  },
+                  {
+                      "Id":  "d4161e41-c1db-454a-8530-76ad29b60758",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:59:56.9087117+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fccc6b1d-f53e-4623-bd22-4552e63e8847",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:14:31.3380574+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

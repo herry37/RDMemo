@@ -1,0 +1,71 @@
+{
+    "Id":  "f87aaa18-8176-456b-a272-bfac6221fb32",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-15T21:17:15.8774438+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45e735a7-f5d0-494e-82a6-b6c45519479e",
+                      "Name":  "Tasty Cotton Computer",
+                      "Quantity":  4,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666218Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cda79a5a-4919-421b-9642-d0b3342517eb",
+                      "Name":  "Rustic Granite Cheese",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666318Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbc9db17-c748-4eb6-80ae-3861a84e2ddd",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a69903d-2edd-4404-99d3-9dada720184b",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2cd214b-b552-405e-8d37-a314fb8d8cfc",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d738901f-a11e-4bce-8e11-764ec9aa554e",
+                      "Name":  "Practical Rubber Sausages",
+                      "Quantity":  3,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666412Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b290b2c8-0368-4aca-b99e-b7a8e8b427ad",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  373,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3666421Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

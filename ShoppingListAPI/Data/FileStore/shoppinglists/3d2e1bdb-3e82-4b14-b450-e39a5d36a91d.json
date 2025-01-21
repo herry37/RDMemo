@@ -1,0 +1,62 @@
+{
+    "Id":  "3d2e1bdb-3e82-4b14-b450-e39a5d36a91d",
+    "Title":  "居家整理 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T23:18:05.9407974+08:00",
+    "Items":  [
+                  {
+                      "Id":  "992849a8-4d3f-456e-8425-31b8a61bcd0d",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:29:57.6962765+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1a80c23-4aec-4de6-93a9-338f5e769a16",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:26:12.4401318+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d318c658-c894-4eda-8657-64a01fe047bc",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T06:59:58.8121302+08:00",
+                      "CompletedAt":  "2025-01-20T00:51:08.5567662+08:00"
+                  },
+                  {
+                      "Id":  "078f6119-673a-49c1-b313-0961af095ebc",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:57:43.7770817+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b59e2b19-ec2d-46ad-99b8-47c67af5fa76",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:38:41.2502505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1b4e015-ce80-4ae7-99ea-7498c5b65752",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  5,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:11:15.4269552+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

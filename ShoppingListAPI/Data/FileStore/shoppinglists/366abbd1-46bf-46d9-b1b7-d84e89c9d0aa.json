@@ -1,0 +1,62 @@
+{
+    "Id":  "366abbd1-46bf-46d9-b1b7-d84e89c9d0aa",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T11:52:24.9299233+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f1f66471-51ad-4c8e-b2c5-ae0cddd197b8",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5389742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba70e6ea-d6c4-4bff-8425-f26db5222748",
+                      "Name":  "Refined Plastic Gloves",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5390065Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "447dece3-2dae-4415-9bd3-a0c337d7d03b",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.539009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe2f81cc-acfb-4a0f-baf3-071e78101d90",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5390111Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ede1e877-7e4c-4f19-a68a-8976dfbc1add",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5390133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eadf18d1-f4bc-414b-aa5b-01b4e49e3013",
+                      "Name":  "Fantastic Fresh Keyboard",
+                      "Quantity":  5,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5390463Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

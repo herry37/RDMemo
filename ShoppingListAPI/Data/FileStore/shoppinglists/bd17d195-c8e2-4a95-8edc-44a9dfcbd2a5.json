@@ -1,0 +1,53 @@
+{
+    "Id":  "bd17d195-c8e2-4a95-8edc-44a9dfcbd2a5",
+    "Title":  "緊急採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T23:36:50.1224794+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff367c4e-6e9d-4953-99cf-6fae45872302",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  2,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:16:34.364567+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b979102-b5c2-4fe4-90e9-7d6a6fdd6c6d",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:28:00.9903141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1380ddce-717d-4e68-b7c2-d7b079a2652c",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:53:51.2990272+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bb990a8-ff9e-47c8-9e4e-6402d560aa08",
+                      "Name":  "美白牙膏",
+                      "Quantity":  4,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:11:16.8642031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66d26d9e-1eba-4231-8d37-46eceb6e0af3",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  3,
+                      "Price":  95,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:41:50.8135899+08:00",
+                      "CompletedAt":  "2025-01-16T04:15:06.9874347+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

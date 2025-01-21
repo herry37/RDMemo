@@ -1,0 +1,35 @@
+{
+    "Id":  "2096e02f-2317-4513-b4f0-4559a9377ba3",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T12:24:43.3463577+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c28b40bf-9927-4b4f-9022-fa7ea9d92544",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6868839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43cd44f6-8f68-4fd9-b08f-f2c06b9a314a",
+                      "Name":  "Handcrafted Soft Chicken",
+                      "Quantity":  4,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6869161Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30fd7ba3-da96-490d-b3e9-2f5422393a4c",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6869176Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

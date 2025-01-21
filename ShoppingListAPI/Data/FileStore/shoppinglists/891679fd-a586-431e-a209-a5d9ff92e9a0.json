@@ -1,0 +1,80 @@
+{
+    "Id":  "891679fd-a586-431e-a209-a5d9ff92e9a0",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T19:37:39.0097648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fbcf48ef-297b-41dd-9a37-ecda4ebcd387",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2909233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bb38d3a-ae25-45e5-9664-573636d59d5a",
+                      "Name":  "Fantastic Cotton Bike",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6724de24-b976-43db-a634-7b87d73a0488",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "268192a8-6b4e-45c2-bcba-f87f2edc69b8",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911444Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3301c7f7-0335-44bf-8991-ca2118127e9b",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c8ac4c3-346f-4e9f-bcfb-7ad09c3244c9",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce0758d1-534d-4966-9d24-a69fd79c1e60",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.291165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89de5c53-0251-45f7-a20d-d7cd4c5eab55",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2911658Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

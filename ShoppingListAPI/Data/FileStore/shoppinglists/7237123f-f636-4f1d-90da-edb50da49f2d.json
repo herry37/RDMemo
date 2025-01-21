@@ -1,0 +1,44 @@
+{
+    "Id":  "7237123f-f636-4f1d-90da-edb50da49f2d",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T15:52:08.4282544+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6bd2e626-7e86-4f05-883f-0a66ebe5f2d5",
+                      "Name":  "Sleek Rubber Computer",
+                      "Quantity":  1,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1524659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a271decc-fa6d-45b1-a8a6-35c2fe289e38",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1524715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "534be106-4d44-42fe-a0b8-2882f0a49f32",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  463,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1524726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59d62976-0d7f-480d-9656-5e0b248daa67",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1524735Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

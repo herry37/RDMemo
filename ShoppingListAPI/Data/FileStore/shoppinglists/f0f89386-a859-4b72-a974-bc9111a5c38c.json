@@ -1,0 +1,71 @@
+{
+    "Id":  "f0f89386-a859-4b72-a974-bc9111a5c38c",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T19:06:11.1614009+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86474a4a-48e1-481a-af24-034e5c081606",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bdb6b4e-a0b7-42fe-82d3-aa534a245709",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286346Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bc12180-b60f-44af-8498-04f516c640ed",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ef8c443-e7dc-4391-a6ab-5e4b58d9a092",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fed0979-b7a9-4138-a93e-c859083d41d1",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.82864Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcb449de-2904-4e86-8e4b-ff3febf2edc0",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  206,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "737e5f4f-c1f6-4269-a9be-352debd36730",
+                      "Name":  "Generic Soft Pizza",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8286645Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "c4969cca-832e-458f-9c5d-32bde00ab0f2",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-18T16:31:25.6701469+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9f4ff34d-5574-40ef-8ee6-960f9a61a810",
+                      "Name":  "Generic Frozen Towels",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4373886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b77914a-16de-42ab-89e6-05750f0df6b0",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.437393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00530f1e-34b5-4065-94cf-33a28f3b691f",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4373948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32d60a38-f2b1-4655-a367-3e5f64299211",
+                      "Name":  "Awesome Metal Bacon",
+                      "Quantity":  1,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4374002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8144dc72-f84b-4683-be34-4f7af53c4bdd",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.437402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "095b7f7e-aa03-4725-af9c-c30cc4188458",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  435,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4374061Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2827419b-1e94-4419-bb10-a3447ec93e90",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.437408Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da2f52fc-66b7-49ea-80ac-75e5ff1b0586",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4374106Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

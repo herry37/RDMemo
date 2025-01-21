@@ -1,0 +1,53 @@
+{
+    "Id":  "f97d8666-2432-4546-b1fa-ddbffc5f3990",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T15:09:36.4553384+08:00",
+    "Items":  [
+                  {
+                      "Id":  "87057cfc-9f82-4a0c-8ab5-9ee9b51ceb69",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  408,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3977227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fe36528-1591-4dd0-9bd2-7bfa5068958c",
+                      "Name":  "Awesome Concrete Fish",
+                      "Quantity":  5,
+                      "Price":  435,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.3977343Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fced133b-7102-41b4-8b50-28c226ba3d81",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.397735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad04565d-9e68-4aa6-b83e-1da9cd477002",
+                      "Name":  "Sleek Granite Shoes",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3977373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fbeed1f-060c-4706-88cc-f93569dfd08f",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3977382Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

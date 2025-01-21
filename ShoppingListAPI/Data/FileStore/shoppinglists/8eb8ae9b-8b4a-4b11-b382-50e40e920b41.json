@@ -1,0 +1,71 @@
+{
+    "Id":  "8eb8ae9b-8b4a-4b11-b382-50e40e920b41",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-14T21:32:01.9581131+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b22c7ce8-4800-490d-9c19-2f50bd78b631",
+                      "Name":  "Incredible Fresh Chicken",
+                      "Quantity":  5,
+                      "Price":  477,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6dd56663-c766-4661-8a8b-cb53ad016588",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34799350-db4a-42c0-b4fa-46b1adf7c6c7",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b845038c-b7df-46b7-aea3-791f894bb287",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48c48361-7d61-41a6-ae86-fae6f4edd5a4",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5891261-90ef-4e4b-899a-c855db1e442a",
+                      "Name":  "Gorgeous Rubber Ball",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739695Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c034141b-f7a6-4764-a580-c48b47e0d2ed",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  138,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2739708Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "266d7994-d862-4fd9-89f9-7f0701f54f53",
+    "Title":  "日常補充 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-21T05:40:21.9955598+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f0adf6de-b916-47e8-a0df-a9f6e20087ee",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:51:23.0488709+08:00",
+                      "CompletedAt":  "2025-01-21T01:12:04.4521089+08:00"
+                  },
+                  {
+                      "Id":  "c7ee5a47-8366-479b-a56c-1e80ea5905bb",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:03:15.4045049+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93d18a83-98c3-43bc-9c21-fcb01bb25288",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:46:10.157728+08:00",
+                      "CompletedAt":  "2025-01-16T00:30:07.3089331+08:00"
+                  },
+                  {
+                      "Id":  "cb5a2cdd-f377-4d36-b46f-119c6769bf49",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:56:52.3035813+08:00",
+                      "CompletedAt":  "2025-01-17T10:31:19.2652786+08:00"
+                  },
+                  {
+                      "Id":  "b3ee0335-89a9-4aad-b4e1-9200a68945c6",
+                      "Name":  "環保漂白水",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T05:24:28.5856077+08:00",
+                      "CompletedAt":  "2025-01-19T20:59:30.5655036+08:00"
+                  },
+                  {
+                      "Id":  "c739bd53-2cb3-4584-8904-c2ba19cb39dc",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T20:32:54.7931865+08:00",
+                      "CompletedAt":  "2025-01-21T02:11:50.9802095+08:00"
+                  },
+                  {
+                      "Id":  "2dd83170-f633-4f9c-8244-b7457482a526",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:25:56.0444003+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

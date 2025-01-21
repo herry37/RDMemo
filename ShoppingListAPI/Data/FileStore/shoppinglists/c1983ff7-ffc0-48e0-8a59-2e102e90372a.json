@@ -1,0 +1,71 @@
+{
+    "Id":  "c1983ff7-ffc0-48e0-8a59-2e102e90372a",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-17T09:58:14.6151502+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f495079-f42a-45c8-92a1-518f9f71aece",
+                      "Name":  "有機綠茶",
+                      "Quantity":  5,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:19:06.9054241+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b1f2429-01da-49ef-b659-024695641d28",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:13:24.6316889+08:00",
+                      "CompletedAt":  "2025-01-19T04:53:55.3042274+08:00"
+                  },
+                  {
+                      "Id":  "88c344f1-6b16-4c85-9dc0-4252f9f97195",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:34:13.0781287+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f039ac9-6ad3-498f-9e05-c891c7799ef9",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:49:35.4699678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "710efe63-0626-43e9-bd79-a8341ad8a80d",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:01:54.9346793+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2526c65-e745-44be-9680-0d25f25ac810",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:18:35.4913184+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e178684-def9-4dec-bbae-64118242a531",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:13:09.7195176+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "c35ac961-7677-4714-aea1-865ea6777f56",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T05:51:49.2773866+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5948122-2bfe-4f66-a2d7-02b8938c43b3",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.256957Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "204cd965-cd8c-4fd4-b513-c497a14cd264",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b02230bb-dc20-433c-a350-0a2a0ed4ec6a",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569638Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a93d6ebc-1a55-4552-8f48-17da2a2a31b5",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569657Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6f9222f-1f97-473d-bfef-eb666b395abe",
+                      "Name":  "Intelligent Rubber Keyboard",
+                      "Quantity":  1,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e929219d-731d-40f4-a206-6d82572d2758",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569959Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d145d5d7-e5e7-40a7-9c29-f1ae78274cdc",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2569971Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "92755175-e3f4-43d9-a93a-038173c03e5d",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-20T11:36:31.5073067+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8fcf936c-257f-499e-87c4-12faaf5a3882",
+                      "Name":  "便利貼",
+                      "Quantity":  8,
+                      "Price":  90.77882906710820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:13:28.3807246+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9c292b4-4d5b-4199-93ce-ee41c56a4b44",
+                      "Name":  "資料夾",
+                      "Quantity":  5,
+                      "Price":  344.145992386580920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:18:19.013595+08:00",
+                      "CompletedAt":  "2025-01-21T23:36:42.6097048+08:00"
+                  },
+                  {
+                      "Id":  "241437a3-4b4f-4030-95d9-9a6c3535053c",
+                      "Name":  "芳香劑",
+                      "Quantity":  8,
+                      "Price":  218.678590841398720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:50:33.5389891+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97d94413-4221-4d29-b8b1-b28a91a58751",
+                      "Name":  "碗",
+                      "Quantity":  9,
+                      "Price":  55.4839300716930220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:16:16.3674117+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cb4a2be-64e4-4997-8172-5196630e3825",
+                      "Name":  "訂書機",
+                      "Quantity":  8,
+                      "Price":  162.140403139836720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:22:19.1361025+08:00",
+                      "CompletedAt":  "2025-01-18T12:14:51.3684808+08:00"
+                  },
+                  {
+                      "Id":  "d09b4885-baed-4fb0-8664-b37d64424ab5",
+                      "Name":  "泡麵",
+                      "Quantity":  10,
+                      "Price":  288.374877652116490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:26:09.9544888+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

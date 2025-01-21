@@ -1,0 +1,71 @@
+{
+    "Id":  "50b09730-3e03-4f87-af0e-b6f503699885",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T17:47:22.5768968+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6e35106-f846-4542-929c-1af1d054ee7d",
+                      "Name":  "豬肉",
+                      "Quantity":  9,
+                      "Price":  78.441986036129860,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:39:41.7429484+08:00",
+                      "CompletedAt":  "2025-01-20T03:19:21.7764152+08:00"
+                  },
+                  {
+                      "Id":  "120c7410-8646-4d89-b01c-a41dc39ce260",
+                      "Name":  "漂白水",
+                      "Quantity":  6,
+                      "Price":  274.276895448828570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:43:48.024548+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18e3bd9a-e7c1-4278-ab5e-857ca577f932",
+                      "Name":  "汽水",
+                      "Quantity":  4,
+                      "Price":  98.017543445300630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:36:30.5530364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50690d8e-dedf-4017-8fb8-5b455929d4c6",
+                      "Name":  "置物盒",
+                      "Quantity":  5,
+                      "Price":  376.509777773823740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:21:42.5129728+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f8585b9-f343-4187-9eb9-684c2117e2b7",
+                      "Name":  "面紙",
+                      "Quantity":  2,
+                      "Price":  32.9969791545846940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:27:39.8038698+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da75c3f3-fe5c-4386-9e1e-e43dbcdc9f62",
+                      "Name":  "堅果",
+                      "Quantity":  2,
+                      "Price":  163.817811451529120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:50:12.5025389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6bf7ac4-aefd-479d-aeab-807b6636a553",
+                      "Name":  "糖果",
+                      "Quantity":  9,
+                      "Price":  33.9901168018257760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:45:40.6744708+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

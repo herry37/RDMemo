@@ -1,0 +1,80 @@
+{
+    "Id":  "d56a5a0f-4dde-44be-884f-5e99a5f631c2",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-21T02:37:52.3981115+08:00",
+    "Items":  [
+                  {
+                      "Id":  "39db856b-884c-4d23-bd4d-e002812857ec",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0675773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a32bd3c-e03a-4d2c-8eaa-c5cf9728c280",
+                      "Name":  "Gorgeous Cotton Ball",
+                      "Quantity":  4,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0676027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb96a82e-0aff-418d-b144-9a5c90a5ae00",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0676062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a496468d-0532-4688-99aa-2b9e0feaa17c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0676082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0eba1aa0-fd89-4516-ab1a-964f2ebdb23c",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0676102Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "791f82df-7816-4a38-80b9-ba5654b8e3ca",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.067613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0825c720-70a8-42fe-9838-d60123467c28",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0676153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "704c8b52-59a7-4c31-b588-7a33bb966116",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  494,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.067617Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

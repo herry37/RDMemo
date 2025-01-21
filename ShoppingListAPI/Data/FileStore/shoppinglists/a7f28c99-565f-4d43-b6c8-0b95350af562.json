@@ -1,0 +1,98 @@
+{
+    "Id":  "a7f28c99-565f-4d43-b6c8-0b95350af562",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T03:09:25.259463+08:00",
+    "Items":  [
+                  {
+                      "Id":  "929b0835-657b-42d8-92c1-6051aa5f7bfc",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  487,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed3dbb4b-3aa8-427c-9b40-c97d1f315bda",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "985e6dbc-6de3-4684-b977-fd008ff579c1",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9e81c3e-6ae3-4879-8642-2c87b43aec6e",
+                      "Name":  "Intelligent Granite Car",
+                      "Quantity":  3,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968421Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5c4eb8e-359f-4662-b180-4b020adfa63f",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f7707b1-a67c-47d9-8c3a-33cc3b1abf58",
+                      "Name":  "Unbranded Fresh Keyboard",
+                      "Quantity":  5,
+                      "Price":  187,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8cc676c-e361-4e12-b513-c772885a231d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8a69eb0-5422-486f-8dc6-58b513c6e645",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  322,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f4623ea-648a-4343-b9aa-d212cb20fcfc",
+                      "Name":  "Rustic Concrete Table",
+                      "Quantity":  4,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51ad2c3f-66de-4476-96c9-d109a29cb451",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4968517Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

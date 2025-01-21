@@ -1,0 +1,71 @@
+{
+    "Id":  "d043e361-1a50-4c59-b64a-2349160672fd",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T06:28:52.9125301+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6b517ae8-2375-4bf1-a8c2-155abc03fd0f",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:33:36.8777366+08:00",
+                      "CompletedAt":  "2025-01-16T20:22:56.8523584+08:00"
+                  },
+                  {
+                      "Id":  "33222e3d-e553-4b7b-bfc8-e45cd2c97788",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:41:11.1051063+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80c00295-deee-4afd-9a52-b83af3ed7aef",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  1,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:00:00.1984006+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e34c433-6ce6-4f4e-9b53-603090882bba",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:31:40.0931926+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "748722d5-5bc1-44e1-911a-026219452896",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:20:57.9226018+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f642481-1192-461e-8cdb-0fc466da647c",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:21:00.2132466+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd90abd0-da2e-4a97-bf09-c82f0047e111",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T19:43:09.0569845+08:00",
+                      "CompletedAt":  "2025-01-15T03:02:37.3376555+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "c3c00533-66ea-45f8-9332-c9c7e50b9e60",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-16T23:24:15.5580343+08:00",
+    "Items":  [
+                  {
+                      "Id":  "68c15c7f-9b30-4bbe-a9f2-18b8a23e2594",
+                      "Name":  "Gorgeous Frozen Gloves",
+                      "Quantity":  4,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7540984Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0ed603d-729d-452d-969b-602a469e4b72",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7541005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b090ca80-4c5a-4f09-9d72-0e2845e87ce1",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7541015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bfd739d9-ebf1-4bfa-bad8-e33a8544f8b9",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.754103Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "3b423ec9-ba23-4963-b5dd-d80f0c9c59fe",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T13:07:48.3514651+08:00",
+    "Items":  [
+                  {
+                      "Id":  "51ce5e8c-7cde-4a65-afa3-af5af79495db",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  15,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4746855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0c5b56a-c2f2-4e00-8e41-cb462802191a",
+                      "Name":  "Refined Soft Table",
+                      "Quantity":  2,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "202bde41-7aae-4c6c-a7c9-54015c26558d",
+                      "Name":  "Awesome Concrete Bacon",
+                      "Quantity":  5,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9937fa41-0f7e-4c74-a26c-7c8cba73f850",
+                      "Name":  "Awesome Wooden Cheese",
+                      "Quantity":  3,
+                      "Price":  472,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d7760f6-61fb-4f09-8f2f-1899b6d157c8",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "026588e1-e8fc-4d22-8b84-156360764ec0",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d2d569a-0501-41aa-b26f-806d64a828fe",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca9bea46-be23-4c00-84aa-45ae4c3df82a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88e2af45-a6ab-4941-b761-740335b3c2f6",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "403316b2-0dce-4811-8968-af50002d6dc6",
+                      "Name":  "Ergonomic Frozen Sausages",
+                      "Quantity":  2,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4747559Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

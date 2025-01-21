@@ -1,0 +1,98 @@
+{
+    "Id":  "f0570a15-66ea-4b23-aca2-ecacc679efd8",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-19T18:37:01.1371009+08:00",
+    "Items":  [
+                  {
+                      "Id":  "28ab3336-701a-49e5-a1b4-c42bb44707d7",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2665653Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28ac9604-ce54-4358-8314-78432d6af393",
+                      "Name":  "Handmade Wooden Shoes",
+                      "Quantity":  2,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666073Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69719201-37e8-40ba-b367-0b8c6939ff2d",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83d29abb-d274-4b5e-990d-5c1fbf984004",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90252fff-3970-4431-89bd-2da836907059",
+                      "Name":  "Gorgeous Frozen Salad",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666495Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cb3db70-e9d0-4c38-aec8-b244578d4333",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bebe7227-1168-4082-af95-18ae4af017cd",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  439,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3904e35-ca90-4cca-bc93-d3f17e2d29a3",
+                      "Name":  "Handcrafted Granite Sausages",
+                      "Quantity":  1,
+                      "Price":  312,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c208ce0-0726-4a16-8fa7-eb8edcef7a1a",
+                      "Name":  "Ergonomic Cotton Computer",
+                      "Quantity":  4,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666688Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28b7ebdf-5d9b-4d94-9110-119f1b77d3ba",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2666713Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

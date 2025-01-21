@@ -1,0 +1,80 @@
+{
+    "Id":  "d4d46fc5-6619-42eb-83de-529ae7e9dfa1",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-19T19:58:17.1571492+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72ce45c0-327c-446c-9083-7bd62c409b8f",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d1cd803-75f9-4b2d-a190-2953d44c2475",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9aa6bb20-a401-4771-a92f-681da2d8c155",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  348,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8d78b04-471e-430d-8ad4-c14302b9032a",
+                      "Name":  "Tasty Wooden Ball",
+                      "Quantity":  2,
+                      "Price":  454,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "670b018c-46f4-406c-b0f0-8d5ad4bc6785",
+                      "Name":  "Refined Wooden Shirt",
+                      "Quantity":  2,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f9a608c-4bf0-4e5e-9239-594fc3f70bdb",
+                      "Name":  "Unbranded Concrete Mouse",
+                      "Quantity":  5,
+                      "Price":  19,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "372083f1-e166-40d3-a07c-7b9a88e63f74",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2093957Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86596ffa-5012-4481-b948-05613ba66b6f",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.209397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

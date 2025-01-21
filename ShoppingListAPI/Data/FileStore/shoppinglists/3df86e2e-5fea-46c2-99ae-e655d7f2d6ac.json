@@ -1,0 +1,35 @@
+{
+    "Id":  "3df86e2e-5fea-46c2-99ae-e655d7f2d6ac",
+    "Title":  "露營準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-14T22:05:23.0141237+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4a70b583-c2a4-41ab-8afc-7cc6b92ccd87",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:53:02.9584439+08:00",
+                      "CompletedAt":  "2025-01-22T04:50:55.5817504+08:00"
+                  },
+                  {
+                      "Id":  "f582127b-6e7f-4c98-b2e5-eb00a304d45d",
+                      "Name":  "金屬直尺",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:00:13.1208211+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d04c29e-e3a6-4ee6-99c4-b8fffe872be7",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:41:54.0098939+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "9a8db636-1de3-4d75-b178-6c9868b25628",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T12:33:35.2913043+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a671fc05-ee00-4a71-9e7e-f8f6a092b7c5",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.500726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41abecbe-6e39-490f-97ca-30f2ea4c88f4",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab292fbc-409d-4f5c-a34b-7f4141747c2f",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57a874a9-465c-496e-a246-00d8234210b9",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8ec36cc-8122-4687-ba93-82bb350d7749",
+                      "Name":  "Ergonomic Metal Chicken",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46b61f72-a5b7-4b1e-af00-de26bdc3a719",
+                      "Name":  "Handmade Soft Keyboard",
+                      "Quantity":  5,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007593Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e0a2fb7-69c8-452c-95cf-6f4317e418bb",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ee7d060-4cf2-4134-9dfb-c4b2a6c048be",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007634Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0d0177e-ec9b-4b0c-a6b2-79dc3d3846c9",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5007775Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

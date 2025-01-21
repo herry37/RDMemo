@@ -1,0 +1,35 @@
+{
+    "Id":  "7839f98f-dc7e-4a7d-a958-04459a980a9e",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T19:19:01.4601233+08:00",
+    "Items":  [
+                  {
+                      "Id":  "90beba15-2cfb-4b7d-9212-3a4b70c8a932",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  386,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3308054Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4d7af78-4356-4d37-a502-5d633daacc21",
+                      "Name":  "Ergonomic Granite Tuna",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3308407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f8ef275-d230-4549-9839-a66e5b2976aa",
+                      "Name":  "Fantastic Frozen Hat",
+                      "Quantity":  2,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3308494Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

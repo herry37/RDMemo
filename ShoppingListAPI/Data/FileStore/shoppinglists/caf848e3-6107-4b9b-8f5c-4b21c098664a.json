@@ -1,0 +1,71 @@
+{
+    "Id":  "caf848e3-6107-4b9b-8f5c-4b21c098664a",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-17T20:17:17.1096755+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d060803-516e-4597-98f8-7ed965dc1ef9",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d974d30-0b53-44de-b5a1-768f820c77e0",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8fc2b86-7f24-4746-8f25-0ea3cb8e1710",
+                      "Name":  "Gorgeous Concrete Shirt",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092807Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd4004a0-488b-4f68-a820-f7d7e21f2432",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "edab6059-9a25-4e8b-bf91-4f5cef0256d5",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8eff27b4-20a7-452a-82ae-0f12ba9c4dd5",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092852Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4a144a4-0756-4d1e-891c-d71b7a595d16",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  439,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9092859Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

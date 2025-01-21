@@ -1,0 +1,89 @@
+{
+    "Id":  "fdc70d2c-4505-4dd5-a7d7-52c409bd12d0",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T18:56:23.3621562+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c041ea7-f2d6-4b50-ac4e-fd2f653a4a1b",
+                      "Name":  "Awesome Fresh Shirt",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91697b7c-0609-4350-a063-41c35b45b4b7",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192763Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97d0eafd-7e4f-434e-b3ea-6c301ac3e0ef",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9800f7d2-efb1-4860-b0f6-94677d6dde6d",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192818Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "899a2d4e-cb2e-42df-907e-2a89c07c1f55",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192853Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f454eb3-dde8-43c2-b9ac-9840e9a87b1e",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192894Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4178523-5a94-4eea-9a80-71ceeeb984cc",
+                      "Name":  "Rustic Metal Gloves",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2192973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d123cc7-4ab7-49ed-84b1-76c341aff8eb",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  369,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2193005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "113f32ca-6222-4d0c-8881-5211b20efcb6",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.219304Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

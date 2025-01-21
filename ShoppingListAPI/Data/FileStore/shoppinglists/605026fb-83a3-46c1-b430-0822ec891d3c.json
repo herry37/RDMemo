@@ -1,0 +1,80 @@
+{
+    "Id":  "605026fb-83a3-46c1-b430-0822ec891d3c",
+    "Title":  "每週採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-17T13:55:29.6867878+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f7798b14-2419-4321-b4c2-ec5324e7250f",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:13:48.4532208+08:00",
+                      "CompletedAt":  "2025-01-21T08:41:00.80776+08:00"
+                  },
+                  {
+                      "Id":  "3ab8a401-2e14-4430-a6a8-8719a22ace58",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:46:03.1674251+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2781e422-3c7b-44c2-958a-64f7bb5c7b00",
+                      "Name":  "氣泡水",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:53:29.1831603+08:00",
+                      "CompletedAt":  "2025-01-22T12:54:38.7093946+08:00"
+                  },
+                  {
+                      "Id":  "09427de1-67bd-4326-9e3f-817e919a9948",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:04:12.7619077+08:00",
+                      "CompletedAt":  "2025-01-17T03:34:58.8675001+08:00"
+                  },
+                  {
+                      "Id":  "13eb5466-8ca7-44dc-a3e6-1d6ca569aacd",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:47:33.9365865+08:00",
+                      "CompletedAt":  "2025-01-15T04:40:19.7398579+08:00"
+                  },
+                  {
+                      "Id":  "dd510fca-9e39-41ff-8575-1a71d52bebec",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:41:19.0195378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2cd0fbe-73b4-4588-9ef2-ecc8d388eaff",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:42:08.1547142+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3212d61-42b0-460d-80fa-4a58aca886f6",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:15:53.2167791+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "5a92e672-6e7b-4078-8a5b-a797bbc6f1aa",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-16T07:36:27.440743+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e73781e0-0613-450f-a77c-7d16f6e9512c",
+                      "Name":  "Tasty Steel Mouse",
+                      "Quantity":  2,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4640511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbfbfbff-8bc1-4632-9752-2a70c60ac092",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4640538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f5a939e-eb1f-40c0-a177-b79c0bb5c607",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  16,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4640573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2043ba79-9692-4643-88fc-a45bd43163b2",
+                      "Name":  "Incredible Cotton Mouse",
+                      "Quantity":  1,
+                      "Price":  435,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.4640617Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "84fa045a-4219-406a-8efa-7389c7da0016",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T05:21:18.8475219+08:00",
+    "Items":  [
+                  {
+                      "Id":  "284ba565-78b1-4fa0-a9b0-3be582aaa13f",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2984909Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6387a320-7403-4776-a2b3-ca87c3d9095f",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2984959Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "443a94a5-8e36-4363-8089-f8d7b42626b2",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2984999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed8bae49-c959-4b19-bee0-29f8158638fe",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2985015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84522ad1-6a8a-426b-86d1-03b87d8a660f",
+                      "Name":  "Practical Rubber Chair",
+                      "Quantity":  4,
+                      "Price":  445,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2985596Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb0effbb-4e5e-4718-b3a0-fdb0ce816353",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2985645Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "780f56a1-4b00-4692-b397-7c185f3ec1f0",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2985669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dff108fa-acaf-4fde-8bec-e1b87ae6fb8c",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2985683Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

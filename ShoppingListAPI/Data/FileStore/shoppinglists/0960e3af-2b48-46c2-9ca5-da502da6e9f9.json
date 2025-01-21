@@ -1,0 +1,53 @@
+{
+    "Id":  "0960e3af-2b48-46c2-9ca5-da502da6e9f9",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T10:41:17.8501885+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae5ac465-e597-40e3-a8ef-9adc403a47b4",
+                      "Name":  "Small Steel Chips",
+                      "Quantity":  4,
+                      "Price":  421,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9773058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72326450-e52f-4d9a-8341-bfb4dc22cd67",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9773098Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bedc9fc9-d654-4820-b31e-7b14e5b48093",
+                      "Name":  "Tasty Steel Ball",
+                      "Quantity":  1,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9773151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52abc1ee-0b12-4030-a37c-a3be82263b03",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  493,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9773183Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "685668f7-05fd-40af-bf8c-d5311959ecd8",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9773209Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

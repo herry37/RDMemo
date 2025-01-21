@@ -1,0 +1,80 @@
+{
+    "Id":  "4c72599c-61d5-4231-84cc-6395f0b5ea23",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T21:06:34.1431006+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e6662a14-f005-4aa8-9a78-1d7c0f160c26",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7151532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51c30ddf-773d-4a0d-ba00-ee4c7be199ce",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  100,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7151588Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f11091bd-374f-459e-8fb0-90a8d9fd3b8f",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7151601Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bb7cee2-8b40-4123-9f93-cf4cf160e7e9",
+                      "Name":  "Practical Concrete Sausages",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7151969Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9bc3bac-7edf-42c6-ae51-087af332e63c",
+                      "Name":  "Gorgeous Metal Bike",
+                      "Quantity":  1,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7152044Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57884cc6-0347-42f4-8d41-531b0c69ff88",
+                      "Name":  "Practical Frozen Hat",
+                      "Quantity":  2,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7152126Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd706f8a-6131-42f1-a42a-d6309d59a3fb",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7152141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5224f4da-5f58-41a7-beb5-0fdec8971f3b",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7152151Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

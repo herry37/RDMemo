@@ -1,0 +1,53 @@
+{
+    "Id":  "9163876b-fe26-4bf5-b6d0-9e08e5b4b535",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T19:29:15.3565046+08:00",
+    "Items":  [
+                  {
+                      "Id":  "76c94d77-8250-4db7-b32f-66dfc6d3f4b0",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8346905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5967b9f7-9ef6-4128-92b5-4e84d67ffc03",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8346986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "153850e6-590a-4331-ad74-34c5b356b9ac",
+                      "Name":  "Handmade Soft Towels",
+                      "Quantity":  2,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8347355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73031069-cb13-40f9-8c9e-03d279cb219d",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8347386Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51b77cf8-9462-49f3-8402-6cec9a19aaab",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8347415Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

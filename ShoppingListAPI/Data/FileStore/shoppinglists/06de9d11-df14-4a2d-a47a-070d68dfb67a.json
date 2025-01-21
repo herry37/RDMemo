@@ -1,0 +1,71 @@
+{
+    "Id":  "06de9d11-df14-4a2d-a47a-070d68dfb67a",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T22:58:25.7221072+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1c3a44d9-7f8c-4fea-93e1-8bd378aee28a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.378831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fda0978d-d90e-4e9d-9664-72e100b5fb56",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  389,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788365Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b71e8a5a-6a97-44e0-a0c3-db45e9f1c9c9",
+                      "Name":  "Incredible Frozen Pizza",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23fc4da9-75ae-4af0-9d7f-90b03a2b3a6f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7cd0a42-c83f-4d59-b906-c152dfb24a1e",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788681Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afba1545-0937-4723-b33f-1da7e8b16e80",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49436e7a-afe1-434e-a4e2-7d06e45f8648",
+                      "Name":  "Practical Rubber Fish",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.3788868Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

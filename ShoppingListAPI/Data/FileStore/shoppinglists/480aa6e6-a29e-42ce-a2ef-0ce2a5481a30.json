@@ -1,0 +1,44 @@
+{
+    "Id":  "480aa6e6-a29e-42ce-a2ef-0ce2a5481a30",
+    "Title":  "露營準備 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-21T09:59:49.1038295+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0ccd996-cea3-4a1a-a449-81bc18cb5b24",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:03:13.1005594+08:00",
+                      "CompletedAt":  "2025-01-15T16:35:12.6498293+08:00"
+                  },
+                  {
+                      "Id":  "921dccb3-598e-4b71-8755-715766bccc7b",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:26:03.4677894+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e13f225-de17-4155-9a92-49399ee0c087",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:36:54.7940522+08:00",
+                      "CompletedAt":  "2025-01-19T03:12:59.7112965+08:00"
+                  },
+                  {
+                      "Id":  "b6202e3f-77e4-47e7-8f15-7aa55e76cb0c",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:26:06.6768166+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

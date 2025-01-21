@@ -1,0 +1,62 @@
+{
+    "Id":  "aa23a9ee-f25d-4e95-851e-a300331c11f2",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-21T10:36:22.9154372+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d5394909-99b8-4035-b8c6-c30da2a25a08",
+                      "Name":  "糖果",
+                      "Quantity":  1,
+                      "Price":  364.591694483490380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:37:57.9446759+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f95a134c-29e4-44f6-9328-5d5940c0bdf1",
+                      "Name":  "掃把",
+                      "Quantity":  6,
+                      "Price":  468.409086833687220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:09:16.3753764+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd6f3f25-ed57-42bf-9ff3-1ab662b3e7ba",
+                      "Name":  "剪刀",
+                      "Quantity":  10,
+                      "Price":  149.042917011813990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:30:24.2201773+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc39168b-ec7c-484a-897d-17fbee352d0a",
+                      "Name":  "口香糖",
+                      "Quantity":  5,
+                      "Price":  142.953716239617210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:47:53.9187972+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5a80a75-0fac-4f40-b381-ad41c5986c83",
+                      "Name":  "泡麵",
+                      "Quantity":  9,
+                      "Price":  290.863625037235870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:26:29.1165923+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "159e9044-120f-44bc-9a0a-37a8369e78d7",
+                      "Name":  "筆",
+                      "Quantity":  7,
+                      "Price":  173.729384241914470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:18:35.6633539+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "e62a084c-529f-4198-9c2c-a2f5737ca4bb",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-17T23:44:51.7214472+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f3b823ec-bd2c-4e79-8810-c37c36e61f57",
+                      "Name":  "Tasty Wooden Chips",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8773361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "737b457e-4a3e-45ea-9301-cac3a3458e4b",
+                      "Name":  "Unbranded Steel Keyboard",
+                      "Quantity":  1,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.87735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cff205f1-e02a-4855-8020-07fe1a20e53b",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8773518Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

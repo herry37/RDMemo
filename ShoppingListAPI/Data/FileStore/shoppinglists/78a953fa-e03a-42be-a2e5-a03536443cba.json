@@ -1,0 +1,62 @@
+{
+    "Id":  "78a953fa-e03a-42be-a2e5-a03536443cba",
+    "Title":  "01/14 食品購物清單",
+    "CreatedAt":  "2025-01-19T04:59:44.1907048+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8b0dfa46-e611-4fcd-80ec-8a383e55e3d1",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  400,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.1683826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b60ff665-f2b2-4556-9993-01409d7a9d6e",
+                      "Name":  "Unbranded Wooden Chicken",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1684242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3002765-213c-4fd6-8fe3-42aa5ca6125e",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.1684278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de9c4116-467e-4837-bbf0-23efe3e50b87",
+                      "Name":  "Tasty Plastic Table",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1684329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f1243ed-1678-480c-99d8-7dc0ccd25343",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1684347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76f4eb74-bbc2-47b7-8c3c-6fe8aa18e7a7",
+                      "Name":  "Generic Frozen Shirt",
+                      "Quantity":  5,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.1684402Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

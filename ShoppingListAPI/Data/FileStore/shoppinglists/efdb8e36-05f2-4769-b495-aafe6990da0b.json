@@ -1,0 +1,35 @@
+{
+    "Id":  "efdb8e36-05f2-4769-b495-aafe6990da0b",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T21:49:04.0160252+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cbe7a6f9-8794-4002-8c0c-91c0f5a1532b",
+                      "Name":  "漂白水",
+                      "Quantity":  9,
+                      "Price":  461.692666490841440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:00:18.7838157+08:00",
+                      "CompletedAt":  "2025-01-22T01:05:35.9870476+08:00"
+                  },
+                  {
+                      "Id":  "59b598d1-f5ef-43af-8d60-37459997db46",
+                      "Name":  "防曬乳",
+                      "Quantity":  2,
+                      "Price":  130.856323075281570,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:42:41.9134572+08:00",
+                      "CompletedAt":  "2025-01-18T14:12:38.0224238+08:00"
+                  },
+                  {
+                      "Id":  "d11ea876-34e6-4bd3-bda4-eeb3adb20c40",
+                      "Name":  "堅果",
+                      "Quantity":  2,
+                      "Price":  224.058494681689420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:29:57.0227968+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

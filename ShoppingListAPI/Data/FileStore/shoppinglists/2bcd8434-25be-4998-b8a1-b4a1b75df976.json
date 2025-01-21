@@ -1,0 +1,98 @@
+{
+    "Id":  "2bcd8434-25be-4998-b8a1-b4a1b75df976",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T11:55:01.3538337+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b5989561-790a-4191-9fdf-22e8988c9b2e",
+                      "Name":  "Sleek Plastic Chips",
+                      "Quantity":  4,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4ccfd84-4709-4b52-9d2c-a5999ed969a4",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125048Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38258bd6-11a5-4f0d-86aa-d8f559781fb9",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125287Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c672869-1787-46a5-8293-252a3c497a92",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  397,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba2e33bd-7be0-4267-a7e8-a9c140a88c02",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125318Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f085ce47-7b12-4705-b129-0597dd2df883",
+                      "Name":  "Fantastic Plastic Hat",
+                      "Quantity":  2,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c831a569-c04a-4b02-8af2-5759206e1eca",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70352c3d-0e3f-4d19-97fd-f206641ec3d5",
+                      "Name":  "Unbranded Rubber Cheese",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0bce956-e703-4ac5-a5f4-242ea937302c",
+                      "Name":  "Generic Granite Gloves",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125555Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b2177d5-7b9e-4658-b7a2-b592611ba7e0",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1125567Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

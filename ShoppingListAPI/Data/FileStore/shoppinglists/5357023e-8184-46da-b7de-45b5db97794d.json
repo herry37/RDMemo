@@ -1,0 +1,62 @@
+{
+    "Id":  "5357023e-8184-46da-b7de-45b5db97794d",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T02:37:18.5499779+08:00",
+    "Items":  [
+                  {
+                      "Id":  "60a1fb39-1227-4df6-9c5f-9a33c3e77313",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:24:45.2646205+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "034c0f04-23d7-4eac-97f9-f888b70d7a50",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:07:32.8412492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "235e34bf-100d-47cb-9a4a-f6194503e51c",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:10:32.54349+08:00",
+                      "CompletedAt":  "2025-01-15T07:08:24.4725806+08:00"
+                  },
+                  {
+                      "Id":  "e9b12e07-e8ce-4ee6-b808-6fd6e4c39000",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:50:44.6114848+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12dacd91-eabe-4565-80a4-8c0c4424a675",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:00:27.0278043+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92ab7ae0-0137-41db-a1bb-47e2e8d2ed93",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:43:35.5793797+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

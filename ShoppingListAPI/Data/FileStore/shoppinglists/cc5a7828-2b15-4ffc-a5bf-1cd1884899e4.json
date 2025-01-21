@@ -1,0 +1,71 @@
+{
+    "Id":  "cc5a7828-2b15-4ffc-a5bf-1cd1884899e4",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-21T11:27:34.3401315+08:00",
+    "Items":  [
+                  {
+                      "Id":  "14d4a3ab-ef5c-4480-a804-c43caf87bd92",
+                      "Name":  "拖把",
+                      "Quantity":  2,
+                      "Price":  448.45816087271380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:01:45.9163634+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31dee658-d0c8-4dea-9962-f79a666c49c1",
+                      "Name":  "衛生紙",
+                      "Quantity":  7,
+                      "Price":  118.550714422515680,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:31:20.4238981+08:00",
+                      "CompletedAt":  "2025-01-17T08:36:30.6212788+08:00"
+                  },
+                  {
+                      "Id":  "f42ea211-c51b-490f-8b3e-539b2be65af3",
+                      "Name":  "護手霜",
+                      "Quantity":  7,
+                      "Price":  462.544083566039920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:45:42.9178961+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34e0ffc3-9db3-449a-a016-f0a1de64b0bf",
+                      "Name":  "訂書機",
+                      "Quantity":  6,
+                      "Price":  462.050708480963690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:25:41.0909063+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3d48394-668e-4aea-9234-73b91283690c",
+                      "Name":  "爆米花",
+                      "Quantity":  6,
+                      "Price":  190.432255911370260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:00:35.8218814+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10840acb-6e87-46ee-9c0a-77e24c48b5cf",
+                      "Name":  "掃把",
+                      "Quantity":  6,
+                      "Price":  211.458268280204740,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T20:37:55.8225893+08:00",
+                      "CompletedAt":  "2025-01-22T02:33:22.8484161+08:00"
+                  },
+                  {
+                      "Id":  "0456df67-a975-41d3-82de-0d2e9c9c0c6e",
+                      "Name":  "梳子",
+                      "Quantity":  6,
+                      "Price":  337.176953157595380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:59:08.4035765+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "bfd1713b-e50b-4aa1-8650-44845a0e99c1",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-21T09:35:03.8347466+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e8af0791-9b47-4f3e-9148-f64c1a1fb508",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df80db77-0211-4f17-9874-df8d56dfec80",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af46b385-2907-4c54-b83e-a3b22339d972",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  423,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391412Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9b44ad6-19b5-4499-904c-72d6aec25ea7",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "531e79ed-5f20-4733-9217-d8986b1a55ac",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391469Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f5baa4a-6c5d-4455-a9b4-04f8186497b7",
+                      "Name":  "Awesome Soft Car",
+                      "Quantity":  2,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5391715Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

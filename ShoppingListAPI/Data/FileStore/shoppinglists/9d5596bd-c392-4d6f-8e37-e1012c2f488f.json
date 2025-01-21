@@ -1,0 +1,35 @@
+{
+    "Id":  "9d5596bd-c392-4d6f-8e37-e1012c2f488f",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T08:28:06.6072463+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b02f59c4-3218-4862-939b-ca12bb93c388",
+                      "Name":  "Refined Soft Shirt",
+                      "Quantity":  2,
+                      "Price":  434,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5731032Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "635efde6-a135-4f96-82ae-d7c8e425a95d",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  354,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5731069Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b3652e8-bb17-4c4d-bf4f-d79b7c2a826b",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5731081Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

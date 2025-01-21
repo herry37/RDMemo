@@ -1,0 +1,80 @@
+{
+    "Id":  "5b9034b0-ca23-4d50-8ab5-a02b92b375e2",
+    "Title":  "派對用品 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-15T02:15:17.0609452+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9da7fb23-f4df-41dd-b066-f1dff5dd4670",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:31:20.5153726+08:00",
+                      "CompletedAt":  "2025-01-15T18:07:58.3200808+08:00"
+                  },
+                  {
+                      "Id":  "1bb4a5ff-7668-4f3a-85c9-75f7dfe7fc90",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T05:41:07.7477923+08:00",
+                      "CompletedAt":  "2025-01-17T00:16:26.4422835+08:00"
+                  },
+                  {
+                      "Id":  "12b9d278-eab2-49f4-8c7c-efa4a7b8914a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:34:03.8599438+08:00",
+                      "CompletedAt":  "2025-01-19T03:28:15.0380482+08:00"
+                  },
+                  {
+                      "Id":  "4c88826e-c3ee-4469-a2e5-e8ab114ef36f",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:16:22.3091914+08:00",
+                      "CompletedAt":  "2025-01-17T21:19:04.4407538+08:00"
+                  },
+                  {
+                      "Id":  "fe69f039-6e0d-478c-8c98-5324102ffd1d",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:00:04.8731871+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d4e6da1-af2c-428b-abb9-e99de426545d",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  223,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:19:23.1500919+08:00",
+                      "CompletedAt":  "2025-01-17T05:43:23.205306+08:00"
+                  },
+                  {
+                      "Id":  "e73e102e-ef67-4747-8af9-ab0377bf7c41",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:37:49.835909+08:00",
+                      "CompletedAt":  "2025-01-17T13:59:35.3818743+08:00"
+                  },
+                  {
+                      "Id":  "f26338fc-e209-40d7-8b3d-db92e2eaea1c",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:52:27.1803449+08:00",
+                      "CompletedAt":  "2025-01-17T03:15:02.4137621+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

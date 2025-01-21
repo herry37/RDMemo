@@ -1,0 +1,44 @@
+{
+    "Id":  "af5b6081-ec87-4ce6-821c-fd018e78584f",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-16T08:03:33.6006378+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1776b334-063e-4a95-aa69-bd05af305490",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:28:29.0111715+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "027d4dd6-8fe5-4199-9114-6c9d482875d7",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:49:38.1948158+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a826584e-d858-414a-aa2a-c07813d9aa6e",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:50:46.0635379+08:00",
+                      "CompletedAt":  "2025-01-20T07:56:47.5317598+08:00"
+                  },
+                  {
+                      "Id":  "ebb5ffc7-8343-45e1-b13c-5d9b152a516e",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:37:49.726875+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

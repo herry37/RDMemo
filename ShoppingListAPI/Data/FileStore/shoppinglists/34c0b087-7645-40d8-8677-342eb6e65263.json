@@ -1,0 +1,89 @@
+{
+    "Id":  "34c0b087-7645-40d8-8677-342eb6e65263",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T06:54:18.3288776+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9159e84d-756c-43e2-92ef-43e8a3865fc1",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894479Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1b8f93f-29c0-4a1d-9c82-1860538189a0",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894533Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2e257e8-eeb0-45c9-9008-a3750e7cadf9",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894553Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "690e0d7b-f1a2-45b5-8b3d-11dd0ea5c0c3",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4697bd1b-f9a3-4991-992a-6a779e0f2332",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e68605c-b00f-411b-9841-20ee26270ff9",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b39d7250-1d80-4f8b-ab42-d7c6cafbd2bf",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7894662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f061955-8e17-43c9-a91f-04a8a648d684",
+                      "Name":  "Ergonomic Metal Car",
+                      "Quantity":  1,
+                      "Price":  494,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7895703Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e8ee36b-2cd7-4fdc-93cb-d9db0baacaf8",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7895737Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

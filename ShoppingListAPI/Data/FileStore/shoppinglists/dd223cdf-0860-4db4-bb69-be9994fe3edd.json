@@ -1,0 +1,80 @@
+{
+    "Id":  "dd223cdf-0860-4db4-bb69-be9994fe3edd",
+    "Title":  "日常補充 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-16T00:55:50.0895034+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dada85f7-0541-4bd6-91bf-ae2f6571937a",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:42:30.6651489+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13704ebb-da8c-473b-baf6-d72af454e7db",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:33:05.7951333+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bcb8b93-f019-4591-840a-5a592251cb4c",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:25:54.7439596+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79ef056a-6f6b-4793-b5fd-8507866b07f1",
+                      "Name":  "美白牙膏",
+                      "Quantity":  3,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:30:36.6242476+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2dcabd1-0859-4ffd-8140-7068dd24ee07",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:15:25.0110378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "626781ad-cbfa-4cbf-b0a1-52cc85fbfd59",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:43:34.4537863+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1c31e6e-86a8-4e8b-8a59-bfc2a62d55d7",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:53:55.1256128+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de2beda8-d271-4563-bf6d-ffd7822bd9bc",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:22:45.8437262+08:00",
+                      "CompletedAt":  "2025-01-19T05:01:57.3144678+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

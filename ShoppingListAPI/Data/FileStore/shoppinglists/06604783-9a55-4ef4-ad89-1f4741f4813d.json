@@ -1,0 +1,89 @@
+{
+    "Id":  "06604783-9a55-4ef4-ad89-1f4741f4813d",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T11:43:02.9648281+08:00",
+    "Items":  [
+                  {
+                      "Id":  "badcd8b6-fcd6-472d-b626-69b6c6b0abea",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  299,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a7df5d6-b073-4405-9036-d9f30a8f6dcf",
+                      "Name":  "Rustic Fresh Computer",
+                      "Quantity":  4,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000789Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e6009bf-1ae9-43f7-b263-0c4eac7fce0a",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c07aa5e2-482a-49d8-8b7d-588f7e482329",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "592c98db-c96b-4816-b71e-78e4f4136f4f",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  275,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.200082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7f5329f-a899-4257-ae97-00c013c172df",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4ce9534-dfd5-451f-b474-a7693a4a8993",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bcdcdf1-5649-4a71-83b4-6f455e769c2c",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fe75544-5c0c-40c1-9380-27859c93af75",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2000873Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

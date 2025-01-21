@@ -1,0 +1,62 @@
+{
+    "Id":  "8a9220e6-b819-4962-9216-29973cd200c1",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T07:22:07.4089328+08:00",
+    "Items":  [
+                  {
+                      "Id":  "41ef0f5f-52ac-4769-82cf-b2566ef99605",
+                      "Name":  "面紙",
+                      "Quantity":  1,
+                      "Price":  129.637168097740930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:24:37.9564566+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8423545d-06d4-48ba-8053-b1d87b22cd21",
+                      "Name":  "番茄",
+                      "Quantity":  2,
+                      "Price":  83.619396760104930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:29:19.9584353+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2257e0b3-3f6c-46a7-a50b-e27528fff6f7",
+                      "Name":  "拖把",
+                      "Quantity":  2,
+                      "Price":  419.69223940788990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:17:19.3800531+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e194bac-968d-457d-83ba-7cb26544a217",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  10,
+                      "Price":  13.50224538580815220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:13:38.9461104+08:00",
+                      "CompletedAt":  "2025-01-19T12:37:29.6076216+08:00"
+                  },
+                  {
+                      "Id":  "1b7d80fb-af09-45e6-8f02-301efeece841",
+                      "Name":  "資料夾",
+                      "Quantity":  9,
+                      "Price":  369.001739695527250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T16:33:11.0641654+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01b169ad-0c67-47ab-bd18-9795cd5f6419",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  431.652584688855030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:03:58.0934247+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

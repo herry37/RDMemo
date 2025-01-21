@@ -1,0 +1,71 @@
+{
+    "Id":  "58343aeb-d634-4012-bad4-0a48b6d4078c",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T22:09:17.1854601+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5d9af46-dbe8-402b-bae4-15e77a87b6d4",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  408,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2137fa49-efb1-45de-a141-03f90587d5c2",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d30acfd2-b688-41e1-8f5c-f078eb215831",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956502Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "382745bf-f7ed-48c3-8f9c-63f46649f01b",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956513Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77faa6f2-64e9-4bda-b23e-f55cb8155d2c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  468,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba4469d7-0cd0-41a0-9788-200a5a7ba7bd",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "600a3b8c-727f-4369-af8f-68662d042ed4",
+                      "Name":  "Small Soft Shoes",
+                      "Quantity":  5,
+                      "Price":  366,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4956843Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "2eeb15a1-831c-4160-abe1-0314cc68e988",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-17T01:53:27.090338+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ccf0952c-5d5d-429c-b94e-b480455b3641",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cdc13ba-734f-45f2-b0e5-82e101efe84b",
+                      "Name":  "Unbranded Frozen Sausages",
+                      "Quantity":  1,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "633e3305-5290-4088-a2d6-876056f209f1",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d7812e8-1b89-47bf-b525-8602776c579e",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3192f573-9222-4fda-a1cb-1f829311c56b",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839398Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a39d261-0aab-47d9-ac5c-98bb66065c2c",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5839436Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

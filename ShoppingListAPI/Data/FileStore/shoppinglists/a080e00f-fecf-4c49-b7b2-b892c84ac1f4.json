@@ -1,0 +1,53 @@
+{
+    "Id":  "a080e00f-fecf-4c49-b7b2-b892c84ac1f4",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T00:59:20.3159143+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ce268b4a-8dcb-4854-83f1-c83a7e5f29e5",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:53:24.0529269+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "584f9ec3-c1ca-4da2-897c-34b534580b6c",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:40:44.049263+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2182f8d1-6667-4317-af3c-64fafd15233d",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  2,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:37:10.5886822+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b81de54c-b87e-476f-90f5-df5056eb1d57",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:39:15.2560208+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "500cbf55-9e69-4447-964f-956a2780c2a3",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:41:09.5530141+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

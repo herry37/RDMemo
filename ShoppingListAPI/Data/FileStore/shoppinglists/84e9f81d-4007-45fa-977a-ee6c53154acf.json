@@ -1,0 +1,44 @@
+{
+    "Id":  "84e9f81d-4007-45fa-977a-ee6c53154acf",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T08:00:32.3343447+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cb493732-540c-4eaf-86d6-fe74b7b25cec",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:48:50.2906199+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a640bc9d-2ba4-48bd-b7ad-73051430d791",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:49:29.0670336+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5f4c0a2-90bf-457b-a1be-816a6ae2c64f",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:48:31.6726457+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "832216cf-3888-4af7-a56c-ff9c8ea28cb7",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:21:42.7610362+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

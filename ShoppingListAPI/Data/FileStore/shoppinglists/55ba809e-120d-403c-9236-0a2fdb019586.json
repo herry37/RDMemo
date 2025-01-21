@@ -1,0 +1,62 @@
+{
+    "Id":  "55ba809e-120d-403c-9236-0a2fdb019586",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T16:50:36.8285717+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c568b72-4a6c-48bb-829d-523127dc7668",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718234Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f890c113-be2c-44d1-91f4-b171d066718e",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718272Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed892c6b-02b1-4cbf-9be6-e7f3533e7b5e",
+                      "Name":  "Rustic Rubber Bike",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56e50d2b-7624-4a08-bb34-02777124f38a",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718517Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "adf77cbe-5d9f-48e2-b9d3-ec194aaeb98b",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2296aa4-e781-4717-9603-92838d19bd45",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2718556Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

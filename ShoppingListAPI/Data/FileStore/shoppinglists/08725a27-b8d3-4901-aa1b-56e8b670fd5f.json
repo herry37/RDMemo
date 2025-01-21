@@ -1,0 +1,35 @@
+{
+    "Id":  "08725a27-b8d3-4901-aa1b-56e8b670fd5f",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T03:47:39.3288486+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ab7910ca-c28b-476e-a819-9b269a2d011c",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:50:44.8194419+08:00",
+                      "CompletedAt":  "2025-01-19T15:10:50.8367212+08:00"
+                  },
+                  {
+                      "Id":  "f4ea1cc7-4728-4f08-9554-0a0d3b09d9ea",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  200,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:06:37.0238177+08:00",
+                      "CompletedAt":  "2025-01-17T15:46:53.3581382+08:00"
+                  },
+                  {
+                      "Id":  "71b8f1de-2484-4c69-b012-ccfff92991da",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:01:43.388393+08:00",
+                      "CompletedAt":  "2025-01-22T11:47:44.3130181+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

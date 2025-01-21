@@ -1,0 +1,71 @@
+{
+    "Id":  "577994d9-312d-496a-ad77-c9f8f350cd40",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T15:15:12.9728025+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0bc6114-64c6-4ec3-b299-0ed12dbe3021",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4638732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b85f0e50-5245-4bdc-8e03-b598269f90ea",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  403,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.46388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1af08951-48b0-49e7-96e3-89925a5ad8a9",
+                      "Name":  "Handcrafted Frozen Bike",
+                      "Quantity":  2,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4639019Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e403c17-e41e-45a3-8950-20ea07d31f6e",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4639031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c064bbb7-922e-491a-b4e7-8a511af303f3",
+                      "Name":  "Refined Steel Table",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.463908Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dc3ee26-c1a4-4151-83e2-585a282c8420",
+                      "Name":  "Refined Cotton Salad",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4639145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d75cc348-c60b-4511-858c-e893e0bec3f2",
+                      "Name":  "Handcrafted Rubber Chicken",
+                      "Quantity":  5,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4639189Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

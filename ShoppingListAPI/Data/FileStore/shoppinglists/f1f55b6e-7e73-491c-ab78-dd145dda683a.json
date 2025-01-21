@@ -1,0 +1,80 @@
+{
+    "Id":  "f1f55b6e-7e73-491c-ab78-dd145dda683a",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T16:20:50.2635231+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e960111c-5fe4-46a1-a37f-0e3edd6fa253",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:47:02.6482354+08:00",
+                      "CompletedAt":  "2025-01-16T01:07:40.2260606+08:00"
+                  },
+                  {
+                      "Id":  "a09fa5be-863e-4bb8-8b9b-9d1a673f563d",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:20:34.2547855+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c4065bf-bebe-4980-8920-84d06848de31",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:25:39.898042+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81b68228-858b-4415-b481-611075760001",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:37:27.1919958+08:00",
+                      "CompletedAt":  "2025-01-18T14:05:15.0093196+08:00"
+                  },
+                  {
+                      "Id":  "c3334d12-45cf-44a2-9306-f477c840b6a5",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:22:07.4048059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa3dc863-ab46-48c9-a058-e87140d4c8a4",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  158,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:52:06.0560045+08:00",
+                      "CompletedAt":  "2025-01-18T20:07:06.3488408+08:00"
+                  },
+                  {
+                      "Id":  "9b59e70e-8117-460b-8659-74f696f66258",
+                      "Name":  "木質相框",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:28:41.4710597+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "532bf104-66fa-4e0f-8c47-d447293c485b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:53:52.3239852+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

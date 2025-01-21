@@ -1,0 +1,71 @@
+{
+    "Id":  "be1cf5b7-6943-456a-89d8-502f1303a71c",
+    "Title":  "派對用品 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T03:23:07.7611634+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bdeda953-79f0-49de-8b25-96ee1f0367c1",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:15:46.9180928+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c76e1be2-519d-406a-a688-aaa1bd14cf19",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:46:32.5800659+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d45ebe1b-fd3f-47bd-8a63-11e2ef31c4df",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  1,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:06:37.4913505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4205a2cc-3082-478a-bf20-6e728f1444c0",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:51:03.7466189+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42f72c7e-2609-485f-ba27-a6afed199e75",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:33:42.3896107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df22aa91-0c0b-49c7-a2b6-aac58eecf2d1",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:36:02.8849652+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cabb44ad-917a-49e6-96d2-8677162033d4",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:03:41.0784586+08:00",
+                      "CompletedAt":  "2025-01-21T11:16:27.6696721+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

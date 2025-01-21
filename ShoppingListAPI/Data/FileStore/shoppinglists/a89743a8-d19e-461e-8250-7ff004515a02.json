@@ -1,0 +1,35 @@
+{
+    "Id":  "a89743a8-d19e-461e-8250-7ff004515a02",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T20:53:31.3006268+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8a6ccdde-49d8-4969-ba8b-e8f6d26b4523",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:30:07.53584+08:00",
+                      "CompletedAt":  "2025-01-22T10:10:39.8703962+08:00"
+                  },
+                  {
+                      "Id":  "150969ce-fcfc-4d16-9899-b416623439bd",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:11:35.7655017+08:00",
+                      "CompletedAt":  "2025-01-21T04:35:49.4194051+08:00"
+                  },
+                  {
+                      "Id":  "8d5f50a8-dcec-45a9-82d3-0c95d6d32b9b",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:40:19.0389054+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

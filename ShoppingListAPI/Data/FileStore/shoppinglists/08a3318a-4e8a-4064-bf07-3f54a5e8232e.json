@@ -1,0 +1,71 @@
+{
+    "Id":  "08a3318a-4e8a-4064-bf07-3f54a5e8232e",
+    "Title":  "日常補充 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T21:59:49.4687075+08:00",
+    "Items":  [
+                  {
+                      "Id":  "313c5847-3881-4e59-bfcf-5922dd05e006",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:40:45.8734713+08:00",
+                      "CompletedAt":  "2025-01-17T23:20:59.5593529+08:00"
+                  },
+                  {
+                      "Id":  "9a495302-4c30-48f3-ba33-a69a0147b151",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:34:19.1753382+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a4e876a-c3b0-4191-92d4-8dcf3257f7ad",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  4,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:40:11.7679652+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be305d4d-45c7-44fb-80ec-41301068a5c9",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:52:10.6952493+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c19abf67-924e-41dc-bb3d-e8b2eb3376a0",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:29:01.8158152+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b649793-6020-4592-aedc-761fa6fcec6f",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:29:57.2360956+08:00",
+                      "CompletedAt":  "2025-01-19T14:16:34.102665+08:00"
+                  },
+                  {
+                      "Id":  "94e68529-0eb5-451f-8763-b7013eae10c9",
+                      "Name":  "黑巧克力",
+                      "Quantity":  2,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:08:47.5963505+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

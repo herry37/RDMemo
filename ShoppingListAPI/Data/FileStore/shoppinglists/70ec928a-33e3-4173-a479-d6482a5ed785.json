@@ -1,0 +1,80 @@
+{
+    "Id":  "70ec928a-33e3-4173-a479-d6482a5ed785",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T07:30:09.6034889+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c6f49b5-415a-4ac8-bb9b-c92ca9e4d6ae",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:10:05.3904499+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e70cb03-f36e-4126-8177-883d77550810",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:09:24.598993+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6da00492-5952-47fa-a26a-9a10bc368a5c",
+                      "Name":  "木質相框",
+                      "Quantity":  2,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:34:46.8360909+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3aacb8ab-729f-4405-b114-135c34696b6d",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:24:19.8608022+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33732268-dbeb-41ee-b19b-4f4ae4959daf",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:55:06.0108903+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ea60f80-1008-441b-8b4b-ed25277c3560",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:53:36.3771776+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c310cb5d-6ebd-489e-92d6-0e4da985e3c5",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:13:59.6348333+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "401d9c8d-245a-41e0-a73b-a4391b5a7811",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:50:18.0977945+08:00",
+                      "CompletedAt":  "2025-01-20T03:08:48.3468821+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "da7a1a13-fde1-4818-8ee5-bc1e2b3f594e",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T14:54:43.5691876+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cae6f83b-76d3-4a4c-beb3-e602d3d1ad3c",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6923731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6955b820-2484-4bd7-a8c7-434234221ee2",
+                      "Name":  "Fantastic Concrete Bike",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6923917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9f4cb16-6a84-4f71-9bc4-9f23c889f8f8",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6923937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "671cde34-793f-4950-a348-c84bd1fbeb23",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6923943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9aeed61-554e-4358-a182-a924b8f5313f",
+                      "Name":  "Licensed Cotton Chicken",
+                      "Quantity":  1,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6924744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84368be4-a677-4d71-8cd0-a3061aab448a",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6924769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f6dfa13-2589-4cbf-adea-6d39db4617f5",
+                      "Name":  "Handcrafted Granite Pizza",
+                      "Quantity":  4,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6924808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f2cbcf4-8fd8-49a4-9ff6-04d1d798e564",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6924814Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "aaa74ca8-0c3d-4658-b87e-5750d0ca7313",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T01:22:45.3600003+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7973ed5d-5bb2-40bb-9ddf-460f42c11492",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5522442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a9dde8e-67ff-4438-a221-1caa70afda78",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5522542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7345af5-81d3-4619-8d2a-6de9b7013f2b",
+                      "Name":  "Ergonomic Concrete Soap",
+                      "Quantity":  5,
+                      "Price":  355,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.552301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de30bdc8-b249-429b-bf59-6b1305531ce8",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523045Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b18a80eb-b0b5-4830-9e6a-0c898242956d",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c29d988-a6c4-426c-be28-d5ec573afa75",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4fcd7fb-cf1f-4359-a164-17dc4b19be5a",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cc949d4-325e-4fb7-9938-e7a74b06b5bd",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523181Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ed3761f-7ae9-4b5a-bafd-097a5eb45fb3",
+                      "Name":  "Ergonomic Granite Soap",
+                      "Quantity":  4,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5523295Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

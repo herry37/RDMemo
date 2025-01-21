@@ -1,0 +1,35 @@
+{
+    "Id":  "c5d80aed-5c05-441f-9eac-8322f53a6671",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T07:56:50.5521383+08:00",
+    "Items":  [
+                  {
+                      "Id":  "57b42f26-cbba-4700-aab8-ae8da832005c",
+                      "Name":  "牙膏",
+                      "Quantity":  6,
+                      "Price":  200.131320830934490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:11:32.128243+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a706267-3044-48ad-a8db-da69faf6d43a",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  183.794669298666430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:59:36.7367424+08:00",
+                      "CompletedAt":  "2025-01-17T05:28:14.8812608+08:00"
+                  },
+                  {
+                      "Id":  "d742809a-838b-4178-b04e-d4608eb2563f",
+                      "Name":  "除霉劑",
+                      "Quantity":  10,
+                      "Price":  202.558740355447340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:51:53.9026135+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

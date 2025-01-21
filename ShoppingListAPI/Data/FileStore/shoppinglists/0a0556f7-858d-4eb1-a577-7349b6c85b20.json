@@ -1,0 +1,62 @@
+{
+    "Id":  "0a0556f7-858d-4eb1-a577-7349b6c85b20",
+    "Title":  "01/15 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T21:19:22.0470197+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e14ef511-a555-43aa-a14b-a7c8edb7b391",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9516106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f14f4c81-4cdf-47cf-b030-1fe62f9a711e",
+                      "Name":  "Ergonomic Concrete Car",
+                      "Quantity":  2,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.95164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6428c3d-1f2f-44da-a6b0-8cdcc4b80bf2",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9516418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5279908c-3c1d-4467-a9ad-cb4206be1a73",
+                      "Name":  "Handmade Soft Gloves",
+                      "Quantity":  5,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9516475Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b5698ea-71ef-492a-b82f-3a8ae937cc12",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9516494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "137624ce-ee17-4cf5-ac2b-2b2b23f10b48",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9516521Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "af745a37-5af0-445b-ab93-f31a0e399ec2",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-16T06:13:48.2493087+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f9c47754-0231-4072-a9de-7987839291ed",
+                      "Name":  "拖把",
+                      "Quantity":  4,
+                      "Price":  208.577905459411310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:21:20.5930902+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16f56cda-459f-48c7-bef5-bb82b1505f87",
+                      "Name":  "乳液",
+                      "Quantity":  5,
+                      "Price":  369.419435981324390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:38:44.3605383+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d88a886-bcb1-4b36-9f5d-e21389c84c7a",
+                      "Name":  "面紙",
+                      "Quantity":  10,
+                      "Price":  383.50314105468140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:01:34.5094354+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

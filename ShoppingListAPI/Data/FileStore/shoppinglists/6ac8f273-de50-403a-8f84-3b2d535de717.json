@@ -1,0 +1,44 @@
+{
+    "Id":  "6ac8f273-de50-403a-8f84-3b2d535de717",
+    "Title":  "01/20 零食採買清單",
+    "CreatedAt":  "2025-01-17T12:37:51.8624255+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7aa93a43-3660-447b-aeba-3fdfd854db55",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9614801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7210ceaf-6b65-4d08-909f-b394c0bf1a84",
+                      "Name":  "Handcrafted Concrete Shirt",
+                      "Quantity":  5,
+                      "Price":  72,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9614965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5446eab0-3246-41d2-8c73-284fd6333086",
+                      "Name":  "Intelligent Fresh Soap",
+                      "Quantity":  1,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9615017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a7ba324-f958-469f-8707-a881107b83ca",
+                      "Name":  "Incredible Rubber Pants",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9615067Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "c8e586a5-7ee5-4db3-8884-9684994673bd",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-17T19:01:51.9278916+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1dd577ce-7cd2-452a-991c-effb3dc472b0",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8607835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cc13c4a-6700-4e84-af0e-efc7351ec74d",
+                      "Name":  "Sleek Fresh Pizza",
+                      "Quantity":  4,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.861795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "455d1536-7310-4edd-9c93-58b04aaaf5aa",
+                      "Name":  "Awesome Rubber Tuna",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2c4f76b-392d-42e7-9974-b9091509fe4f",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618184Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2b7f2e1-9000-4177-a88c-2e827ea55c35",
+                      "Name":  "Ergonomic Fresh Keyboard",
+                      "Quantity":  2,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fb328a5-4235-4859-b536-c5c3cd470cf7",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618277Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b348cad-3b91-4b27-b109-8685478db0e9",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618286Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "410243fa-e1a9-4cb0-bd8d-a4e3f0228090",
+                      "Name":  "Unbranded Frozen Ball",
+                      "Quantity":  3,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc3d38fe-f0b9-4a1d-98f6-50c6bfc1d401",
+                      "Name":  "Awesome Soft Soap",
+                      "Quantity":  4,
+                      "Price":  473,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8618398Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

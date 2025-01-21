@@ -1,0 +1,35 @@
+{
+    "Id":  "579184a0-a727-478d-88fe-1bdba201aaf2",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-15T15:40:57.2235506+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7d298931-0408-4262-bac5-3a49f6c3a221",
+                      "Name":  "Sleek Frozen Salad",
+                      "Quantity":  1,
+                      "Price":  485,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0395784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d1cb4b9-40cb-445c-8ee4-e90bb3b572b1",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0395813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89144a14-9eda-419d-a2fd-6d160347f9d1",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0395832Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

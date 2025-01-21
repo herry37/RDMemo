@@ -1,0 +1,71 @@
+{
+    "Id":  "f7af089d-ee10-4850-8925-493b4f7f0b63",
+    "Title":  "露營準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T21:49:39.4446499+08:00",
+    "Items":  [
+                  {
+                      "Id":  "baec11c6-099e-4c77-bbd3-709afb1c8465",
+                      "Name":  "精品咖啡",
+                      "Quantity":  5,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:56:21.338025+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c900b47-0270-4a34-b506-1799d731b130",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:04:49.9316377+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2aba1b50-8fe0-41fb-bba3-1fa29719346a",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:36:03.506262+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14716fc5-f63f-4478-91f5-f7623b75eed9",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:23:36.0546724+08:00",
+                      "CompletedAt":  "2025-01-21T17:18:32.0734245+08:00"
+                  },
+                  {
+                      "Id":  "0f9fce8f-71de-4495-bf3f-6d0d4f74aa6b",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:38:03.9702116+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "134a4ac5-df10-437e-92f2-b1867faf30d0",
+                      "Name":  "天然果乾",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:58:13.9235741+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f71992dc-c4ea-4a02-b6dd-84f627432b22",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:38:54.8853567+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

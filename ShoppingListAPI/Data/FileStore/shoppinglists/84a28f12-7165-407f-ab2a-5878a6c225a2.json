@@ -1,0 +1,62 @@
+{
+    "Id":  "84a28f12-7165-407f-ab2a-5878a6c225a2",
+    "Title":  "早市採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T03:09:01.5557069+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58acf3b3-379d-4630-b969-040c2a4caf25",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  247,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:52:09.5524385+08:00",
+                      "CompletedAt":  "2025-01-16T00:27:10.0828617+08:00"
+                  },
+                  {
+                      "Id":  "448c2527-5bb6-4cf5-9dba-18edd86e2fa7",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:19:50.4284089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "860d4e9d-dfb2-4f8a-84be-7a738bc7e1b5",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:30:31.9478287+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a334ca6-5fb8-4f4c-9582-43c5232b060e",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:25:56.0410062+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "161201f4-04fe-4dbb-85fc-cd269d49d630",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:31:40.1551548+08:00",
+                      "CompletedAt":  "2025-01-18T02:54:50.3790821+08:00"
+                  },
+                  {
+                      "Id":  "60a690e1-85b9-4e35-9d10-155ab304f4fd",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:37:23.1163026+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

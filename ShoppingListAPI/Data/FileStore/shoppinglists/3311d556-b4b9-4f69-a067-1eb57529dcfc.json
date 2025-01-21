@@ -1,0 +1,89 @@
+{
+    "Id":  "3311d556-b4b9-4f69-a067-1eb57529dcfc",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-18T07:32:24.7355606+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35801644-dfd5-4e09-ad29-33c7be312313",
+                      "Name":  "Incredible Steel Cheese",
+                      "Quantity":  4,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6746868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6911ced4-d3fe-4947-8562-4d3e3309305d",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6746949Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "611c4756-c9d0-4d6f-a9e0-8381b753546d",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6746977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6b068e1-6a1e-4433-b603-3300dab20bf2",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6746999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0637122-970a-472f-8a90-ad663de2c1bc",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6747028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2d599b1-134b-4688-8eb8-f608c8e41a27",
+                      "Name":  "Gorgeous Metal Hat",
+                      "Quantity":  5,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6747115Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f0516f6-7c33-4340-8fd1-1911366d2adc",
+                      "Name":  "Generic Concrete Gloves",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.674717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d16d101-bb45-48cb-a5e3-0848690ec261",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6747198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3e59f58-214b-4f34-a2e5-61d7afd8b60d",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  487,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6747227Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

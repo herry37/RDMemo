@@ -1,0 +1,62 @@
+{
+    "Id":  "39d756b0-8ef6-4725-af67-4342f46b8829",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T12:36:04.2112697+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7aa8aee6-ba0b-4931-bb35-820ae0894237",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5150732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e137667d-5423-44e2-99f9-f6641d45179f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5150798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b4c062c-6815-4b72-bf8f-34582890f96f",
+                      "Name":  "Handcrafted Cotton Bacon",
+                      "Quantity":  4,
+                      "Price":  428,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.515107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "447bb8ff-5364-4f6d-8a16-3366fadb0c27",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5151086Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "203374eb-4ac6-47e1-a330-835f1f5b8f4b",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5151099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f363b600-1bef-4e7b-a035-15a4ac71f14b",
+                      "Name":  "Incredible Steel Ball",
+                      "Quantity":  1,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5151175Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

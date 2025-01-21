@@ -1,0 +1,98 @@
+{
+    "Id":  "bd8476a4-0ce8-45af-9a5d-db788c03bfcc",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T23:17:54.0135818+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6b1a6c2-0710-48bb-8f8f-3b8cd44cd420",
+                      "Name":  "Intelligent Wooden Pizza",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910454Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47ab001e-d411-47c8-96f1-edcc9482f4c1",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5d706e8-6bf2-4656-9a3c-f5bd07d365f1",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7388829-dc90-40c8-83ad-ae9acf15bece",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  453,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910523Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d8bff19-d200-42b9-bb44-e8afda370374",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910544Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4ba70a8-d61e-4b4a-904e-c0a1639c3ef8",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85b5e0d2-0f88-4a6f-a105-397d4d207f39",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e4348e4-a775-49da-ab7d-ce953c737d4e",
+                      "Name":  "Handmade Plastic Towels",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910665Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb480b9a-632b-47eb-80c8-0132442d2957",
+                      "Name":  "Practical Concrete Table",
+                      "Quantity":  1,
+                      "Price":  289,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910734Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e38d47b-9099-4dcb-ad9c-73925a268212",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  200,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4910753Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

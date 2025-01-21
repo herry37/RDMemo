@@ -1,0 +1,53 @@
+{
+    "Id":  "ca4448e2-7146-4d96-a444-3c27b9e9d774",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-15T03:43:37.2209787+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7cd8dd66-e4be-4832-b034-62cfb2debb6f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1045122Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e57d1105-0412-413f-957d-6dc63eae2471",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1045165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25fab631-99cd-481a-a839-9e6bbc832bd7",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1045194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c94b91b-007b-4170-8230-fd1d78b84e53",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  40,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1045203Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "988c2d8b-a4d8-4309-9c9f-900f7b608c9d",
+                      "Name":  "Intelligent Frozen Hat",
+                      "Quantity":  3,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1045559Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

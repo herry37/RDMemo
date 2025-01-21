@@ -1,0 +1,53 @@
+{
+    "Id":  "44543204-26f3-4a5e-8974-7fa5cac68d18",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T22:08:46.8967439+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3412864a-b94d-4eb6-a39a-d13ef527f5b3",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5684383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d809e3f0-a1f6-4fc5-ade2-85f07b050a6b",
+                      "Name":  "Incredible Metal Cheese",
+                      "Quantity":  1,
+                      "Price":  491,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5684597Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1bd9bca-7c6c-433a-b657-5316fbdb2f8f",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5684633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3ac70ac-0403-4129-92d2-a97a23ab9d73",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5684648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb983c18-e72d-45b1-8848-6d6013f4cd55",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5684662Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

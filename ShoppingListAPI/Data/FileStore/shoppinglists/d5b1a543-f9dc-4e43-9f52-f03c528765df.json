@@ -1,0 +1,35 @@
+{
+    "Id":  "d5b1a543-f9dc-4e43-9f52-f03c528765df",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T15:19:42.3065998+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b7b0c22-71ed-4d82-9c96-7521edbee4dc",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4200631Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d8fa80f-fba6-45d7-8fc2-34c76489bdcb",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4200661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f88b60d-e19e-4137-846a-b76961a2ceec",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.420067Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

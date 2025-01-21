@@ -1,0 +1,62 @@
+{
+    "Id":  "f4d3fac4-2af3-4d8b-b0b4-2a5865be6ce8",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T05:02:11.1130673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b916e8e-f682-41cb-be53-f4633ea6994c",
+                      "Name":  "Incredible Frozen Bike",
+                      "Quantity":  2,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699077Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d149214d-4a85-4a17-a058-75881a2e6b69",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699163Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f135d680-8272-419d-a744-bd78b94a770d",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df6f983a-97c2-46b6-88d9-a7f2613597f1",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  494,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699212Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed17d790-b5fe-4cf1-8dd3-30f5ef52b830",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699226Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c095f987-568c-4d4e-80ac-9c490625c5f3",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8699472Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

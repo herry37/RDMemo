@@ -1,0 +1,80 @@
+{
+    "Id":  "fc196da3-e43c-477d-a85f-65435d3a869d",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T12:57:54.9695357+08:00",
+    "Items":  [
+                  {
+                      "Id":  "101203c3-33ea-41d2-83f5-bd64693e5c4b",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:41:26.9977026+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6d91d8b-a0b7-4799-95ec-1938a9406b0c",
+                      "Name":  "原木梳子",
+                      "Quantity":  2,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:27:15.2586542+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6529195b-9b43-4f33-a7e3-4c681f76cfa3",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:40:26.2697017+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1da236a1-8807-42bc-9985-95e914a02461",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  4,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:05:10.5498981+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72bc991e-0f52-4a7c-b526-b9ace14325f1",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  4,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:18:19.8144906+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f92c2d76-18ae-4ae1-951e-d059f4b98dac",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  4,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:45:26.4587095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4275745-952e-4bea-85fa-97e4b1579fa3",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:49:41.6523486+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd582275-771f-41e1-b718-5d955fbb339a",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:46:32.3359094+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

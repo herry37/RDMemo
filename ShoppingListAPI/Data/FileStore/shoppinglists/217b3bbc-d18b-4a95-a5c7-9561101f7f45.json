@@ -1,0 +1,80 @@
+{
+    "Id":  "217b3bbc-d18b-4a95-a5c7-9561101f7f45",
+    "Title":  "月底大採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T00:02:33.4073182+08:00",
+    "Items":  [
+                  {
+                      "Id":  "812611a3-0cf3-48d6-87af-0fc78b8fce75",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:38:38.5565172+08:00",
+                      "CompletedAt":  "2025-01-21T09:58:02.8929395+08:00"
+                  },
+                  {
+                      "Id":  "ffc880d3-25b5-41b3-a3b8-64067871bf49",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  1,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:50:50.3984882+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ade97097-cc3b-4be6-bf2b-042e9fdcd71c",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:11:53.6580062+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "720509af-2bd8-4ef9-be98-d5ce7b007551",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:09:40.4165862+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cad50ce-b49e-4119-866a-200a559cd5f4",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  228,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:40:22.0880603+08:00",
+                      "CompletedAt":  "2025-01-15T20:02:12.1082167+08:00"
+                  },
+                  {
+                      "Id":  "45835215-97de-4bad-9a6b-f36a475fd42f",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:20:54.7122831+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5ae74a5-9e2b-4e09-946f-0562b9204064",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:59:22.6400176+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b2e5bec-138d-4849-897d-bd9c2e7bb164",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:47:08.7051267+08:00",
+                      "CompletedAt":  "2025-01-20T05:37:59.2364753+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

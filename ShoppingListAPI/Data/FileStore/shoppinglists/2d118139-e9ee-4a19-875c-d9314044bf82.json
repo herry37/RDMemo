@@ -1,0 +1,71 @@
+{
+    "Id":  "2d118139-e9ee-4a19-875c-d9314044bf82",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T20:11:15.9796621+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aea6e409-4449-4a30-9707-08a03a072427",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:04:15.3453904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29facf10-b03c-4c73-872c-517c02a12443",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:05:08.0013387+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7e1d508-a35b-469c-8a9b-cdaaf0fd3b3a",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:13:31.746578+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c776f96e-931e-4803-b739-813d62da0475",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:53:07.478339+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fd1a695-873d-48fb-b2fc-9f7596c8ed9e",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:20:09.3465748+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6447c77a-828d-47d4-862e-81a630a59bc2",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:52:21.2463314+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e699e2e-c1aa-4180-9da5-04f60b1c721e",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:55:03.7907507+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

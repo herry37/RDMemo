@@ -1,0 +1,35 @@
+{
+    "Id":  "5dc3c8ca-633e-461a-806a-5e100175f4be",
+    "Title":  "01/17 零食採買清單",
+    "CreatedAt":  "2025-01-15T10:13:53.2022151+08:00",
+    "Items":  [
+                  {
+                      "Id":  "11f9e8df-5af9-459f-a8ac-f2c79eacdcd9",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5742804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30528856-f907-4dd6-896a-f08e9c30532b",
+                      "Name":  "Practical Concrete Ball",
+                      "Quantity":  3,
+                      "Price":  366,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5743163Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85949e0d-2084-4717-b2fb-820f072e7663",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5743473Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

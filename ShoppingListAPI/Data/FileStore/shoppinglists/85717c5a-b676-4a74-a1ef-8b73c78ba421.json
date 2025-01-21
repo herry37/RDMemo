@@ -1,0 +1,44 @@
+{
+    "Id":  "85717c5a-b676-4a74-a1ef-8b73c78ba421",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T10:26:09.8515931+08:00",
+    "Items":  [
+                  {
+                      "Id":  "317d5b41-ed87-4402-b7ed-67aeed3af7e8",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3851551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ef6904b-fb8e-438c-97fc-1262b7941f35",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3851595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed7c7b56-bc00-48b2-ab72-9a0aa7aec44f",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3851605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c785145b-1e5e-4f7a-9ac1-6e98bb353b2c",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.385162Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

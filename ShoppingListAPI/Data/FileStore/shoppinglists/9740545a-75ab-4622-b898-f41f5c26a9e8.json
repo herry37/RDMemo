@@ -1,0 +1,35 @@
+{
+    "Id":  "9740545a-75ab-4622-b898-f41f5c26a9e8",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-17T20:00:52.2133641+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38a6d96b-4893-4143-978c-0953a201bda6",
+                      "Name":  "除霉劑",
+                      "Quantity":  4,
+                      "Price":  195.6815796778740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:24:47.1988653+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aeba577d-8524-4967-bf34-02f3a772a7da",
+                      "Name":  "口香糖",
+                      "Quantity":  4,
+                      "Price":  215.374769382532680,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:02:42.2104761+08:00",
+                      "CompletedAt":  "2025-01-21T09:38:31.0875092+08:00"
+                  },
+                  {
+                      "Id":  "9925733e-57c9-4b06-bd12-e0e0fe01c900",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  147.253147178952840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:58:01.1873944+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

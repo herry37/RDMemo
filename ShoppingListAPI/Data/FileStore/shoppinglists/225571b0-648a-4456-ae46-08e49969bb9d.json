@@ -1,0 +1,80 @@
+{
+    "Id":  "225571b0-648a-4456-ae46-08e49969bb9d",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T15:57:28.6824856+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ada0625c-37fe-4d84-bdc3-2fa2de5413d5",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b61257f-c2d7-40e2-a423-a200d61d197d",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "580493ab-7166-4c65-9aa1-3415bc4d0e97",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793488Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3162c5d6-4d55-4654-aae2-b001ab32600c",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a8013fc-980b-42c0-8d6a-da67a3e8c792",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  388,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5348ae44-5e38-4bd8-985b-8c20abf76670",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb2250d0-2144-4fa9-85b8-13b83c0b914c",
+                      "Name":  "Fantastic Fresh Salad",
+                      "Quantity":  5,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbfaae55-1561-4023-89ad-b6660c2e8082",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  439,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1793777Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

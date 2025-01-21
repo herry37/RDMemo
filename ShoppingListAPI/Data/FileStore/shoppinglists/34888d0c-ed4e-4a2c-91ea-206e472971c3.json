@@ -1,0 +1,80 @@
+{
+    "Id":  "34888d0c-ed4e-4a2c-91ea-206e472971c3",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-19T17:00:18.8310815+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ea3af9ac-3e9f-4478-a51d-7f5f0204fda6",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680327Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cf3cd2d-fc85-411b-a64f-3c956b34f285",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  356,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "163634f3-c8fc-4b6d-b36c-9efe00f73d5c",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86b4eabc-4042-49c5-9b00-17c2820449cb",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680389Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd2f3089-ade1-42bd-a0df-645f050a3a76",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d64ccd5f-4d46-435f-979e-0e2705204031",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  16,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680423Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7559535-ead9-43e6-b09a-ed02b9322055",
+                      "Name":  "Handcrafted Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff406c69-574d-4483-a976-4f3534306518",
+                      "Name":  "Handmade Wooden Pizza",
+                      "Quantity":  3,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5680622Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

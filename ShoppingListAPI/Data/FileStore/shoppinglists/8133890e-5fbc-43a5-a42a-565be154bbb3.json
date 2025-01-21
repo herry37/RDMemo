@@ -1,0 +1,89 @@
+{
+    "Id":  "8133890e-5fbc-43a5-a42a-565be154bbb3",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-20T07:08:39.1155067+08:00",
+    "Items":  [
+                  {
+                      "Id":  "47c484d2-c921-48de-8ce3-de7d0e2599b1",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416134Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4020b56d-4ec7-4cbf-b598-d8a736074c61",
+                      "Name":  "Small Fresh Ball",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416367Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d328e43a-314c-43c3-a226-91c943a0bc87",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  401,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9bae2a3-daab-47c1-a40b-b2530f726e23",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "207a1ddf-2584-4c76-b3b7-b5e4c27d48ac",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.34164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bcad969-bac7-49c7-abdb-9cdf60ebb2fe",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54e7dddf-c066-4929-b942-6a1b0d8f3eee",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86b50ed8-7b4d-4b48-944c-174308145b46",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f71e87f3-7595-4d75-8ecd-b4844d5bd4e5",
+                      "Name":  "Gorgeous Concrete Table",
+                      "Quantity":  4,
+                      "Price":  210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3416475Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "75e7faeb-fba0-4e8c-aca1-89606bfbff03",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T06:53:13.786785+08:00",
+    "Items":  [
+                  {
+                      "Id":  "713d54db-e684-4e1b-a393-72e8ea02261b",
+                      "Name":  "Handmade Rubber Soap",
+                      "Quantity":  2,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7394892Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05da20ba-1aad-458b-ad2d-183dec220645",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7394955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a035794-b3b6-41d1-8583-177296241cca",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7395021Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

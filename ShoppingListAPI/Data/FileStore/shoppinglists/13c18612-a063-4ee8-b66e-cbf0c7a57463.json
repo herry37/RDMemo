@@ -1,0 +1,98 @@
+{
+    "Id":  "13c18612-a063-4ee8-b66e-cbf0c7a57463",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T11:58:21.0282091+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4c8dca27-72aa-4f83-974e-54a1ac913e14",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "626e75c7-f999-41c0-951d-cda0b1d1adba",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653251Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f3b20e2-c646-44f3-8d55-3e44ea4cc7f2",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653282Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da027c93-f921-46d9-a85e-073d18d53555",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  445,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653292Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4de9b54-191f-4ce2-ac4e-6dca478a3cef",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653301Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ef923d9-43ea-4cfa-ac99-0582b4c01861",
+                      "Name":  "Handmade Cotton Cheese",
+                      "Quantity":  4,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dfeeb4f-2b96-4a5a-8b75-e3f5e8320f9e",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.965363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3eb7313-840a-4c6f-9eb7-d5bec44f650a",
+                      "Name":  "Ergonomic Fresh Computer",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "305badf2-406d-48df-85e7-161ec73e9f0f",
+                      "Name":  "Intelligent Granite Shirt",
+                      "Quantity":  2,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "176bed37-f2ff-421e-ac41-0840fa387769",
+                      "Name":  "Intelligent Metal Bacon",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9653802Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

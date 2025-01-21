@@ -1,0 +1,53 @@
+{
+    "Id":  "3fb73c33-7b0d-408c-a242-a9380efc1b0c",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T00:51:36.9321097+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9c522cb8-d90a-4733-b952-73a1ec24a3f1",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  347,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7840878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bae718ac-f9ff-4006-9651-f802538fe1f4",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7840919Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d27e0640-e0e8-4d1c-a911-b83c49502fc4",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7840929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4d9a2d2-2dd6-4276-a8db-ab96fdaa92b7",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7840946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84e4232a-24e0-4b43-9456-f3ef0e4ba079",
+                      "Name":  "Fantastic Plastic Towels",
+                      "Quantity":  5,
+                      "Price":  487,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7841183Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

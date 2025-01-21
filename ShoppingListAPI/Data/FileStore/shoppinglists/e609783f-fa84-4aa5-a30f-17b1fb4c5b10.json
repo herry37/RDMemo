@@ -1,0 +1,53 @@
+{
+    "Id":  "e609783f-fa84-4aa5-a30f-17b1fb4c5b10",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T23:10:35.6021983+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37e93fe2-b210-4822-bd9f-342fc5d07604",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1488612Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bee845da-87d7-4c33-ba84-8ce7ccefa1e6",
+                      "Name":  "Ergonomic Soft Soap",
+                      "Quantity":  1,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1489355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbc61838-fd5b-4022-98f6-b3efee7aa9a6",
+                      "Name":  "Ergonomic Steel Pants",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1489417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ef3bed5-58d9-4ec0-84c7-35c7bdd5004b",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1489435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cddb379b-d478-4f28-907a-28974aaa5e42",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1489459Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

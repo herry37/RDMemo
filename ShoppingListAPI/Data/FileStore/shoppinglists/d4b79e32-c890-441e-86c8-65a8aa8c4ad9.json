@@ -1,0 +1,62 @@
+{
+    "Id":  "d4b79e32-c890-441e-86c8-65a8aa8c4ad9",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T19:14:24.4276709+08:00",
+    "Items":  [
+                  {
+                      "Id":  "17adfafb-b289-451f-8828-83b5c2dbf1a9",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4232729Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5125fe5-0686-4453-ad61-7d62539e86a8",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4232766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a32b768-d8d0-439e-95dc-81f597dcd794",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4232775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93efc5dd-ec09-4dc9-8411-1c54c1ab2ee2",
+                      "Name":  "Tasty Plastic Tuna",
+                      "Quantity":  4,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4233004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98554873-ed89-46af-a678-7ac9bb90348e",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4233017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df5712af-ccfe-4716-bebe-bcfed1c4ad7f",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4233044Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

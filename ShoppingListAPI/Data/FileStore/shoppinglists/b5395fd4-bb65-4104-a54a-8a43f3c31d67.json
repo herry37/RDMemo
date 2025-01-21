@@ -1,0 +1,35 @@
+{
+    "Id":  "b5395fd4-bb65-4104-a54a-8a43f3c31d67",
+    "Title":  "月底大採購 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-17T20:03:54.0124353+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86a7ac91-dea6-4bf2-9b9e-93c1a3129a48",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:32:01.2254966+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12328a87-3df2-41e5-a29b-f8660e3e7805",
+                      "Name":  "日本泡麵",
+                      "Quantity":  4,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:57:14.6295092+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a532161e-f305-44f1-a416-f5da4e79d64b",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:28:54.9056326+08:00",
+                      "CompletedAt":  "2025-01-18T13:55:09.5293818+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

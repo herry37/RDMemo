@@ -1,0 +1,44 @@
+{
+    "Id":  "504ff667-0f59-4571-b2bc-e0c03cff412b",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T16:10:26.3921165+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c88bc1f-5e88-4959-b680-ba7ad1e45892",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6208989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e85daa6-cebc-4fef-87dc-fc146885520f",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6209028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "608abb25-339c-4b2b-91ca-8bed55637c50",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  479,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6209041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e12bebc8-1e69-4120-97fb-357332ae8826",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6209063Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

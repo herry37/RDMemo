@@ -1,0 +1,62 @@
+{
+    "Id":  "b23f6af7-4bdd-441f-9597-2606a7b72005",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T10:40:28.4264877+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3198dc00-3ca8-42c9-907d-e740e6424c83",
+                      "Name":  "面紙",
+                      "Quantity":  4,
+                      "Price":  261.773975222911190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:48:00.573033+08:00",
+                      "CompletedAt":  "2025-01-18T04:13:46.5467936+08:00"
+                  },
+                  {
+                      "Id":  "a2dec873-29ec-4ded-9e8f-28f9980fd167",
+                      "Name":  "泡麵",
+                      "Quantity":  3,
+                      "Price":  68.368682467374510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:31:28.9316043+08:00",
+                      "CompletedAt":  "2025-01-19T10:08:00.7071467+08:00"
+                  },
+                  {
+                      "Id":  "bbf7abc5-8daf-469d-ad54-903efbf44091",
+                      "Name":  "泡麵",
+                      "Quantity":  6,
+                      "Price":  414.896306190291650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:19:32.515173+08:00",
+                      "CompletedAt":  "2025-01-19T07:34:33.945672+08:00"
+                  },
+                  {
+                      "Id":  "4b82f855-82b8-43f9-b31a-1ae040b031d1",
+                      "Name":  "手套",
+                      "Quantity":  3,
+                      "Price":  67.838770667199690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:36:19.214337+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2e511d3-a4ac-47a2-914b-deb1cc6e7f50",
+                      "Name":  "乳液",
+                      "Quantity":  9,
+                      "Price":  334.321553768375240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:44:44.7730372+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26772df4-6724-4bf5-b5da-1af83089e698",
+                      "Name":  "漂白水",
+                      "Quantity":  5,
+                      "Price":  385.95359756798340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:43:57.5557756+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

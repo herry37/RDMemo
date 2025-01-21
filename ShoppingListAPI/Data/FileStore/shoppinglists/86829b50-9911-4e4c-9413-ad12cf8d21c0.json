@@ -1,0 +1,71 @@
+{
+    "Id":  "86829b50-9911-4e4c-9413-ad12cf8d21c0",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-20T20:24:33.1894303+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7f366660-2bca-45d7-bc59-e120daae8af1",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.22986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6d9f1dd-89a0-43b0-8d40-3df81c3d00ad",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  427,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298641Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "441411ad-f1e6-4587-a3d1-3cfd2fb4a200",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298649Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80e2d994-06b7-4038-8d98-bca3a873323f",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50a5aa23-0dc9-44fc-abfe-d340b773f777",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01fece59-a4dc-4b2e-b201-e28b45f39712",
+                      "Name":  "Sleek Granite Bike",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c28ba5ba-71a2-4e59-9ae2-48842fb91d17",
+                      "Name":  "Incredible Fresh Computer",
+                      "Quantity":  4,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2298984Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

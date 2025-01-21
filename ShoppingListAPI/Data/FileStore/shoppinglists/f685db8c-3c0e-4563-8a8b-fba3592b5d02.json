@@ -1,0 +1,35 @@
+{
+    "Id":  "f685db8c-3c0e-4563-8a8b-fba3592b5d02",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-19T14:50:37.71387+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a26f659-9bd1-4b17-941c-ae47d255e255",
+                      "Name":  "汽水",
+                      "Quantity":  6,
+                      "Price":  393.938733325247030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:37:34.4894969+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e3219e6-55f2-4bad-a924-75e063d35b08",
+                      "Name":  "訂書機",
+                      "Quantity":  5,
+                      "Price":  346.813625256722670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:00:13.1523991+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97134161-ab6a-4f75-b1db-f0c467d55fa8",
+                      "Name":  "杯子",
+                      "Quantity":  8,
+                      "Price":  445.083063021956930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:08:26.8151993+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

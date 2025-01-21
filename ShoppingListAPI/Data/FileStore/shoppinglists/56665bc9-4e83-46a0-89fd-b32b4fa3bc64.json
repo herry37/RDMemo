@@ -1,0 +1,62 @@
+{
+    "Id":  "56665bc9-4e83-46a0-89fd-b32b4fa3bc64",
+    "Title":  "早市採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T13:12:53.1019917+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8aa8f22e-b09c-4bdc-9168-163c4220cf4c",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:46:11.3809418+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcde2031-f2dc-4402-abb0-4f6b8267c11a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:57:22.2465006+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cad85146-3475-45d3-8b61-1ccff7a33854",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:00:56.9477882+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcb559b7-7a43-406a-9cf4-c05a6a1eeae2",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:06:21.6590626+08:00",
+                      "CompletedAt":  "2025-01-21T17:35:10.316288+08:00"
+                  },
+                  {
+                      "Id":  "50d14a1b-c4ef-497d-851f-c87dc9f580d7",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:00:13.857285+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98d81f12-e9b3-48b0-ae55-f81077577c69",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:25:53.6761557+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "b959b477-25fd-4b28-a92f-3d53f45323a8",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T07:53:16.4753819+08:00",
+    "Items":  [
+                  {
+                      "Id":  "978dc191-cad1-42cc-ba10-bd6c0b671994",
+                      "Name":  "Intelligent Plastic Hat",
+                      "Quantity":  1,
+                      "Price":  369,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.033211Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a17b7e4d-e7ee-42ca-9d7a-f707c739710d",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0332177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "576b0f59-99e3-42eb-92b0-a4128a8d9068",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0332208Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d01d122-1fc2-4f0f-ac44-29b358783413",
+                      "Name":  "Unbranded Wooden Table",
+                      "Quantity":  4,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0332391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1c7eb57-3da5-4ed5-86d1-35712f722be6",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0332427Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

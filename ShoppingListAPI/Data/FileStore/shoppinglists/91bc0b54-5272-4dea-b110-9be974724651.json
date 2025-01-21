@@ -1,0 +1,62 @@
+{
+    "Id":  "91bc0b54-5272-4dea-b110-9be974724651",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-21T03:21:23.7599239+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c5a52db-bd6f-4473-97f4-9bdcb969bacf",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:03:24.2220997+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "568b28ef-1410-453b-b7a7-71388cae8706",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:01:10.6791988+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd1ebd6c-ccba-4374-a203-d91491dffc58",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:52:00.1064866+08:00",
+                      "CompletedAt":  "2025-01-20T01:37:27.191619+08:00"
+                  },
+                  {
+                      "Id":  "54840c84-6ded-4539-b41b-b6b1f5e2b73c",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T14:55:27.8712597+08:00",
+                      "CompletedAt":  "2025-01-17T17:53:46.6108237+08:00"
+                  },
+                  {
+                      "Id":  "10bf256e-c62d-4a9e-bb80-1033593de62a",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:27:05.890059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6320c8f0-ff27-4b29-bad0-154f8b36c1df",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:22:01.041331+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

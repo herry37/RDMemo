@@ -1,0 +1,44 @@
+{
+    "Id":  "5f0801b9-5165-4a12-a27a-ed6ef9bf37d4",
+    "Title":  "日常補充 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T16:32:32.2671623+08:00",
+    "Items":  [
+                  {
+                      "Id":  "141f06be-fc4f-4e05-b4df-a80ac414ac41",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:22:06.3795545+08:00",
+                      "CompletedAt":  "2025-01-16T13:33:29.1698421+08:00"
+                  },
+                  {
+                      "Id":  "63b779c3-67c6-49c5-aa60-070c03d3250c",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:59:14.2075085+08:00",
+                      "CompletedAt":  "2025-01-18T00:35:47.3505917+08:00"
+                  },
+                  {
+                      "Id":  "6a0d411c-badf-44ae-9f2c-b870b0c1f4af",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:23:25.7332531+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a2564bc-6b22-417a-9458-7a69f03fbb2e",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:30:28.8298977+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

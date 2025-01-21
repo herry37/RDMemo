@@ -1,0 +1,89 @@
+{
+    "Id":  "6d435e3d-b0b1-40d5-b95a-b9d4181a4e5c",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T09:32:11.7876456+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0c0a788d-fd86-4a57-b144-f98f225e5542",
+                      "Name":  "Sleek Frozen Pizza",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.5966542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "449af40b-c544-4a54-a9ba-d3703040001e",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5966565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24ce1525-1073-4921-8cb5-f0da9b633812",
+                      "Name":  "Rustic Metal Salad",
+                      "Quantity":  2,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5966663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa33e1ef-ca21-4cba-8962-d01d447e666f",
+                      "Name":  "Rustic Metal Computer",
+                      "Quantity":  4,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5966683Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c71eadb8-e656-4484-8370-d683bf110ad9",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5966694Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cb04976-3060-4ecb-9cc7-2217619e74fa",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5967606Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a23879f-10eb-45d5-9325-8bdd817497d8",
+                      "Name":  "Gorgeous Rubber Fish",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5967862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "511a2e4c-0581-4438-a129-6787a45cad4c",
+                      "Name":  "Handcrafted Wooden Chair",
+                      "Quantity":  4,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5967911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf9d1214-a2aa-4170-abd0-3e1619f3aad5",
+                      "Name":  "Fantastic Rubber Chair",
+                      "Quantity":  1,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5967933Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

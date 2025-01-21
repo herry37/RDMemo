@@ -1,0 +1,62 @@
+{
+    "Id":  "bf9d34dd-55ec-4ff0-a866-4454cc287591",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T13:21:42.8779133+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d55663ab-7f8e-48f4-8fc0-7385852c4624",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758709Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "effc3876-ca96-41eb-8259-7f8f8ff0f1c4",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e636a5b-812a-407d-9e84-76bc9ce13dfb",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758754Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01cbb7e9-3eac-4747-90ec-1a169bc63c01",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1dabb40-330f-412d-be78-6e268955cfba",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2290e7d-b066-4787-b698-99cc8fa48ca4",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5758819Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

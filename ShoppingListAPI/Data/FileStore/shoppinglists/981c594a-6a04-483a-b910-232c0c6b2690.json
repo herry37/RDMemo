@@ -1,0 +1,62 @@
+{
+    "Id":  "981c594a-6a04-483a-b910-232c0c6b2690",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T00:46:28.600453+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a596d0b7-07db-4383-8369-b2ce12c80730",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7899454Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cc60503-3701-475f-be55-7df15fdca6a8",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.789955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42e0a3a8-4b8a-45c2-8446-e3fa61869010",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7899575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3146c2d4-bf8a-4957-b23e-9b5cf58b8bd4",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7899584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13edb734-9451-406e-ae94-343adad7a5eb",
+                      "Name":  "Tasty Cotton Pizza",
+                      "Quantity":  4,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7899904Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "972139c5-4c08-49c3-92dd-3666100470b2",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7900692Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

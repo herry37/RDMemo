@@ -1,0 +1,98 @@
+{
+    "Id":  "c8df00ef-cc04-4703-b14d-7769cc2049b2",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-17T07:07:36.6734007+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27ee2d8a-d98d-4d27-a530-abe67c00616d",
+                      "Name":  "果乾",
+                      "Quantity":  8,
+                      "Price":  90.561342977964870,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:54:25.4688909+08:00",
+                      "CompletedAt":  "2025-01-19T16:02:37.1152137+08:00"
+                  },
+                  {
+                      "Id":  "622f701e-77e2-4506-a407-a0577884c506",
+                      "Name":  "洋芋片",
+                      "Quantity":  3,
+                      "Price":  490.381482823844140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:25:11.9569303+08:00",
+                      "CompletedAt":  "2025-01-21T12:31:32.2633958+08:00"
+                  },
+                  {
+                      "Id":  "82bd41d2-2e8e-4694-9b52-660372015d2d",
+                      "Name":  "爆米花",
+                      "Quantity":  2,
+                      "Price":  111.068635491939290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:51:53.9253624+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c37d0950-f80b-4c21-99e9-61bdb5cb2679",
+                      "Name":  "拖把",
+                      "Quantity":  3,
+                      "Price":  100.903521125577510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:57:54.5230701+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cee4a81-f6f1-4194-8f4b-ec8894437e28",
+                      "Name":  "尺",
+                      "Quantity":  5,
+                      "Price":  266.149512563265790,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:47:33.3059836+08:00",
+                      "CompletedAt":  "2025-01-21T11:55:09.4062851+08:00"
+                  },
+                  {
+                      "Id":  "b254b3ac-7ca4-4a3d-8093-8acf80d551f9",
+                      "Name":  "尺",
+                      "Quantity":  8,
+                      "Price":  21.746779245542460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:45:45.4363725+08:00",
+                      "CompletedAt":  "2025-01-17T22:18:59.0859942+08:00"
+                  },
+                  {
+                      "Id":  "5ec89f31-dc73-4c46-88bd-67d992e16874",
+                      "Name":  "可樂",
+                      "Quantity":  9,
+                      "Price":  292.595820707477130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:47:07.9170493+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78f15ed6-0688-4cab-97f5-b74bf7f4d5e6",
+                      "Name":  "手套",
+                      "Quantity":  7,
+                      "Price":  212.967107627880260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:55:22.0880144+08:00",
+                      "CompletedAt":  "2025-01-17T09:35:58.2789845+08:00"
+                  },
+                  {
+                      "Id":  "5ef10491-a2bf-43a5-b35d-041cb90c1ec9",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  467.97263284590860,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:58:57.4409541+08:00",
+                      "CompletedAt":  "2025-01-22T09:15:10.2715971+08:00"
+                  },
+                  {
+                      "Id":  "2d2c9928-aa7b-407f-b5b0-850b7b2dc449",
+                      "Name":  "堅果",
+                      "Quantity":  6,
+                      "Price":  112.339522427534420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:28:20.6276233+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

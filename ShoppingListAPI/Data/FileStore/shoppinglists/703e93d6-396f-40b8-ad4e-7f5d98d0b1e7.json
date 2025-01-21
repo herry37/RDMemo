@@ -1,0 +1,71 @@
+{
+    "Id":  "703e93d6-396f-40b8-ad4e-7f5d98d0b1e7",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T18:38:04.2149881+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5c7e9fb2-91fc-4dce-80de-690570f2c9f0",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:03:29.7589618+08:00",
+                      "CompletedAt":  "2025-01-19T08:50:17.4853923+08:00"
+                  },
+                  {
+                      "Id":  "1e245992-1e79-4132-a318-889cf96cf054",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:59:11.5973565+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28cde034-4a95-43ad-9b40-ddfab673608b",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:41:52.5426958+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0306b466-c009-476a-8f17-43b7d7d82b93",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:38:58.6315657+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acae9945-50e7-4c4b-9f2b-c3453033006a",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:58:07.2769842+08:00",
+                      "CompletedAt":  "2025-01-20T16:51:41.100262+08:00"
+                  },
+                  {
+                      "Id":  "1f43092e-cb02-470a-8896-3547cac55c3b",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:09:53.0343906+08:00",
+                      "CompletedAt":  "2025-01-15T14:48:57.0249811+08:00"
+                  },
+                  {
+                      "Id":  "c2e9c438-4ee6-4a33-a1f9-a0d88658911d",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:07:33.5553459+08:00",
+                      "CompletedAt":  "2025-01-19T10:30:20.4421151+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

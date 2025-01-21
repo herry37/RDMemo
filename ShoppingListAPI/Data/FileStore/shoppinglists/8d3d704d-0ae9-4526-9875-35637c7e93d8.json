@@ -1,0 +1,62 @@
+{
+    "Id":  "8d3d704d-0ae9-4526-9875-35637c7e93d8",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T17:20:36.8582684+08:00",
+    "Items":  [
+                  {
+                      "Id":  "61ef3534-6129-4856-aee5-8133f475ba27",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4304446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06c82951-1e0f-4bdf-953f-6e6c39df0f66",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  413,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4304488Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd3b86b8-d6d0-41b8-bf6c-c19198b1477d",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  454,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4304519Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18a6f57b-9764-46c4-90f3-5dd8a3f63104",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4304528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "781f3d0d-07cc-4bd2-87a1-afc45890c037",
+                      "Name":  "Incredible Granite Bacon",
+                      "Quantity":  2,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4304979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd2a06b4-2787-490a-80d1-d3c130569a9e",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4305013Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

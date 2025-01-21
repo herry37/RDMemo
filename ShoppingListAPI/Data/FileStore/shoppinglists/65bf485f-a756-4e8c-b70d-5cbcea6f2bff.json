@@ -1,0 +1,62 @@
+{
+    "Id":  "65bf485f-a756-4e8c-b70d-5cbcea6f2bff",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T10:39:17.8587605+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b6fc699-899d-4653-83a9-1226b0fb127e",
+                      "Name":  "Gorgeous Plastic Pants",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "252638d6-1b18-46de-af36-503e5933505e",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "080d71c1-3ce3-4ac8-a7cb-50f2b931bfff",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "088c9cf1-b9ed-4834-b8ee-c4410f4a8992",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2258bc79-4803-4540-a40c-4c4eab8c5777",
+                      "Name":  "Intelligent Fresh Pizza",
+                      "Quantity":  4,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457679Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95c03dc8-2884-4e9e-8797-085db8a4bd5c",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9457731Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

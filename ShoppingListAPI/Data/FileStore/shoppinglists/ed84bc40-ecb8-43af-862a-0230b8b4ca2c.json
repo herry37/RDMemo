@@ -1,0 +1,44 @@
+{
+    "Id":  "ed84bc40-ecb8-43af-862a-0230b8b4ca2c",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-18T03:18:55.8824244+08:00",
+    "Items":  [
+                  {
+                      "Id":  "901ec138-f8b2-49a6-bead-7488c6082005",
+                      "Name":  "巧克力",
+                      "Quantity":  9,
+                      "Price":  214.484125669131980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:26:50.0429024+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38c3070d-ab37-4c81-937e-b63d84f81cc2",
+                      "Name":  "拖把",
+                      "Quantity":  7,
+                      "Price":  274.194317268928130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:47:28.9756753+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "346f9954-ad1b-49b5-bd96-c6d04b9591e8",
+                      "Name":  "芳香劑",
+                      "Quantity":  9,
+                      "Price":  113.543808889676820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:08:02.0835879+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e402d65-8728-435a-a07e-23d42755a8b8",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  304.947859606692530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:58:33.291954+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "cb900f60-80a4-497e-b848-998f73d6b3b5",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T10:29:47.6990523+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85eab46c-4979-465c-96b5-b04cdc8e75ce",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5502471Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8e118b1-22f4-48a0-97b3-375057cbd6e2",
+                      "Name":  "Rustic Granite Car",
+                      "Quantity":  4,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.550272Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ea8b362-5853-484f-a1fd-cf1930c8607d",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5502751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14e8e793-962d-459f-93f9-64f871d47692",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5502789Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "280cca41-090e-4877-9353-259bff0a8327",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5502821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e7b2158-f2b5-49f1-9198-3f0efdec0176",
+                      "Name":  "Practical Wooden Sausages",
+                      "Quantity":  5,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5502908Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "a7272dd9-7deb-40fb-8893-4fb88b0e8737",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T15:31:12.1627224+08:00",
+    "Items":  [
+                  {
+                      "Id":  "664909d3-826b-460d-bc10-b74c3aacbc52",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6116751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "188577b5-317f-4377-bc18-ae78e3fc782a",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6116824Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f04d4f6-cf90-47ab-a82e-43dfcda7c1b4",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6116835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1f8e65c-0bca-422f-928b-07a3f224b51a",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6116848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d9d8998-5fc8-4c39-8cd8-714129cf7a77",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6177278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "024cd9ef-ffd4-4325-98b6-e6de817f873c",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6177915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0a75a71-f388-4d1e-8a76-5f113b46110c",
+                      "Name":  "Gorgeous Frozen Table",
+                      "Quantity":  2,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6178616Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f1e6b95-b9c5-4471-9e1d-3e5a605b866a",
+                      "Name":  "Practical Fresh Computer",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6178797Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

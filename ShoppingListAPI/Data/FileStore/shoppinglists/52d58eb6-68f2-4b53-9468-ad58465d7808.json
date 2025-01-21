@@ -1,0 +1,71 @@
+{
+    "Id":  "52d58eb6-68f2-4b53-9468-ad58465d7808",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T13:44:01.5810985+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a793ea22-ef84-4133-b478-bcf6ecfce068",
+                      "Name":  "Small Cotton Keyboard",
+                      "Quantity":  4,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4446368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34946b35-cada-4c27-b0ac-1b83f70eecc4",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.444639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1cc2459-a987-4b31-9716-f7cf422fbb33",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.44464Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28d69c05-31fe-4240-ae56-9feb8a35fec0",
+                      "Name":  "Small Concrete Soap",
+                      "Quantity":  3,
+                      "Price":  494,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.4446444Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd9fa08c-533c-4392-b202-9c120cf8b333",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4446459Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ad1a52e-956f-4f89-a894-f04934bc5b26",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.444648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97796b95-6b21-4fd3-9f24-f1010bb85b73",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.444649Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

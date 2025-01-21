@@ -1,0 +1,62 @@
+{
+    "Id":  "91c4cbc7-27ba-455f-9b12-5fc0fd9725ab",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T03:31:53.3156648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7d1d0535-9b62-41b5-bcd5-7a96fd92e8bd",
+                      "Name":  "天然肥皂",
+                      "Quantity":  4,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:12:04.6690691+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3a0b250-4182-40a6-a159-2717de13a6aa",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:15:02.1421323+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19a65e19-18a2-4bf3-b963-4bde39efc042",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:44:03.3797722+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df3f2798-31a5-422d-85b2-72a6b7045027",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:44:48.4325111+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eac28a05-f667-4649-8ad8-a9345f88ab44",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T21:42:00.2424002+08:00",
+                      "CompletedAt":  "2025-01-21T19:11:18.8458311+08:00"
+                  },
+                  {
+                      "Id":  "8bcc8e9f-c754-4c04-9f1b-fdafbbb64817",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:40:44.8645103+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

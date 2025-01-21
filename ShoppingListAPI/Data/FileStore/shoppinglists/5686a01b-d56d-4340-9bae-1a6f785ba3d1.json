@@ -1,0 +1,89 @@
+{
+    "Id":  "5686a01b-d56d-4340-9bae-1a6f785ba3d1",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-21T11:40:08.905031+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1318c4a7-b27a-4927-bb6a-e92cae66df93",
+                      "Name":  "Incredible Soft Fish",
+                      "Quantity":  4,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5507939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57237751-3eb8-4fe1-82fd-0648132fff07",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5507951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56c1b6ba-7a6d-4536-a43c-71616bfd459c",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5507966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc3c869c-2734-40d2-81da-faef0332752c",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5507973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63e29f07-072c-42ee-a3af-188ea3a0e67f",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5507993Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "789ae97b-e893-45ee-a5a0-6b44b208ef8e",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5508003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e66a646c-813f-4cca-9140-cb4af1afb54a",
+                      "Name":  "Handmade Wooden Mouse",
+                      "Quantity":  4,
+                      "Price":  424,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5508023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68dcbae6-ab7d-4862-9bd2-f77aaa57ebf5",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5508031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b86909c-fed0-4617-bb40-42e7ac5599ee",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5508038Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

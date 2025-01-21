@@ -1,0 +1,62 @@
+{
+    "Id":  "24987bc5-c482-4f8a-9b06-bcd08301c8ea",
+    "Title":  "派對用品 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T21:23:03.2689565+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35c3d991-4a98-4b70-af5a-079530fe2c4e",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:51:10.6787316+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "994ecf1a-1b40-432f-9b0e-e3ae678d29ae",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:44:49.406462+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef959593-c0c5-4b26-bcaa-db7af3ac4101",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:16:05.6968636+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc4610e5-f616-45b3-987c-04c774016d54",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  67,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:18:45.0632213+08:00",
+                      "CompletedAt":  "2025-01-18T13:47:49.4612248+08:00"
+                  },
+                  {
+                      "Id":  "e9a2e4fd-1c14-4529-90ff-cba6b358dda1",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:44:43.6749966+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04314dce-fad5-426f-900c-9697edc84a58",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:26:42.3076695+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

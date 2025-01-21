@@ -1,0 +1,80 @@
+{
+    "Id":  "72a2fa90-67cc-405d-8536-396c7639d8b5",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T03:32:43.9487452+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e89af4f0-e9c7-4824-9e82-34ea7d147507",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.429902Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2786954-9830-4b89-9391-b4655c00aabe",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  454,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9034c139-7b9f-46f4-adbb-2aeacede0303",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9a19162-49ee-4719-ba79-93b2381e447a",
+                      "Name":  "Rustic Soft Cheese",
+                      "Quantity":  5,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.429935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "520e00a5-e797-4a86-9183-d4a817d02965",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cb5f6c7-5ceb-4f72-b39f-b832ffb47cc8",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6f282c9-0f09-4f02-9cd0-3599e47dd8cb",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a5f4f87-f93f-430b-9f9c-fd5165c089ae",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4299432Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "e774731f-ddb5-465e-8653-a73eb4cf2107",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T09:37:00.0396169+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c48cd4e4-7147-4cab-ad2c-a4b630cd0243",
+                      "Name":  "相框",
+                      "Quantity":  4,
+                      "Price":  286.140580963218160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:26:12.7355352+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a354f23-a418-466a-b3e8-5aeb8dd891fb",
+                      "Name":  "相框",
+                      "Quantity":  7,
+                      "Price":  262.931182718766930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:53:47.8187153+08:00",
+                      "CompletedAt":  "2025-01-15T22:33:24.3787555+08:00"
+                  },
+                  {
+                      "Id":  "783f9a15-8850-4e97-b711-a00dc1bedb0c",
+                      "Name":  "電池",
+                      "Quantity":  8,
+                      "Price":  278.421194387662610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:19:07.6985971+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

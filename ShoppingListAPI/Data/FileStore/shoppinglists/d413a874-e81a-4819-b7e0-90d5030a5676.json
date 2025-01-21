@@ -1,0 +1,44 @@
+{
+    "Id":  "d413a874-e81a-4819-b7e0-90d5030a5676",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-19T05:39:36.8208045+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9311d4a5-e962-4e5a-804a-21dc3b504978",
+                      "Name":  "筆記本",
+                      "Quantity":  1,
+                      "Price":  257.606324638909250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:24:29.9405744+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a134d270-2031-406d-b67b-e31822514cab",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  285.530970775109280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:58:54.8848064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8e6f64a-14a2-4612-a224-310a516a7d33",
+                      "Name":  "碗",
+                      "Quantity":  9,
+                      "Price":  305.496569511815490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:08:10.1513028+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a13931e7-a11f-4be6-ac4b-015b49439418",
+                      "Name":  "洋芋片",
+                      "Quantity":  10,
+                      "Price":  318.895383003945710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:31:55.4665733+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

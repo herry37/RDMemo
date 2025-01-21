@@ -1,0 +1,71 @@
+{
+    "Id":  "1e123014-f49c-482b-b560-01d5482c3cc3",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T01:35:49.7119458+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f53e7b49-dfae-4bf3-b72c-3af0741b66e3",
+                      "Name":  "沐浴乳",
+                      "Quantity":  10,
+                      "Price":  351.947086176106320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T13:27:18.8247386+08:00",
+                      "CompletedAt":  "2025-01-18T03:14:04.1824873+08:00"
+                  },
+                  {
+                      "Id":  "4fd63692-e186-4911-b847-d3babff8f851",
+                      "Name":  "手套",
+                      "Quantity":  8,
+                      "Price":  391.428830732289130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:45:20.902353+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2be1c3ea-16cc-49e3-8333-e797fee2ceba",
+                      "Name":  "糖果",
+                      "Quantity":  9,
+                      "Price":  240.789001589731760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:40:44.8204604+08:00",
+                      "CompletedAt":  "2025-01-20T04:20:56.7608737+08:00"
+                  },
+                  {
+                      "Id":  "99c3c4a7-7220-416b-8743-5d87363278d9",
+                      "Name":  "面紙",
+                      "Quantity":  8,
+                      "Price":  311.584752187110070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:26:34.5846882+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a023452-ab32-43d2-949d-7a101ba75f49",
+                      "Name":  "相框",
+                      "Quantity":  1,
+                      "Price":  14.9260933079094520,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:32:18.5164679+08:00",
+                      "CompletedAt":  "2025-01-18T01:16:29.77865+08:00"
+                  },
+                  {
+                      "Id":  "e60792b5-7ec8-491a-8f81-f5d6679f9469",
+                      "Name":  "掃把",
+                      "Quantity":  6,
+                      "Price":  374.571029520638080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:46:30.2078767+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1994672-3eff-4db7-a113-50d7a78dd4ba",
+                      "Name":  "泡麵",
+                      "Quantity":  2,
+                      "Price":  405.563802816528430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:03:16.8526591+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

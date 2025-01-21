@@ -1,0 +1,98 @@
+{
+    "Id":  "af297051-c754-47d7-8291-4060fdb2aa23",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-17T23:50:13.6554214+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e4ea6726-93ea-45da-b14d-6cb023d573d7",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2231946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d822ed9-33f8-47fd-9dca-dff303d5754c",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f99ee04-5b3f-40d8-8b2d-06e8937c3e6a",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.223205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "870997f8-5af2-4e49-aa0a-512b355ef876",
+                      "Name":  "Handmade Concrete Pizza",
+                      "Quantity":  1,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2326e0d9-66d0-44ac-a693-bc95df163c96",
+                      "Name":  "Handmade Rubber Tuna",
+                      "Quantity":  1,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.223246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b4faf25-2945-4a52-9205-f0728dc4f8b8",
+                      "Name":  "Licensed Wooden Tuna",
+                      "Quantity":  1,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232544Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5030dac3-dadf-4a9d-aa9f-9b309c70774d",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232558Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0734d8d-1c07-4be1-8cde-46d46d3bbd5d",
+                      "Name":  "Awesome Fresh Shoes",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55b6b4d0-ed0d-4a83-8b7e-8319212ed74a",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84cc703d-53c8-4aac-93e6-faeb8eb5831b",
+                      "Name":  "Generic Soft Mouse",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2232722Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

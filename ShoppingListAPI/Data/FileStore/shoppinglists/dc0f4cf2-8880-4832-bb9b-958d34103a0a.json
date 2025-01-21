@@ -1,0 +1,62 @@
+{
+    "Id":  "dc0f4cf2-8880-4832-bb9b-958d34103a0a",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T05:30:30.0564652+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a2815f16-40a5-4b24-a337-5fca9ac06f5d",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52408209-9186-42bc-83ae-70daea72443b",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a59e83b7-adb8-45f2-8925-ceb06a094bf4",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d6c8930-451f-4b5e-8c9f-49c2bcd172ff",
+                      "Name":  "Handmade Concrete Mouse",
+                      "Quantity":  2,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286763Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87580ff7-c4f6-42bb-92cf-345cc33c8dbb",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ad77a91-2607-4333-9799-c04304871dbc",
+                      "Name":  "Fantastic Plastic Fish",
+                      "Quantity":  1,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5286852Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

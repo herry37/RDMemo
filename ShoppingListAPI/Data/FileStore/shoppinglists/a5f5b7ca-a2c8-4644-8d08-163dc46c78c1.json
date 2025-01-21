@@ -1,0 +1,35 @@
+{
+    "Id":  "a5f5b7ca-a2c8-4644-8d08-163dc46c78c1",
+    "Title":  "01/19 ¹s­¹ÁÊª«²M³æ",
+    "CreatedAt":  "2025-01-18T06:12:48.4578636+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e83878d3-0ef4-4014-90ca-f53cd5941c10",
+                      "Name":  "¦Ì",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3754951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4807dc98-29da-42d1-b52d-2a30c5440dc3",
+                      "Name":  "ÆQ",
+                      "Quantity":  4,
+                      "Price":  395,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3755002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8365564-3dee-437e-a940-662f1a0c964d",
+                      "Name":  "¤û¥¤",
+                      "Quantity":  2,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3755013Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

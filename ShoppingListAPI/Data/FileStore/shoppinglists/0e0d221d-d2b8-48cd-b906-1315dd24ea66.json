@@ -1,0 +1,35 @@
+{
+    "Id":  "0e0d221d-d2b8-48cd-b906-1315dd24ea66",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T02:09:36.7452203+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1511aee-2be6-4b7c-89ae-67810c69b3bd",
+                      "Name":  "Rustic Wooden Salad",
+                      "Quantity":  3,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6848447Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2fad871-7e89-45a0-b895-b4843bb16503",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  452,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6848483Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9fa66d9-367d-499f-a0a8-c80b348d7acb",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6848494Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

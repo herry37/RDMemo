@@ -1,0 +1,44 @@
+{
+    "Id":  "a8e498fc-d9e0-4b5d-a598-ab1dd5e8132f",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T09:36:14.09173+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6de07370-0c79-48d5-8dbe-c1abb72efc99",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6798146Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7a5568b-7cfd-4719-8336-265f0ce8fd45",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  196,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6798213Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfdd80c9-c2c1-4117-a7a5-a2c45f4325de",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6798236Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53f431a2-6e8f-4138-87d4-184925a1739e",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6798256Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

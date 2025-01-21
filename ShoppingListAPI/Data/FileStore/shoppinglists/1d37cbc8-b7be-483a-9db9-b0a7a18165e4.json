@@ -1,0 +1,89 @@
+{
+    "Id":  "1d37cbc8-b7be-483a-9db9-b0a7a18165e4",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-15T15:08:48.6449998+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1eb840b3-e999-405e-a618-73cb8614870b",
+                      "Name":  "筆筒",
+                      "Quantity":  10,
+                      "Price":  170.805975578366860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:54:56.3349789+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce7fe3d6-5e33-40fa-b4f7-f13f2dd8cd87",
+                      "Name":  "清潔劑",
+                      "Quantity":  2,
+                      "Price":  226.57754913394460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:11:36.5995397+08:00",
+                      "CompletedAt":  "2025-01-21T11:20:57.3385735+08:00"
+                  },
+                  {
+                      "Id":  "46c723e6-6c33-4bce-9871-77cc14a918ca",
+                      "Name":  "蘋果",
+                      "Quantity":  7,
+                      "Price":  269.906545299759820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:05:00.0368536+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df27d32a-692c-4d37-a27b-09061376cd78",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  8,
+                      "Price":  138.839668791097320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:04:47.7958952+08:00",
+                      "CompletedAt":  "2025-01-17T15:29:20.1134231+08:00"
+                  },
+                  {
+                      "Id":  "66b79ba6-abcb-4c6e-b8b2-468ca47dec4c",
+                      "Name":  "膠帶",
+                      "Quantity":  4,
+                      "Price":  155.56118162239430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:07:03.0531218+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "481b4166-5fc8-477b-a88d-a169ba28644e",
+                      "Name":  "餅乾",
+                      "Quantity":  8,
+                      "Price":  122.812697975265610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:26:17.8295471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4412ec99-9c6d-4d87-b90d-c8a77fe6146b",
+                      "Name":  "棉被",
+                      "Quantity":  6,
+                      "Price":  391.03938673355940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:10:05.0598609+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d84823e-cf49-456d-846e-34fa1d5e4a6e",
+                      "Name":  "筆記本",
+                      "Quantity":  8,
+                      "Price":  148.808294965313120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:07:57.6058898+08:00",
+                      "CompletedAt":  "2025-01-20T11:37:52.8012855+08:00"
+                  },
+                  {
+                      "Id":  "1240b1eb-e1a0-4704-b7fe-8ace2f3bc0cb",
+                      "Name":  "掃把",
+                      "Quantity":  9,
+                      "Price":  448.445155112606460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:02:24.2505742+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "ece465dd-ce6d-47f0-a5c7-bbae95a8230d",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T18:23:00.0205927+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4959310-cf6f-4fbd-8e14-58047f1aea92",
+                      "Name":  "汽水",
+                      "Quantity":  7,
+                      "Price":  267.329502464110930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:09:23.0677009+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99bb155f-8e69-44a7-b5a2-33fa87ba3112",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  389.132015647531090,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:37:35.3395165+08:00",
+                      "CompletedAt":  "2025-01-18T13:47:28.1801666+08:00"
+                  },
+                  {
+                      "Id":  "00804ac8-e3f3-4852-b398-1fa276f25a52",
+                      "Name":  "筆記本",
+                      "Quantity":  8,
+                      "Price":  84.8168804256720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:47:46.0712319+08:00",
+                      "CompletedAt":  "2025-01-19T18:22:48.5716288+08:00"
+                  },
+                  {
+                      "Id":  "548a763f-021b-4d7f-bfee-c9f6c772ff86",
+                      "Name":  "堅果",
+                      "Quantity":  8,
+                      "Price":  17.992809719582240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:41:08.0265986+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eede7c43-4452-4803-b7ea-3b1807ced3c3",
+                      "Name":  "茶",
+                      "Quantity":  10,
+                      "Price":  107.965930404712020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:29:17.6097116+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cf9618f-801a-4e5e-b34a-5eb83a68a0f5",
+                      "Name":  "垃圾袋",
+                      "Quantity":  10,
+                      "Price":  231.346256508874070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:10:50.5833325+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "c7f8f84d-f924-4da6-b8a0-5738b9425db8",
+    "Title":  "年節採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-17T19:34:46.7323502+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c30adce-25fe-4092-8429-c4136de013e5",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:06:21.6626844+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cd50791-1ba3-45a6-a95c-f39508ca6762",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:23:23.7635758+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96bfff6e-3b8f-4c39-a833-a48f3e755888",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  67,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:49:17.4027179+08:00",
+                      "CompletedAt":  "2025-01-15T11:01:11.1537207+08:00"
+                  },
+                  {
+                      "Id":  "585bedb0-8e2d-40e8-85ba-197529ec4ec3",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:38:28.3033345+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9772f60-f8cf-4333-a4d5-35d6ca4ad740",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  2,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:31:38.3142689+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a68b85f-5b05-4300-8ace-a68b673c5777",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:33:01.7766722+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ec7f7e4-56f7-4589-98cf-f340d3d998ab",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:37:55.6921121+08:00",
+                      "CompletedAt":  "2025-01-21T18:40:30.1401966+08:00"
+                  },
+                  {
+                      "Id":  "140989c4-3008-4810-abe1-204817e53b3c",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:39:07.1653121+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

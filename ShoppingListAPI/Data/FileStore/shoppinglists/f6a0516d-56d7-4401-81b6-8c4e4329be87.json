@@ -1,0 +1,80 @@
+{
+    "Id":  "f6a0516d-56d7-4401-81b6-8c4e4329be87",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T17:40:07.0853528+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d0976e4-ee19-4eb5-98c8-7f1f14efa28a",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:56:18.5782857+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cff5246-5c12-4160-a2a5-29a16e38be7d",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:30:06.2271211+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96b12766-e7c6-4dfe-baad-cdcdaec37958",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:56:18.7080241+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7feb7fb1-23f2-4c50-b102-553b38a96dc2",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:53:44.7160283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a252ad77-18a7-44cc-8271-b6e95098dcbf",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:25:38.3101209+08:00",
+                      "CompletedAt":  "2025-01-20T20:49:33.4313773+08:00"
+                  },
+                  {
+                      "Id":  "6a774781-2e48-44aa-8306-2875c21bb8f5",
+                      "Name":  "環保餐具組",
+                      "Quantity":  5,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:40:42.9156429+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "372e22ee-4290-45a0-9997-9cdc89cfc202",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:54:45.6240995+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a20ef3c4-e8ad-414e-a69c-f7f8f1f16000",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:21:11.9260026+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

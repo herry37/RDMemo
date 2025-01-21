@@ -1,0 +1,44 @@
+{
+    "Id":  "ca12d8f4-4257-4b87-83e6-9b5f85585df4",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-19T18:20:01.8418246+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2e179f02-420c-47ca-bc96-8038a95ffe48",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3278881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "077fcfed-8c8c-4d73-9bc9-b423af360efb",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3278923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca4e9560-92bf-460c-9061-c433ebbc656c",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3278935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4aefd16-c328-4cf8-bcc7-7b797c5c1b61",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.327896Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

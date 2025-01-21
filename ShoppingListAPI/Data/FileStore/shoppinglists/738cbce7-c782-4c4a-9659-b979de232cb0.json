@@ -1,0 +1,98 @@
+{
+    "Id":  "738cbce7-c782-4c4a-9659-b979de232cb0",
+    "Title":  "01/21 零食購物清單",
+    "CreatedAt":  "2025-01-18T11:24:55.4215894+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9ef15320-6728-40b3-bd0d-010d74210a9f",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0879585Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f410c908-1b76-43b0-ba70-9e93edb17aa3",
+                      "Name":  "Intelligent Frozen Tuna",
+                      "Quantity":  4,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0879858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1955f17d-df4e-435d-a8af-c0a9b21cdcf3",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0879899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "992fddf5-4a31-4ac5-b488-302b973007a8",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0879921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ef25d0d-ccdf-41dc-8589-52bc1819bd08",
+                      "Name":  "Tasty Frozen Bike",
+                      "Quantity":  1,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0879996Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a57b3f4e-3145-4a41-8836-5c1c192c74c0",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0880076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5c99cf5-70ff-4745-990a-8fcc2b11f031",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0880105Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b68fe59-8b75-4393-93b2-d68262b68b5b",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0880131Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f0a52fa-66f0-4d30-a645-ad020d5ebfa6",
+                      "Name":  "Licensed Fresh Salad",
+                      "Quantity":  5,
+                      "Price":  315,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0880205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b019f19-6565-426b-9d18-352e6e6719e2",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0880229Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

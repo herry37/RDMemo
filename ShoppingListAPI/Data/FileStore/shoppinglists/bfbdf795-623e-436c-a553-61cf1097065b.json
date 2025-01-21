@@ -1,0 +1,44 @@
+{
+    "Id":  "bfbdf795-623e-436c-a553-61cf1097065b",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T04:00:00.9736866+08:00",
+    "Items":  [
+                  {
+                      "Id":  "97ecdb71-3353-4ebf-bfdf-6de123bd2e68",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6586638Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f96cce52-fc0e-4be1-a9a3-fc3ed9ad05a3",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.658669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db939e02-a322-4144-9c7b-2f793f008660",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6586706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84696e61-0d11-4c08-8f72-43e4adb5dbe7",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6586728Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

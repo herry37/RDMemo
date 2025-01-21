@@ -1,0 +1,35 @@
+{
+    "Id":  "964fade0-4cae-4e49-b568-c74709545456",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-21T03:41:35.9830095+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0bdf81ef-bf01-4c79-bec3-80a9a070caff",
+                      "Name":  "Handmade Soft Car",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6680868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e20cf3c7-b8d8-4971-912d-e7316996bbc6",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6680917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f16168e7-8594-40a5-b68a-6132aca6af32",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6680934Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "51646680-2e40-4add-aaea-2eb0ea9f6cf0",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-19T04:20:52.8272124+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dd3bdf8d-fa28-4700-84e1-5f843a7a841f",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1962164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a016c03a-ba45-4561-968e-bc69faf4500c",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1962179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fddc3adf-b40c-43fb-90dc-30f618edfab9",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1962194Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

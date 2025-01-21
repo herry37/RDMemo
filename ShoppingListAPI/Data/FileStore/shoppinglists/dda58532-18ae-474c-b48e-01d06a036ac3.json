@@ -1,0 +1,71 @@
+{
+    "Id":  "dda58532-18ae-474c-b48e-01d06a036ac3",
+    "Title":  "露營準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T20:55:41.7813878+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ca73f95-5796-435f-86a0-57de8c80b8d6",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T11:41:47.6374594+08:00",
+                      "CompletedAt":  "2025-01-21T17:38:01.3232987+08:00"
+                  },
+                  {
+                      "Id":  "c3344605-e666-47e0-9dda-0dd57b6f8d14",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:35:29.1613484+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81556bba-446a-4e12-a69a-99be4fffdec4",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:13:11.5415958+08:00",
+                      "CompletedAt":  "2025-01-18T22:45:32.9420024+08:00"
+                  },
+                  {
+                      "Id":  "e9679f66-9cfe-4957-bb97-f0dada3be7d7",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:32:15.7655772+08:00",
+                      "CompletedAt":  "2025-01-19T14:59:36.427071+08:00"
+                  },
+                  {
+                      "Id":  "8bedfbc4-eefb-41bd-b52d-962bdda18023",
+                      "Name":  "環保漂白水",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:08:01.8657111+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26f64b93-0161-4d91-866a-e78040f476b4",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:14:00.5949376+08:00",
+                      "CompletedAt":  "2025-01-16T06:54:14.8058392+08:00"
+                  },
+                  {
+                      "Id":  "f50005b0-7ebd-4106-a2c3-f6643ef436cc",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  58,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T21:42:24.9325612+08:00",
+                      "CompletedAt":  "2025-01-20T02:50:22.6477495+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "249ba087-34f1-4675-8861-e23213c6e00d",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T02:20:21.4676014+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a21fddae-fd42-40c2-868d-bda9822e3e43",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2838662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cf0e5c5-6163-4f24-b773-af3ad0ee9e37",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  348,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2838719Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6254298-57fc-4204-abae-370de4830d91",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2838777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6ca6af4-b3c7-4561-a8df-02aa6469ac07",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2838809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7059292-5737-4b0c-86fd-029b2dd1f5ed",
+                      "Name":  "Licensed Soft Bacon",
+                      "Quantity":  5,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2839115Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

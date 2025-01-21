@@ -1,0 +1,35 @@
+{
+    "Id":  "02dec877-2ec1-4a9b-9f1f-8c23d5faf1c0",
+    "Title":  "早市採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-18T09:50:44.0690157+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7d01c9fc-6a1e-453c-8669-d3ccdf69ddb0",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:46:48.1741374+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31c30de8-1cd3-4433-ade4-707dddf871e2",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:54:01.039387+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16259d54-c43f-4e69-98e7-d8ec830cf5ad",
+                      "Name":  "保養化妝品",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:05:57.4328145+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

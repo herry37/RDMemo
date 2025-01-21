@@ -1,0 +1,80 @@
+{
+    "Id":  "1dc79dbd-05c3-42ce-ac90-74dbb59d0c3c",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T12:30:34.1247844+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15976716-4c15-47a6-99bd-3d4f9850140d",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  348,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0288659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04502e71-c910-48f3-9aff-9c263f60f963",
+                      "Name":  "Handmade Frozen Towels",
+                      "Quantity":  3,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0288926Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c967bc11-4eae-4f80-a2c4-7497e0b17ce8",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0288943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8feaea3-5a73-42ce-972c-173a337dad6e",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0288961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3156415-a036-4b68-9c1b-820072d2b3c7",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0288976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f2f982a-2328-4ed0-a129-839213a842e4",
+                      "Name":  "Ergonomic Rubber Car",
+                      "Quantity":  2,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0289023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ee867ff-dd2f-4601-b868-fdbebb507d5d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0289037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7070ff70-3796-4cd3-8ab8-5bcedb257217",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0289054Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

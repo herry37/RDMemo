@@ -1,0 +1,71 @@
+{
+    "Id":  "cc549ac9-ebd7-49af-ba66-7bc2cfcdd006",
+    "Title":  "緊急採買 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-20T01:46:08.9473523+08:00",
+    "Items":  [
+                  {
+                      "Id":  "14abfe47-d3c2-43c6-b7ab-4358e2904c37",
+                      "Name":  "充電電池",
+                      "Quantity":  3,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:59:50.5384718+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d01d7d3c-ad13-4f88-85dc-d548f33cdb65",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:14:09.9082696+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c894b6b0-fc20-4aa3-9622-79969f568f5f",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:44:35.7487436+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a27bf3a3-7aa7-45d2-9435-ba61520869c7",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:08:11.3638838+08:00",
+                      "CompletedAt":  "2025-01-15T21:27:48.9704264+08:00"
+                  },
+                  {
+                      "Id":  "896bd63a-dfd8-4e67-b0e4-19068eab551d",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:28:12.1177876+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0089798d-8f8c-48e7-be1c-c00ef684a084",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:26:59.2273728+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06896039-066d-4af4-8ac6-6990193f6f95",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  77,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:09:45.7988796+08:00",
+                      "CompletedAt":  "2025-01-20T02:30:58.5740114+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "820a5993-f8be-475e-9fe4-326a001d01a6",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T21:50:54.4806411+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f144a142-6e42-4658-b58c-e9ede6cab565",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:55:11.5843025+08:00",
+                      "CompletedAt":  "2025-01-21T04:08:11.9659196+08:00"
+                  },
+                  {
+                      "Id":  "638264f5-793e-4cd9-8035-9db12eb2ca3a",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:41:38.7808771+08:00",
+                      "CompletedAt":  "2025-01-16T04:51:19.3962612+08:00"
+                  },
+                  {
+                      "Id":  "9374769d-4344-41ff-9b1c-8b44d1281e17",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:43:33.3015634+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37d83a8e-2839-4e81-9247-c68d87bdd806",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:02:01.6649942+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0619381-a728-49b5-94d7-1084c05eed77",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:12:09.1127951+08:00",
+                      "CompletedAt":  "2025-01-18T22:24:04.4689977+08:00"
+                  },
+                  {
+                      "Id":  "41a4f181-b73c-40ee-873f-c2fa64169ac1",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:00:36.1045966+08:00",
+                      "CompletedAt":  "2025-01-18T10:49:22.1671746+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

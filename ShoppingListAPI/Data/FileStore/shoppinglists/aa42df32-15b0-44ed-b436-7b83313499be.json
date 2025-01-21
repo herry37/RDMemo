@@ -1,0 +1,62 @@
+{
+    "Id":  "aa42df32-15b0-44ed-b436-7b83313499be",
+    "Title":  "01/20 零食購物清單",
+    "CreatedAt":  "2025-01-15T16:16:37.1717925+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1945667b-c218-4f7e-b494-770059b38a92",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  409,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9782999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d455899-7044-460a-a1ad-ba5cedfbf9f5",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.978305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9dd7fff5-1a13-48f1-82f4-ab256cae4071",
+                      "Name":  "Practical Granite Soap",
+                      "Quantity":  1,
+                      "Price":  389,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9783369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79144c6b-d6a5-4cc6-a9ad-2a328b3ba55c",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  453,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9783386Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53c24704-a848-4b11-af39-c4a60a29c3a9",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9783405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "350bc6c6-c0dc-49f9-a59b-4b284eb1bf87",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9783442Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

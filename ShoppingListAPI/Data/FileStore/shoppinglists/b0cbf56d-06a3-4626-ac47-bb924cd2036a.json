@@ -1,0 +1,44 @@
+{
+    "Id":  "b0cbf56d-06a3-4626-ac47-bb924cd2036a",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-20T21:09:10.0917372+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ec104d12-5ce5-4ca9-9fbb-883d34b1bb65",
+                      "Name":  "Unbranded Granite Sausages",
+                      "Quantity":  2,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0103063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b649393a-2161-48a0-8000-ac6c23469add",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0103141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df924bf6-f40a-48c2-9a86-e006b1479cc2",
+                      "Name":  "Handcrafted Frozen Pants",
+                      "Quantity":  1,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0103229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d264d99-8d73-4dc0-821e-3af80e619519",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0103256Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

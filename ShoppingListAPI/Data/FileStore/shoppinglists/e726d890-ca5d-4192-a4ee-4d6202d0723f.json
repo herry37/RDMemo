@@ -1,0 +1,71 @@
+{
+    "Id":  "e726d890-ca5d-4192-a4ee-4d6202d0723f",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T00:05:55.0065833+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4777e7ef-df7e-4666-9f3c-6defb62538be",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0414241Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2256442-0b15-4043-a982-4b4386deac6e",
+                      "Name":  "Sleek Frozen Bike",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0414823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9bc284df-8275-4723-a82c-0a7a21a1258f",
+                      "Name":  "Unbranded Wooden Towels",
+                      "Quantity":  5,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0414898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d7525d1-172b-448c-8978-1e3661b76c3d",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0414929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa0fefee-8da7-4cfc-89e4-66eb78974cd5",
+                      "Name":  "Rustic Steel Gloves",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0414989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97ffed64-67b9-4441-bc27-bfb0d6cb6182",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0415013Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5637f0d1-9c3a-498e-a730-0137ae978886",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0415023Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

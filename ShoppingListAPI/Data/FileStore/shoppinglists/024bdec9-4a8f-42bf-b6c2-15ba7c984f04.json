@@ -1,0 +1,80 @@
+{
+    "Id":  "024bdec9-4a8f-42bf-b6c2-15ba7c984f04",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T04:06:56.2127355+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d9823f80-2192-4050-97c7-3b3eb846eb6c",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691553Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07d2a880-c653-4407-97e3-20207b0c9812",
+                      "Name":  "Small Metal Hat",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a64aa27a-ea13-4b17-be42-886eaab37230",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  76,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691806Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e21db086-6df4-41e8-a7a3-67b51e4fa0fd",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691815Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2019679f-aacb-4aa8-a1b7-2915809687a4",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691827Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bf084e3-e06d-4c8b-a664-324415f3622d",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.169185Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8dee0575-e65d-4ff5-a9d5-f7bae5677961",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d588634e-b0bd-41dd-a566-cac9b7292ebc",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  415,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1691865Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

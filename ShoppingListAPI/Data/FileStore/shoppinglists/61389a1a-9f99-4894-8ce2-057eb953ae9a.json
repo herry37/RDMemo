@@ -1,0 +1,62 @@
+{
+    "Id":  "61389a1a-9f99-4894-8ce2-057eb953ae9a",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-20T13:31:15.6717644+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1899916b-7755-412c-bb67-790fdd81aab4",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49d83b73-3c3c-461c-8a77-789ccef0e8ef",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2574df9a-40c7-4c5b-b11b-f617e9c1b273",
+                      "Name":  "Gorgeous Rubber Salad",
+                      "Quantity":  2,
+                      "Price":  435,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480618Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a08ff1b-ac80-4813-81c5-235f0975fbb9",
+                      "Name":  "Sleek Concrete Keyboard",
+                      "Quantity":  2,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f833cbae-568a-47b6-aed6-205b8c60173c",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480685Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "193044c7-6748-40be-a196-3acee0ac1d9e",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9480707Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

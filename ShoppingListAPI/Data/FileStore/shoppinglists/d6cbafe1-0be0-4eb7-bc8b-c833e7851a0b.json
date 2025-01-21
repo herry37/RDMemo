@@ -1,0 +1,89 @@
+{
+    "Id":  "d6cbafe1-0be0-4eb7-bc8b-c833e7851a0b",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-19T01:13:34.7602472+08:00",
+    "Items":  [
+                  {
+                      "Id":  "df9e4857-1abf-493b-98b9-981b4e53edf1",
+                      "Name":  "Licensed Concrete Shirt",
+                      "Quantity":  1,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0553829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f01f1c0e-8d26-4173-bdb9-482e994ad25c",
+                      "Name":  "Handcrafted Frozen Cheese",
+                      "Quantity":  2,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0553927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa0598e2-e8c1-46d8-b58a-75c97912a822",
+                      "Name":  "Unbranded Metal Fish",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0553992Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc09df28-82a1-480e-8b3c-f3bf4527d00d",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e3c5881-2708-478b-b519-900a0810c442",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  222,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00ab7244-740d-49db-88a3-adfc629dad51",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  372,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554069Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a9b5acc-f0f8-483d-8bdd-d4c1b80d68af",
+                      "Name":  "Handmade Wooden Bike",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c41c4e2-f87c-460f-9435-744ac529bc43",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51c5fed6-c9cb-4a2c-9d07-e218601e967d",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0554173Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

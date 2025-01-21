@@ -1,0 +1,44 @@
+{
+    "Id":  "2c5331d1-8c89-4540-a432-fd7d57dadd40",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T07:29:22.6127192+08:00",
+    "Items":  [
+                  {
+                      "Id":  "be2276f9-3b71-4e65-a996-0c7bfe3048ca",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8093945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6afcb84b-f6b8-4cc5-b20c-8ab752ed1ee3",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8093978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3d084d5-173b-4790-b52d-ec352e2d036a",
+                      "Name":  "Awesome Cotton Shoes",
+                      "Quantity":  3,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8094176Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b14004b-800f-49f0-b55a-b35c6874e5bf",
+                      "Name":  "Awesome Metal Chicken",
+                      "Quantity":  3,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8094217Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

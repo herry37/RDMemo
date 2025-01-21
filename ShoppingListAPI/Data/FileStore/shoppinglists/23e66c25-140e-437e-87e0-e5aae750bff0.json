@@ -1,0 +1,80 @@
+{
+    "Id":  "23e66c25-140e-437e-87e0-e5aae750bff0",
+    "Title":  "01/20 飲料購物清單",
+    "CreatedAt":  "2025-01-16T11:01:52.9766072+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1656bbe5-c56a-49bb-b268-394936add3e1",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8018557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5f1e130-f982-400b-9a03-ddee02be0e8c",
+                      "Name":  "Small Frozen Gloves",
+                      "Quantity":  2,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8018805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8748ed52-a135-4d8a-9012-8568c3b74d36",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8018822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8627c7c0-2b8f-403c-bb60-8af263b7e584",
+                      "Name":  "Ergonomic Metal Sausages",
+                      "Quantity":  3,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8018973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b488c3d-bae0-4371-a2fe-c0b2619d9cf7",
+                      "Name":  "Handcrafted Granite Tuna",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8019012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "507fde11-dfb3-4ceb-a3d9-7d036e255cc3",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8019043Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8969c998-c012-46b0-af2b-e1c67762fab0",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8019058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ed55d37-ef92-475c-a018-f2e7ba0d28a9",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8019074Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

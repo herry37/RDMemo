@@ -1,0 +1,35 @@
+{
+    "Id":  "2c78c047-ac53-48b6-b716-afa1b1bcd103",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T10:38:43.5996368+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06e151d3-251f-4d5c-b141-9e20465beb0a",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9427579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62f5b478-75e1-4415-9e69-ebcaea3ceca4",
+                      "Name":  "Ergonomic Soft Pants",
+                      "Quantity":  1,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9427801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72eb5c8d-b486-49e9-b91e-d109e8ad79a1",
+                      "Name":  "Handmade Soft Pants",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9427948Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

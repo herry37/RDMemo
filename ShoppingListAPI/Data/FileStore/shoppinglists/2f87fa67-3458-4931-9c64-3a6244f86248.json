@@ -1,0 +1,89 @@
+{
+    "Id":  "2f87fa67-3458-4931-9c64-3a6244f86248",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-15T21:48:58.8048642+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4bfa432-3385-4d86-a8b9-a9f36edfe62f",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7290833Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "550122df-1fcb-4bb7-bb0d-45cfa226360e",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dca28589-28c8-4873-93d3-9c1fc11e0346",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb3ac790-fae2-4344-93cd-e2b8bdc3911a",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291131Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e71e2ad-d71b-4e9a-9e1f-1532ff9d8a7b",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e759fac-7665-45d8-a9e3-028382686d1f",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0b80e99-74e4-46dd-bc37-2b1911e7d376",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  497,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291195Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa949211-1e8e-4c66-adf6-4f0e4e061de6",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4da54b1a-851e-4529-ac0b-b6711b51da58",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7291217Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

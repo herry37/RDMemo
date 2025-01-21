@@ -1,0 +1,71 @@
+{
+    "Id":  "8c3f80a5-e1a1-4e63-b5aa-b126b0c39265",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T08:23:00.4866148+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e0346494-316b-435c-8599-8d87352bb20a",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0432989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cd682a5-e06d-49e2-ace3-db59037fb12a",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e9a0c32-0ec8-480f-9c21-1d25bfb47b28",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433047Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7d00e23-f2ba-45a2-aa59-e06f7f1f478f",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433068Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea064598-5d18-426e-ac2c-a7465eb79fce",
+                      "Name":  "Tasty Steel Cheese",
+                      "Quantity":  5,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e732786-407d-42f5-87ad-3c75fd88a5e4",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e6b331f-dc16-42c2-984f-35dc3fbeb651",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0433341Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "c847a666-ef3b-4471-a433-bf8a044fc9df",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T03:41:54.4742584+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4207782d-3bbb-409d-b8c1-deb3bec4aa4c",
+                      "Name":  "Unbranded Concrete Towels",
+                      "Quantity":  4,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "edc5587e-bbc9-4d45-8ee0-f03963921553",
+                      "Name":  "Practical Soft Fish",
+                      "Quantity":  4,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d28e601f-e0a1-45bd-857f-5fdcdd4087bf",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bea19aa-5d4c-4f2d-903b-277e930dfa7c",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34ee00fc-6c4e-4fbd-9a0a-2efd8f247bcf",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763492Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46668753-b708-4cc2-b929-de5d73cde40a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763536Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d5a655c-fc74-4e95-b313-e3ab394d4948",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8c792a7-6be3-4927-921d-e5501ced14b0",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  475,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.976357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1506b0b7-8818-40b6-810a-dbb71b5a118b",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9763586Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

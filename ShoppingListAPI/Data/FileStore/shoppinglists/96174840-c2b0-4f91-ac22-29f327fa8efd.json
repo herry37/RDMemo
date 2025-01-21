@@ -1,0 +1,89 @@
+{
+    "Id":  "96174840-c2b0-4f91-ac22-29f327fa8efd",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-20T17:27:41.0087732+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5f67c51a-0a14-4c90-8245-7e79f568c093",
+                      "Name":  "Awesome Rubber Pizza",
+                      "Quantity":  5,
+                      "Price":  328,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63e5d2b8-6708-4792-ab89-963239aac5c8",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777414Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56f5a417-5263-4edb-a57c-00c69d37b208",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.977743Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ab92423-12bf-403e-a9c4-da574f3cf321",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71744c25-e536-4f48-bac0-ddd46b03b828",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.977746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c8d7593-bac9-40d5-9bb5-9f5d25b1c90f",
+                      "Name":  "Generic Rubber Salad",
+                      "Quantity":  5,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2b13abb-46af-469f-9943-22b74853399a",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  138,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36d4eb0b-6b33-42cd-8a53-488ceb1f0590",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "428b82e5-b041-4fa6-a718-38286aaada51",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9777575Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "8da6c878-1e54-4986-8eff-b5c16277bb09",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T20:21:12.1000279+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fefbf8b1-4f43-49a1-bc8e-93fb537df222",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:22:52.2447932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c23e2a99-d88b-4a73-8d17-5d9ce030473e",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:08:48.6745716+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d046054-04f0-44e6-8516-03afd1be6ab4",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:15:25.1615924+08:00",
+                      "CompletedAt":  "2025-01-15T08:19:16.4474363+08:00"
+                  },
+                  {
+                      "Id":  "a43ea5b2-0c7a-4e6c-8e21-a3adf751c4b9",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:19:41.638824+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fa22f59-74c1-4006-88d3-0eb53eff11d1",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:17:18.4379129+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

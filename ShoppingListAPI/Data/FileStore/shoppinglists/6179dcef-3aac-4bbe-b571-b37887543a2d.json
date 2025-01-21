@@ -1,0 +1,62 @@
+{
+    "Id":  "6179dcef-3aac-4bbe-b571-b37887543a2d",
+    "Title":  "露營準備 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-20T13:05:57.8436953+08:00",
+    "Items":  [
+                  {
+                      "Id":  "202dfa18-3aa7-4ae5-a850-f2849e8bf8fd",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:35:50.2782423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "246bcbe2-05e0-4b11-bd2d-bb9437922c90",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:44:17.6747321+08:00",
+                      "CompletedAt":  "2025-01-16T02:01:10.7656921+08:00"
+                  },
+                  {
+                      "Id":  "a6098556-6799-49ae-839f-ce17e4a1cf1b",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  4,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:59:37.8295104+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7da0adc3-7bd5-4841-8794-140848f4668f",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:01:54.0361864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78be61b4-b2d7-443d-b8e8-72b78d648607",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:42:45.9098539+08:00",
+                      "CompletedAt":  "2025-01-20T19:12:52.7725403+08:00"
+                  },
+                  {
+                      "Id":  "4c77f184-7445-496f-b9c4-8ee71e66053c",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:54:00.2277135+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

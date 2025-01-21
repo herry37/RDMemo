@@ -1,0 +1,35 @@
+{
+    "Id":  "85dc4dea-7405-4b4a-980d-e616cf4231b5",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T03:40:01.6290296+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c4d1baf-6c86-4de9-8c1b-c335a0a306d6",
+                      "Name":  "Refined Steel Hat",
+                      "Quantity":  1,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9077574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa552c1d-a388-46c3-ba58-8a477d45275b",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9077651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e220c74-dd01-4afa-9ba9-40d204b71c7d",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9077662Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

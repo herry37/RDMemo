@@ -1,0 +1,53 @@
+{
+    "Id":  "a019658f-41db-486c-b53f-1d97a6cb44d0",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T04:39:31.4815714+08:00",
+    "Items":  [
+                  {
+                      "Id":  "36e9b907-69c3-484e-b4d4-408f9231c3db",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0399284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04e131dc-246a-4cf7-9d0c-beb133e872bc",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0399333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c80f558-f24b-48e5-9d19-d95d2ea1e688",
+                      "Name":  "Tasty Fresh Pants",
+                      "Quantity":  5,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0399576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14074d65-79df-4f73-8559-36dcf86cb490",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0399588Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fb85015-38ad-4238-ae16-fc18d40f0f79",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0399603Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

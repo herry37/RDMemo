@@ -1,0 +1,89 @@
+{
+    "Id":  "fab9fc34-4d58-4162-8469-a417865306de",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T21:40:14.0794836+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bbe8e7bf-bc03-4f8c-9b52-8250d4b1708e",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2704909Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a1bbd5b-4431-4695-9afa-a2f7fb86ee38",
+                      "Name":  "Incredible Rubber Shoes",
+                      "Quantity":  3,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b94e75b-8afc-47be-b0f9-14564cad1977",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705374Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf14be5c-ff73-4548-9d0c-df53a9ad9ca4",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a3d9019-a272-46fb-a568-f715c5594ebc",
+                      "Name":  "Unbranded Frozen Chips",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1456b5cc-3c88-4b4d-b6ee-180a08d7e471",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705462Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd26b2fd-cc16-4e27-b2b5-ff6e1b48c2db",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.270547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45cec2e1-39c6-4d1e-bf13-1331b89267a0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d86d574b-ce2c-4d48-b39d-6f09b77655fd",
+                      "Name":  "Incredible Plastic Chips",
+                      "Quantity":  1,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2705517Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

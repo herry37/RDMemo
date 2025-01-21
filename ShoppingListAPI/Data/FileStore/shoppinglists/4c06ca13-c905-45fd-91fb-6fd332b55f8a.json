@@ -1,0 +1,89 @@
+{
+    "Id":  "4c06ca13-c905-45fd-91fb-6fd332b55f8a",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T20:14:57.4356812+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b79312f5-922a-4357-b2b5-aca5febcf50b",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  369,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518247Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a2e8975-15cf-42e9-abe6-495bb2555456",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35b0b8a4-557b-4b89-af6e-38b2995ed616",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "393d0bb9-30d8-4cf4-9e95-9b4511a02594",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  402,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b80f6c9f-4a55-42c4-af96-b8bb2a7c3ba0",
+                      "Name":  "Sleek Plastic Keyboard",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "857eb030-e527-45e1-841f-f4d1ab54ebe1",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e44744e5-2dd7-43fc-ba7f-8a1472fea9b6",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "316dd781-63e0-4108-9d13-4c4399348761",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ca40f6c-d3a9-42ea-8aa3-54220195cdf0",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3518723Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

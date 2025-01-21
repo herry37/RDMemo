@@ -1,0 +1,53 @@
+{
+    "Id":  "c9109316-7414-4e39-aef4-88ac77985d28",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-19T21:25:48.0520415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6b03bd5-a6f3-4880-83d6-8e2132d3674a",
+                      "Name":  "Incredible Wooden Sausages",
+                      "Quantity":  2,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7829181Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdc94e66-619d-4f5e-b95c-9a3b08378983",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  251,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7829235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "636ce867-dd16-4ac4-9f1a-0ad3bb04927e",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7829247Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c643a46-01a2-48bc-ac29-9316d64c23bd",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.782926Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "311f8e20-8b83-4d68-b4f3-aadd086bfd1e",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7829276Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

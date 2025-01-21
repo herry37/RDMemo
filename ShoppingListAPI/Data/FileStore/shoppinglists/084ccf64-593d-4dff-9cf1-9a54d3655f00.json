@@ -1,0 +1,62 @@
+{
+    "Id":  "084ccf64-593d-4dff-9cf1-9a54d3655f00",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-16T22:54:52.2804564+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ed7f6af4-596d-4c2b-9423-56da32583fc1",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  4,
+                      "Price":  289,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:31:18.7489919+08:00",
+                      "CompletedAt":  "2025-01-18T22:36:45.7036309+08:00"
+                  },
+                  {
+                      "Id":  "de997727-2a82-4347-9762-3a75310c862f",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:04:56.7588158+08:00",
+                      "CompletedAt":  "2025-01-20T02:53:49.1476318+08:00"
+                  },
+                  {
+                      "Id":  "7e9bf5fe-4389-4ece-84d7-01a027596691",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:25:26.9740555+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bb8f459-353c-4cd3-88ed-923fd8b6bdb0",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:06:40.6322598+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5b66924-46f7-42b9-afd9-7eead08855a4",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:59:50.0589215+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93a7dbc2-74a8-4be3-9b6d-1730c3006bb4",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  3,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:01:33.3824389+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

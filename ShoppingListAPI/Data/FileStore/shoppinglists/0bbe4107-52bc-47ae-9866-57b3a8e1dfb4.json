@@ -1,0 +1,44 @@
+{
+    "Id":  "0bbe4107-52bc-47ae-9866-57b3a8e1dfb4",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-19T10:16:58.4129017+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c4fe3f0e-3206-42ea-8b6a-ee43ee63354c",
+                      "Name":  "汽水",
+                      "Quantity":  8,
+                      "Price":  125.929072790336260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:05:29.860866+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccfdbb30-4a57-4bf9-9abe-e54179eca96b",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  7,
+                      "Price":  134.094451558413280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:44:31.1491895+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "782b259c-32c0-4e51-bbd0-49d5451a56e5",
+                      "Name":  "置物盒",
+                      "Quantity":  8,
+                      "Price":  241.248667488044990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:36:51.3033998+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b3593e7-e3ba-47b7-9783-639cf7e96975",
+                      "Name":  "護手霜",
+                      "Quantity":  1,
+                      "Price":  401.425026394084760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:48:33.4152289+08:00",
+                      "CompletedAt":  "2025-01-19T14:30:30.0210009+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

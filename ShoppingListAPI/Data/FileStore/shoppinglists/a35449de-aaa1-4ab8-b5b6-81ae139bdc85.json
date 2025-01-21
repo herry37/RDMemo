@@ -1,0 +1,71 @@
+{
+    "Id":  "a35449de-aaa1-4ab8-b5b6-81ae139bdc85",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T05:44:50.6383944+08:00",
+    "Items":  [
+                  {
+                      "Id":  "edb0c8c4-6d43-445b-9c1a-de82b632faba",
+                      "Name":  "Fantastic Fresh Tuna",
+                      "Quantity":  1,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.473934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a1ae3b2-368b-4fbd-a388-c9d4d356164a",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  472,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.473937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eafacb9f-da23-4342-bb93-9074f723ab2d",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4739439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03297d92-9264-46b4-919c-819411da1764",
+                      "Name":  "Handmade Steel Soap",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4739652Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70a73a02-b462-4350-a7e3-7a608b834883",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4739667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cab85fa-0340-4571-a8c6-5b0fee313f0b",
+                      "Name":  "Unbranded Cotton Hat",
+                      "Quantity":  5,
+                      "Price":  337,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4739738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c22e24b2-e488-434e-9a56-57f130762fa1",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4740058Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

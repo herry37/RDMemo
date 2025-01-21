@@ -1,0 +1,80 @@
+{
+    "Id":  "4ba7df70-71f1-4793-be91-234f5e1930db",
+    "Title":  "年節採購 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-16T03:50:36.3929529+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b5f21a5-5f97-45ff-938b-92fa1d3d684c",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:23:40.4870006+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa33f405-6b88-4805-9a43-f6faec95e6f6",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:28:52.4274912+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a9661f4-711d-4373-a806-9b20051154a8",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:26:58.858973+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67d303e0-dc66-4957-8f7a-f8a024570ca5",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:07:31.3037651+08:00",
+                      "CompletedAt":  "2025-01-15T18:50:26.8866599+08:00"
+                  },
+                  {
+                      "Id":  "d1aa82d2-590d-451b-b43a-5d606a9098d7",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:11:57.5840602+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8550184-fca2-4a68-b1e8-42cd7e152a21",
+                      "Name":  "中性筆組",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:05:48.985998+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4589197b-e6aa-453c-99ca-5b26c083a723",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:25:13.6322121+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00d30f41-75f2-49ed-bb55-b718c2ab3c50",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:40:10.7952636+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

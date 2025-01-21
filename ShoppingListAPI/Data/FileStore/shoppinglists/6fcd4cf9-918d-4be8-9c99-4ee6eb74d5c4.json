@@ -1,0 +1,80 @@
+{
+    "Id":  "6fcd4cf9-918d-4be8-9c99-4ee6eb74d5c4",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T05:27:58.6304251+08:00",
+    "Items":  [
+                  {
+                      "Id":  "583383e6-0f44-4903-86a2-4418b0713356",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  60,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:16:16.0836005+08:00",
+                      "CompletedAt":  "2025-01-21T23:59:53.0716734+08:00"
+                  },
+                  {
+                      "Id":  "63aea931-37ae-49fd-9a96-65facd6e1e80",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:13:22.9863284+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bfea3e5-4b57-4f2f-985b-18cd8e83c467",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:43:15.1102141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb1f79dc-b3e5-4a0f-b11b-bb5e0a9fa762",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:31:32.0760032+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0168c34d-0023-4d7c-8ff0-cc41ec0859d0",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:45:07.9130168+08:00",
+                      "CompletedAt":  "2025-01-18T17:38:54.0000499+08:00"
+                  },
+                  {
+                      "Id":  "661a5f1f-558d-493b-af8a-5d066791cd35",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:20:23.2703451+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "014566dd-99d3-4fa8-8807-17b00240f421",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:13:09.892654+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9032b843-b6bd-4823-80a0-3f7b52927b5b",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:14:44.4271774+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

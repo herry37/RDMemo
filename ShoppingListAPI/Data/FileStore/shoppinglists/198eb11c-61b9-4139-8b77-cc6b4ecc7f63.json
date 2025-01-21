@@ -1,0 +1,80 @@
+{
+    "Id":  "198eb11c-61b9-4139-8b77-cc6b4ecc7f63",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-19T03:48:14.3422593+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4a30abc6-1f5b-4a92-a7e5-611d891f3dcb",
+                      "Name":  "Rustic Rubber Hat",
+                      "Quantity":  3,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5819879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75850247-c06d-4efc-9556-0a96eadd0ef5",
+                      "Name":  "Rustic Rubber Sausages",
+                      "Quantity":  1,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5819966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8ebd75d-3878-4210-929f-821d79cd8aee",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  333,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5819982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cde4a356-8fa2-4b61-9b7c-a2d94ed36f51",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.582001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b3ca29c-b76b-4405-a90a-a2582600560f",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5820511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c087926d-f918-48a1-8d80-00c470330d89",
+                      "Name":  "Fantastic Wooden Car",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5820619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64bfee99-a39c-4041-a1fa-b5748e11d2c5",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5820636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e6316cd-105e-4e70-9418-33c34b5478d6",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5820707Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

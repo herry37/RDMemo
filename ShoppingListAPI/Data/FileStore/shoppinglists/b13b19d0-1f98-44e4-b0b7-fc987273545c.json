@@ -1,0 +1,35 @@
+{
+    "Id":  "b13b19d0-1f98-44e4-b0b7-fc987273545c",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T19:22:27.3504277+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f861d7f6-c7e9-45dd-a1d2-bd500c888dad",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:58:49.7132148+08:00",
+                      "CompletedAt":  "2025-01-15T18:40:58.8289187+08:00"
+                  },
+                  {
+                      "Id":  "2dc29cc8-2394-4d41-a2c2-3e8a8988e443",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:29:41.6234669+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caf65d8a-50f6-47e1-b33f-f6b728015739",
+                      "Name":  "進口蘋果",
+                      "Quantity":  3,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:16:25.2576589+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

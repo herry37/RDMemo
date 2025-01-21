@@ -1,0 +1,98 @@
+{
+    "Id":  "dffd5cec-1a91-4389-b633-a8148f97b174",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T17:30:24.6652662+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9564cb86-e168-4a7d-9043-9eb800cee01f",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3d2e63c-7af0-413f-a9c1-21ba551dff58",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.120207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fe363c7-cee6-4560-9300-a72fd58813aa",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31f2f3ad-be61-44d2-adf3-e8cc75b48b19",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.120209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "627cdff1-174c-4f85-ad02-c567e0fdd945",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f584f7d-0f4d-47fb-9323-1ccdc681894c",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eafdf40f-bc5b-4769-a094-e8313ca39a10",
+                      "Name":  "Fantastic Rubber Mouse",
+                      "Quantity":  5,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee51b29c-5909-4f7f-bfa0-5dac96598495",
+                      "Name":  "Awesome Granite Chair",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202681Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e276302-e1ef-4672-8d08-589992c2a674",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1202691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fde824c3-0460-4507-a791-bae1b072e92f",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.120271Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "47426cb7-8205-465f-9097-47de3918bec4",
+    "Title":  "派對用品 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T22:46:59.4145835+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3637777a-c5e0-4ec8-b6e6-81b34e9a486c",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:51:41.0575557+08:00",
+                      "CompletedAt":  "2025-01-16T13:11:39.4502922+08:00"
+                  },
+                  {
+                      "Id":  "079ae532-de47-4fea-a929-6953e270b0cb",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:47:32.6420576+08:00",
+                      "CompletedAt":  "2025-01-17T23:04:13.3871212+08:00"
+                  },
+                  {
+                      "Id":  "298bec6d-5263-4e6b-966e-f359e73a8f4e",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:18:53.8192242+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c303c9b-03c2-4dfb-9ec4-c0686adf6efd",
+                      "Name":  "金屬直尺",
+                      "Quantity":  2,
+                      "Price":  166,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:14:56.2488464+08:00",
+                      "CompletedAt":  "2025-01-22T04:28:20.6862756+08:00"
+                  },
+                  {
+                      "Id":  "404854c7-d915-487b-9d46-b0c2decc8d70",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:26:43.4510704+08:00",
+                      "CompletedAt":  "2025-01-19T12:22:47.3581079+08:00"
+                  },
+                  {
+                      "Id":  "7760bc86-d387-4b4a-8ac1-dd0d6bbdbaa8",
+                      "Name":  "有機番茄",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:05:25.978786+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19163661-919c-4f65-b774-d4b7d301521a",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:57:48.9059705+08:00",
+                      "CompletedAt":  "2025-01-19T16:52:33.163741+08:00"
+                  },
+                  {
+                      "Id":  "a6ac65b4-bfb8-4c6e-89fa-33bf53be8d75",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:25:48.131293+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

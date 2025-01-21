@@ -1,0 +1,53 @@
+{
+    "Id":  "e8f04ac0-d804-4e0f-938a-d71b66ff6ad4",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-21T10:46:28.2231726+08:00",
+    "Items":  [
+                  {
+                      "Id":  "500a3f95-a051-4359-bbc4-711d4f4278c4",
+                      "Name":  "Rustic Granite Sausages",
+                      "Quantity":  5,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8184006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d3cab1d-be14-4502-bced-567dc76abbfa",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8184053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea4b1f58-1d5f-41cf-a01f-2218f39d069f",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8184063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ea555db-7dd6-4f3d-a00b-e4b12ff3b5e8",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8184254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96069f9e-c906-40d3-9b94-15a59b5ed0b5",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8184266Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

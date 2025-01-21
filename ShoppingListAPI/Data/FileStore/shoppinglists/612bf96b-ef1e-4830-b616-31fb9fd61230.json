@@ -1,0 +1,35 @@
+{
+    "Id":  "612bf96b-ef1e-4830-b616-31fb9fd61230",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T06:06:27.6082751+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9cf1dafd-1b3e-4e58-be74-f74edcec8265",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2469461Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d40f750-0033-4505-880d-763c7c0877c2",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  455,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2469505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f35638e9-a1e6-4ec8-874f-6b79b59b4ccd",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2469539Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

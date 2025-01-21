@@ -1,0 +1,71 @@
+{
+    "Id":  "128ab4bc-3f42-4ce7-a776-f0e02150103e",
+    "Title":  "年節採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-17T03:13:13.7546007+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04432ac2-2560-4751-9fb9-6c5daa67d449",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:02:20.093821+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8b84089-8a39-41d5-a47f-d90309dc06e7",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:14:21.496341+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5155e17-f7a9-411a-af50-2769cef13b6e",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:03:07.207332+08:00",
+                      "CompletedAt":  "2025-01-19T01:58:16.9517691+08:00"
+                  },
+                  {
+                      "Id":  "49a0e2fe-ff19-4cf2-98e9-6d3bc0763ced",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:39:35.0465898+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f74eceab-a7fb-4c62-b42c-674cfcfe54b6",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T01:32:19.06478+08:00",
+                      "CompletedAt":  "2025-01-19T14:57:11.162157+08:00"
+                  },
+                  {
+                      "Id":  "94474e54-e638-4ab0-9fb4-ea3b853643d3",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:15:21.3193438+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "716c8d66-081e-4c57-9cfd-1c265d5c2ea0",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:46:26.7953288+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

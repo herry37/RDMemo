@@ -1,0 +1,98 @@
+{
+    "Id":  "400b5a04-4d93-413d-a017-054fd9a0af1e",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-18T04:56:33.0848541+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f66864d2-4a4c-4473-becb-34550cac4f05",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a96919e-7519-4e67-903e-6d1f323f9bfb",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233685Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "478c27a2-5199-46c9-947d-9c22461807ee",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233741Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd2a6ea3-53f4-4d16-8e38-06fee722f4cc",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.723375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d70fa3d-1e9b-4cdb-99db-b67a68cb11d3",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34774bb3-7ba7-49f7-af2e-125c960af209",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d305fba5-47a3-428b-9316-11a96f3bfcdf",
+                      "Name":  "Sleek Frozen Chicken",
+                      "Quantity":  4,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233893Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "208a5731-564e-4b83-b133-0be756d72b2b",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233901Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c4e268f-2d90-40c4-ae6a-5c53a026ebfe",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.723391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dd54a2b-9002-495d-be5b-c8415dc365a5",
+                      "Name":  "Sleek Soft Salad",
+                      "Quantity":  1,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7233934Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}
