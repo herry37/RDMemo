@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableToModel", "TableToModel\TableToModel.csproj", "{91942BD8-8CC0-4DD6-8ACE-7B857ED5DD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91942BD8-8CC0-4DD6-8ACE-7B857ED5DD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91942BD8-8CC0-4DD6-8ACE-7B857ED5DD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91942BD8-8CC0-4DD6-8ACE-7B857ED5DD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91942BD8-8CC0-4DD6-8ACE-7B857ED5DD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771659C1-FC5F-47F5-AF5E-41CAC9CC66E6}
+	EndGlobalSection
+EndGlobal
