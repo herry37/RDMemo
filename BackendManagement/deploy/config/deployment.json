@@ -1,0 +1,31 @@
+{
+  "environment": "Production",
+  "registry": {
+    "url": "your-registry.azurecr.io",
+    "username": "registry-username",
+    "password": "registry-password"
+  },
+  "database": {
+    "type": "PostgreSQL",
+    "connectionString": "Host=postgresql-service;Database=BackendManagement;Username=backend;Password=${DB_PASSWORD}"
+  },
+  "redis": {
+    "connectionString": "redis-service:6379,password=${REDIS_PASSWORD}"
+  },
+  "security": {
+    "jwtSecret": "${JWT_SECRET}",
+    "corsOrigins": ["https://example.com"],
+    "rateLimits": {
+      "defaultLimit": 100,
+      "defaultWindow": "1m"
+    }
+  },
+  "monitoring": {
+    "elasticUrl": "http://elasticsearch-service:9200",
+    "defaultIndex": "backend-logs"
+  },
+  "keyVault": {
+    "name": "backend-key-vault",
+    "tenantId": "your-tenant-id"
+  }
+}

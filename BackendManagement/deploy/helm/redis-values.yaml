@@ -1,0 +1,12 @@
+architecture: standalone
+auth:
+  enabled: true
+  existingSecret: backend-secrets
+  secretKeys:
+    adminPasswordKey: redis-password
+persistence:
+  size: 5Gi
+metrics:
+  enabled: true
+  serviceMonitor:
+    enabled: true

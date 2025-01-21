@@ -1,0 +1,5 @@
+<ProjectDependencies>
+  <ProjectReference Include="..\BackendManagement.Domain\BackendManagement.Domain.csproj">
+    <Project>{02A86D0E-7BE8-4619-9A13-7B0610FBA26F}</Project>
+  </ProjectReference>
+</ProjectDependencies> 

@@ -1,0 +1,17 @@
+prometheus:
+  prometheusSpec:
+    serviceMonitorSelectorNilUsesHelmValues: false
+    serviceMonitorSelector: {}
+    serviceMonitorNamespaceSelector: {}
+    podMonitorSelectorNilUsesHelmValues: false
+    podMonitorSelector: {}
+    podMonitorNamespaceSelector: {}
+
+grafana:
+  persistence:
+    enabled: true
+    size: 10Gi
+  dashboards:
+    default:
+      backend-overview:
+        file: dashboards/backend-overview.json

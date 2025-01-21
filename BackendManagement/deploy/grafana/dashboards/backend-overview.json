@@ -1,0 +1,27 @@
+{
+  "title": "後台管理系統概況",
+  "panels": [
+    {
+      "title": "API 請求統計",
+      "type": "graph",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "rate(http_requests_total[5m])",
+          "legendFormat": "{{method}} {{path}}"
+        }
+      ]
+    },
+    {
+      "title": "資料庫查詢統計",
+      "type": "graph",
+      "datasource": "Prometheus",
+      "targets": [
+        {
+          "expr": "rate(db_query_duration_seconds_count[5m])",
+          "legendFormat": "{{query}}"
+        }
+      ]
+    }
+  ]
+}

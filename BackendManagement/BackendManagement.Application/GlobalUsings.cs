@@ -1,0 +1,16 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Security.Claims;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using System.ComponentModel.DataAnnotations;
+global using System.IO;
+global using MediatR;
+global using BackendManagement.Domain.Entities;
+global using BackendManagement.Domain.Common;
+global using BackendManagement.Domain.Events;
+global using BackendManagement.Domain.MultiTenancy;
+global using BackendManagement.Domain.Common.Interfaces;
+global using BackendManagement.Domain.Resilience;
+global using BackendManagement.Application.Common.Interfaces;
+global using BackendManagement.Application.Common.Models; 

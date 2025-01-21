@@ -1,0 +1,1 @@
+// 刪除這個檔案，改用 Domain 層的 ICacheService 

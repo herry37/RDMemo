@@ -1,0 +1,1 @@
+// 這個檔案應該被刪除，我們使用 Common/IDomainEvent.cs 

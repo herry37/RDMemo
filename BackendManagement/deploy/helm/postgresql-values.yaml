@@ -1,0 +1,13 @@
+architecture: standalone
+auth:
+  database: BackendManagement
+  username: backend
+  existingSecret: backend-secrets
+  secretKeys:
+    adminPasswordKey: db-password
+persistence:
+  size: 10Gi
+metrics:
+  enabled: true
+  serviceMonitor:
+    enabled: true
