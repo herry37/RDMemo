@@ -21,13 +21,6 @@ namespace TodoTaskManagementAPI.Infrastructure
         public TodoTaskContext(DbContextOptions<TodoTaskContext> options)
             : base(options)
         {
-            // 確保數據庫目錄存在
-            var dbPath = Path.Combine(Directory.GetCurrentDirectory(), "Data");
-            if (!Directory.Exists(dbPath))
-            {
-                Directory.CreateDirectory(dbPath);
-            }
-
             // 確保數據庫存在並已創建
             Database.EnsureCreated();
         }

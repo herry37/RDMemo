@@ -2,10 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using TodoTaskManagementAPI.Infrastructure;
 using TodoTaskManagementAPI.Services;
 
-// 設置環境變量
 Environment.SetEnvironmentVariable("ASPNETCORE_ENVIRONMENT", "Production");
-Environment.SetEnvironmentVariable("DOTNET_WATCH_RESTART_ON_RUDE_EDIT", "false");
-Environment.SetEnvironmentVariable("ASPNETCORE_HOSTINGSTARTUPASSEMBLIES", "");
 
 var builder = WebApplication.CreateBuilder(new WebApplicationOptions
 {
@@ -31,7 +28,11 @@ builder.Services.AddCors(options =>
 // 配置數據庫
 builder.Services.AddDbContext<TodoTaskContext>(options =>
 {
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? "Data Source=TodoTasks.db";
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    if (string.IsNullOrEmpty(connectionString))
+    {
+        throw new InvalidOperationException("Database connection string 'DefaultConnection' not found in configuration.");
+    }
     options.UseSqlite(connectionString);
 });
 
@@ -50,28 +51,6 @@ app.UseStaticFiles(new StaticFileOptions
         ctx.Context.Response.Headers["Cache-Control"] = "no-cache, no-store";
         ctx.Context.Response.Headers["Pragma"] = "no-cache";
         ctx.Context.Response.Headers["Expires"] = "-1";
-    }
-});
-
-// 啟用 WebSocket
-var webSocketOptions = new WebSocketOptions
-{
-    KeepAliveInterval = TimeSpan.FromMinutes(2)
-};
-app.UseWebSockets(webSocketOptions);
-
-// WebSocket 端點處理
-app.Map("/ws", async context =>
-{
-    if (context.WebSockets.IsWebSocketRequest)
-    {
-        using var webSocket = await context.WebSockets.AcceptWebSocketAsync();
-        var wsHandler = new WebSocketHandler();
-        await wsHandler.HandleWebSocketConnection(webSocket);
-    }
-    else
-    {
-        context.Response.StatusCode = 400;
     }
 });
 
