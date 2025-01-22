@@ -1,0 +1,44 @@
+{
+    "Id":  "fa91d06d-1bd2-4a7e-90f8-205bf2c9535a",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-18T14:27:09.3580365+08:00",
+    "Items":  [
+                  {
+                      "Id":  "47a250e9-518a-46e8-8169-2692ea61b797",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7618884Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01a2e34c-8c9c-411f-a66b-bdd0f552093b",
+                      "Name":  "Refined Frozen Chicken",
+                      "Quantity":  5,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7619178Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d50825f-5e93-488d-bed7-e697ee8ec589",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  331,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7619208Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b04ff9d7-0151-4607-88ca-c2886713d258",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7619234Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

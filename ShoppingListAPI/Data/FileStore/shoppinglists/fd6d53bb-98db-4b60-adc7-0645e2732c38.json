@@ -1,0 +1,35 @@
+{
+    "Id":  "fd6d53bb-98db-4b60-adc7-0645e2732c38",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-14T16:49:39.0694868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cfd5f29a-1747-4f40-8f74-f1082b9d80db",
+                      "Name":  "礦泉水",
+                      "Quantity":  8,
+                      "Price":  191.566794248280350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:21:36.4502457+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b05bf2c2-2e79-401b-ab3e-d3fd54dace2b",
+                      "Name":  "筆記本",
+                      "Quantity":  5,
+                      "Price":  190.901293159870850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:46:17.4160411+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fac24ee5-e530-4e73-9f8f-4e1cb8198ca9",
+                      "Name":  "置物盒",
+                      "Quantity":  5,
+                      "Price":  204.250000380068290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:22:16.5675766+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

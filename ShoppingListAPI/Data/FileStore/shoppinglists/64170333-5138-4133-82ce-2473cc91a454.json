@@ -1,0 +1,80 @@
+{
+    "Id":  "64170333-5138-4133-82ce-2473cc91a454",
+    "Title":  "居家整理 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-20T08:43:06.4038874+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6bb302d-3e0d-427d-9fc8-b5a168556a21",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:43:10.9745604+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3ef4b87-d889-44d9-b01c-fe259b0d9d99",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:21:28.247615+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a94cab73-7a4b-46a6-b49d-feabbdad81a7",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:44:56.660406+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73f48cb1-df0e-4e35-9c2e-dfba395d9310",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:35:09.5993519+08:00",
+                      "CompletedAt":  "2025-01-16T06:31:20.8604313+08:00"
+                  },
+                  {
+                      "Id":  "8a4f124e-2a0a-4c8a-936a-3880822e275e",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:03:50.541529+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60eeaa17-a288-40fa-b3eb-5e528aca8ccb",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:05:35.4016593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e64ad6ad-6dd2-484a-91fc-080a3032dc82",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:22:18.270598+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "543a07de-8c68-483b-98e3-57be7d602ae4",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:14:29.9090768+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

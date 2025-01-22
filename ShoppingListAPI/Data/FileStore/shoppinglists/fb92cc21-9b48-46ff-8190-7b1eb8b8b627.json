@@ -1,0 +1,44 @@
+{
+    "Id":  "fb92cc21-9b48-46ff-8190-7b1eb8b8b627",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T14:00:25.7362071+08:00",
+    "Items":  [
+                  {
+                      "Id":  "678bd4c1-4849-4730-a1ee-839a34c923b9",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:27:48.3796126+08:00",
+                      "CompletedAt":  "2025-01-21T03:53:03.2966454+08:00"
+                  },
+                  {
+                      "Id":  "520c6c3c-e239-48ee-a54b-aa7daabc99ef",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:47:11.2102484+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa08d236-ba65-4e90-b35a-616207a0601b",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:32:25.0158877+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "907b9f39-7c71-4bd5-b8c8-4f67dad6479a",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:58:45.9164842+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

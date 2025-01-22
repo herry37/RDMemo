@@ -1,0 +1,44 @@
+{
+    "Id":  "52e01a22-d48c-4ab5-9f31-6ca29c109728",
+    "Title":  "每週採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T05:45:07.4221073+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c0d14e0e-fec6-4700-8315-1f6561e539ba",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  1,
+                      "Price":  258,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:30:30.8644751+08:00",
+                      "CompletedAt":  "2025-01-17T06:08:49.0031522+08:00"
+                  },
+                  {
+                      "Id":  "6f882deb-3419-4461-a538-277fd5b645b3",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:21:15.8038627+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95f62244-51e1-4221-8f89-e976d2ab0100",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:48:20.7699793+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9361f5b7-92fa-47b4-ab73-7fb8c08fde16",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:46:30.4450801+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

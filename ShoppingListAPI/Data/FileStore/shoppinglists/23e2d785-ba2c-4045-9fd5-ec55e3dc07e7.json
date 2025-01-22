@@ -1,0 +1,53 @@
+{
+    "Id":  "23e2d785-ba2c-4045-9fd5-ec55e3dc07e7",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T23:46:49.7423187+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b199730-4a28-4537-9179-30fb6b67bfbf",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.723368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fa29230-5ca0-474d-a746-7b25c1e2b101",
+                      "Name":  "Small Soft Shoes",
+                      "Quantity":  1,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7233992Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66f74e8a-fe3b-4192-8ac5-727dbef4993a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7234027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6504bae-de14-4ba3-ac99-0fcbebb06fc5",
+                      "Name":  "Awesome Granite Salad",
+                      "Quantity":  5,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7234089Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d502ddcf-7a1b-4d46-a5c0-50e23aa09e1f",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7234102Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

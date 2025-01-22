@@ -1,0 +1,53 @@
+{
+    "Id":  "689b3859-9d4f-4fc9-b5e7-c19904eadaca",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T22:54:27.0631597+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c28751bc-1b30-4b88-a778-7d84b351bbe3",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0480461Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "201b4604-776c-43e1-920d-767923879707",
+                      "Name":  "Unbranded Soft Car",
+                      "Quantity":  1,
+                      "Price":  355,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0480704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bec4e5a-f04b-46c3-ab1e-e1a5f63b83c2",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0480716Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c56a74a2-db73-4857-b6a2-6fa89c871aa1",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0480732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7096f6f6-0a4d-4633-89b0-fcb0f3cc64a9",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0480741Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

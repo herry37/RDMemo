@@ -1,0 +1,53 @@
+{
+    "Id":  "bf8bbca8-799c-4ba3-8b73-cce7f3007700",
+    "Title":  "01/16 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T17:09:03.0938384+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2b7895d6-3dd9-4830-b170-cf456bcabdcc",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4274448Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b20cdb0b-dcff-4e8c-93d7-5d43db9b0e6a",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4274485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "931b2385-de17-4d0a-aac2-9d2d5954185a",
+                      "Name":  "Ergonomic Fresh Chair",
+                      "Quantity":  3,
+                      "Price":  446,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4274742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53690254-2088-4a2d-ad41-d9b7102f054e",
+                      "Name":  "Unbranded Steel Towels",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4275006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7ddf2ed-2d38-40a8-bf64-4c7830fa6323",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4275028Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

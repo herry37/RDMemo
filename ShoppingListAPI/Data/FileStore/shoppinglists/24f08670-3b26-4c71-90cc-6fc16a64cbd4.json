@@ -1,0 +1,62 @@
+{
+    "Id":  "24f08670-3b26-4c71-90cc-6fc16a64cbd4",
+    "Title":  "聚會準備 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-19T18:38:19.0261441+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8fb665ed-48ab-43f3-989f-799498289cc6",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:26:06.6564542+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39d47b1d-0b9b-4bdc-afa9-57391507ab30",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:31:22.471956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "086ab030-113b-474f-9856-9e64794941a0",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:09:19.4623222+08:00",
+                      "CompletedAt":  "2025-01-21T02:41:18.3384497+08:00"
+                  },
+                  {
+                      "Id":  "4492533b-e7f0-4bc7-a272-2f50f5bf33c8",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:49:28.6385675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d6598c6-5316-4763-863a-c7773349b03f",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:29:02.8280715+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0754719d-179a-435b-bba1-707a4a637cbd",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:28:14.4011342+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

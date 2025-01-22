@@ -1,0 +1,98 @@
+{
+    "Id":  "a15aa122-5961-4141-93c1-35595ed1f8dc",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T16:32:50.5308532+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08def6c1-2b1f-4ca9-bcd0-6da5bd06ef7a",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f126266f-4e41-483a-ae4b-4188171de5f2",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "622eb39e-2e99-4376-9c48-357586e4d46d",
+                      "Name":  "Handcrafted Fresh Keyboard",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2fa8a1c-3086-4424-af02-a89cebbf58e4",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  366,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a687a4cf-a2cb-4319-89d6-b8125e7dcd21",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fdd5a26-cded-4f4f-b566-370cdd8eb5b3",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c781c934-9074-4131-b2be-96c45b4de28d",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670807Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fd4a7ce-fd5c-4a0e-a94a-ca90010c08c9",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.967083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c63fc23-5ca6-4b91-b057-15790ba58b94",
+                      "Name":  "Rustic Frozen Chips",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670913Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50426b54-bfb3-42ea-bdcc-c3af51b84c07",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9670936Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

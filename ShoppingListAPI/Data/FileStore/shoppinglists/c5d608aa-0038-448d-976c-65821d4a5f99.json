@@ -1,0 +1,35 @@
+{
+    "Id":  "c5d608aa-0038-448d-976c-65821d4a5f99",
+    "Title":  "緊急採購 - 01/21",
+    "CreatedAt":  "2025-01-14T17:40:49.1743997+08:00",
+    "Items":  [
+                  {
+                      "Id":  "347c8c78-5e9d-4e79-8450-b4cee7621b58",
+                      "Name":  "除霉劑",
+                      "Quantity":  3,
+                      "Price":  138.79564758016320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:03:34.311833+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2c769ff-2be1-4e65-9209-c8758fbdac01",
+                      "Name":  "口香糖",
+                      "Quantity":  2,
+                      "Price":  378.43119091462810,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:23:13.6623519+08:00",
+                      "CompletedAt":  "2025-01-18T08:29:37.8866314+08:00"
+                  },
+                  {
+                      "Id":  "fe4b0c25-c918-461e-9be5-956ac5f0c97b",
+                      "Name":  "可樂",
+                      "Quantity":  2,
+                      "Price":  133.213251318023580,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:21:03.1740792+08:00",
+                      "CompletedAt":  "2025-01-17T08:24:48.9985832+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

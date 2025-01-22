@@ -1,0 +1,53 @@
+{
+    "Id":  "3fb0c87d-a2c0-4a0b-b79f-879b8454d023",
+    "Title":  "露營準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-15T05:42:47.9496758+08:00",
+    "Items":  [
+                  {
+                      "Id":  "855d30e3-9e1b-439e-8b12-e9d1ade22d3d",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:34:47.400253+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a65fd61c-1d95-41f0-95ec-4737a813752e",
+                      "Name":  "透明膠帶",
+                      "Quantity":  3,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:00:32.4243149+08:00",
+                      "CompletedAt":  "2025-01-18T17:34:57.4744768+08:00"
+                  },
+                  {
+                      "Id":  "f8562a11-5e10-4fac-8000-2b4d16e2e425",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:14:25.2635184+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9377e47a-0738-419e-ad6f-932093331cd3",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:17:04.386161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e65f3b2-3210-461c-b995-6fe476d69593",
+                      "Name":  "有機番茄",
+                      "Quantity":  2,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:02:57.0480931+08:00",
+                      "CompletedAt":  "2025-01-21T18:30:02.7605043+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

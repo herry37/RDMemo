@@ -1,0 +1,62 @@
+{
+    "Id":  "ed19c57b-cc94-4f89-aa79-9fbdeb926496",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T23:54:55.5591042+08:00",
+    "Items":  [
+                  {
+                      "Id":  "314e7abc-2c10-4653-b68f-2cf9dc7d8bdf",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9156856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38ca6a14-b467-4fa7-9d23-62c63041bc22",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9156917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38df53d2-39f5-48ba-a77d-ecf7dd8f3e2e",
+                      "Name":  "Licensed Granite Cheese",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9157133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44e059d0-db67-4a85-8b7a-f9a03b002662",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9157154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fd8438b-4cfd-4696-bbce-24382a5f979a",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  337,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9157285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46010f21-3891-4924-9b2e-d62388daad44",
+                      "Name":  "Tasty Soft Bacon",
+                      "Quantity":  5,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9157351Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

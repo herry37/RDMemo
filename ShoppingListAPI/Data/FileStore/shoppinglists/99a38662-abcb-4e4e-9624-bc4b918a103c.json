@@ -1,0 +1,44 @@
+{
+    "Id":  "99a38662-abcb-4e4e-9624-bc4b918a103c",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-20T18:47:17.5311084+08:00",
+    "Items":  [
+                  {
+                      "Id":  "020fb32c-2a89-4885-b3d1-b4dad142885e",
+                      "Name":  "洋芋片",
+                      "Quantity":  4,
+                      "Price":  192.636196576063160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T01:57:03.0424046+08:00",
+                      "CompletedAt":  "2025-01-16T15:40:43.4551183+08:00"
+                  },
+                  {
+                      "Id":  "a972c248-631d-4577-a479-338938df64f0",
+                      "Name":  "糖果",
+                      "Quantity":  5,
+                      "Price":  140.133705915059140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:55:09.6182541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02b7e03a-de26-4940-b7bd-85f81885c29c",
+                      "Name":  "洗碗精",
+                      "Quantity":  4,
+                      "Price":  355.35784697236830,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:50:26.2316816+08:00",
+                      "CompletedAt":  "2025-01-18T07:12:38.6107311+08:00"
+                  },
+                  {
+                      "Id":  "3ce42c25-96db-4863-ba39-0ffe0d5876b5",
+                      "Name":  "蛋",
+                      "Quantity":  9,
+                      "Price":  26.2104799939056940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:17:56.9682444+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

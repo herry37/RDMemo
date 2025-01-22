@@ -1,0 +1,71 @@
+{
+    "Id":  "18feb172-15a6-4ccd-bc52-afe78a8f57b2",
+    "Title":  "月底大採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T09:58:10.1967918+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0bdc5bae-f25c-458c-8361-a6b53cb07164",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:31:33.6329256+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bad42a3f-e205-4e53-945f-cadf44c61422",
+                      "Name":  "木質相框",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:29:04.3017262+08:00",
+                      "CompletedAt":  "2025-01-15T12:16:17.1685212+08:00"
+                  },
+                  {
+                      "Id":  "bece0ccd-ca9b-4602-be4e-b5e7c48ef141",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:42:44.71597+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "940040ac-080d-41bf-b2da-5c62db6fc24d",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:34:25.9294819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "223afc2f-b6c3-4182-b33d-dd65a206892f",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:46:14.5591182+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b38dac2e-aed0-40ac-b073-2526f80bc624",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:35:37.0631855+08:00",
+                      "CompletedAt":  "2025-01-19T03:27:21.357093+08:00"
+                  },
+                  {
+                      "Id":  "155e1c2c-97a7-4165-bc40-3c79a9d9555b",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:52:04.5060162+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

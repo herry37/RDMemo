@@ -1,0 +1,35 @@
+{
+    "Id":  "f65a9852-9879-47cf-8bde-d020e0aecf3a",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T21:30:32.5813071+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f3e05206-0444-4944-9eb7-a62b2acd5652",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  92.029511638579540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:53:56.4856831+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "460a793a-91fd-4ada-8c73-4f458e562491",
+                      "Name":  "可樂",
+                      "Quantity":  3,
+                      "Price":  308.604662740290480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:04:42.4653283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73aa2826-b250-4459-bc2b-653f864bbdf2",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  313.891048435233210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:16:04.1532718+08:00",
+                      "CompletedAt":  "2025-01-20T11:52:54.9834372+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

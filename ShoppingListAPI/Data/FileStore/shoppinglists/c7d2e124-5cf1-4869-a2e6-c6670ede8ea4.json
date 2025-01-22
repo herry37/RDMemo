@@ -1,0 +1,44 @@
+{
+    "Id":  "c7d2e124-5cf1-4869-a2e6-c6670ede8ea4",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-19T06:09:50.3960517+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5a75936-52b2-4146-bf58-6a59a4ac6127",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9619032Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "007d7982-51d3-4e9f-b154-7cf7347ca7dd",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.961911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cb7c8e1-242c-4d55-a115-8edff2bb5b9a",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9619127Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e310c91e-4e9e-443e-ac70-6b4cb494e4de",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9619144Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

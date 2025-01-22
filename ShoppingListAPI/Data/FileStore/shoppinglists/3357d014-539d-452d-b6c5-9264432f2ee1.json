@@ -1,0 +1,62 @@
+{
+    "Id":  "3357d014-539d-452d-b6c5-9264432f2ee1",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T02:22:42.6460486+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15a5ceb0-dcb5-4621-bf35-296ba7647734",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5737311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f7fc57e-9f98-41d8-8aa4-3c2e4494edd7",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  477,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5737375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9171799-690d-484a-b8ec-07bff4f1305b",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.57374Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "853f595e-bdba-4d97-bbd0-f7adc523090b",
+                      "Name":  "Licensed Rubber Table",
+                      "Quantity":  2,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5737639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ceaa63b-abe3-48d8-8241-92637d7e48c2",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5737762Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fb7b642-0eff-47e5-b64a-390cd5bb2015",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5737808Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

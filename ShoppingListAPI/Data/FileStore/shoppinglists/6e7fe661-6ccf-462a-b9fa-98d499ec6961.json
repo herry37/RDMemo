@@ -1,0 +1,53 @@
+{
+    "Id":  "6e7fe661-6ccf-462a-b9fa-98d499ec6961",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T12:33:19.1066609+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aa12c24b-bf11-4626-9872-d619cbed5598",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0828569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6716e237-c293-4058-a41f-190b7a23b3b3",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0828609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74134e29-00e3-4ae0-8f5a-e49ea44024a8",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  337,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0828629Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c529a932-13e3-417d-a71b-3d25e6bd7f03",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0828656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f6225ee-4c3a-449a-b352-68d90328e0db",
+                      "Name":  "Ergonomic Plastic Cheese",
+                      "Quantity":  5,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0828871Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

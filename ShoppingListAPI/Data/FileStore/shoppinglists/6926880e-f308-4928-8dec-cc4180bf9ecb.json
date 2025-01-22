@@ -1,0 +1,98 @@
+{
+    "Id":  "6926880e-f308-4928-8dec-cc4180bf9ecb",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-14T14:25:57.600675+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a61d9501-b522-45be-9c08-6c30036a2de2",
+                      "Name":  "雞肉",
+                      "Quantity":  1,
+                      "Price":  402.33315233149170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:42:53.7613761+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "658bab10-69fe-4a9d-a04b-da1f3b1be6ee",
+                      "Name":  "豬肉",
+                      "Quantity":  1,
+                      "Price":  23.0185847900294480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:38:51.6893884+08:00",
+                      "CompletedAt":  "2025-01-22T08:29:46.2526196+08:00"
+                  },
+                  {
+                      "Id":  "54648d55-ca24-4548-8837-6afca5f97cf5",
+                      "Name":  "口香糖",
+                      "Quantity":  2,
+                      "Price":  303.387568854703960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:39:16.2105205+08:00",
+                      "CompletedAt":  "2025-01-21T11:59:21.3905885+08:00"
+                  },
+                  {
+                      "Id":  "4dd1e192-ade9-4826-a2b8-bbd2ab6c96d4",
+                      "Name":  "筆記本",
+                      "Quantity":  4,
+                      "Price":  469.481796152618750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:51:19.9088272+08:00",
+                      "CompletedAt":  "2025-01-19T16:55:02.4673953+08:00"
+                  },
+                  {
+                      "Id":  "f27058a1-d973-4590-9a60-fb0911dcad9e",
+                      "Name":  "衣架",
+                      "Quantity":  2,
+                      "Price":  59.40262909211770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T17:05:17.5618363+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9c08186-3340-4725-9a60-df152ea9c65b",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  295.511952393016510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:25:19.5794861+08:00",
+                      "CompletedAt":  "2025-01-19T15:51:59.0607884+08:00"
+                  },
+                  {
+                      "Id":  "6dafe3a6-5c83-4e98-ab59-57892ab597c1",
+                      "Name":  "堅果",
+                      "Quantity":  10,
+                      "Price":  421.594852708684540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:31:09.2824992+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "247c892b-5897-414f-aa9d-8f2c8776b678",
+                      "Name":  "檯燈",
+                      "Quantity":  10,
+                      "Price":  38.9925626268347930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:46:11.4827005+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b3d3609-4e67-489f-a9f1-21287581fee2",
+                      "Name":  "衣架",
+                      "Quantity":  8,
+                      "Price":  391.903990221745740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:06:42.6172723+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e61238e8-6ba2-435a-85ff-3867dc81ae17",
+                      "Name":  "除霉劑",
+                      "Quantity":  5,
+                      "Price":  478.100202038573510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:44:34.700165+08:00",
+                      "CompletedAt":  "2025-01-18T09:11:59.4291445+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

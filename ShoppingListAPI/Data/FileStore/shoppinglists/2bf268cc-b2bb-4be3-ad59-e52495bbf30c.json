@@ -1,0 +1,62 @@
+{
+    "Id":  "2bf268cc-b2bb-4be3-ad59-e52495bbf30c",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-18T09:43:26.7137136+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e98702ea-b362-4515-9abe-ff9e06b647d5",
+                      "Name":  "Incredible Cotton Sausages",
+                      "Quantity":  3,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865087Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffb4b4d6-f692-41ea-9471-95f6326538d5",
+                      "Name":  "Unbranded Steel Chair",
+                      "Quantity":  5,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865204Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "723c7525-61ca-4179-852d-a667fc174d26",
+                      "Name":  "Licensed Frozen Chair",
+                      "Quantity":  4,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b05536ad-e5b9-4fbe-a6c1-1d7d1f8c1fc8",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865523Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23131ce0-2eba-4b50-a06d-a98c26fcd709",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18e74fc0-eeea-4fea-92a1-f035ad7e404e",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9865589Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

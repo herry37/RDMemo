@@ -1,0 +1,44 @@
+{
+    "Id":  "9853fcb5-3bef-46d5-96d4-60ed11f79308",
+    "Title":  "01/17 飲料採買清單",
+    "CreatedAt":  "2025-01-17T10:43:58.6895828+08:00",
+    "Items":  [
+                  {
+                      "Id":  "46aeeacd-bc0d-468b-9da3-063491196a12",
+                      "Name":  "Handcrafted Plastic Pizza",
+                      "Quantity":  5,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7037539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa5f1b7d-4983-448b-a617-6fbdbe6a0165",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.703757Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cc6c121-f50a-4337-a7e2-1363223c3209",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.703758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50715347-27d8-4e4f-90c4-59361dc34b84",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7037588Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "ed817396-2c8b-48e3-a585-a41a2604c8d5",
+    "Title":  "每週採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T02:21:21.6709299+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5622f987-4df3-45d8-b170-6b69b392efea",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:09:33.1425163+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61e8aed1-fae1-4658-ac13-9bcd8c8b72a9",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:49:38.9804407+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90bad4b0-5fa5-44bb-ad3a-d6d09b82118e",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:53:08.8925875+08:00",
+                      "CompletedAt":  "2025-01-20T20:55:59.043319+08:00"
+                  },
+                  {
+                      "Id":  "6d8e9e18-0550-4c97-b477-313e3fa03a1b",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:50:27.6865043+08:00",
+                      "CompletedAt":  "2025-01-21T17:20:58.64052+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

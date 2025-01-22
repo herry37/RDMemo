@@ -1,0 +1,71 @@
+{
+    "Id":  "01f3c23a-a0b7-4df8-a336-78b9547f6ac8",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-20T11:53:28.3930767+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f0bcc695-9ca0-4b46-9a89-34c06b40cd40",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "626cea7a-659d-4287-ab46-b29e66b2cfc4",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcf16efe-71c7-4409-9fa6-498284eba14d",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  333,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255675Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f351cc6-56c6-4e4d-ab2d-f558fe093f58",
+                      "Name":  "Gorgeous Rubber Bacon",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffa6ff9b-f2c1-44f0-8549-19808e4b4baa",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255904Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f898075-5307-4f48-bf48-68271e234c6d",
+                      "Name":  "Rustic Plastic Pizza",
+                      "Quantity":  3,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34cf1a38-c5ae-495b-9a46-1199b7da2cf0",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1255978Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

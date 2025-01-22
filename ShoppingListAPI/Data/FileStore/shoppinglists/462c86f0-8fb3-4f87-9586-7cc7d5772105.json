@@ -1,0 +1,62 @@
+{
+    "Id":  "462c86f0-8fb3-4f87-9586-7cc7d5772105",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T11:28:18.3770797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff1d9fba-8a16-4945-bc3d-4daab734239d",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8362785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f8490d5-224f-463c-9e67-db24d0a97617",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8362827Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd736d43-03dd-41ea-a756-7aec4a4aba89",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8362839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20c7f3fd-ee38-4614-a2e2-9f331dac5991",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8362857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5188e405-1c40-4b9f-a71a-79d02a73a9bc",
+                      "Name":  "Awesome Rubber Sausages",
+                      "Quantity":  2,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8363125Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfdde07e-c75a-4e08-a6ab-2f98997a3565",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.8363155Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

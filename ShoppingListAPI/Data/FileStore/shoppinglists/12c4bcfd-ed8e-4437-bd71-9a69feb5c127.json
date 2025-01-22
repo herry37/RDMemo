@@ -1,0 +1,53 @@
+{
+    "Id":  "12c4bcfd-ed8e-4437-bd71-9a69feb5c127",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-16T19:50:11.6161137+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f7d8c67d-4cca-4423-b3a8-2cad82842341",
+                      "Name":  "抹布",
+                      "Quantity":  7,
+                      "Price":  314.227662410875420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:21:09.372274+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c67530ce-af6e-412b-a5f4-f47ee74d5ab7",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  315.961636042442660,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:27:20.3494854+08:00",
+                      "CompletedAt":  "2025-01-15T20:21:54.6505163+08:00"
+                  },
+                  {
+                      "Id":  "ca79bae9-219a-4166-9a2a-f5ad483f4de4",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  119.305176778656530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:03:33.8273714+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e61ab26-76f3-4f64-a0c0-5c5f8e83e8af",
+                      "Name":  "堅果",
+                      "Quantity":  7,
+                      "Price":  444.282103806087740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:33:19.1289805+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6f1e8bb-6770-4dd7-b731-a250c57cd276",
+                      "Name":  "海綿",
+                      "Quantity":  3,
+                      "Price":  162.222081768027810,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:15:46.0713113+08:00",
+                      "CompletedAt":  "2025-01-21T15:26:39.2182084+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

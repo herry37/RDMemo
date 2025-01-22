@@ -1,0 +1,53 @@
+{
+    "Id":  "d3083961-7177-48ec-9ed0-9c15532eec6a",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T17:20:35.1921982+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12737d8d-4f70-41c5-8a04-e47c18a61f2a",
+                      "Name":  "Handmade Cotton Towels",
+                      "Quantity":  3,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.889713Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0f8fb3d-9594-472e-aa01-edb8917365ca",
+                      "Name":  "Awesome Granite Computer",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8897175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e3f5303-11d5-4f1a-a1a1-a4dff78b1b14",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8897203Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41abf441-f2fc-4d14-ac39-3a69bd4c8259",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8897215Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c20b0efe-b367-49c1-b5cc-a1e5d29eb0b4",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8897229Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

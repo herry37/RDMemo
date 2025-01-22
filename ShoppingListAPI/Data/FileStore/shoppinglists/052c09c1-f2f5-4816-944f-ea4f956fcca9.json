@@ -1,0 +1,44 @@
+{
+    "Id":  "052c09c1-f2f5-4816-944f-ea4f956fcca9",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-21T11:57:15.8480747+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dcf5e81d-2320-457a-a543-6deca9a672f7",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6864978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "772bad62-9527-4788-8066-a9c809df0d10",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  494,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6865033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41be23cb-ffa2-414b-9e60-b69179d19803",
+                      "Name":  "Refined Granite Computer",
+                      "Quantity":  4,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6865306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "163e318e-9b92-4247-93da-293fca9b9fc2",
+                      "Name":  "Ergonomic Soft Bacon",
+                      "Quantity":  4,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.686536Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

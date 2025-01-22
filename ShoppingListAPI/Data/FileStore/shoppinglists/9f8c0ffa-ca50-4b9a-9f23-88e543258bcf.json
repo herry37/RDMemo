@@ -1,0 +1,44 @@
+{
+    "Id":  "9f8c0ffa-ca50-4b9a-9f23-88e543258bcf",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T23:09:34.783006+08:00",
+    "Items":  [
+                  {
+                      "Id":  "416e2eb8-1f81-4c89-9207-2d14b8d4985a",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1143757Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9da3a2af-5fae-4752-987e-9dce7271c47f",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1143822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "498b85f6-ff40-4909-8714-914178bb851e",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1143841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4d4f3c2-b489-44f8-9886-bfaad08371e8",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1143858Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

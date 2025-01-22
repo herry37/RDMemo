@@ -1,0 +1,35 @@
+{
+    "Id":  "cbb3e9ca-311b-4a95-8aca-367d388d098d",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-15T15:05:00.6697328+08:00",
+    "Items":  [
+                  {
+                      "Id":  "11190f53-e9ff-4a3c-a6b5-e81a6e710316",
+                      "Name":  "Generic Metal Pizza",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.060617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9c2dc4f-0e9c-4ad7-a6af-85f8a45a152b",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  427,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0606206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8357f45e-a403-46a4-90e7-5338c57f3e8b",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0606353Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

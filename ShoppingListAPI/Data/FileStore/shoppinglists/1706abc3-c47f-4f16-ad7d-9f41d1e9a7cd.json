@@ -1,0 +1,80 @@
+{
+    "Id":  "1706abc3-c47f-4f16-ad7d-9f41d1e9a7cd",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T20:35:19.6002506+08:00",
+    "Items":  [
+                  {
+                      "Id":  "937f0957-0c4a-4429-8774-036f138ba638",
+                      "Name":  "Unbranded Wooden Pants",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1262759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f382dcb-9335-45e9-9209-b180acf243b9",
+                      "Name":  "Incredible Steel Ball",
+                      "Quantity":  5,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1262882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d620e4a7-5719-41e9-aea3-55e42266a9f6",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1262904Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dba23886-adbc-4b32-bbb9-9f4eb52cabee",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1262921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "986a4b72-d038-4c16-83a1-d083577bb160",
+                      "Name":  "Refined Frozen Fish",
+                      "Quantity":  4,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1262973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2533e7e5-d8b9-4377-a39d-1181250b75c0",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1263016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ba7c8b8-6d01-4794-8564-5001f1580b79",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1263031Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3dd601c-474b-4ce8-8272-fc830e27ccc5",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1263044Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

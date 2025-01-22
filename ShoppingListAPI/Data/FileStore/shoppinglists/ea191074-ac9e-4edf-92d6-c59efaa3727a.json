@@ -1,0 +1,71 @@
+{
+    "Id":  "ea191074-ac9e-4edf-92d6-c59efaa3727a",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-18T23:33:07.5197652+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6e9e2386-4c7b-44b6-8627-ca4aa3d1442c",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.057425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05571ebb-31de-4e38-bdf9-020123d580d7",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c62b5db0-45d8-4567-aa51-3ad4fce81eb3",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64f9228c-d04e-4e5c-a819-7ed7542a82e0",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77af71e1-1f9a-45dd-b40c-ea7b50d972ac",
+                      "Name":  "Unbranded Concrete Sausages",
+                      "Quantity":  3,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574611Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b27d38d6-0b31-4f4c-ac9c-5eaec2e98498",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ad83cae-9b3c-4844-83a4-6f90d4140e78",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0574669Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

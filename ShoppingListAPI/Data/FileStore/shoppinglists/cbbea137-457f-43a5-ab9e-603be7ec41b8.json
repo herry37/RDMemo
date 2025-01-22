@@ -1,0 +1,35 @@
+{
+    "Id":  "cbbea137-457f-43a5-ab9e-603be7ec41b8",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T19:35:14.8056254+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae639770-ea3e-495c-98b8-a609f727013f",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  472,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4839036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03641eda-ad39-47f3-b108-630ddd4a212f",
+                      "Name":  "Rustic Rubber Pants",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4839099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45d90008-ea38-4ff5-8ab2-254a8fd61e4f",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4839107Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "9f5f181b-314f-49e4-82af-0f35bdd29436",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T13:49:30.1551228+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2055cd9d-190d-4a71-9860-019401c6ba19",
+                      "Name":  "Fantastic Rubber Shoes",
+                      "Quantity":  5,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7442053-c782-4635-abf7-2cec50c47685",
+                      "Name":  "Unbranded Frozen Ball",
+                      "Quantity":  4,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54168d5c-f0b4-4b93-b7b0-367cf89f0d42",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36c70955-d379-4815-b04f-1b62449cc700",
+                      "Name":  "Handmade Steel Bike",
+                      "Quantity":  3,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3aaf1435-e4b7-4593-9759-cebd06a1acf4",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f9e3ef9-d20f-41c7-bcf6-c5d845b895ad",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082733Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e95eb3b-1fd4-4084-8ab6-94e3caeb38da",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082743Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c18e709-7bdb-4044-abb6-d04cb2dc870d",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c93fbf16-ecd5-42a1-807f-44abb501d32b",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7082767Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

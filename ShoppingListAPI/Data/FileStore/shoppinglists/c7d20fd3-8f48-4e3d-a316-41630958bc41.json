@@ -1,0 +1,53 @@
+{
+    "Id":  "c7d20fd3-8f48-4e3d-a316-41630958bc41",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T22:32:58.9564595+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7fb751d-7421-4a4d-9f34-9bbf52ab9d4c",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8376323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c300cbfb-911e-4bf3-89c4-fd1bc632d8ed",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8376383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17ceecc7-cf05-4c8b-9dde-73c37c44ab1b",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8376412Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84c0e802-a52e-47fe-aa9e-3a2978546a51",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.837645Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c23f39d6-9ff3-4f6e-adca-4052cab739bc",
+                      "Name":  "Tasty Soft Fish",
+                      "Quantity":  3,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.837683Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

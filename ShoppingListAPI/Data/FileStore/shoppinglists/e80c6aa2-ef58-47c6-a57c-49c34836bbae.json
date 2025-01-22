@@ -1,0 +1,53 @@
+{
+    "Id":  "e80c6aa2-ef58-47c6-a57c-49c34836bbae",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T01:56:58.4199096+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b259df04-f650-4bcd-bfad-6c16a95d3b25",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1458471Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "439d26b0-266c-421d-9818-2684abecde10",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1458491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "187488be-df4c-4faa-997a-829df2ae2819",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1458517Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27e42f2a-a265-4c55-a425-007b07c28a53",
+                      "Name":  "Unbranded Frozen Tuna",
+                      "Quantity":  1,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1458705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca9b51b6-dca9-4487-9a84-bbb857254e79",
+                      "Name":  "Gorgeous Rubber Chicken",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1458748Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

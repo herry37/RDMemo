@@ -1,0 +1,44 @@
+{
+    "Id":  "a606db4f-bb7b-4798-be76-ba91435f5d04",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-15T05:44:19.3408159+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bd04f09e-9c1b-4e57-a6d9-a863cf885ee9",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.391174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddfcadd3-45fd-42b4-ad38-d025c76702fd",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3911816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2276d6da-190e-43e8-8a24-c46a96bac238",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3911844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7dd5952-3f04-4165-b18b-af7bb91122f2",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3911873Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

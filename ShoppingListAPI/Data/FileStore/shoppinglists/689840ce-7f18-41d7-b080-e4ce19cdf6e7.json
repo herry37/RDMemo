@@ -1,0 +1,53 @@
+{
+    "Id":  "689840ce-7f18-41d7-b080-e4ce19cdf6e7",
+    "Title":  "緊急採購 - 01/20",
+    "CreatedAt":  "2025-01-15T08:08:49.8656324+08:00",
+    "Items":  [
+                  {
+                      "Id":  "319dfcb0-efb7-4d0b-b3b8-34a381d0d6a7",
+                      "Name":  "梳子",
+                      "Quantity":  8,
+                      "Price":  428.784972321965130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:02:11.0935994+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "070999a6-e055-4e8f-ac2a-828da6d875c6",
+                      "Name":  "運動飲料",
+                      "Quantity":  8,
+                      "Price":  308.557806130599610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:10:48.3072039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e1ad37d-f1b5-4a06-adb3-e4a6af4a5e9f",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  8,
+                      "Price":  327.189873777489160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:48:24.6171965+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd0626f6-c0b4-4fe0-9408-2b7a5ae9c5e1",
+                      "Name":  "可樂",
+                      "Quantity":  5,
+                      "Price":  375.559317722133780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:28:24.7433941+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2fd9c4a-4251-408f-8851-6001debd4fcc",
+                      "Name":  "相框",
+                      "Quantity":  10,
+                      "Price":  42.6901164884839440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:36:26.7402574+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

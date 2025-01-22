@@ -1,0 +1,35 @@
+{
+    "Id":  "f3c9e592-5844-4bd4-8ad6-6165fece76f1",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T09:52:46.4770078+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ffc3758c-c51d-4332-b073-dd3de8f14f07",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:27:09.7215266+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85088e0b-3221-4cec-ad22-38638656a4e0",
+                      "Name":  "放牧蛋",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:28:16.6341563+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39a4ab3c-8dfa-45d0-a5ef-7115a3bc4ec0",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  4,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:15:02.6336005+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

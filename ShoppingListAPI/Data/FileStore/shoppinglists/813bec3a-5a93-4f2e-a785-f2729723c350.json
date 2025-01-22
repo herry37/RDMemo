@@ -1,0 +1,35 @@
+{
+    "Id":  "813bec3a-5a93-4f2e-a785-f2729723c350",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T14:57:57.1698514+08:00",
+    "Items":  [
+                  {
+                      "Id":  "51417e48-38b1-473d-84e6-4a6f61779a79",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:15:20.1914833+08:00",
+                      "CompletedAt":  "2025-01-19T00:04:37.1492324+08:00"
+                  },
+                  {
+                      "Id":  "1299c037-59f1-4403-a734-9734323550d4",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:38:24.9958259+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e24dc62-dfc4-4f66-b8ad-5d2f6bcbfd8d",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:08:58.4675686+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

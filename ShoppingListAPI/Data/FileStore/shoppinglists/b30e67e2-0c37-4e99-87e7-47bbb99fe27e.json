@@ -1,0 +1,62 @@
+{
+    "Id":  "b30e67e2-0c37-4e99-87e7-47bbb99fe27e",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-18T05:14:00.3289467+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4ca5327-4827-483b-9ebf-509ae741c25c",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  492.989241580294960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:38:56.6813488+08:00",
+                      "CompletedAt":  "2025-01-17T11:32:04.4674549+08:00"
+                  },
+                  {
+                      "Id":  "ea9480f9-ea1a-4266-9c24-d5ac413a2978",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  235.494710119420490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:01:48.4489777+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3109e411-edf4-4958-b512-e2168f7dd0c8",
+                      "Name":  "洗髮精",
+                      "Quantity":  8,
+                      "Price":  424.784524364289240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:45:20.8650285+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d9ceddd-a52f-4ebd-ba04-cb7254431d5b",
+                      "Name":  "杯子",
+                      "Quantity":  5,
+                      "Price":  79.533040984012060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:12:11.0165798+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "182bdc5a-f6d1-4dcf-9937-a2f2d3cf220b",
+                      "Name":  "筆記本",
+                      "Quantity":  3,
+                      "Price":  326.181084901162460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:34:21.8918927+08:00",
+                      "CompletedAt":  "2025-01-19T22:01:37.1622649+08:00"
+                  },
+                  {
+                      "Id":  "41937700-e10f-4210-9c79-2349c4315348",
+                      "Name":  "巧克力",
+                      "Quantity":  6,
+                      "Price":  410.712479754763610,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:32:41.6403771+08:00",
+                      "CompletedAt":  "2025-01-17T22:07:08.9948571+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

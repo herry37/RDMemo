@@ -1,0 +1,71 @@
+{
+    "Id":  "e1d65d09-b162-45d9-8546-397d6ee2117f",
+    "Title":  "年節採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T02:57:23.0162658+08:00",
+    "Items":  [
+                  {
+                      "Id":  "392256ab-09c0-4b1f-844b-60e83e25303f",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:36:08.0956385+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "feac4356-5af1-4e05-8a2d-3ef98e0e846a",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:55:17.8517156+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50d541e8-5295-443e-b56c-7e4bfce7ad6e",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:01:32.0908215+08:00",
+                      "CompletedAt":  "2025-01-18T23:03:52.8804163+08:00"
+                  },
+                  {
+                      "Id":  "379b28f3-a73b-4be2-8926-43b0bcc0abb0",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:40:25.2990709+08:00",
+                      "CompletedAt":  "2025-01-17T20:34:18.9915383+08:00"
+                  },
+                  {
+                      "Id":  "84d2076c-fa46-43cb-8fdf-dc45f02167c2",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:15:26.6041078+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbcd9148-75c1-4ec9-9c79-662460b984a7",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:36:24.7291806+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d9feadf-7e69-4c61-8c50-cce3dbeb9030",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:52:25.1126314+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

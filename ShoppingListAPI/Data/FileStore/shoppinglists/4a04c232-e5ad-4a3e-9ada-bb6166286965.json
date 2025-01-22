@@ -1,0 +1,44 @@
+{
+    "Id":  "4a04c232-e5ad-4a3e-9ada-bb6166286965",
+    "Title":  "聚會準備 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-21T13:27:09.8963584+08:00",
+    "Items":  [
+                  {
+                      "Id":  "312bb8b9-f3ad-4d3b-8217-4097a9e0af1e",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:27:57.0008281+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ed46d67-9980-4b7e-9fc1-f055b2f2fce4",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:04:42.7136839+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ce16270-479c-4f5b-a387-8c414a0b3b3e",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:44:51.0140623+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "deaf2d6d-426e-419a-837a-b237b4c506da",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:57:57.7431893+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

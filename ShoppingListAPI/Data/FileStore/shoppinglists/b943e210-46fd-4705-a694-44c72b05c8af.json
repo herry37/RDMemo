@@ -1,0 +1,35 @@
+{
+    "Id":  "b943e210-46fd-4705-a694-44c72b05c8af",
+    "Title":  "年節採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-21T18:38:22.2430938+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ac59e197-25a5-4f22-a74f-3962c70da2f5",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:47:55.1988339+08:00",
+                      "CompletedAt":  "2025-01-20T16:00:42.8898417+08:00"
+                  },
+                  {
+                      "Id":  "899a9f0d-4167-430d-ba93-22feda58c303",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:16:59.1621912+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6744d46d-032b-4fda-a581-95f4397a52b9",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:47:48.3342404+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "3a082c95-7272-4061-97bf-e749018c7421",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-16T06:39:12.380684+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d159935f-4b29-4cec-bdd2-58b70d5d61bf",
+                      "Name":  "礦泉水",
+                      "Quantity":  9,
+                      "Price":  345.273017440227020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:28:03.2485573+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6b461f7-02c3-4f86-a3dd-2b1ec57b3aeb",
+                      "Name":  "電池",
+                      "Quantity":  10,
+                      "Price":  378.165025490948140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T16:35:44.600422+08:00",
+                      "CompletedAt":  "2025-01-16T14:34:54.850817+08:00"
+                  },
+                  {
+                      "Id":  "74a1d849-2748-455d-b3ae-3632b100f70e",
+                      "Name":  "蛋",
+                      "Quantity":  9,
+                      "Price":  234.785661243761030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:55:39.3803579+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

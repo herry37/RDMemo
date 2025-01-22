@@ -1,0 +1,35 @@
+{
+    "Id":  "3101233e-4a2c-4335-bccb-7d8630d7c504",
+    "Title":  "緊急採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T07:45:03.6792946+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a01ce09-5e59-426a-b392-67e81d8b60bb",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:13:08.4336306+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b7aec22-990f-4128-b885-f1670b37100a",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:14:47.1313748+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c286cdad-493a-474a-bcc9-cb31e1c6dedd",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:50:33.7523132+08:00",
+                      "CompletedAt":  "2025-01-22T09:05:33.9262522+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

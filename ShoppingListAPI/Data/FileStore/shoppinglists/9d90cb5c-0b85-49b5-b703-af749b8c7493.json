@@ -1,0 +1,44 @@
+{
+    "Id":  "9d90cb5c-0b85-49b5-b703-af749b8c7493",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T18:44:48.256408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7e134591-fe58-423a-8df3-8ad1e7187a3f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5459741Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4dc1e8bf-328d-4ce8-9663-15c21c91ef17",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.545979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "613919da-6f33-4538-b0a4-d55bdd5446fb",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5459805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc8635c0-90dc-4e17-a76f-e53d71a4d94e",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5459832Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

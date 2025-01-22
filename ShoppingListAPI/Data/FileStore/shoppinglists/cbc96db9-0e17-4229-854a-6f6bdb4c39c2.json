@@ -1,0 +1,35 @@
+{
+    "Id":  "cbc96db9-0e17-4229-854a-6f6bdb4c39c2",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T03:29:52.3679108+08:00",
+    "Items":  [
+                  {
+                      "Id":  "278e24fd-5bd0-45fa-bfe8-3a8b70f4fa0b",
+                      "Name":  "Awesome Steel Chicken",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6568683Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee8efb56-6222-4f70-9fb5-d8d42f0c2e0e",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6568732Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae877955-375f-4be4-b0ae-1d91c4f1ce4c",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6568769Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

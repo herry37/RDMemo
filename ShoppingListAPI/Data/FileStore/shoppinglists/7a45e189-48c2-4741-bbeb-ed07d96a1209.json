@@ -1,0 +1,98 @@
+{
+    "Id":  "7a45e189-48c2-4741-bbeb-ed07d96a1209",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-17T01:19:13.3694983+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6151bb8-93e0-4e16-ae5c-eac0b1ce29ed",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090326Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ed4a465-0afa-4577-b70a-d6b8c0a1e45c",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.909037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "353e34b6-23d1-4fe4-a7e9-7a9743a07bbf",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21de251f-88de-491c-9a1f-bb2bca600a28",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b45b618-a81b-48d6-87fc-d2d1269aa133",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  399,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cfbe09f-b90a-43ab-93bd-83f697e93e7d",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fda09124-1385-4303-8324-46311ff90075",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe00a313-c51d-41d2-9aaf-a5abe6f77e91",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090451Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55e281a6-d9da-4f22-91e9-7cd52a0739bc",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  409,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9090461Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8242bc67-9570-4fa4-b5ea-ddcbe45f79b9",
+                      "Name":  "Small Frozen Sausages",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.90906Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

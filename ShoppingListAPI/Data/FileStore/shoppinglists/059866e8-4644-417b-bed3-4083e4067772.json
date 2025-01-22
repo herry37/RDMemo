@@ -1,0 +1,62 @@
+{
+    "Id":  "059866e8-4644-417b-bed3-4083e4067772",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T09:40:22.224843+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a0fafb8-ed91-4db5-b2fe-07ce71220a52",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0718632Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8176861e-8c43-4264-b157-5b0169cd76ee",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0718672Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6cc24cc-abf5-4667-acbb-fd3b32a78d83",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.071869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "abec1c55-bccf-490a-a449-a04823bba3a8",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0718711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26da9eaa-3758-40fe-9d29-95c5363cf2b7",
+                      "Name":  "Practical Wooden Mouse",
+                      "Quantity":  1,
+                      "Price":  429,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0719409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcdc4389-53f4-4ce4-8110-4a71c9ff7dd8",
+                      "Name":  "Handmade Frozen Mouse",
+                      "Quantity":  5,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0719522Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

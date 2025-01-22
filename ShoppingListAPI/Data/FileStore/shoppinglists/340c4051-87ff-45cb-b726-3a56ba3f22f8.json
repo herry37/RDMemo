@@ -1,0 +1,98 @@
+{
+    "Id":  "340c4051-87ff-45cb-b726-3a56ba3f22f8",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T23:25:45.8108424+08:00",
+    "Items":  [
+                  {
+                      "Id":  "109f0fc4-aa1a-42d2-be6e-62cbf6a14da2",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  132.375803414593470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:15:29.3640077+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ddf445b-136c-42ee-a377-c3d5c150c5b6",
+                      "Name":  "衛生紙",
+                      "Quantity":  6,
+                      "Price":  433.72259866952750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:45:29.6434663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "510b2c0f-43b5-4fe3-be35-15a9ae893ced",
+                      "Name":  "可樂",
+                      "Quantity":  7,
+                      "Price":  15.3857113083918340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:47:53.1670745+08:00",
+                      "CompletedAt":  "2025-01-18T17:09:40.2549176+08:00"
+                  },
+                  {
+                      "Id":  "7b716811-b769-4457-a03a-8e56064317f0",
+                      "Name":  "橡皮擦",
+                      "Quantity":  5,
+                      "Price":  74.072881952242450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:22:08.4697682+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "488de722-6512-4836-8e48-3f222c6f5779",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  47.5672422958265580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:33:03.8346898+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a8b8b90-512c-48f3-acca-078b96e42caa",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  394.326837204123030,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:07:22.5524614+08:00",
+                      "CompletedAt":  "2025-01-19T18:21:07.9797816+08:00"
+                  },
+                  {
+                      "Id":  "c70b89ab-f731-438c-94a9-be38aa0031bd",
+                      "Name":  "筆",
+                      "Quantity":  5,
+                      "Price":  452.356760584795560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:59:21.5485318+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ff0d358-aac4-4d54-88af-c60e3695163c",
+                      "Name":  "漂白水",
+                      "Quantity":  2,
+                      "Price":  284.67669647792850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:49:05.6698987+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab45f682-e585-4dd3-8478-3da0565a2465",
+                      "Name":  "碗",
+                      "Quantity":  9,
+                      "Price":  20.3436198378559760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:43:01.2113559+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "380bc886-3029-4808-a2ef-b89c8fd5cfe5",
+                      "Name":  "可樂",
+                      "Quantity":  9,
+                      "Price":  320.451195528282340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:56:14.3567268+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

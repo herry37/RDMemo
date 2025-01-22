@@ -1,0 +1,89 @@
+{
+    "Id":  "0b66e201-0609-47a4-9b4f-5cbc1411600f",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T11:41:28.1027492+08:00",
+    "Items":  [
+                  {
+                      "Id":  "78242626-30f9-4ce7-8fba-1ee14323e3d8",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722238Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ecc0c1b6-3929-4674-b6d9-17c579a229cc",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2390c4cb-877e-4559-ab58-16967f536a70",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ae7b9bc-291f-43b1-a0d0-f70da8be31a6",
+                      "Name":  "Tasty Wooden Pants",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec1b4737-b4ae-40de-9a72-16eb57a932b5",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ca2fe67-e949-49d4-b94c-0e1d474965a7",
+                      "Name":  "Tasty Frozen Tuna",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7f8c8ea-90e7-436c-a9f7-5a26f838345a",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "920594cb-a7d4-4347-86ab-f9dc4498741a",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ec956c6-24c0-4c1d-85c6-5c78efb52483",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3722682Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

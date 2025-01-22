@@ -1,0 +1,71 @@
+{
+    "Id":  "84b77a71-7e28-4d3c-ae65-804e920ec23a",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T11:43:47.26841+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4bb34c5-fbd5-434e-bd36-3f916b16a1f3",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.875746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f627962-5c59-4e31-847f-44d1dd539245",
+                      "Name":  "Handmade Concrete Car",
+                      "Quantity":  4,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47fba96e-9363-442c-9693-3bf0d8f4f1ff",
+                      "Name":  "Handmade Cotton Sausages",
+                      "Quantity":  3,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59d72498-77a2-44d2-a5a5-d6c1f54be6e1",
+                      "Name":  "Incredible Soft Mouse",
+                      "Quantity":  5,
+                      "Price":  387,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8af3e140-40b7-4336-b817-1b2d91a03f0d",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  328,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fec39d4e-06ee-49fc-8c63-f75138c69ab7",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92aa4b98-29ae-49b5-a5ea-7a4155cef53f",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8757945Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

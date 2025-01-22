@@ -1,0 +1,62 @@
+{
+    "Id":  "f1dc8a88-7a46-4176-a30f-473207412c2d",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T01:07:32.9269641+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c9a43378-e346-4112-ada4-4fca165fa7cd",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  193.26730289501130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:29:49.9122351+08:00",
+                      "CompletedAt":  "2025-01-20T04:04:02.7931921+08:00"
+                  },
+                  {
+                      "Id":  "570658a3-6c3e-479f-844d-f51b1d1c7b74",
+                      "Name":  "碗",
+                      "Quantity":  1,
+                      "Price":  231.537633169547870,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T14:29:51.1124001+08:00",
+                      "CompletedAt":  "2025-01-15T23:32:23.5930605+08:00"
+                  },
+                  {
+                      "Id":  "7ceaedab-5f25-46cf-8ab3-b92fe284d911",
+                      "Name":  "面紙",
+                      "Quantity":  2,
+                      "Price":  486.789407027166590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:20:28.3157899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8488fb9a-e6ae-4d66-96a7-226641268c78",
+                      "Name":  "茶",
+                      "Quantity":  9,
+                      "Price":  165.543705666463590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:25:41.1798115+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1af064b-bf15-4e21-beb5-c2296f1a15eb",
+                      "Name":  "果汁",
+                      "Quantity":  9,
+                      "Price":  258.278704612240190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:20:39.020585+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f7e02d6-bce0-4d70-b45b-a69e2d6427d4",
+                      "Name":  "爆米花",
+                      "Quantity":  9,
+                      "Price":  218.80587910336280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:31:16.9194681+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

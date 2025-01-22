@@ -1,0 +1,71 @@
+{
+    "Id":  "83d5bdd5-c4b1-46a1-905c-d4ed1a5eedf3",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-17T16:25:36.5638566+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1db3363e-7f97-4572-8fe3-14b477752c94",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3078862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ec76e95-6d63-41b3-83b0-53bb78ff205b",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3078933Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eee6ea91-9018-4f64-8186-b9319f51c937",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3078948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fba389b-15d7-4d09-9b21-a71ab040d5fd",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3078963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59f431a9-1c00-448a-8bb5-83579cafc0ce",
+                      "Name":  "Ergonomic Frozen Towels",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3079278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c03472c-80b4-4499-830e-c672bbcd6bb0",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3079324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c0376a6-01d3-4eef-89fa-8c3d5dd5d3bc",
+                      "Name":  "Practical Steel Chips",
+                      "Quantity":  4,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3089231Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

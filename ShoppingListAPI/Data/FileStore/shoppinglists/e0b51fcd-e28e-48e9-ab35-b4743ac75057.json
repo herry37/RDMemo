@@ -1,0 +1,53 @@
+{
+    "Id":  "e0b51fcd-e28e-48e9-ab35-b4743ac75057",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T03:18:25.8723731+08:00",
+    "Items":  [
+                  {
+                      "Id":  "447903a8-4945-4c36-acaf-07b03ff0e6d3",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6512778Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63f01732-dd2f-455e-b39f-de6e9318df98",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6512798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fcf7a37-d5f1-4064-8742-28eb7650b1d0",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6512809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d853aafd-af8e-4e5a-918e-1d9805bc85bc",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6512822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "940d88b9-f809-4698-a789-436dcf038466",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6512831Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

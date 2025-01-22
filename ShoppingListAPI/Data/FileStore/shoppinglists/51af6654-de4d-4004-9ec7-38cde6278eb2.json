@@ -1,0 +1,35 @@
+{
+    "Id":  "51af6654-de4d-4004-9ec7-38cde6278eb2",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T15:17:55.632586+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fb247d94-661e-47da-a59e-0ff5b9e0f456",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.237063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "407ed87e-f30e-4ccd-9a00-ef665f9d97da",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  435,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2370678Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b228ae1f-de0d-403b-8147-bb040d51a97d",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2370686Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

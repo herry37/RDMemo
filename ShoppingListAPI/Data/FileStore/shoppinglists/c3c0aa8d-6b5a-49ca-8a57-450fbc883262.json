@@ -1,0 +1,44 @@
+{
+    "Id":  "c3c0aa8d-6b5a-49ca-8a57-450fbc883262",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T13:42:33.8406101+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6723050-0c4a-4cfa-bd87-6eaa72bab24f",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5935657Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "660035c1-b5de-463c-89b2-0b2111945bca",
+                      "Name":  "Incredible Concrete Salad",
+                      "Quantity":  1,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5935838Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3563e4c0-5fa9-4ecd-9d2b-ca098d758c76",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5935858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5041232-1e04-43d0-a0f8-bfb9fdda6690",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5935867Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

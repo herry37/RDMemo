@@ -1,0 +1,71 @@
+{
+    "Id":  "c14d19a5-67b9-49e6-bf1a-81def9b49934",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T11:22:12.6447679+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29cfcf06-4fb5-4c81-9ff3-c323b091a38d",
+                      "Name":  "Small Frozen Mouse",
+                      "Quantity":  1,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.364387Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12e488c0-5f36-46b3-9d1c-2bd36bdb21ad",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3643905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92ca6f96-ad86-438d-bdc8-a397ec24f578",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3643915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c26658a-e1e3-4025-9bd6-7c1649d29f80",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3643929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97ff1d23-e560-4d1b-a1db-5d767b444ad0",
+                      "Name":  "Handmade Cotton Ball",
+                      "Quantity":  3,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3644437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7a80561-977f-4914-8e1d-0827f136a55f",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3644489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d1a064c-2247-41b4-9dce-1d4b436f5829",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3644499Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

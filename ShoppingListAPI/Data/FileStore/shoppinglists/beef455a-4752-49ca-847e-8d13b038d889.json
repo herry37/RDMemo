@@ -1,0 +1,80 @@
+{
+    "Id":  "beef455a-4752-49ca-847e-8d13b038d889",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T00:26:49.6992252+08:00",
+    "Items":  [
+                  {
+                      "Id":  "628a47b1-38bd-468e-a491-65636ff09645",
+                      "Name":  "金屬直尺",
+                      "Quantity":  3,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:00:10.2395757+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "112f0747-30d2-48b2-a514-cabdda8d5a04",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:16:27.9898134+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf66f702-ff03-462b-a35d-a7cde1159340",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:33:01.6316708+08:00",
+                      "CompletedAt":  "2025-01-16T09:10:44.6815526+08:00"
+                  },
+                  {
+                      "Id":  "58a144be-1505-401c-838b-4d2077413003",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:42:15.4219313+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc201b35-3ac2-4639-a174-7fb3fa815e5e",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:57:54.7348675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "812c7f0d-40ee-4083-b58d-10976ecddc58",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:41:15.8580196+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b6b930f-3bd5-4301-9a47-84cf34a1d1cc",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:22:25.7224592+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20921afe-4dfa-4893-a410-fe759f4bde4f",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:25:47.0087604+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

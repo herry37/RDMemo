@@ -1,0 +1,62 @@
+{
+    "Id":  "116230f2-c6dc-4442-873f-c6066db95709",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-14T23:22:03.1371974+08:00",
+    "Items":  [
+                  {
+                      "Id":  "91768633-9cee-42f3-b026-0cdef239347e",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:09:13.719488+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f0e5cc6-1451-4558-b63e-6a2aa9d1305f",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:12:02.7142749+08:00",
+                      "CompletedAt":  "2025-01-15T06:21:08.3202497+08:00"
+                  },
+                  {
+                      "Id":  "077ff3d8-ddb9-4bcc-8bfb-e9a2b43aaca7",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:40:44.4397104+08:00",
+                      "CompletedAt":  "2025-01-22T12:44:18.4214605+08:00"
+                  },
+                  {
+                      "Id":  "58f447c2-073a-4c6a-a039-b29c1d178cd9",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:55:03.8147956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5b9f2a7-c203-4ac7-9d28-85c5953ac5f6",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:10:32.6101089+08:00",
+                      "CompletedAt":  "2025-01-18T05:57:59.2871244+08:00"
+                  },
+                  {
+                      "Id":  "d7cbeb56-2adb-456f-b689-2fa659cf118a",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:08:01.999209+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

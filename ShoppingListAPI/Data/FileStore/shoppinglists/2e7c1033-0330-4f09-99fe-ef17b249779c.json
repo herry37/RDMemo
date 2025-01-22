@@ -1,0 +1,80 @@
+{
+    "Id":  "2e7c1033-0330-4f09-99fe-ef17b249779c",
+    "Title":  "01/19 飲料購物清單",
+    "CreatedAt":  "2025-01-20T05:48:57.9560483+08:00",
+    "Items":  [
+                  {
+                      "Id":  "277bf03c-e96f-42a4-9767-85265cb0fbd6",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  491,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1708961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3c91a38-e5e1-4a59-84bd-cc77685d298d",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1708985Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af348f5a-b028-4332-b69c-7c7050453174",
+                      "Name":  "Handcrafted Fresh Gloves",
+                      "Quantity":  3,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77f6e2e5-bcca-45f5-ac09-88dcf5159241",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9deca538-af02-4ccb-bda1-036ec0255f0f",
+                      "Name":  "Sleek Rubber Pants",
+                      "Quantity":  3,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d5c0489-4bed-4ca6-b9a2-52458a0345a8",
+                      "Name":  "Practical Granite Shoes",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27431987-2858-43e4-9a4f-eace818f2aa2",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709302Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a03b590-d758-478b-a456-22849a34cf16",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1709314Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

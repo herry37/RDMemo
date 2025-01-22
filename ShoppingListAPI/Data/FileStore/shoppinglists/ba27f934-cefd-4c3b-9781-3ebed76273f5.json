@@ -1,0 +1,44 @@
+{
+    "Id":  "ba27f934-cefd-4c3b-9781-3ebed76273f5",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T16:42:41.2591796+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0d68e8b2-3ad3-4ebb-8e4f-fa9bb08092b6",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1492357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93a1783d-d377-4877-adba-85d9807db821",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1492418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbf247d9-4a86-4867-9344-bef326d93efb",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1492429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5fa89cd1-3dfd-4a63-a960-761e2d0290da",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1492438Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

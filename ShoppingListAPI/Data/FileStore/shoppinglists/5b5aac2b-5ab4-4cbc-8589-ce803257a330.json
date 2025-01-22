@@ -1,0 +1,44 @@
+{
+    "Id":  "5b5aac2b-5ab4-4cbc-8589-ce803257a330",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-19T00:15:58.6215768+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cba230b9-2ec2-4a25-979c-b2004e5d5cef",
+                      "Name":  "梳子",
+                      "Quantity":  7,
+                      "Price":  240.863804037136480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:21:18.6642851+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94e1a562-58ab-44d7-a383-e2418191ddc3",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  190.605714423327970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:13:44.0771094+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a565a30-4a61-44fa-bbe9-fc335539620f",
+                      "Name":  "巧克力",
+                      "Quantity":  6,
+                      "Price":  328.330632351221140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:44:54.4733497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfd972d6-4c33-4c38-a60a-505edfc99744",
+                      "Name":  "豬肉",
+                      "Quantity":  5,
+                      "Price":  482.375531026619080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:27:54.8596507+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

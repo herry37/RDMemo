@@ -1,0 +1,71 @@
+{
+    "Id":  "b7eafc64-96c6-45de-8b3f-c7bee6db1bdc",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T04:24:43.69999+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fe783571-60f7-4d19-a356-a343abf64d20",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5157644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88ccb463-a1d5-4758-bd65-744194f4985f",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.515767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fedd0b7-cf5e-4325-9bde-541628bbe868",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.515768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78064c0c-9c52-4daa-ae92-6c0e9296bd60",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.515769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78ddd208-3f25-4c90-a222-598b46973faf",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5157703Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c68a2631-c397-4777-bfb9-56760b720d47",
+                      "Name":  "Rustic Rubber Gloves",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5157911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7963c64-b7b5-4fc8-80c1-7a4188d459e6",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5157921Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

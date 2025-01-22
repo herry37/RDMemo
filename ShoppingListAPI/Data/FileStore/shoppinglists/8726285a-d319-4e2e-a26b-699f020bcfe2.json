@@ -1,0 +1,80 @@
+{
+    "Id":  "8726285a-d319-4e2e-a26b-699f020bcfe2",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T04:01:51.0234533+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d4df23c-fd84-4861-84d9-13c92e9c9bc4",
+                      "Name":  "Unbranded Rubber Soap",
+                      "Quantity":  2,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6080979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc76609d-10f3-485e-a461-1c4412532565",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95f6bad1-cee5-4d35-92fb-dc0ae0f4fbf8",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd4bc1bd-dc02-4343-ac68-1fb7f6d28dc0",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  345,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081102Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22b6c65e-e768-4432-8f02-7dd869d16dd1",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2ffc818-6263-4bb3-a079-b840dfb3c754",
+                      "Name":  "Practical Metal Tuna",
+                      "Quantity":  5,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5710a974-dedc-4b35-87d6-0e63b03b28a9",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  16,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "399ce955-59de-484c-a921-b03a4e9eeb89",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6081474Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "569b07b6-1bca-45fb-8587-9e89ae142c9f",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T13:57:04.9273836+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c3615e51-aed3-4b6c-882a-e05de4f16cb4",
+                      "Name":  "Practical Plastic Sausages",
+                      "Quantity":  2,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "482b6b1e-272f-44ec-872f-83b3628866d5",
+                      "Name":  "Handmade Cotton Hat",
+                      "Quantity":  5,
+                      "Price":  478,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19e44020-8f6e-4d2e-86cd-d998dc2b0041",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d2b79b5-ab24-496c-8051-39d844d57d17",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.99269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d744a17-8394-478a-818e-b3265f912f15",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7396ee06-ab97-4bc3-a083-591af1dfd5d6",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  419,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926956Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0997a63b-9cc6-4ba6-81b0-c9283c143372",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.992697Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97f69ca5-78b0-4aa1-9b80-ff4cf4db49d5",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9926988Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c936d4dc-eadb-4962-87ff-0e0c60064a02",
+                      "Name":  "Refined Cotton Sausages",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9927294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00469dff-caad-441a-8f95-fa82e6c50fea",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  312,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9927319Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

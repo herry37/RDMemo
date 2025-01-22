@@ -1,0 +1,71 @@
+{
+    "Id":  "f2b75479-63ad-4023-ab95-f274b9fe07a8",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-20T04:54:03.7893174+08:00",
+    "Items":  [
+                  {
+                      "Id":  "288b34b4-fb20-403b-a6a0-734563846e4e",
+                      "Name":  "便利貼",
+                      "Quantity":  9,
+                      "Price":  235.822124838786210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:59:00.422169+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ad2be5e-a46b-4955-abda-85c341cdbe18",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  93.889371507743060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:50:00.6146983+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbe693fd-7021-43ea-b5e8-bc76f40afdd6",
+                      "Name":  "電池",
+                      "Quantity":  1,
+                      "Price":  210.133265303104420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:31:06.0517157+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0584e471-d611-4812-8f2e-b038f77e06a0",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  17.7841986473448610,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:06:57.3390536+08:00",
+                      "CompletedAt":  "2025-01-15T15:19:49.4341435+08:00"
+                  },
+                  {
+                      "Id":  "6d935f85-92ee-4225-b0ea-622825fe0cf1",
+                      "Name":  "泡麵",
+                      "Quantity":  5,
+                      "Price":  426.411016848032220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:07:58.188681+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b917af27-424b-4582-8be8-3a3f3bdca032",
+                      "Name":  "便利貼",
+                      "Quantity":  1,
+                      "Price":  409.874886321795080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:22:50.2295906+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f15d0e2-82b6-4d68-8504-0f95c75e5e40",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  7,
+                      "Price":  157.530771310359150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:11:18.9054728+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "11cc48a6-d563-490b-9d72-dc4173190128",
+    "Title":  "派對用品 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T01:17:10.0594964+08:00",
+    "Items":  [
+                  {
+                      "Id":  "736f13f5-b07b-45f4-8c82-76aa3c89d65b",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:03:24.6410686+08:00",
+                      "CompletedAt":  "2025-01-21T06:05:28.1065356+08:00"
+                  },
+                  {
+                      "Id":  "2500547f-f327-4990-aa17-518054d45a47",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:27:30.6009779+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3dae413-35fa-44ac-b38c-04fca972f03a",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:18:35.9264324+08:00",
+                      "CompletedAt":  "2025-01-20T01:58:28.9804935+08:00"
+                  },
+                  {
+                      "Id":  "1a8de6b0-1f38-488e-be8f-db9ddaee8197",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:58:59.5185792+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9159e2b4-d9f5-46c5-b704-2ac5ea97bc59",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:27:00.8504767+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bae4120-1fc5-4fa0-ac13-ba6371023a71",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:24:01.5910741+08:00",
+                      "CompletedAt":  "2025-01-22T03:54:34.1231371+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

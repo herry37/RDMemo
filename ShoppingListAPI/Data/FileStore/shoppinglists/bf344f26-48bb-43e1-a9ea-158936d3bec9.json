@@ -1,0 +1,62 @@
+{
+    "Id":  "bf344f26-48bb-43e1-a9ea-158936d3bec9",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T16:31:37.1802283+08:00",
+    "Items":  [
+                  {
+                      "Id":  "32e516b2-1a39-4c73-9ff3-31cb1c587f64",
+                      "Name":  "Licensed Cotton Table",
+                      "Quantity":  4,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4827359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea2f8dce-e881-4f0f-af38-7883b3d9a73e",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  283,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4827398Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b72af974-bead-4cc4-97df-89650e1fbb02",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4827501Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b35e0c58-d7a2-47f4-aaa6-7d0d5f1dad02",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  319,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4827526Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0e38862-c9bb-442d-b7d0-fe71c464fdcf",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.482755Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "043eaa17-09ca-40c6-b923-4a3d235c3921",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4827582Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

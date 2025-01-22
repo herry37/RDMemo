@@ -1,0 +1,71 @@
+{
+    "Id":  "1dec0dc5-15f4-4ff2-a7b7-124ad5876e36",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-22T02:31:16.8909669+08:00",
+    "Items":  [
+                  {
+                      "Id":  "32b3108a-4391-4504-8ece-6f89b41ba9d5",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  327,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.216318Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b040dd60-c51f-49bf-9514-af780696de39",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163195Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c317b382-40c3-4f5f-b329-ceeeacfde426",
+                      "Name":  "Incredible Frozen Ball",
+                      "Quantity":  2,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163255Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "316e22a0-34e4-4318-ae74-9becf4a46897",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163262Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9d571af-739b-424f-a69a-ba2c8f050822",
+                      "Name":  "Rustic Frozen Chicken",
+                      "Quantity":  3,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163283Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24ca5ef5-ab17-44ee-837a-406c50bc5909",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163296Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d698c1c3-91b7-42ca-8db8-6407a4ffcee8",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2163306Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

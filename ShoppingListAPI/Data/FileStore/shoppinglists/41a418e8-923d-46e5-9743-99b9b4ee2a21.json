@@ -1,0 +1,80 @@
+{
+    "Id":  "41a418e8-923d-46e5-9743-99b9b4ee2a21",
+    "Title":  "派對用品 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T13:13:41.785781+08:00",
+    "Items":  [
+                  {
+                      "Id":  "33bf0c77-ec9b-44fc-94a2-c6f7d6932d9a",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:49:37.7889284+08:00",
+                      "CompletedAt":  "2025-01-18T02:10:33.7556795+08:00"
+                  },
+                  {
+                      "Id":  "a0af3234-4b2f-47ab-ac7a-d7095f82cf7e",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:45:21.7284049+08:00",
+                      "CompletedAt":  "2025-01-21T00:13:43.5878593+08:00"
+                  },
+                  {
+                      "Id":  "76bfb829-b145-479b-9355-43f40520b41a",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:13:44.4678933+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acb6dbd6-8a47-4919-ad78-b8287b6e0b98",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:08:38.3710221+08:00",
+                      "CompletedAt":  "2025-01-22T10:00:25.6592551+08:00"
+                  },
+                  {
+                      "Id":  "73ce41f6-99e0-4ed3-9cb9-ef10095c9b61",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:28:47.2567022+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7d00e26-91ee-4704-bbe0-cbc0e9f8219f",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:18:17.8592348+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24557018-fa8d-4e58-a23d-f880c7c6f479",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:27:33.9155426+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b472c4db-5dcb-4552-8589-5673cab41ece",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:32:10.5291785+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "3dcee194-914a-4a42-bdd1-871907a7b159",
+    "Title":  "聚會準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T20:56:01.56102+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74fa41bd-1e3d-421e-a0c0-d7d444291f8a",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:31:22.3421227+08:00",
+                      "CompletedAt":  "2025-01-18T21:04:09.4097628+08:00"
+                  },
+                  {
+                      "Id":  "14ad3514-4206-4618-af14-183c0e549980",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:14:36.4191256+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31d9e841-00cc-4d06-9c7f-626e02cabe32",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:48:05.1690306+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c23fdce2-9598-4ba7-a851-6ed4f1301f27",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:38:50.7278773+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24eb2352-dd09-4d93-a916-a40dce73bd11",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:35:30.1313745+08:00",
+                      "CompletedAt":  "2025-01-18T13:35:09.1866774+08:00"
+                  },
+                  {
+                      "Id":  "f94d10ed-ed60-467e-ad0c-fbe8c1d74af2",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:33:59.7983994+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f80239c-81b8-4759-81fa-8e2699b260bf",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:57:03.9278321+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "e186b13e-325c-44ea-9297-34dd77459639",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T13:38:48.749875+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ce28b95-3701-4589-a600-1c174b93cf92",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638471Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a201c39f-5be0-4e68-8373-e32bab1b7ea5",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7119193d-bfa4-454a-8fa4-8a49aaa6a7c1",
+                      "Name":  "Practical Fresh Car",
+                      "Quantity":  1,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "187c015b-bbbb-40e2-9f91-ea9357b9a4e2",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5801b38a-b1f0-4b43-9f6f-119174c35c70",
+                      "Name":  "Handcrafted Plastic Keyboard",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638703Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a34709ea-c473-4b18-bd26-8e4d37374c8e",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  18,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638719Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8918f5d-3890-4a47-be6b-acbe82c66f57",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.663873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f08fd846-953c-4d47-982f-88d9e914c4d7",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638739Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e426c45-ae1c-41d2-8d51-549523200341",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6638748Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

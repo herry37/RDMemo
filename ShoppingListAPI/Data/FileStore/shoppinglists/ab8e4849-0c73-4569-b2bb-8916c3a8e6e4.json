@@ -1,0 +1,62 @@
+{
+    "Id":  "ab8e4849-0c73-4569-b2bb-8916c3a8e6e4",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T06:36:24.7773341+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b4ce5cf2-84c2-4cf0-848d-bc3a28e62284",
+                      "Name":  "尺",
+                      "Quantity":  2,
+                      "Price":  391.125844160143670,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:46:50.9452632+08:00",
+                      "CompletedAt":  "2025-01-16T00:34:02.3190509+08:00"
+                  },
+                  {
+                      "Id":  "036617ba-97d8-4794-9d69-efa4cdf7b131",
+                      "Name":  "尺",
+                      "Quantity":  6,
+                      "Price":  444.001324408784440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:20:00.7549176+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40397f99-915d-4b4c-a811-958675874b6f",
+                      "Name":  "糖果",
+                      "Quantity":  4,
+                      "Price":  391.771530272118840,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T14:31:15.9327522+08:00",
+                      "CompletedAt":  "2025-01-15T07:47:55.2585591+08:00"
+                  },
+                  {
+                      "Id":  "fc134901-e17c-48cd-a65d-e8212c10f526",
+                      "Name":  "巧克力",
+                      "Quantity":  4,
+                      "Price":  320.319430332052190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:01:08.6075828+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "659ff9d7-e911-4905-98a2-7157a4ce606b",
+                      "Name":  "海綿",
+                      "Quantity":  10,
+                      "Price":  352.902930962748730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:50:36.8672327+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97ff3d29-bd56-445f-a901-52fab6e1e1e6",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  321.473129603267660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:55:32.194916+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

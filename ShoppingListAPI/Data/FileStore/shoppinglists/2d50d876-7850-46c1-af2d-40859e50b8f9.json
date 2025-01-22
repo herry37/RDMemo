@@ -1,0 +1,62 @@
+{
+    "Id":  "2d50d876-7850-46c1-af2d-40859e50b8f9",
+    "Title":  "年節採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T22:03:04.9426558+08:00",
+    "Items":  [
+                  {
+                      "Id":  "25c4f3f7-7682-4b93-99a7-23dd432946c8",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:25:15.1276644+08:00",
+                      "CompletedAt":  "2025-01-21T08:49:26.5309352+08:00"
+                  },
+                  {
+                      "Id":  "07a01418-b98e-41cf-a106-398467481f0e",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:27:36.2550047+08:00",
+                      "CompletedAt":  "2025-01-17T01:16:28.2480139+08:00"
+                  },
+                  {
+                      "Id":  "382664af-eb25-4cac-b8c5-ea33e008a85a",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:40:25.425216+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2898469b-c725-47d0-9fbc-9f1afa99ae9b",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:29:48.4480556+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "022ed59f-2bc1-4784-81c8-8dcd654fcc9b",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:47:36.8736639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb2fba6f-3e83-4052-b10c-fd57b5abd9b9",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:21:12.2447176+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

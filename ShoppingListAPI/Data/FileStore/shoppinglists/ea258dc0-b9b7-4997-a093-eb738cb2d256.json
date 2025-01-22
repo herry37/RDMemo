@@ -1,0 +1,35 @@
+{
+    "Id":  "ea258dc0-b9b7-4997-a093-eb738cb2d256",
+    "Title":  "01/17 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T06:43:14.6406051+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e36305a8-cc86-4cdb-bcab-002c0c45bd14",
+                      "Name":  "Handcrafted Steel Shirt",
+                      "Quantity":  4,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4121048Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1b4e037-dc37-4de1-866e-6ce090044e89",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4121092Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa934203-0d7c-4622-95e4-3a75dffea529",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4121116Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "3738ca4c-4ea8-4440-9286-5e63303ebf0f",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T20:23:45.6032223+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4bd2bf17-8098-496d-9461-b9250d3b1aea",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  364.653379559957310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:01:18.1652664+08:00",
+                      "CompletedAt":  "2025-01-19T15:05:56.2782783+08:00"
+                  },
+                  {
+                      "Id":  "87a0b253-eff5-42ba-b682-6dbe8522a0e0",
+                      "Name":  "訂書機",
+                      "Quantity":  10,
+                      "Price":  241.086918546166830,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:34:05.7320044+08:00",
+                      "CompletedAt":  "2025-01-19T15:17:20.2894044+08:00"
+                  },
+                  {
+                      "Id":  "a92833dd-6309-43d7-bbd1-20a36ca6cdc6",
+                      "Name":  "面膜",
+                      "Quantity":  9,
+                      "Price":  335.575723823385140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:44:50.4688838+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba9b4d4c-1b81-4520-a3a8-cbe1a06ef179",
+                      "Name":  "洋芋片",
+                      "Quantity":  8,
+                      "Price":  28.8083984957410290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:25:58.2085359+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1ab6cd6-8d56-4e80-a312-073a9328bf30",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  356.799364072044380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:58:26.8214846+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3196b847-ff38-4cea-a3b3-1c033d89d440",
+                      "Name":  "盤子",
+                      "Quantity":  3,
+                      "Price":  373.446573054133240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:52:49.4564062+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5db0abca-f7e1-48a7-8c29-227a621964f6",
+                      "Name":  "青菜",
+                      "Quantity":  8,
+                      "Price":  298.764197369242910,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:03:53.6159765+08:00",
+                      "CompletedAt":  "2025-01-17T01:56:44.9407146+08:00"
+                  },
+                  {
+                      "Id":  "75fa0601-ad95-4c93-8734-f8b104ca985d",
+                      "Name":  "果汁",
+                      "Quantity":  6,
+                      "Price":  468.910608453602410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:53:44.0668067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64263ab3-6020-4099-a452-297b280bfddb",
+                      "Name":  "芳香劑",
+                      "Quantity":  1,
+                      "Price":  58.4790948928141310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:52:38.8669192+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d0b09b4-9770-40a0-a5b9-26c46679fc94",
+                      "Name":  "筆記本",
+                      "Quantity":  8,
+                      "Price":  487.642270255182760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:23:01.563032+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

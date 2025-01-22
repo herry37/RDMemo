@@ -1,0 +1,44 @@
+{
+    "Id":  "1566f351-9141-448e-8b49-848debba0cea",
+    "Title":  "01/18 零食採買清單",
+    "CreatedAt":  "2025-01-20T16:45:40.4670652+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22d600eb-f5a1-4450-bf66-6c3db4e40275",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  376,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7435485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41765699-5462-4b78-990a-77b23b1e0d78",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7435569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99552bc0-0087-4b8e-8fe9-5abd0a141901",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7435577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69c89930-15a4-427f-9da6-9240547609f7",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7435689Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "c588b7a2-443e-420c-b316-1d86ab5cfbf8",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T16:31:42.5813963+08:00",
+    "Items":  [
+                  {
+                      "Id":  "05abf042-f895-4fb3-8852-1f7b0e75de49",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.82228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "466fb383-b6f9-4317-bf5a-eac61e3822c5",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce25fafd-4feb-4a93-9a7e-16b4079fde81",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2fe3dbe-1e3e-4095-9fe5-405d39931bad",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "441e1978-2b16-4654-affd-2c02cd96b6e9",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "291b37ca-20b7-4971-badd-d6fa62c27486",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9c48c61-0a0e-4f86-9a39-3388b81fb17b",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  408,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8222975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80a1dcce-a694-4a09-8bb6-8dbc2dba8b80",
+                      "Name":  "Refined Fresh Chicken",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8223204Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95d23e5c-3326-4aa5-9bde-bd0894e90a37",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8223219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3268dff9-5841-4315-a9cb-8b3d259cff1c",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8223239Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "2651d7df-8f2f-458d-b2cd-302e9bdf9800",
+    "Title":  "居家整理 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-17T23:10:56.9670429+08:00",
+    "Items":  [
+                  {
+                      "Id":  "169b0d6b-9804-4a40-aff9-2f7a3a0105d5",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:40:08.9532959+08:00",
+                      "CompletedAt":  "2025-01-22T04:57:50.5826165+08:00"
+                  },
+                  {
+                      "Id":  "750e8f8a-3780-4355-aedb-3e640dcfeb10",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:18:23.9338642+08:00",
+                      "CompletedAt":  "2025-01-21T00:51:20.7810691+08:00"
+                  },
+                  {
+                      "Id":  "62c3253c-eabd-41fe-81fa-676f33bbfa33",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:48:03.4385264+08:00",
+                      "CompletedAt":  "2025-01-18T07:55:32.431466+08:00"
+                  },
+                  {
+                      "Id":  "3ba656a7-bf95-42c4-9981-7213564c577b",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:28:35.8551449+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c43600a-c3cd-423a-9213-33d5f5f04405",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:39:45.3715261+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

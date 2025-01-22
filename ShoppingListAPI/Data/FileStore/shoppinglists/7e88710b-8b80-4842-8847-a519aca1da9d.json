@@ -1,0 +1,62 @@
+{
+    "Id":  "7e88710b-8b80-4842-8847-a519aca1da9d",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T20:05:56.6935613+08:00",
+    "Items":  [
+                  {
+                      "Id":  "10195cbe-c5ad-4a94-8458-f07066262b47",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4526879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33268b07-8c67-48b3-a950-e1705416e079",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4526903Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca464fa7-93e0-4336-84e0-323736535ee5",
+                      "Name":  "Intelligent Fresh Chips",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4527473Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9344b46-84bd-4f80-8010-ddb1043233f4",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4527487Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e5bbbcc-204c-4023-bfeb-c1d6f9f2817f",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  345,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4527671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db103734-26dd-4ff1-a5aa-b81d475057a7",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4527699Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "c0d2f64e-b3ee-415a-a0ba-213ca2534dc4",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T15:31:58.0081415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "847fce42-3593-4f82-bc2a-0956b8f656bb",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5730799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa972fa7-227b-4768-8c91-b1b4d06966bf",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5731013Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e19018b5-07fd-42ae-bc07-8354433c1d12",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5731037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b6c5130-9d59-4fda-9a00-bb57ed5c08e2",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5731048Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2894ec5-1e88-4486-8721-e18b7c5b69dc",
+                      "Name":  "Practical Plastic Hat",
+                      "Quantity":  4,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5731279Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "248e2ae1-71ce-4c81-9caf-68ddc36d9a69",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-16T11:57:35.316648+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eaa9c869-ab46-4f71-a1fc-2039addea210",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8498204Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8d65546-a15b-4959-a1f3-ad9e2db9633f",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8498231Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8946175a-5cfb-46c7-a488-8c58f751e66c",
+                      "Name":  "Licensed Granite Fish",
+                      "Quantity":  2,
+                      "Price":  354,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8498383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97b1104a-e26d-4d33-b8ac-eb8304adbef4",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8498397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

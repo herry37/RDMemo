@@ -1,0 +1,35 @@
+{
+    "Id":  "a54e3049-2680-45a1-b9e9-13c86ac3f529",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T09:02:44.8807103+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9eba3e9a-9a30-4f8a-93e9-18d89fbde2bd",
+                      "Name":  "Generic Steel Table",
+                      "Quantity":  5,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5252078Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17c77204-09a3-40bd-bb3b-70c7f38b88d7",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5252122Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fbae5e7-9d04-4027-9152-0a4d193e6c05",
+                      "Name":  "Tasty Metal Chair",
+                      "Quantity":  1,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5252197Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

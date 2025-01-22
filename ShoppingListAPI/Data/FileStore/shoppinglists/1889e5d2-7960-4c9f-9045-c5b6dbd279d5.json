@@ -1,0 +1,35 @@
+{
+    "Id":  "1889e5d2-7960-4c9f-9045-c5b6dbd279d5",
+    "Title":  "月底大採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-17T15:32:53.375309+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8e63ee7b-02e4-4452-b12e-ea5bb6fe9dd2",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:33:52.4392633+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fff91146-5874-4aa2-a5fa-489251fdff2d",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:45:49.2170082+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "813a7eba-b016-4b1b-a0d9-7dcbc6fa1a67",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:25:39.6033512+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "f80864db-448b-427a-8c68-9b917c0403f0",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-15T16:16:10.2332914+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f8bc750b-8b4d-4220-b88e-c4f93e9268b8",
+                      "Name":  "Refined Steel Cheese",
+                      "Quantity":  3,
+                      "Price":  90,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9835062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7413edf3-0735-4024-b1d3-8870c29138d4",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9835112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee0da0fd-feed-425c-b937-11ea5bdc92a5",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9835143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ad153e4-f463-475e-9b84-beca64f895e0",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  17,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.983516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ac4a6c4-b769-40c8-8528-2d79d95e7b74",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9835181Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66eff2ca-d67a-4922-9529-2daaffc8c0b3",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9835213Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

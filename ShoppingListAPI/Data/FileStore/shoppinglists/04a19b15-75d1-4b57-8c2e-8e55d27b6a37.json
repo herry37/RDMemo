@@ -1,0 +1,98 @@
+{
+    "Id":  "04a19b15-75d1-4b57-8c2e-8e55d27b6a37",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T12:28:25.5298169+08:00",
+    "Items":  [
+                  {
+                      "Id":  "81475cc5-eb28-4d2c-997d-440057973ad2",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0ac5188-8432-4575-93e0-153bbb495c20",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bb5c75b-82be-43b3-a5df-880e172f98d5",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e97de96-8dfc-482e-a1be-624e8d04a4f1",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d269d5c3-a431-4bc7-9eb7-335d5dbd6fba",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256637Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd1a1efb-31e6-43c5-be19-ac6f7a9821eb",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "205fb3e5-0b01-4a89-b048-4aad2ac24840",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0967d1b6-95ce-47eb-a04b-d35fbaa231e0",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256683Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0874ac5a-fcd1-4027-8561-fbeeed0f0d22",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9156aa4-85ab-46dc-84a9-6be997d6d130",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1256704Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

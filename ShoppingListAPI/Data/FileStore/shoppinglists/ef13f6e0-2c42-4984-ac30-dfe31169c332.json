@@ -1,0 +1,44 @@
+{
+    "Id":  "ef13f6e0-2c42-4984-ac30-dfe31169c332",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-19T05:48:05.0789959+08:00",
+    "Items":  [
+                  {
+                      "Id":  "820dacce-c9d3-4fe1-909a-74ffbc876b5e",
+                      "Name":  "可樂",
+                      "Quantity":  9,
+                      "Price":  491.443882234078610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:12:14.4861887+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b636496-0c78-4278-bd13-7188ad967ddd",
+                      "Name":  "乳液",
+                      "Quantity":  8,
+                      "Price":  437.876827172554340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:26:15.4771465+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee214155-49d6-4d8f-82bc-a9347dbbc2ff",
+                      "Name":  "芳香劑",
+                      "Quantity":  1,
+                      "Price":  248.758383472912730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:54:43.5964694+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96f1948b-afe5-4219-9442-bf793de57e4a",
+                      "Name":  "漂白水",
+                      "Quantity":  3,
+                      "Price":  91.026377338569180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:29:04.0551681+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

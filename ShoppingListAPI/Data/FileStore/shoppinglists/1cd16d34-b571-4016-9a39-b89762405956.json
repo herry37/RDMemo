@@ -1,0 +1,53 @@
+{
+    "Id":  "1cd16d34-b571-4016-9a39-b89762405956",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T18:50:14.81114+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eb566da3-8502-4922-a1cd-396631098470",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:07:23.3010026+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f46f8cbc-1d5b-40e0-8762-b93db2764f6a",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:43:29.4057182+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5baabee-6ec8-4cf4-9270-afb02f2d6a34",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  5,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:53:17.9184523+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd0b274d-1894-4ccf-8171-6a5cfc7ffd36",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:16:38.1706387+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a835662-38e6-4cac-80c0-1dc0f98cda7f",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:25:20.9742051+08:00",
+                      "CompletedAt":  "2025-01-20T06:10:15.0653352+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

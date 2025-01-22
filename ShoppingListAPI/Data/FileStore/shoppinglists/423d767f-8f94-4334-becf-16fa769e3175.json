@@ -1,0 +1,62 @@
+{
+    "Id":  "423d767f-8f94-4334-becf-16fa769e3175",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T01:01:52.3552657+08:00",
+    "Items":  [
+                  {
+                      "Id":  "daea7d85-dc89-482d-a731-f9147f7b1ea7",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2726745Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b51183e-06ac-442f-8c82-69f569de9744",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.272677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd0fdedf-0386-4074-9176-77c567d0d6ea",
+                      "Name":  "Rustic Concrete Chair",
+                      "Quantity":  1,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2726944Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "faf619e6-5dfc-4935-8dc2-f460c8ff0132",
+                      "Name":  "Handmade Wooden Cheese",
+                      "Quantity":  5,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2726986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03593d89-bce0-44a0-aebf-5d4e0fad3a09",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2726997Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "891b8f54-36f0-4580-a907-67245bb3cfcf",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2727013Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "2822c476-f694-46e2-9bf7-5e5bb7fd269b",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-19T12:48:46.7246322+08:00",
+    "Items":  [
+                  {
+                      "Id":  "98dc21e9-1893-40e3-8761-30eb78e15be9",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1541877Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35973ecd-922a-4017-9a0c-010e9f5917dd",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  256,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1541915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f52e952-1c39-4734-99d5-07d97bee9cdf",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1541925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdc6bfe7-5c95-4b32-9ace-28406dcc35eb",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1541934Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a5bf1f7-e653-40fb-ab38-33da7104529d",
+                      "Name":  "Fantastic Soft Computer",
+                      "Quantity":  3,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1542171Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

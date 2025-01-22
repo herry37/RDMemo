@@ -1,0 +1,62 @@
+{
+    "Id":  "5c352eaa-b34d-4ecf-aa02-e5682ff4821a",
+    "Title":  "派對用品 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T19:39:35.8725726+08:00",
+    "Items":  [
+                  {
+                      "Id":  "28c515c5-6b8a-4b8f-81a4-5d8d5c2ee5a3",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:23:34.4596662+08:00",
+                      "CompletedAt":  "2025-01-18T15:28:42.1969252+08:00"
+                  },
+                  {
+                      "Id":  "3e94e2a9-2c1c-4789-aa7e-df000dd4789f",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:32:40.3451549+08:00",
+                      "CompletedAt":  "2025-01-21T19:46:41.4109283+08:00"
+                  },
+                  {
+                      "Id":  "4780e1e3-19f6-46c6-9652-9d2e207be408",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:31:31.7124497+08:00",
+                      "CompletedAt":  "2025-01-22T00:49:45.271099+08:00"
+                  },
+                  {
+                      "Id":  "ce807de6-e7c5-4ef2-a5b0-fbbcaf1d557a",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:46:17.6341755+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a348ce5-864c-4156-a309-472940f83027",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:43:54.2690112+08:00",
+                      "CompletedAt":  "2025-01-20T08:57:59.3002101+08:00"
+                  },
+                  {
+                      "Id":  "d40640c3-81d8-48d8-842a-2dd9109b0c66",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:08:26.1776787+08:00",
+                      "CompletedAt":  "2025-01-21T08:02:45.0041672+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "51a4faac-0c8e-4e6e-aa3f-39fcded310b0",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T18:38:52.5092361+08:00",
+    "Items":  [
+                  {
+                      "Id":  "abc741b0-3ab1-4778-9eb5-49b4d45b2f9b",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7671813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07099b8e-6c00-4bb0-a1f5-d07a14163fba",
+                      "Name":  "Awesome Rubber Keyboard",
+                      "Quantity":  3,
+                      "Price":  467,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7672232Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f655226c-0a51-488c-8906-f3661796e17f",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7672246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c78da9f5-5895-43da-8e92-018be95ec1ba",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7672268Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a728836-64a0-49c9-a7f1-54de5672a3d9",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7672279Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

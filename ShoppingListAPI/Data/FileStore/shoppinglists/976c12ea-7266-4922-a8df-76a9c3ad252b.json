@@ -1,0 +1,35 @@
+{
+    "Id":  "976c12ea-7266-4922-a8df-76a9c3ad252b",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T01:53:54.5982833+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f73cc9c-7470-4bec-9c32-8588ca42b391",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3665595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f3d484c-b357-4de3-84f8-50a0c597dde5",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  483,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3665825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44c921b2-2e43-4747-bd99-76907dbdc919",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3665835Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

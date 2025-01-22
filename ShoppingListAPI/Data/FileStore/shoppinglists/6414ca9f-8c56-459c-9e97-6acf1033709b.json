@@ -1,0 +1,53 @@
+{
+    "Id":  "6414ca9f-8c56-459c-9e97-6acf1033709b",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-17T08:04:13.4704769+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4fcb004b-0f96-42ab-8313-b4227ee38f80",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.579845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f433e95e-c696-4418-b298-091fb292e123",
+                      "Name":  "Practical Soft Gloves",
+                      "Quantity":  3,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.579872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7017aa2c-194a-4f9e-a939-12765bb85aab",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5798774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f8e6e41-5ef2-44c3-9a8d-0f3a3fc2cd9f",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5798804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7191c273-0ed7-424f-9efa-fcc1d91281c3",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5798835Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

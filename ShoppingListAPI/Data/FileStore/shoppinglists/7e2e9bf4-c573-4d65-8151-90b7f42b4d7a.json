@@ -1,0 +1,62 @@
+{
+    "Id":  "7e2e9bf4-c573-4d65-8151-90b7f42b4d7a",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T14:16:20.4325534+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9fea5777-bc5c-4ba9-8fbc-99addd876933",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4987888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60bf50c1-06db-46fd-bc55-1d5089d50c5e",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4987904Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7121035-83ee-4477-bd2d-22b19ecb6a07",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4987921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f48ae71b-9690-4c34-a15a-50d1ef682117",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4987926Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c42e42b7-2018-45d3-9b64-5e05c9db0319",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4987932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c088cbd-d0c3-462f-9935-9b7251dd7656",
+                      "Name":  "Ergonomic Frozen Shoes",
+                      "Quantity":  5,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4988061Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

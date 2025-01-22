@@ -1,0 +1,53 @@
+{
+    "Id":  "c8c37db2-1181-462c-bba5-405be42014dd",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T13:56:14.715954+08:00",
+    "Items":  [
+                  {
+                      "Id":  "581ace95-d219-4578-a043-c9dc0e9bd8fa",
+                      "Name":  "Handmade Rubber Car",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2541673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32a5952b-33bb-4523-9a53-7a61ebc13a8b",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2541714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2e244a1-f7d8-4569-b0fa-882c7e622abd",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2541726Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98956930-10ba-4235-8728-b9af34cb05cf",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2541738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fbc37c8-df27-421a-b483-bd8db905814c",
+                      "Name":  "Generic Wooden Chicken",
+                      "Quantity":  4,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2541804Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

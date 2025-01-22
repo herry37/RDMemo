@@ -1,0 +1,44 @@
+{
+    "Id":  "48a619e0-e458-42e0-9a7b-99c73a6e3ff9",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-14T13:38:41.0354145+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dddbe164-1201-4dbc-9a92-6c6d22fd23ee",
+                      "Name":  "資料夾",
+                      "Quantity":  5,
+                      "Price":  350.376932699905710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:51:14.6209933+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4626562d-7e02-4a29-9c59-9be16c59bac3",
+                      "Name":  "汽水",
+                      "Quantity":  3,
+                      "Price":  412.988462584180340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:58:42.9337304+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e1a65ce-b2c0-45b8-a7e5-c562da6d54f9",
+                      "Name":  "剪刀",
+                      "Quantity":  3,
+                      "Price":  492.099227609689480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:52:51.4817483+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb2d1683-ac13-49b5-91e1-25ab54a42ee0",
+                      "Name":  "便利貼",
+                      "Quantity":  9,
+                      "Price":  185.164631838190960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:11:50.5671876+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

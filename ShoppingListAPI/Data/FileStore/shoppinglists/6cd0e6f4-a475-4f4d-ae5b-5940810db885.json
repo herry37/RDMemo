@@ -1,0 +1,98 @@
+{
+    "Id":  "6cd0e6f4-a475-4f4d-ae5b-5940810db885",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T06:15:27.0212871+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3c5a2a9e-b26b-4d0f-8be1-03a1d21e2c9b",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.20176Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "400ec5f5-9a6b-46ec-8982-2a959a43ab9b",
+                      "Name":  "Fantastic Concrete Mouse",
+                      "Quantity":  1,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b6ea771-2a76-43c3-a978-07200b109ca2",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  324,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53681585-dd91-433a-8c78-0793f3f9fb11",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d23a7cfd-5b29-4b72-b2fe-ad73999ebc2b",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af311f85-5dbd-48f1-b813-4abac55413ee",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06fef5b9-b66c-4018-ae64-687968dc4b22",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "527cc806-53fb-47e8-b506-f6c6abf49e4d",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017721Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e050e22-88bf-410e-b007-4564211179e6",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017729Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c0264cd-e780-4e15-b7b7-d1302cd3a6dc",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2017749Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

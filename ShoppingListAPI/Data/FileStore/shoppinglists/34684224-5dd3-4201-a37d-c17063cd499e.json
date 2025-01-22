@@ -1,0 +1,53 @@
+{
+    "Id":  "34684224-5dd3-4201-a37d-c17063cd499e",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T15:53:32.6087563+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1c163816-9833-4af8-abc3-c7876b1a05c3",
+                      "Name":  "環保餐具組",
+                      "Quantity":  5,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:36:56.8098352+08:00",
+                      "CompletedAt":  "2025-01-17T16:11:56.1695262+08:00"
+                  },
+                  {
+                      "Id":  "4d905d7e-f53b-4f29-90e1-a782d810dbc5",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:43:06.8123215+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7418132-a81c-4494-9bf2-e4f566c74962",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:13:38.6155734+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b25f8f3a-28b2-41b9-becc-4f22ff1feddc",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:21:42.1862982+08:00",
+                      "CompletedAt":  "2025-01-15T16:19:42.0370943+08:00"
+                  },
+                  {
+                      "Id":  "69443ed8-553c-4060-8978-c2124e0b3c48",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:36:54.8217783+08:00",
+                      "CompletedAt":  "2025-01-22T03:37:43.1478458+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

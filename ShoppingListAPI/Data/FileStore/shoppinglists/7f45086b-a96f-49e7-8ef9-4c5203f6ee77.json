@@ -1,0 +1,71 @@
+{
+    "Id":  "7f45086b-a96f-49e7-8ef9-4c5203f6ee77",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T17:40:34.417161+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45b449ca-d3ef-446e-ab2f-998a5ac108bc",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826157Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19d03105-8c36-427a-97de-a27ef0c60318",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d07522e5-68fc-4012-bc59-822845ad76fb",
+                      "Name":  "Rustic Metal Shirt",
+                      "Quantity":  2,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28101e77-8c85-4d42-bc3d-8b8997311778",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  185,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e94f3be-ab60-4b38-b886-89c8f3441ec5",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42464e76-9c8e-486e-8d08-72929f39514e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4769a1c9-051d-4b8a-857c-cd1fa3fea9e7",
+                      "Name":  "Sleek Steel Sausages",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8826408Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "cc4ad653-349a-434a-93c5-09fbd8c1a865",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T11:50:26.3409937+08:00",
+    "Items":  [
+                  {
+                      "Id":  "faaf9f54-08aa-43aa-aa89-987f7f554e53",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  472,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491611Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "882621b5-077c-4b4c-8929-f8ee5776d600",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491641Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bfabc33-eda1-46ac-93c0-1bac106b08eb",
+                      "Name":  "Intelligent Soft Chair",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4b340b3-0e33-4304-9fae-f9438fa995fd",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d8dac51-12b0-456a-a7e7-36983b5c92fe",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db1e536a-5ccb-4c86-af46-af6d002f7c64",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c37b254-f730-4ebf-9093-73d420cdd0df",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491893Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "218e970d-780f-4464-aad2-5738105b14c7",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6491902Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

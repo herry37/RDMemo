@@ -1,0 +1,35 @@
+{
+    "Id":  "0ccffb88-d2ff-474c-a58a-a5537e2ce5ad",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-16T08:18:23.9464495+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0c07ef9b-2c06-4ecd-978d-efb1b2aca472",
+                      "Name":  "Licensed Concrete Cheese",
+                      "Quantity":  2,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4114223Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a4e4661-9a45-4e5e-a072-d8ee12c189ec",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4114241Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d88b8ff3-0be9-4bf4-99c7-c90328a17532",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4114252Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

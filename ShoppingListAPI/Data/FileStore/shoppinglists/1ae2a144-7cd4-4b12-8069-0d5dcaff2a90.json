@@ -1,0 +1,35 @@
+{
+    "Id":  "1ae2a144-7cd4-4b12-8069-0d5dcaff2a90",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-20T12:14:35.3611005+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7012c4da-afd8-40b5-b64f-3a74a0a92ad4",
+                      "Name":  "茶",
+                      "Quantity":  9,
+                      "Price":  82.072334141808280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:00:07.9329154+08:00",
+                      "CompletedAt":  "2025-01-18T10:19:22.9111955+08:00"
+                  },
+                  {
+                      "Id":  "7cd8a084-21b3-47c6-a778-c36fe1eca439",
+                      "Name":  "便利貼",
+                      "Quantity":  8,
+                      "Price":  423.559596838069010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T17:06:19.6081936+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33d87e9e-cdc9-4bd9-b3cb-31be65e755a2",
+                      "Name":  "垃圾袋",
+                      "Quantity":  10,
+                      "Price":  113.417000606719310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:00:57.8845187+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

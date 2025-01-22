@@ -1,0 +1,44 @@
+{
+    "Id":  "7db5c3ac-cc05-435f-a226-078cf57cfaa4",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T05:20:04.7816603+08:00",
+    "Items":  [
+                  {
+                      "Id":  "56c22436-351a-41b1-8475-da81029ba539",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:47:06.6522932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "962f9d32-2fea-4d08-8636-4eba97ce7396",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:45:24.9370485+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7ba30ad-3394-4dcb-a0d5-4de1238b4b59",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:31:10.49086+08:00",
+                      "CompletedAt":  "2025-01-17T03:07:32.8569618+08:00"
+                  },
+                  {
+                      "Id":  "854dd97f-ca99-43a6-96b3-8376739000ed",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:47:55.1501002+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

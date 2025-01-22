@@ -1,0 +1,35 @@
+{
+    "Id":  "d5e1eb04-26ee-4ab1-8eb0-7e013a9ce528",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T06:48:35.1858759+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc9e77d5-9bb6-43fd-88ca-27fbe9f8228f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6600132Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "038afe0b-86cf-49f0-98b5-6eaf0c25b852",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6600151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3e37c51-5610-43e2-8f55-86e4d31529a9",
+                      "Name":  "Fantastic Granite Bike",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6600344Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

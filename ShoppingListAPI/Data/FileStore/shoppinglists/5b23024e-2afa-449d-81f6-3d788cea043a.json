@@ -1,0 +1,62 @@
+{
+    "Id":  "5b23024e-2afa-449d-81f6-3d788cea043a",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T16:01:47.5585041+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4243a5d6-a60a-47ba-b083-d7fcbde03f6b",
+                      "Name":  "棉被",
+                      "Quantity":  8,
+                      "Price":  499.189450073178260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:33:14.4003572+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "878ba0d8-a2ed-49bd-8ce1-161b06d1402e",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  420.112147566122750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:23:45.6005031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc3f2737-eb1d-4e2c-a742-c5d9450032fa",
+                      "Name":  "蛋糕",
+                      "Quantity":  3,
+                      "Price":  374.16842883762180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:15:58.9668146+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cecf976c-1da5-4a5f-a721-b1ec273655d2",
+                      "Name":  "口香糖",
+                      "Quantity":  6,
+                      "Price":  194.256063731957560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:44:07.1435218+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a88bc636-280c-4b2f-bfbe-a25a67e26a5f",
+                      "Name":  "碗",
+                      "Quantity":  6,
+                      "Price":  406.399794869115240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:27:05.5412874+08:00",
+                      "CompletedAt":  "2025-01-18T00:10:10.632177+08:00"
+                  },
+                  {
+                      "Id":  "6608e8d7-a4dd-4b06-995d-9915c7d26e79",
+                      "Name":  "保鮮膜",
+                      "Quantity":  8,
+                      "Price":  130.080824989833330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:01:24.5394294+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

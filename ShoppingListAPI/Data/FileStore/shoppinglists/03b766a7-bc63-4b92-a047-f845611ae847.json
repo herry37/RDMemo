@@ -1,0 +1,71 @@
+{
+    "Id":  "03b766a7-bc63-4b92-a047-f845611ae847",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-18T18:07:57.2208181+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2e1e964e-0476-4d04-87c3-1d5762393849",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  493,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8944106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f1b0af9-21ec-4794-926f-20258c273dc3",
+                      "Name":  "Tasty Concrete Shoes",
+                      "Quantity":  2,
+                      "Price":  162,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8944328Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09df329f-1233-49f0-8a02-0f7c45886703",
+                      "Name":  "Ergonomic Rubber Mouse",
+                      "Quantity":  4,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8946789Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbd492b3-e7a9-4665-ab9d-f37ca03edb6c",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8946805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "385648bd-68c6-444f-92a7-705b93ef1acf",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8946814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "333c315d-c7db-4c77-8669-9d42ee0ad218",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8946876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73983656-7d80-46b7-913b-d83c9f2a2d4e",
+                      "Name":  "Rustic Soft Keyboard",
+                      "Quantity":  2,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8946942Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "2bbc950e-8582-4e40-b01c-daec40c0f17a",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T04:50:59.7110801+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4ef5aed-b655-4cb1-bca2-ba3456b5a508",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e69e653-d666-48d5-a5d3-1cbd16ab37ff",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.92383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "461938b3-9af7-4198-95ee-89a764407b18",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  457,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ba8be51-2ccc-4f7a-b7f7-23c2373895be",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddfebf11-e8e6-4616-9e9b-df964ff65e0f",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a9a400d-912d-429e-b121-1bb7088caeeb",
+                      "Name":  "Awesome Wooden Pizza",
+                      "Quantity":  4,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "028d9d60-4238-4b51-95e5-2592c8cc31f4",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9238566Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

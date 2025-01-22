@@ -1,0 +1,35 @@
+{
+    "Id":  "7df4d12c-fb6f-4fe6-acce-47ec17f2c3e7",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T11:31:24.1914809+08:00",
+    "Items":  [
+                  {
+                      "Id":  "17e571f7-6a61-4945-a30d-7a8ef42d9b36",
+                      "Name":  "Sleek Cotton Shirt",
+                      "Quantity":  4,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2743614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d28242dd-7bf0-48d6-b4ca-d4a61b3ab29e",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2743646Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dabbb3f0-33a7-418d-9043-8c7c79dfdddb",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  487,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2743658Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

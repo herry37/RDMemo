@@ -1,0 +1,35 @@
+{
+    "Id":  "0e642c1b-f54c-401e-ab41-ce8e300ece2e",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-20T13:23:31.5753155+08:00",
+    "Items":  [
+                  {
+                      "Id":  "98730a75-4a19-4c23-a09c-5c4150c0f9e4",
+                      "Name":  "沐浴乳",
+                      "Quantity":  6,
+                      "Price":  263.100571558010330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:16:55.6317687+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3566d3c9-3ca4-4234-bdad-49b2e36da754",
+                      "Name":  "餐具",
+                      "Quantity":  7,
+                      "Price":  360.314333847683520,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:42:27.6106855+08:00",
+                      "CompletedAt":  "2025-01-18T14:08:51.2026807+08:00"
+                  },
+                  {
+                      "Id":  "e05309d7-3da4-47c4-be9f-9b49c0441773",
+                      "Name":  "訂書機",
+                      "Quantity":  6,
+                      "Price":  282.490656442573520,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:39:58.555267+08:00",
+                      "CompletedAt":  "2025-01-17T14:21:55.1434165+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

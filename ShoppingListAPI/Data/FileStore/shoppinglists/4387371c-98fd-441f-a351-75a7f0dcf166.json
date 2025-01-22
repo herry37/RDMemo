@@ -1,0 +1,80 @@
+{
+    "Id":  "4387371c-98fd-441f-a351-75a7f0dcf166",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T04:25:18.3910379+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82564cae-ebdf-4a9a-83dc-698b66c13e4e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  2,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:56:27.9917727+08:00",
+                      "CompletedAt":  "2025-01-19T05:00:12.3333923+08:00"
+                  },
+                  {
+                      "Id":  "502aced2-a983-4117-80e0-1391240609e8",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:41:11.3659792+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40d18fed-fa49-4406-a6a9-953dbe7029ae",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:01:45.3105087+08:00",
+                      "CompletedAt":  "2025-01-19T13:45:50.2813211+08:00"
+                  },
+                  {
+                      "Id":  "62ea0ceb-f3f0-4b32-b6f6-dd4eec0092a0",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:14:04.7473399+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "abcff21d-da74-4b44-844c-ef10201b167f",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:06:30.3411506+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf957ef8-8866-4d5f-ad51-c54ac1bc1eaa",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:29:24.2820796+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce409d68-1094-4592-93a6-a5cd4465fac8",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:43:38.7080309+08:00",
+                      "CompletedAt":  "2025-01-20T05:56:48.6111685+08:00"
+                  },
+                  {
+                      "Id":  "fdd6e7b4-03e9-450c-b197-2cdcc9acff79",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:23:48.3562726+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "aa66c986-2479-494f-b26f-702a4730d928",
+    "Title":  "露營準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T13:09:44.8931066+08:00",
+    "Items":  [
+                  {
+                      "Id":  "31aa3735-a2ad-494d-9706-8a1f6d2dc7b5",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:42:25.8721256+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "479bcd6a-1ec3-4c01-9af7-cf225199d09d",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T15:20:48.7991063+08:00",
+                      "CompletedAt":  "2025-01-20T10:13:15.525325+08:00"
+                  },
+                  {
+                      "Id":  "632b02bd-d003-4277-805c-d1a0621f06f3",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:03:56.6283354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7604ad8b-e4e0-49a6-90f0-683d8ac9486e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:43:08.1197102+08:00",
+                      "CompletedAt":  "2025-01-22T00:53:32.8231299+08:00"
+                  },
+                  {
+                      "Id":  "4539a659-4f90-4f25-88b3-a05247bbf1c1",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:17:53.1807403+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2e61d3d-a654-4fcd-8fa4-e0963aaf9b74",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:12:54.4982816+08:00",
+                      "CompletedAt":  "2025-01-17T18:19:53.463058+08:00"
+                  },
+                  {
+                      "Id":  "6ef87eee-cf27-4dd9-8710-7287c4a8ffd9",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:47:38.0131014+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "824c8084-2e49-4992-a960-5d18c39b1678",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:23:25.9721744+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

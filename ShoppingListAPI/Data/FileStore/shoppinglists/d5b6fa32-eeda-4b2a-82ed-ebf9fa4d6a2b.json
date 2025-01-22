@@ -1,0 +1,62 @@
+{
+    "Id":  "d5b6fa32-eeda-4b2a-82ed-ebf9fa4d6a2b",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-21T06:15:06.0249911+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88d600af-ec92-4fea-b039-3dd61875e813",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6395082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c60a8d1-eb39-4045-8ee2-c9508dd67546",
+                      "Name":  "Incredible Plastic Car",
+                      "Quantity":  2,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6395376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a48e4f97-88f8-40b7-b71c-ecb5af32817a",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6395406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d067540e-a921-41de-8efe-578e3eeed9f4",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6395441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9df97517-5298-4b60-ae9c-d7a6bebdd219",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6395466Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93f37248-c338-4471-9f95-e3f1ecdb0597",
+                      "Name":  "Generic Wooden Bacon",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.639554Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

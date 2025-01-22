@@ -1,0 +1,71 @@
+{
+    "Id":  "83e76d7d-fa30-4b3d-8c27-17760bc57a79",
+    "Title":  "每週採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T00:42:10.5518409+08:00",
+    "Items":  [
+                  {
+                      "Id":  "70bc0a44-a0f4-48d9-91ab-857324d7c4b2",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:51:50.8465815+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa1863f1-e2ff-492f-9faf-1cec96c023f3",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:29:24.1536884+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd349d83-5898-4da0-8466-61bbf6398fde",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:40:47.0743753+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "101a65af-6b82-4446-ae59-801fe7324fc4",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:46:22.4099717+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68206105-5397-4691-bccc-6efd60ade944",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:39:51.1832696+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9277a5e3-e3eb-49e7-8ab3-602a2c74d77c",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:02:18.9836617+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca100d24-1643-4a3a-8a68-5c31877e81ae",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:33:39.5234708+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

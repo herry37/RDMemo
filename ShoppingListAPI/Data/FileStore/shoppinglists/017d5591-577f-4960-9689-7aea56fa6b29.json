@@ -1,0 +1,71 @@
+{
+    "Id":  "017d5591-577f-4960-9689-7aea56fa6b29",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T06:02:56.5846362+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d440a150-afce-45a9-8c03-7c735aef4a76",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5270c2cb-1beb-4d63-9aa8-939211d5d57d",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  326,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2f30586-7c8c-40d6-b814-6a75b797937f",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.724143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "667b4231-dadc-409f-a26c-9788cc4cc976",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82452777-275c-4289-aefa-e04b1ede8e61",
+                      "Name":  "Small Steel Cheese",
+                      "Quantity":  3,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241813Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d3d3417-dfd3-4de6-bbaf-329832595273",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcf7044d-7b7a-4963-9dee-7b387588ecc8",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7241856Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

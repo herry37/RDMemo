@@ -1,0 +1,44 @@
+{
+    "Id":  "9bbc4d92-e89a-4c60-842a-a845facbd94f",
+    "Title":  "緊急採購 - 01/21",
+    "CreatedAt":  "2025-01-17T11:50:58.8185956+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37446c0c-88d8-4e70-ae7e-0462e4d05bf7",
+                      "Name":  "鍋子",
+                      "Quantity":  1,
+                      "Price":  403.453587235750930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:01:39.4659808+08:00",
+                      "CompletedAt":  "2025-01-17T10:22:07.7160285+08:00"
+                  },
+                  {
+                      "Id":  "d1079d33-5bc0-4b4a-b87d-85260a1737b1",
+                      "Name":  "礦泉水",
+                      "Quantity":  10,
+                      "Price":  142.183164877943060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:53:55.2393663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ed6a24d-7a27-4665-9934-d14e7e824883",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  47.7332769550990750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:21:49.3489204+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28e67886-f48e-4048-8bb6-2328b305e1e7",
+                      "Name":  "洗衣精",
+                      "Quantity":  1,
+                      "Price":  49.3237584370948590,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:56:32.3052464+08:00",
+                      "CompletedAt":  "2025-01-16T21:48:39.255941+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "b206e82a-7560-48b0-b2d9-96dec500300b",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T22:50:22.5163105+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5db47d82-e938-4d86-b94d-80d2d23def02",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:40:41.0959543+08:00",
+                      "CompletedAt":  "2025-01-19T04:25:07.3876802+08:00"
+                  },
+                  {
+                      "Id":  "908dd293-137f-411b-86f0-330fbe6b0cb6",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:44:18.5834813+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10e14a8a-7f55-4794-8e77-c0346d58c87b",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:45:21.8585662+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

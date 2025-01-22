@@ -1,0 +1,62 @@
+{
+    "Id":  "2edf3539-e623-44dc-a609-b2b67fe5df5a",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T17:33:38.1103139+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4578ec5c-36c9-4e5b-86e4-bc74c66f161f",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:53:02.8356752+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9594a125-cce0-4a70-90bc-99591af7f15d",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:47:40.5645416+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71287864-823d-4942-8a71-1eb53cfbc87b",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:16:37.5787045+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b76de31f-fa38-4b16-a06b-08a106ec87b9",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:00:30.9233829+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e792a5b-0f9e-4d60-935c-d663c0dee53d",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:08:51.4764026+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "911f3f10-4574-46ea-8a43-4194db144d6b",
+                      "Name":  "中性筆組",
+                      "Quantity":  4,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:45:47.6251884+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

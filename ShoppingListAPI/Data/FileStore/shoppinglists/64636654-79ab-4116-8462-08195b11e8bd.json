@@ -1,0 +1,44 @@
+{
+    "Id":  "64636654-79ab-4116-8462-08195b11e8bd",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T12:39:38.855645+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a998f588-76a3-46b0-8d6b-417f60ab1f74",
+                      "Name":  "爆米花",
+                      "Quantity":  10,
+                      "Price":  245.289351000447450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:35:32.4451578+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b48bbf3-fc85-4ee9-b979-b30b5d787233",
+                      "Name":  "爆米花",
+                      "Quantity":  7,
+                      "Price":  237.970956623439820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:51:01.6252495+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a98b27ba-1b99-4bf6-aa68-6a0f957544d2",
+                      "Name":  "口香糖",
+                      "Quantity":  6,
+                      "Price":  492.240191541467240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:59:14.6230361+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d9e7ffa-a9f3-4600-87fb-38508c838e72",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  164.659614622920120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:03:16.922435+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

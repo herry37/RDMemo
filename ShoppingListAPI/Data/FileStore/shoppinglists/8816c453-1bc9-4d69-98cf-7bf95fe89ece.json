@@ -1,0 +1,35 @@
+{
+    "Id":  "8816c453-1bc9-4d69-98cf-7bf95fe89ece",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T18:55:09.0635178+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2df6a739-51c5-4106-8f48-eb71d88b8757",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4797524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0138c509-bd3d-43b0-b1ca-eb6ed9c459a6",
+                      "Name":  "Handcrafted Concrete Shirt",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.479781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "792591c4-3f81-42f7-8876-1bed0bd93fa6",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4797832Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "61d33f79-dd17-4eae-85ef-dbe6d9413f76",
+    "Title":  "日常補充 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-15T16:53:53.270856+08:00",
+    "Items":  [
+                  {
+                      "Id":  "19c883e6-d53b-494d-8fba-66ed023bfdfc",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:04:32.3522968+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f458ccb-e8a5-4059-bfc8-3b880c678ba1",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:40:09.8541646+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa889dba-375d-4c17-a908-6e6e1823a830",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:32:35.5288134+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ed6768e-1693-429f-bce9-e304e5651d29",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:52:20.6194092+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a87ef5e-adaf-433f-aed0-b11bf23ba742",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:38:34.8801334+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5bd3a08-b8f8-4c19-ab61-d30d8fa61755",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:28:56.3855029+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cafe898-b889-4488-a848-8ba55f3c9656",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:22:17.7433316+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c86a764-2f15-4101-9042-0e63af5b824a",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:04:33.530613+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

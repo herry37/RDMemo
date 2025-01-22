@@ -1,0 +1,35 @@
+{
+    "Id":  "1e9ee83b-f43a-4705-a6c2-b289372c5219",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-21T14:14:23.9948669+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d695f91c-70a9-4ab4-8c6c-62fe771401b6",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6987592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5070d7f4-b2d8-4776-94dc-bf2abde10553",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6987642Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf8dfac7-7e92-42eb-8c27-30df88ddd436",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  361,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6987679Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

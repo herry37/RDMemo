@@ -1,0 +1,62 @@
+{
+    "Id":  "1ddaf176-ce7d-4db9-a703-90c056e3b1bb",
+    "Title":  "居家整理 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-19T16:14:27.2427151+08:00",
+    "Items":  [
+                  {
+                      "Id":  "224b74a2-7643-4032-9be7-6aa5b821a9db",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:46:26.8447362+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89fe0dac-ff08-4693-aec2-36366a079581",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T15:39:22.3771065+08:00",
+                      "CompletedAt":  "2025-01-20T02:50:09.3759987+08:00"
+                  },
+                  {
+                      "Id":  "f6a7e5c8-e945-418c-bb00-2c1e93215324",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:36:59.8657002+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5468d7e-82b7-453d-8551-327ddc96dcdb",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  2,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:46:34.4402422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e13bcc3-1705-435c-b6fe-dfd5c89a316a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:23:02.6332123+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e4b762f-ba24-4868-b54a-2e59dc1aa866",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:43:09.3800446+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "2ee1280a-e50d-4a2a-904e-9b85ce5d63b4",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T01:21:18.9999149+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01782b14-c711-41ae-9bc9-51063116ba90",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8865956Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d91ecb9-a49a-4fd3-874c-06a8572bc708",
+                      "Name":  "Ergonomic Wooden Chicken",
+                      "Quantity":  2,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8866137Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b101b69-9d26-4d6a-8113-51d2606cd0c0",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8866153Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59d71de4-56ce-418b-bdbe-9f245a9eca6c",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.886617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e869b54a-210a-4272-af4e-62abc8dd4ec6",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  173,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.8866187Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15ecd823-4368-4a84-821e-3d7e19999058",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.8866213Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

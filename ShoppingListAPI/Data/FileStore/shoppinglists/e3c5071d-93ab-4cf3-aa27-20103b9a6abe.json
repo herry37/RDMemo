@@ -1,0 +1,71 @@
+{
+    "Id":  "e3c5071d-93ab-4cf3-aa27-20103b9a6abe",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T00:47:35.3660036+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cceb988a-8b7b-440f-8334-afdaf24b4900",
+                      "Name":  "Small Plastic Bike",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a668f39-7475-4ad8-a54f-fec6b4c9185e",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3521372f-4f2d-47cc-9764-ee27ab6ba775",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612057Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40e97cf2-98f0-4b38-8c3b-22f7edf0a44f",
+                      "Name":  "Licensed Soft Computer",
+                      "Quantity":  2,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6959a32b-f476-4032-b14b-15ba3f41703d",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "890f3905-f6d3-40c9-b258-910b5e15eb4b",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612166Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14fb76d9-3ccd-4d96-9aa7-9012ed6abe21",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9612175Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

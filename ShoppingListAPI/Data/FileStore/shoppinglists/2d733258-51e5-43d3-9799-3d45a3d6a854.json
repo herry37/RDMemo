@@ -1,0 +1,62 @@
+{
+    "Id":  "2d733258-51e5-43d3-9799-3d45a3d6a854",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T04:13:57.0428883+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ab18d1db-d42b-4bc8-8ffe-e2e65d4c58f6",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1329975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d819667-b420-45b6-b058-8d968318c612",
+                      "Name":  "Practical Cotton Chicken",
+                      "Quantity":  3,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1330408Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41cc1480-d364-43b1-8ee7-21824914739f",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1330433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef18730a-248e-42b3-93a9-f8584a701509",
+                      "Name":  "Rustic Plastic Car",
+                      "Quantity":  1,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1330487Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a00d63e4-de44-4fe0-9ad0-1601a73fea84",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1330518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e40456c-6514-4092-8ab3-63c44671ad4e",
+                      "Name":  "Refined Soft Shoes",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1330583Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

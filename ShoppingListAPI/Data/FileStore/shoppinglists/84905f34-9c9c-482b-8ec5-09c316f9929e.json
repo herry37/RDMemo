@@ -1,0 +1,80 @@
+{
+    "Id":  "84905f34-9c9c-482b-8ec5-09c316f9929e",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T05:29:32.0363422+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da081add-7d58-4181-a892-19a9c6678dde",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1727762Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9e484c6-c1a7-4526-b448-ab49f159c7d8",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.172781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aea62b66-27ca-4765-b96a-daba2ffee4e8",
+                      "Name":  "Gorgeous Steel Bike",
+                      "Quantity":  1,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1728042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99e2e519-8f87-452a-b707-c6ebe4441564",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1728064Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4021e5bc-570f-4553-8618-370187866c8c",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.172809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "281ee6fe-51fc-44b1-a1a0-0e6e682c04ff",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  367,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1728126Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95744800-14b4-43d1-a459-a7fa531f6715",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1728147Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e96b4ef-266f-41bf-98d7-4474e792d095",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1728165Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

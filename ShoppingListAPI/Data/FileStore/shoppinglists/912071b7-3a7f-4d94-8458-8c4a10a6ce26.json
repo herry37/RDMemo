@@ -1,0 +1,71 @@
+{
+    "Id":  "912071b7-3a7f-4d94-8458-8c4a10a6ce26",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T00:56:17.1867769+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f860115c-c9da-4f8b-b69b-9c7d394fe3c5",
+                      "Name":  "除霉劑",
+                      "Quantity":  2,
+                      "Price":  16.995910749162580,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:05:43.5088362+08:00",
+                      "CompletedAt":  "2025-01-17T07:53:16.9905785+08:00"
+                  },
+                  {
+                      "Id":  "82af9f2e-5a10-495a-87a6-7cca31f3c7ad",
+                      "Name":  "蘋果",
+                      "Quantity":  10,
+                      "Price":  214.070312274935120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:02:56.2893813+08:00",
+                      "CompletedAt":  "2025-01-18T12:56:35.939224+08:00"
+                  },
+                  {
+                      "Id":  "d0f8003b-1b18-4bec-82ff-6e50913e3dda",
+                      "Name":  "海綿",
+                      "Quantity":  4,
+                      "Price":  42.0998423217068730,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T18:13:34.1762646+08:00",
+                      "CompletedAt":  "2025-01-20T08:02:02.2195655+08:00"
+                  },
+                  {
+                      "Id":  "cb5ab5b0-c211-4f86-bc98-c12619222699",
+                      "Name":  "咖啡",
+                      "Quantity":  6,
+                      "Price":  339.93292471507480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:06:56.7010339+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c740f958-0f50-4692-a850-bd110b79cc33",
+                      "Name":  "拖把",
+                      "Quantity":  3,
+                      "Price":  157.582473790559990,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:42:42.8653736+08:00",
+                      "CompletedAt":  "2025-01-21T03:14:04.7300449+08:00"
+                  },
+                  {
+                      "Id":  "a1fcc229-d814-443c-a61a-0e15533c7fae",
+                      "Name":  "清潔劑",
+                      "Quantity":  1,
+                      "Price":  296.79749422556890,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:13:29.1847353+08:00",
+                      "CompletedAt":  "2025-01-18T21:02:56.4389756+08:00"
+                  },
+                  {
+                      "Id":  "81b7ddef-a791-43fa-a51c-d7aa5e1f5987",
+                      "Name":  "便利貼",
+                      "Quantity":  2,
+                      "Price":  53.4371713394072020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:20:51.8786338+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

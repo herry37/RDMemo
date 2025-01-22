@@ -1,0 +1,53 @@
+{
+    "Id":  "96b5025c-948a-4fed-806c-d630a5261759",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T11:22:01.0437807+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c455c3bb-32e7-4f0d-8587-50cc76ce5838",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3867054Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbf739bb-e122-47da-acb9-eefbd2a945ca",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3867105Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35f1b869-6e46-440d-8af7-c951c40946af",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  397,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3867115Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f900e279-73d5-4bae-88aa-d127778d2ec2",
+                      "Name":  "Incredible Wooden Cheese",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3867379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d635645b-897f-42f2-9566-13ab855ccd6a",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3867389Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

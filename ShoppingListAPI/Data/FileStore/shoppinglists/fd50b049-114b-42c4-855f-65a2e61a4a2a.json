@@ -1,0 +1,44 @@
+{
+    "Id":  "fd50b049-114b-42c4-855f-65a2e61a4a2a",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-17T22:31:23.0911737+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bd50ff7a-1c5c-4a8e-bf31-ce773f43c498",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:52:05.3024481+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f9815de-e906-4ae4-8626-890311138d2b",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:12:03.4311517+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b693b997-c3ce-4e52-872f-7ff717bb4d04",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T21:38:12.7221515+08:00",
+                      "CompletedAt":  "2025-01-20T11:44:18.1298312+08:00"
+                  },
+                  {
+                      "Id":  "07383d8d-1c6b-4973-9f8f-c6f2ff230812",
+                      "Name":  "進口糖果",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:51:23.467949+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

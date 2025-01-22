@@ -1,0 +1,71 @@
+{
+    "Id":  "1f43a641-fdd9-4046-abbb-f6ed456ae5f5",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-18T01:45:49.3271519+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1791a014-1efd-4d5a-8d8c-ae6d267b3c3e",
+                      "Name":  "梳子",
+                      "Quantity":  1,
+                      "Price":  45.8034507082633710,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:00:19.4299703+08:00",
+                      "CompletedAt":  "2025-01-16T23:03:34.7884345+08:00"
+                  },
+                  {
+                      "Id":  "ad5a48a3-04bf-433f-af29-d01a32bab1be",
+                      "Name":  "化妝品",
+                      "Quantity":  7,
+                      "Price":  400.035432881287830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:15:19.0699174+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "446f2186-ea9b-46cb-bedb-c0c61f1b9633",
+                      "Name":  "洋芋片",
+                      "Quantity":  8,
+                      "Price":  439.064708997926750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:48:49.8515142+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fff4b5ea-6467-410c-96e4-24f531e0bf3a",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  157.071273574365350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:06:54.042566+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ff9d719-018b-4732-8fa6-39db61ec4988",
+                      "Name":  "鍋子",
+                      "Quantity":  2,
+                      "Price":  169.605340625658270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:43:35.1930158+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b911eab-1718-41fc-a745-7ad49eacfb55",
+                      "Name":  "資料夾",
+                      "Quantity":  1,
+                      "Price":  351.202398240318090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:50:07.2178915+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8dbd4148-f42f-4a39-8e28-150f0f7b844d",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  365.113160409086030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:58:06.5510106+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

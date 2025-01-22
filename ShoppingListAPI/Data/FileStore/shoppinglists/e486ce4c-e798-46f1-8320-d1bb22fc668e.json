@@ -1,0 +1,35 @@
+{
+    "Id":  "e486ce4c-e798-46f1-8320-d1bb22fc668e",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T10:52:45.1721626+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eaa171c8-d953-45dd-8f63-36a538b3841a",
+                      "Name":  "口香糖",
+                      "Quantity":  8,
+                      "Price":  247.97395156960250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:06:53.3912004+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d48b47d-a62d-4747-98fd-7dc150edda0e",
+                      "Name":  "面紙",
+                      "Quantity":  10,
+                      "Price":  243.84779027168440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T16:35:18.9957529+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36ad41c7-6664-40e5-91da-10b0e67a6b9f",
+                      "Name":  "洗衣精",
+                      "Quantity":  8,
+                      "Price":  422.086037060674760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:10:24.0623324+08:00",
+                      "CompletedAt":  "2025-01-18T21:33:19.7882248+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

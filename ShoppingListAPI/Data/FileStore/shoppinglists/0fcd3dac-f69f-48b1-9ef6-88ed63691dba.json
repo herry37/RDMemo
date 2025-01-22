@@ -1,0 +1,35 @@
+{
+    "Id":  "0fcd3dac-f69f-48b1-9ef6-88ed63691dba",
+    "Title":  "居家整理 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-21T09:40:03.4402099+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d8db51c2-4a48-41e3-95ec-484bb5408896",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:20:54.6200654+08:00",
+                      "CompletedAt":  "2025-01-18T17:07:38.8514411+08:00"
+                  },
+                  {
+                      "Id":  "b441e0d9-beeb-48eb-bb89-f2c190046efb",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:26:06.6600524+08:00",
+                      "CompletedAt":  "2025-01-17T19:37:30.8241149+08:00"
+                  },
+                  {
+                      "Id":  "3497db4e-e489-4ec5-859c-21efacbb1c65",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T21:10:48.7001569+08:00",
+                      "CompletedAt":  "2025-01-20T22:48:02.1069907+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

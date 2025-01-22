@@ -1,0 +1,35 @@
+{
+    "Id":  "1e55f26e-e9ac-4720-9cb3-a8efe236f5a4",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-20T02:13:50.3191041+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d6a5ca12-c91c-48a0-a9e7-a5105df746ae",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:09:18.3967747+08:00",
+                      "CompletedAt":  "2025-01-16T21:27:50.557688+08:00"
+                  },
+                  {
+                      "Id":  "4472e741-dc49-42ab-b92e-e8b3844d173a",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:30:58.2174605+08:00",
+                      "CompletedAt":  "2025-01-15T16:03:15.6574686+08:00"
+                  },
+                  {
+                      "Id":  "71a0829b-7b43-41b4-bad3-84d99acfda62",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:01:53.372141+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

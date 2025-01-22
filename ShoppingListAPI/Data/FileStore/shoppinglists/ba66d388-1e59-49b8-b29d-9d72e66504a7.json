@@ -1,0 +1,80 @@
+{
+    "Id":  "ba66d388-1e59-49b8-b29d-9d72e66504a7",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T14:12:08.8638845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "60700bbc-473c-484d-9d3f-370611135c4d",
+                      "Name":  "Generic Soft Soap",
+                      "Quantity":  4,
+                      "Price":  488,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6155896Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28c364c2-7a09-48fd-bf8c-a79b9c495dc0",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6155937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c51c803-bc54-4359-840b-b164312b15ea",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6155986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b412ddcc-264f-4b59-9aa5-89e9ed486dca",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6156015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdd58fd6-ddc0-4a96-b896-3ffab749dd9a",
+                      "Name":  "Awesome Concrete Bike",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6156094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ecc5c1c8-b81c-468a-a25a-77a8a15cd302",
+                      "Name":  "Practical Cotton Chips",
+                      "Quantity":  4,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.615618Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b513c2ac-4f07-44ac-9798-fb6ae659763c",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6156212Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d16613a-9878-45ba-a2e0-c59cc88e432c",
+                      "Name":  "Incredible Steel Table",
+                      "Quantity":  1,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6157638Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

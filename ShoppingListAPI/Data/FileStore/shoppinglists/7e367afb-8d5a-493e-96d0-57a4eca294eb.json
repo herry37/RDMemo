@@ -1,0 +1,80 @@
+{
+    "Id":  "7e367afb-8d5a-493e-96d0-57a4eca294eb",
+    "Title":  "01/19 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T13:29:54.329389+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b81a9045-6d7d-46b4-9d9f-743fa0443498",
+                      "Name":  "Gorgeous Granite Hat",
+                      "Quantity":  5,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337281Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94129b13-74e0-4815-b339-683a07430102",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f1ce92d-d224-4795-bd56-2621670b9bba",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337365Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2972e61-2354-4756-9139-b16037e2b21c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2016c58-ed17-4629-9f16-168bfa11932a",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "517b37f5-57da-41d2-bac3-fc58a2411082",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  396,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.533747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4bf62f1-0908-4ca7-9308-b0c607c5d425",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337657Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "009cc8c1-098b-432e-8d5c-827683db97ef",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5337687Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

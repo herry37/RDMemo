@@ -1,0 +1,71 @@
+{
+    "Id":  "55ab19ff-d3a1-40e4-8472-cec7657beb13",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T23:36:23.0298399+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01fd14af-96a4-473d-a9ef-8d2e7b83137d",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  86.605445767293520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:03:36.6903697+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62d549d5-2c76-4d7d-b598-7aafa69b84fe",
+                      "Name":  "膠帶",
+                      "Quantity":  3,
+                      "Price":  123.779540859431650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:56:18.7954145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0c51f1e-f73d-498b-b725-46781cb275c8",
+                      "Name":  "衣架",
+                      "Quantity":  9,
+                      "Price":  368.408392060281920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:10:41.9765402+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b43f7f32-b78a-4abb-9b1c-95d4970f62a0",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  200.576319076524710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:40:47.5801027+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "426b8d65-16de-48d7-9910-ce26d71ff72b",
+                      "Name":  "洗碗精",
+                      "Quantity":  7,
+                      "Price":  358.316078947313960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:45:03.0112124+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79b7e42a-e2ae-40c3-8f03-465e961d5c8e",
+                      "Name":  "資料夾",
+                      "Quantity":  4,
+                      "Price":  176.379573105004140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:40:39.6281274+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05831d14-91a4-4449-837c-04d376d055bb",
+                      "Name":  "洗碗精",
+                      "Quantity":  8,
+                      "Price":  238.156802934853240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:58:02.342282+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

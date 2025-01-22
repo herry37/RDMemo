@@ -1,0 +1,62 @@
+{
+    "Id":  "d6bb888c-93c3-439c-bd6b-520c61ac20f7",
+    "Title":  "緊急採購 - 01/21",
+    "CreatedAt":  "2025-01-20T03:48:56.7976583+08:00",
+    "Items":  [
+                  {
+                      "Id":  "70a82f38-430b-4a65-bfdb-95eb0af1c77e",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  293.942061471287380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:48:39.3023538+08:00",
+                      "CompletedAt":  "2025-01-17T00:01:34.3584143+08:00"
+                  },
+                  {
+                      "Id":  "4cf9615b-0c05-4cea-88a6-71df96088801",
+                      "Name":  "漂白水",
+                      "Quantity":  7,
+                      "Price":  32.2964745978959390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:38:25.8118408+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5fa04f4a-0fb1-4769-b1d8-ead13ee2285c",
+                      "Name":  "漂白水",
+                      "Quantity":  8,
+                      "Price":  314.403630328164920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:49:12.500303+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09ffbdcd-5ec1-4fe7-9418-e6d32f3dfdab",
+                      "Name":  "杯子",
+                      "Quantity":  6,
+                      "Price":  288.499773452832820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:21:25.0090469+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8479e829-82f7-4066-8fc7-331f88ef8478",
+                      "Name":  "果汁",
+                      "Quantity":  9,
+                      "Price":  486.079182079092970,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:07:43.2849896+08:00",
+                      "CompletedAt":  "2025-01-19T00:50:47.4921701+08:00"
+                  },
+                  {
+                      "Id":  "564dfcd0-71cc-4dd2-8815-82b2e617e531",
+                      "Name":  "礦泉水",
+                      "Quantity":  8,
+                      "Price":  159.213358826508410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:54:12.2988278+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

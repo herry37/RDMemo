@@ -1,0 +1,98 @@
+{
+    "Id":  "bb9d4fcf-a4e0-4335-9ce1-500fc85ef967",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-20T22:45:17.8026985+08:00",
+    "Items":  [
+                  {
+                      "Id":  "23dac1f0-e74f-46e2-81a7-2dae5e002a9c",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "528e4c02-bca6-42ce-873a-98344cf5d542",
+                      "Name":  "Awesome Frozen Pants",
+                      "Quantity":  3,
+                      "Price":  300,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84fc6f67-569d-49a6-a60e-de6bb29d7003",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  38,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006699Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48c300ff-8dfd-4359-aed9-ee500d61d202",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006707Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b460c596-60f8-48ac-bcd2-aca0ceeea42a",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006716Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63af988e-b0cf-42dd-a611-937f0345fbaa",
+                      "Name":  "Gorgeous Concrete Towels",
+                      "Quantity":  3,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006761Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1692bf4d-c618-4b98-be09-7c728504aa7c",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6750d908-336b-4b4c-9c8e-fe8a818ce55d",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe6108b1-22df-416e-91e7-0721a1ff7277",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "218ea25f-c44b-4e5f-a239-e19d4a639d09",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  206,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4006793Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

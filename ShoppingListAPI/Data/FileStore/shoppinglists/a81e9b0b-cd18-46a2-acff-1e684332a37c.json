@@ -1,0 +1,80 @@
+{
+    "Id":  "a81e9b0b-cd18-46a2-acff-1e684332a37c",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-18T00:39:29.3814634+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c45e6e70-b44d-4a7c-b28d-eb78194862b0",
+                      "Name":  "Small Granite Pants",
+                      "Quantity":  2,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.4864897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c017c476-0531-4beb-944b-bd41bfd36030",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.4864952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1324d1d9-b132-4a8d-98a1-3fd10a079895",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.4864978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef51485f-0760-471d-b1f0-a84641012945",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.486503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4423448-4430-48a1-b959-2728905c1ead",
+                      "Name":  "Handcrafted Fresh Ball",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.4865103Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84c5c994-320e-4605-9806-7a5e08d90e56",
+                      "Name":  "Small Metal Bike",
+                      "Quantity":  4,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.486519Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ec7489b-bf80-4194-83ff-bcbe615a5511",
+                      "Name":  "Licensed Frozen Soap",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.4865251Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "889829c8-6776-446e-a7eb-800926d9e45a",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.486528Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

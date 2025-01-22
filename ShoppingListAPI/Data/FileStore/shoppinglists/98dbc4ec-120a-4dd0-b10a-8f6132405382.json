@@ -1,0 +1,35 @@
+{
+    "Id":  "98dbc4ec-120a-4dd0-b10a-8f6132405382",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T00:29:15.2620144+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dca94cb6-28a6-40da-b01d-6378741124ee",
+                      "Name":  "牙刷",
+                      "Quantity":  4,
+                      "Price":  201.605089019767570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:33:10.9429346+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ee805ad-a8d4-4da2-af5d-e401b8e56566",
+                      "Name":  "化妝品",
+                      "Quantity":  2,
+                      "Price":  137.512843665745510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:24:02.7476786+08:00",
+                      "CompletedAt":  "2025-01-19T00:29:27.1462653+08:00"
+                  },
+                  {
+                      "Id":  "bdaf909f-2623-4792-8b39-44121d4ba0a2",
+                      "Name":  "清潔劑",
+                      "Quantity":  10,
+                      "Price":  233.102513123719530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:05:26.9552301+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "b54aa1c3-6bf6-4e1c-8619-664116fcfa10",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T14:15:44.4535565+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ecaa4038-e93b-4b0c-a73c-e8a7a49de816",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  411,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "332646ce-2f3a-45f5-a441-f83522e8b588",
+                      "Name":  "Generic Wooden Sausages",
+                      "Quantity":  1,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ece6853c-d21d-4764-96a6-0efb76c762e5",
+                      "Name":  "Handmade Rubber Keyboard",
+                      "Quantity":  2,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268469Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "827c8074-dc57-4769-a35a-05a68f8bde76",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21f9ddd4-3595-43f2-b8f4-f3e5f1a8cd7b",
+                      "Name":  "Handmade Granite Tuna",
+                      "Quantity":  1,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb5fcb51-2c91-48e7-ba9b-0e9a1aa8118e",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6684494a-37f3-41b1-9453-08072a8cb811",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4038836-9e77-4779-ae72-8a1af3badee0",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268807Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e0d080c-3811-483f-9b11-290cfe80f6f0",
+                      "Name":  "Gorgeous Wooden Shoes",
+                      "Quantity":  4,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2268913Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

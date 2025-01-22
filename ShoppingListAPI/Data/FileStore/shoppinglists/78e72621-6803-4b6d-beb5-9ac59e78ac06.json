@@ -1,0 +1,89 @@
+{
+    "Id":  "78e72621-6803-4b6d-beb5-9ac59e78ac06",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T17:01:54.8933677+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2066e960-c69f-4ae8-a9a5-1f210b850fb0",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4325614Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3023ff35-5176-458f-83ca-0a1469c77178",
+                      "Name":  "Handmade Wooden Ball",
+                      "Quantity":  3,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4325971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04192727-10ef-4215-9e67-9818840f1235",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  414,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4325985Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ac30bd1-02a2-40f1-b2db-acd1962bf29b",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4325995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c881165b-f358-4b8c-a8b0-33817b1a2c58",
+                      "Name":  "Unbranded Plastic Computer",
+                      "Quantity":  5,
+                      "Price":  301,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4326049Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c89444f9-d5d2-47b4-9fb9-8fb47a0574aa",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4326266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c6bef59-f0c1-4a73-854e-ffc7ced8ae2f",
+                      "Name":  "Handmade Rubber Shirt",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4326316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32a08c73-8150-45f1-9deb-b0f7397fce2c",
+                      "Name":  "Incredible Frozen Shoes",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4326525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0f41297-49bb-4881-99b8-72d4047b73ab",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4326543Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

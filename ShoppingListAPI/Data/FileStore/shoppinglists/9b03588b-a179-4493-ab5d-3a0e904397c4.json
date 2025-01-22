@@ -1,0 +1,53 @@
+{
+    "Id":  "9b03588b-a179-4493-ab5d-3a0e904397c4",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-17T22:59:31.8742973+08:00",
+    "Items":  [
+                  {
+                      "Id":  "89a7c5d1-454d-4110-9183-ab7664b6c558",
+                      "Name":  "Handcrafted Concrete Shirt",
+                      "Quantity":  1,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2054527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "618e4bab-cf0f-4054-a689-9392c3250a01",
+                      "Name":  "Generic Granite Chips",
+                      "Quantity":  2,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2054604Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dd3ed03-a234-42dc-a35a-d8235c017331",
+                      "Name":  "Intelligent Cotton Cheese",
+                      "Quantity":  1,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2054675Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "667acacd-92ef-494f-ad0f-bb8126862661",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2054692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75630d45-6fa9-4fbf-bbe6-94700cf59a89",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2054706Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

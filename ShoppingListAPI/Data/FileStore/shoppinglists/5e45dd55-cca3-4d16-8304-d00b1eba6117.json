@@ -1,0 +1,71 @@
+{
+    "Id":  "5e45dd55-cca3-4d16-8304-d00b1eba6117",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-21T02:13:59.9446108+08:00",
+    "Items":  [
+                  {
+                      "Id":  "188c88db-5c66-40d6-bc74-0d3067f80a34",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  427,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443362Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a64f4367-a138-43e0-882c-41e59e1b7c47",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  384,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.444338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37b9d7a5-0398-42dd-8b15-e68433d6284b",
+                      "Name":  "Unbranded Metal Bike",
+                      "Quantity":  4,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f60ea06-7f74-44e7-8956-5e2af5838112",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  339,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60ed3489-d25c-48fd-b78c-c2ee0b93d781",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  475,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "721d4bbf-ba55-47ab-9558-fe6bd305c022",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6be50715-9a92-42ee-9c22-d589f77a2ec9",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4443606Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

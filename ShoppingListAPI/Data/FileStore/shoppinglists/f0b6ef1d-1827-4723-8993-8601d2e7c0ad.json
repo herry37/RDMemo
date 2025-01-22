@@ -1,0 +1,53 @@
+{
+    "Id":  "f0b6ef1d-1827-4723-8993-8601d2e7c0ad",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T07:48:32.2564577+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae3d7ae5-0ab8-45b5-9293-85e6282c4a62",
+                      "Name":  "Tasty Frozen Chips",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5782042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cef5901b-7527-4da4-bead-6f8ad171d7e7",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5782094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bc281c8-0b29-4a0f-b80d-6f8c28cb4826",
+                      "Name":  "Fantastic Soft Bacon",
+                      "Quantity":  4,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5782152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4970c9cb-a27c-4a4d-8fae-65c8ad8c5c00",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  258,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5782179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e5624e9-6b73-4b08-93f0-faf5a6270cd6",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5782246Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

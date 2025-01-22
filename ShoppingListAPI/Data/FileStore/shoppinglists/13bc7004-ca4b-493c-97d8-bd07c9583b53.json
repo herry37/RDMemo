@@ -1,0 +1,44 @@
+{
+    "Id":  "13bc7004-ca4b-493c-97d8-bd07c9583b53",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T10:21:08.6529136+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ed9675ab-b168-4b7f-81ff-aac70a36f75f",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0782985Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b283592-7e37-4cd0-ac50-17e943015cb9",
+                      "Name":  "Gorgeous Granite Fish",
+                      "Quantity":  4,
+                      "Price":  381,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0783226Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ac194f5-ef44-4bb7-be52-da87fc77b83d",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0783239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0e74956-ab2a-4894-822c-11d44a75d355",
+                      "Name":  "Refined Rubber Chicken",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0783309Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

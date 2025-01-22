@@ -1,0 +1,98 @@
+{
+    "Id":  "b5f20fc4-38a9-4c12-a7f8-924ec5c46616",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-17T23:46:10.433283+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e204074b-4a13-4dde-a266-870b86c2f459",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "739c57d2-901c-430c-a3d6-c672c62cd42a",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b681979f-b435-4bd1-a801-cfdd22bd59c1",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bf47cc7-8a8d-4e26-bcdf-a333567fdd58",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.108939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fcf0403-5c8b-482b-bf17-929a13c64d1d",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089408Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5d9493a-bf4c-4ae5-be72-d9e0f2ce436d",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f64f11dc-2120-455d-a576-c763f5ac75e5",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089543Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23bdac51-7c66-4c0c-928b-bad0f37f75ae",
+                      "Name":  "Incredible Steel Soap",
+                      "Quantity":  3,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089764Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a629625-bb56-4fea-b58f-edced9cdc0cd",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46d65311-f80e-4f25-b4bc-22c2cadd49fd",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1089802Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

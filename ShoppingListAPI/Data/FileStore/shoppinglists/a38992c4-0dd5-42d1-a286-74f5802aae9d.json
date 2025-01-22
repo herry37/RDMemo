@@ -1,0 +1,98 @@
+{
+    "Id":  "a38992c4-0dd5-42d1-a286-74f5802aae9d",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T01:13:55.8378569+08:00",
+    "Items":  [
+                  {
+                      "Id":  "93c6c931-ba05-409f-a807-c183200ae6dc",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ce418d6-8f7d-4b0f-8f92-8b0f9536f471",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  465,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.733637Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83ee50dd-4bb0-4e7b-a070-f1371a4d5d40",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eed063b3-7525-4849-9d24-beccdc4fd63d",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc06d8e2-8917-4471-aa8a-19533c20d948",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80b60876-1318-4c20-8c06-d399b32b588f",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae8776f6-2987-40af-a19b-b5135cc6c85b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4062feda-afd3-49ea-99ab-f5d02f04a497",
+                      "Name":  "Intelligent Cotton Cheese",
+                      "Quantity":  1,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c236791a-79dc-49c0-a680-4c7a4844b8f6",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.733661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35ecec5c-cd9b-4695-b87a-801aba357463",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7336623Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

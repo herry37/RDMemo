@@ -1,0 +1,62 @@
+{
+    "Id":  "8fcf135c-d6bc-456b-b424-267b3f89608f",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-16T19:51:59.2931436+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1c9c1eb1-dc1c-4bc6-bedf-f7f27c5057a2",
+                      "Name":  "Small Frozen Pizza",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1904918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b99c5c34-fad2-4864-add0-9536cfe9d2c4",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1904958Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30de2804-e4b8-4e49-afd8-ebe122da5b1d",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.190497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22b1366f-129c-48f1-b582-c5c7efc6d949",
+                      "Name":  "Unbranded Granite Ball",
+                      "Quantity":  3,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1905034Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a8fb6fa-a854-4684-92bb-9f01a0468889",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1905046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dc74ae6-7731-4cef-895e-cd2767e13e9d",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1905076Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

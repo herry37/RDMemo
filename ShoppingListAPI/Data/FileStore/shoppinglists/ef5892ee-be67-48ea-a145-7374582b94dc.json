@@ -1,0 +1,62 @@
+{
+    "Id":  "ef5892ee-be67-48ea-a145-7374582b94dc",
+    "Title":  "每週採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-19T16:42:11.159219+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d692a18f-defa-43ec-8fcc-114a4fddb0b6",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:07:12.1253916+08:00",
+                      "CompletedAt":  "2025-01-21T16:46:28.4982799+08:00"
+                  },
+                  {
+                      "Id":  "5ca5e6ac-59a5-4714-af6f-a5c1d079984f",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:19:52.7253191+08:00",
+                      "CompletedAt":  "2025-01-18T12:47:36.3607502+08:00"
+                  },
+                  {
+                      "Id":  "30f6341a-3d5b-428d-ba54-a979f9af0d36",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:15:26.9885061+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20b8b86b-2cab-41fc-9806-537b8cf5153c",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:37:27.7022613+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a4eaaec-f768-4305-ab28-965a343db88c",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T12:11:19.617953+08:00",
+                      "CompletedAt":  "2025-01-19T06:56:00.4689622+08:00"
+                  },
+                  {
+                      "Id":  "90943a63-0fc1-4100-85d9-924be46ecf70",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:51:43.249489+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

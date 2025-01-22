@@ -1,0 +1,98 @@
+{
+    "Id":  "179afdd3-02d6-4e4c-a8c3-73c5279df1ad",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T10:19:45.4402762+08:00",
+    "Items":  [
+                  {
+                      "Id":  "03f97f8d-c43e-417c-9157-e8055f4083a9",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  396,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30c0ef72-74ef-4157-9c66-6e1527bef3df",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114167Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8593aa87-327c-403b-aa8f-fffe51da6971",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8bee97c-e4f2-4e7b-ae10-9ff8118d7618",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114188Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "329ad545-2ae1-4582-a984-683eb745663a",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114203Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8d18fb0-54b6-4f96-8273-814afc671c7f",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114221Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32ab54aa-d12b-4133-ba2b-251a896824e1",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114231Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d6a5e3b-f10b-40a1-94d3-e6e9546ee9db",
+                      "Name":  "Gorgeous Metal Hat",
+                      "Quantity":  5,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114463Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4b6b8d1-be64-48e3-a1ee-6d94ca4e3403",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114479Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b18802a-6a14-42a6-952a-d16c25b32145",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3114491Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

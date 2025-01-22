@@ -1,0 +1,44 @@
+{
+    "Id":  "5f03c32e-180f-444e-ba83-e508d947bf21",
+    "Title":  "每週採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-17T09:29:34.6541868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "73988a7d-67b9-412a-b47c-16f8189f3fb4",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:09:27.5464259+08:00",
+                      "CompletedAt":  "2025-01-19T06:26:01.5257263+08:00"
+                  },
+                  {
+                      "Id":  "4c11528b-53ec-41ce-a81b-84352fecd3f9",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:31:17.8169389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e5be5ca-5cfb-485f-9550-c5c3027dfddc",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:49:03.9671956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "473ea530-2c63-4126-968c-b7b5c818ad47",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:51:36.3597216+08:00",
+                      "CompletedAt":  "2025-01-21T23:34:31.6270754+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

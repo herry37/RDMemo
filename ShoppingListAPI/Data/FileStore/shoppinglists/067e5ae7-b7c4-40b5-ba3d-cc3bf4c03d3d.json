@@ -1,0 +1,62 @@
+{
+    "Id":  "067e5ae7-b7c4-40b5-ba3d-cc3bf4c03d3d",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T18:43:22.3939418+08:00",
+    "Items":  [
+                  {
+                      "Id":  "938426ce-78fb-42c7-ba15-1b2640798aed",
+                      "Name":  "Gorgeous Cotton Car",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.202636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51253ed3-f2ee-40f0-a9e7-6a05830004a9",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  423,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2026435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d76c9ce8-9418-4b32-a70d-4daa6855f660",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2026496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "680baef1-8eb3-431c-b525-55f989f27b28",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2026526Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92b58ae9-d345-4d74-bc8f-dfcf22c8ec28",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2026551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "066ac912-41e9-4e1a-bc24-4fed408dc3e6",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.202659Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

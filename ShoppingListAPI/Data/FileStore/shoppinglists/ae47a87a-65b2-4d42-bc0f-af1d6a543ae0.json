@@ -1,0 +1,35 @@
+{
+    "Id":  "ae47a87a-65b2-4d42-bc0f-af1d6a543ae0",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-21T12:46:49.9333545+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e777e8a9-dc96-4e50-973f-8a66b61ce227",
+                      "Name":  "Small Cotton Sausages",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0815178Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f74811d-6dc5-4b32-85d7-441e201fdd9e",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0815242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3aca6629-2a73-4259-b28a-0ac935cb9e5e",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0815274Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

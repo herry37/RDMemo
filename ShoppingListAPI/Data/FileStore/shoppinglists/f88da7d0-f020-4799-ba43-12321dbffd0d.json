@@ -1,0 +1,80 @@
+{
+    "Id":  "f88da7d0-f020-4799-ba43-12321dbffd0d",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T10:12:32.7448433+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ed6dcc8-ea0a-4cc2-ba25-5c93eb5009b5",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  106,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524861Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "348952bd-9c3f-4bd0-baca-f6f6b1e2558d",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524873Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b209250-8922-4883-8865-e533196b56e8",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  316,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "760825a6-6892-49f1-aba0-591807adf243",
+                      "Name":  "Tasty Metal Bike",
+                      "Quantity":  4,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50668938-ecb4-434b-bb3f-a363e5910fa8",
+                      "Name":  "Fantastic Frozen Cheese",
+                      "Quantity":  3,
+                      "Price":  24,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e3b193c-3c3c-4f19-9828-bc5731a9c0b9",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bc5eb52-82d5-4c25-bff6-c3d939c98659",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4524999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9dd9a903-95eb-410b-ace8-d7b5c16bc0e3",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4525008Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

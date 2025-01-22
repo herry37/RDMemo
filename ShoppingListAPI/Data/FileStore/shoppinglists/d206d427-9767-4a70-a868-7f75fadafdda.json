@@ -1,0 +1,71 @@
+{
+    "Id":  "d206d427-9767-4a70-a868-7f75fadafdda",
+    "Title":  "日常補充 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-20T15:14:19.454141+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e079c9d-a883-472b-ba12-8fcc72118af2",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:33:08.4125663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55e1e8f6-6ff1-4f80-b8a1-e48585eab5c4",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:29:06.4441575+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0beed275-e5b1-4c8d-a427-f489833f9bdf",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:58:25.5134136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00e4e72d-9d66-4b17-a743-9357098f2c7c",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:18:07.3697291+08:00",
+                      "CompletedAt":  "2025-01-22T01:36:22.2196256+08:00"
+                  },
+                  {
+                      "Id":  "a0cd0183-193c-463f-b8aa-4a70f7eb21d4",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:25:46.8722564+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca5471d9-399c-44d9-be4c-15c51c486994",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:41:51.041904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccb7c376-31a0-42d9-9d10-5f6fad180a99",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:48:13.7471179+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "56c0c232-7420-4715-9fa6-a29d37461f4c",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-17T10:03:52.3182401+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88babf06-e6ea-44e2-bd97-c4809509e78d",
+                      "Name":  "掃把",
+                      "Quantity":  1,
+                      "Price":  347.040956361528510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:40:38.226328+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac8eba2e-2417-40ee-88a5-1c0a294eeb7c",
+                      "Name":  "尺",
+                      "Quantity":  7,
+                      "Price":  90.386352757537190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:16:52.3673232+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf5aa45f-8f47-4138-b8dc-2133e5c5ba4b",
+                      "Name":  "芳香劑",
+                      "Quantity":  4,
+                      "Price":  360.816019184323070,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:13:44.9804716+08:00",
+                      "CompletedAt":  "2025-01-19T23:53:19.3258323+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "eb7d7358-895e-4986-af85-825d223000ca",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T19:36:20.2922168+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ddf0f3dc-c41c-46e5-a7e2-8df158200d34",
+                      "Name":  "Intelligent Steel Pizza",
+                      "Quantity":  3,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8825777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "223cedca-5a28-443b-9412-9e2f72e2755a",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8825831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62d0d637-060e-499f-9ace-977590ed4f4e",
+                      "Name":  "Practical Frozen Bike",
+                      "Quantity":  4,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8825896Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc7466ec-ea5c-4795-b93b-8b0a58495cf5",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8825928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4ae6773-ee18-4a45-afbc-45bc633f70f0",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8826004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77b6291a-02e5-4637-946b-ad67ac161f95",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8826045Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

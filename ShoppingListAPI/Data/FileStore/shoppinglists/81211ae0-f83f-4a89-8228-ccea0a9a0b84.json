@@ -1,0 +1,71 @@
+{
+    "Id":  "81211ae0-f83f-4a89-8228-ccea0a9a0b84",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T21:05:05.4935637+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c0d2bd5-3c37-4400-a6f0-c892f376e1f1",
+                      "Name":  "Ergonomic Fresh Chicken",
+                      "Quantity":  2,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6632509Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ab2e201-8b79-45cd-be4d-c7dee1cff77e",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6636498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9df81907-9001-4b6b-aa36-f5c0a899734b",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6636518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad8df837-9b3b-4645-b5d8-a26ede0d3ce1",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  459,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.663655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7cffa9e-d612-4800-943a-09a929ae2da2",
+                      "Name":  "Small Metal Ball",
+                      "Quantity":  4,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6636854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0df9504-b140-449c-8e0f-8d9852bbe60f",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6636909Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "320081b2-02f3-4fe8-826e-f3a1087638ac",
+                      "Name":  "Awesome Frozen Computer",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6636969Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

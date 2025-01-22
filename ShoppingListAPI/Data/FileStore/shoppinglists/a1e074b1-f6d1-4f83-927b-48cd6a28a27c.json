@@ -1,0 +1,71 @@
+{
+    "Id":  "a1e074b1-f6d1-4f83-927b-48cd6a28a27c",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T17:45:45.3331285+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7300197c-fe93-4738-b54f-f04f494c34c9",
+                      "Name":  "Handcrafted Concrete Towels",
+                      "Quantity":  5,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74d5088e-2a1c-410f-80fc-462ab235df93",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  435,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787419Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7f4687e-0546-4c98-b56e-99da998c39c1",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ace68905-75d8-4662-94e2-e9b74d01c49a",
+                      "Name":  "Generic Metal Chair",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f8f0cc9-f59e-4bae-8413-feac23329aeb",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787462Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b15016cb-f344-4eb3-ae95-2df853e73bb5",
+                      "Name":  "Ergonomic Plastic Car",
+                      "Quantity":  4,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.778749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78958cb7-94e6-4fe9-a436-19fe45a33b07",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7787555Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

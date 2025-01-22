@@ -1,0 +1,62 @@
+{
+    "Id":  "b60988db-20ab-4d01-af1e-a2d0a5b190ba",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T04:30:41.8567147+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0303b346-9e45-496b-85f0-3b643fc75096",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  474,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9251716Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2bba94f-a9ec-48bd-935d-27bab0c143a4",
+                      "Name":  "Intelligent Frozen Bacon",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9251949Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b89188d9-efc8-40a4-95cf-6cb79b99944d",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9251962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "998a0947-afca-4455-b27e-d5c389a0abce",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9251973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf6aba14-e64d-41a9-b673-1d328eace071",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9251983Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc15fed5-8d5e-4c74-9fc4-92947a364f03",
+                      "Name":  "Awesome Steel Tuna",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9252059Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

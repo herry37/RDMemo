@@ -1,0 +1,53 @@
+{
+    "Id":  "462ca61a-90eb-4d41-b138-221428b3b6b4",
+    "Title":  "居家整理 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-19T09:26:24.9592891+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f7e89e35-33a0-4302-889a-508a4e176b78",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:00:05.2959674+08:00",
+                      "CompletedAt":  "2025-01-19T13:41:49.1074993+08:00"
+                  },
+                  {
+                      "Id":  "62752d2d-9e74-4bac-a9ca-fa39f6164323",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:41:05.8945583+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6033da0f-8ed8-4a85-8fa4-996f788027ef",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:54:44.0464729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81ca5639-e654-4443-81a4-5adbbdb450d9",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:13:52.8423007+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a8d2f21-e654-49f8-8699-af3052e707ba",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:19:57.1901029+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

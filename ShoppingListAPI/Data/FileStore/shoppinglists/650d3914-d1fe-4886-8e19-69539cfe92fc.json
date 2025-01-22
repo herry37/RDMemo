@@ -1,0 +1,35 @@
+{
+    "Id":  "650d3914-d1fe-4886-8e19-69539cfe92fc",
+    "Title":  "早市採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T23:08:08.2124646+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae690b39-6809-4fb9-8afb-ddf7b74344b8",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:02:18.9120922+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80a68fb5-6585-4a9e-b9e5-482c3b2427bc",
+                      "Name":  "電動牙刷",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:42:51.0584413+08:00",
+                      "CompletedAt":  "2025-01-19T22:32:58.8191504+08:00"
+                  },
+                  {
+                      "Id":  "a7031752-e2a6-4f73-8b07-a7c161e70e1d",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:26:40.5968473+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

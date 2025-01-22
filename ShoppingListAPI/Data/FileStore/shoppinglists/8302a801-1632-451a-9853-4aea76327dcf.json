@@ -1,0 +1,35 @@
+{
+    "Id":  "8302a801-1632-451a-9853-4aea76327dcf",
+    "Title":  "01/20 ¹s­¹±Ä¶R²M³æ",
+    "CreatedAt":  "2025-01-17T10:51:49.1913318+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a04a8d5-3b57-48b8-b872-010c04ca5bdb",
+                      "Name":  "»æ°®",
+                      "Quantity":  5,
+                      "Price":  395,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7411066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc09bf75-bf25-4e86-8132-d24d90225a7a",
+                      "Name":  "¹s­¹",
+                      "Quantity":  3,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7411106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9bac7165-7eed-4c47-a2de-0ca53c0b0146",
+                      "Name":  "Awesome Rubber Tuna",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7411326Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "c6400273-d2fd-4385-a72a-5f542ab8aebd",
+    "Title":  "月底大採購 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-15T09:37:39.4581172+08:00",
+    "Items":  [
+                  {
+                      "Id":  "807488aa-28c4-49d2-aa1d-334f91ad30d5",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:48:22.7122152+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "665fe1be-64f9-437d-99e4-51a39c390a0e",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:19:02.4018723+08:00",
+                      "CompletedAt":  "2025-01-16T17:14:27.6166611+08:00"
+                  },
+                  {
+                      "Id":  "04a858ba-b6c6-45de-ac2e-4b80dc21fa94",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:58:37.8165042+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3af7cfe4-81dc-44a9-b158-77445270d17c",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:33:33.2953283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84970347-f6cf-4cf5-9f74-16811afb5704",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:58:38.2553955+08:00",
+                      "CompletedAt":  "2025-01-21T13:51:28.0148198+08:00"
+                  },
+                  {
+                      "Id":  "aca2956e-f38b-43d5-b74e-bbb99fecdccd",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:30:46.8984608+08:00",
+                      "CompletedAt":  "2025-01-19T09:39:55.6103304+08:00"
+                  },
+                  {
+                      "Id":  "f1402da1-511e-4a19-bf76-b442e1f3ed98",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:49:52.7323219+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

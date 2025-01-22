@@ -1,0 +1,44 @@
+{
+    "Id":  "ca909046-5d43-4558-8c83-137f1bb659e4",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T04:17:27.4128615+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58602d45-68fe-4b84-83d4-aef4684cb898",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6108144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c85350ea-35ad-404f-850c-6da57c5346d5",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.610816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb2b5a31-c102-4740-a692-011f1ed06671",
+                      "Name":  "Practical Granite Ball",
+                      "Quantity":  5,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6108254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d67704c-a873-4189-999b-63e77da64236",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6108266Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "0fce6d3e-b5f7-4257-8e1e-81aad444132d",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-21T20:09:28.8848206+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d63dec47-5cb4-47f2-9f0b-c4440d5f4de3",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.269891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2b316bf-473b-457f-8b93-9f3e703106a7",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2698958Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "184a3ed5-6669-4181-8a48-75599f6c99f2",
+                      "Name":  "Tasty Metal Pizza",
+                      "Quantity":  2,
+                      "Price":  370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.269923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5267589-6d84-41b2-9627-4ff21292fe4c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2699253Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

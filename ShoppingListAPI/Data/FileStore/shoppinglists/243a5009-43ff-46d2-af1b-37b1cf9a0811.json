@@ -1,0 +1,62 @@
+{
+    "Id":  "243a5009-43ff-46d2-af1b-37b1cf9a0811",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-15T16:54:08.3253522+08:00",
+    "Items":  [
+                  {
+                      "Id":  "099d376c-55e5-4914-8437-0cd0adbded3b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2346695Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2b77803-ab16-42ad-8682-ff3c6ecf6af4",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  415,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2347052Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccf173fa-6b91-4f7d-9f85-cdcea9f65e5c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2347086Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4970a0a-b407-461d-99ce-caaef0a54bae",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2347099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6ad835e-d133-47f2-8ecd-660363901958",
+                      "Name":  "Unbranded Steel Car",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2347324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac7c08aa-2ccb-4f7b-9403-2b9d6d1582fa",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2347371Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

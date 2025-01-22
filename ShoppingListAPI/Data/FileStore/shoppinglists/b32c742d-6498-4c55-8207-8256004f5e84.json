@@ -1,0 +1,44 @@
+{
+    "Id":  "b32c742d-6498-4c55-8207-8256004f5e84",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-15T03:19:45.9384064+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5f63b88b-3f1d-437f-8cbe-63f00f3b6b56",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:48:32.5261792+08:00",
+                      "CompletedAt":  "2025-01-17T05:20:59.4345637+08:00"
+                  },
+                  {
+                      "Id":  "2d14c217-01b3-44b8-965e-64baf6761dd5",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:00:25.6710811+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2a54c1a-bb3d-45d8-b6e1-d201251c735b",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:11:44.7693673+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a916ec1-3a95-40fa-a625-b053e9ba77b3",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:02:29.4250646+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

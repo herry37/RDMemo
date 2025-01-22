@@ -1,0 +1,71 @@
+{
+    "Id":  "69950c65-afbf-4fe1-85b1-ce492d8c3d0c",
+    "Title":  "每週採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-16T21:02:59.9658708+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8e58c30d-864f-4a59-8e0e-774e1e63160a",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:02:26.7721234+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a2ca9e0-f835-47dd-954a-dd7f9a2ef3c8",
+                      "Name":  "清潔手套",
+                      "Quantity":  3,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:53:58.2547858+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baa193f6-fc6a-43d7-90e6-7a87be32e64e",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:51:05.7291856+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07384c20-434a-41aa-b124-a5e2898dfdfd",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:22:13.7418415+08:00",
+                      "CompletedAt":  "2025-01-19T00:33:56.9022123+08:00"
+                  },
+                  {
+                      "Id":  "731e00b2-d978-4d06-bda6-980c7aba3fa9",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:36:42.2625584+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1de30cb-706b-4f8a-8032-3e403c2a7d32",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:00:02.2032401+08:00",
+                      "CompletedAt":  "2025-01-14T23:14:18.8725506+08:00"
+                  },
+                  {
+                      "Id":  "cca30463-97ba-47e8-ae09-ddc75ea005d9",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  5,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:48:29.4628554+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

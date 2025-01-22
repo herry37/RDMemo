@@ -1,0 +1,62 @@
+{
+    "Id":  "8bf43ba2-b18c-4e41-bfac-977142a65b31",
+    "Title":  "日常補充 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T19:48:59.4577649+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ef5f19a-8252-4844-aad6-bc7ca3862ca1",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:22:29.4685136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1bef388-f7c1-4771-ae86-e29d0512f3c7",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:01:41.6422837+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c82c6193-2d6c-49af-9e51-e366382e613f",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:01:23.7609627+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9514d1e8-452a-4b28-9f6a-29ddc1697b9f",
+                      "Name":  "原木梳子",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:59:41.5782876+08:00",
+                      "CompletedAt":  "2025-01-16T05:07:22.8310524+08:00"
+                  },
+                  {
+                      "Id":  "425f5b30-8fe1-471c-b9af-468036551b13",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  3,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:48:40.0273326+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9014a474-350e-4e24-8d8d-08aee3a8be9b",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:26:37.4974162+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

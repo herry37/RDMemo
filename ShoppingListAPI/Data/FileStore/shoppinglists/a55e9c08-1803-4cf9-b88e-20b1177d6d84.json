@@ -1,0 +1,62 @@
+{
+    "Id":  "a55e9c08-1803-4cf9-b88e-20b1177d6d84",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T03:44:50.5413796+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8aea8171-c312-42de-8fcf-acf310f8dfd6",
+                      "Name":  "Ergonomic Concrete Chips",
+                      "Quantity":  5,
+                      "Price":  423,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed551df0-5ba4-40be-8be8-5d4c4b49eba0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ba2c685-da71-40f3-a213-6f3cdf801746",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1caee0b8-0998-4ea1-98f4-33b7ddd45fbd",
+                      "Name":  "Practical Cotton Fish",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812104Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea86171e-b217-4276-b6af-65dc7ee369e3",
+                      "Name":  "Incredible Soft Bike",
+                      "Quantity":  5,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812135Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94801da0-a2d8-45e5-aa23-468371553916",
+                      "Name":  "Intelligent Metal Cheese",
+                      "Quantity":  4,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8812175Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

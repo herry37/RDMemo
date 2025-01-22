@@ -1,0 +1,35 @@
+{
+    "Id":  "05407c43-e119-40d5-92bb-4e2c09d33335",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T08:18:52.7915388+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dbf68060-a5f4-4ed4-aa84-2ec63b9d7d1b",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5366581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a275490b-053d-4384-957f-466178783eca",
+                      "Name":  "Licensed Plastic Fish",
+                      "Quantity":  1,
+                      "Price":  303,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5366922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fd257d2-12a3-44e1-acbe-7d1cfe8ce547",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5366936Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

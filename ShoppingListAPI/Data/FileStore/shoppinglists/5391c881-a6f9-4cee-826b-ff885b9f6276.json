@@ -1,0 +1,35 @@
+{
+    "Id":  "5391c881-a6f9-4cee-826b-ff885b9f6276",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T03:49:40.9066809+08:00",
+    "Items":  [
+                  {
+                      "Id":  "83ac1353-5bf3-40c4-9072-78109af5ede1",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  325,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9825633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51629226-ee27-49fe-9bce-c83eb1f6adbd",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9825686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2894f0b-ebbf-4bc8-bf79-5a2e4185bdcb",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9825701Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

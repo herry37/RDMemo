@@ -1,0 +1,80 @@
+{
+    "Id":  "bddb8ce8-3710-44b4-a85d-65dffdd9851e",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T08:57:42.1757782+08:00",
+    "Items":  [
+                  {
+                      "Id":  "485ff73c-f453-4985-9884-6e47a4e7ca75",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:27:28.2081061+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4638b41b-20f6-43b8-a632-d2ce86c0d933",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  3,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:25:33.7633527+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ae1d88d-7697-49d8-8489-9b93b8929106",
+                      "Name":  "有機番茄",
+                      "Quantity":  4,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:28:01.7721266+08:00",
+                      "CompletedAt":  "2025-01-18T17:30:44.4057492+08:00"
+                  },
+                  {
+                      "Id":  "b98b8ed4-01c7-4e2e-8196-42da0a0a1e01",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:58:41.8023774+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8868632b-bbfb-475d-a0fa-9747234a8aaa",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  69,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:08:56.8455508+08:00",
+                      "CompletedAt":  "2025-01-17T01:43:48.6044535+08:00"
+                  },
+                  {
+                      "Id":  "69417e07-b5c9-45b1-8959-e6ffb9f53b9d",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:23:30.2092715+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8177eb07-6f21-42e9-b205-2dc13bb51431",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:38:11.1546211+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b65e01f5-b545-41ee-9d85-4d9fb9cedda7",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  1,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:00:37.541554+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

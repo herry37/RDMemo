@@ -1,0 +1,44 @@
+{
+    "Id":  "9da95c23-768e-4e09-9b9a-8b8c15ba8504",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T19:59:05.4718546+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1cf0daa3-0d30-4e4c-9873-5f4de830dd84",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8828384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cc7c6f2-423f-4a5c-a9f6-47ea52ba6935",
+                      "Name":  "Generic Metal Bacon",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8828769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "430532c9-24d8-43aa-aa64-725deabe34db",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8828785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51fc323b-bac4-44ab-9ca0-05a946e3b73f",
+                      "Name":  "Fantastic Frozen Mouse",
+                      "Quantity":  5,
+                      "Price":  375,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8828864Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

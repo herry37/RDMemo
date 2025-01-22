@@ -1,0 +1,62 @@
+{
+    "Id":  "5978ee39-82af-4303-b530-96e1dfe91173",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T23:36:37.4628155+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ac6cec0a-dec5-4734-bff6-d89060f26d4c",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86145e55-8ca4-4817-9720-15e78b0f3f52",
+                      "Name":  "Fantastic Wooden Pizza",
+                      "Quantity":  5,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310863Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "705c0663-3a38-4282-8539-5f66ae65cd69",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0b76ecf-4528-4eb6-8fca-9bc55302fec8",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efa61232-f483-486f-9684-3b53c5990ddb",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  40,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b35f6671-8b16-4e71-b682-05c4f9c3db8f",
+                      "Name":  "Awesome Soft Pizza",
+                      "Quantity":  4,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1310986Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

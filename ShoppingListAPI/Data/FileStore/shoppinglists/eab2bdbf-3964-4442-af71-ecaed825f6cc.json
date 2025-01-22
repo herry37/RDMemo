@@ -1,0 +1,44 @@
+{
+    "Id":  "eab2bdbf-3964-4442-af71-ecaed825f6cc",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T11:39:00.7111042+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a185e733-f6c4-42e6-8fa4-db96b5d3db01",
+                      "Name":  "Refined Rubber Keyboard",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6096414Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a32ba31c-7f1d-40f8-9bda-ffaba8016d22",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  491,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6096466Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94f84283-e66e-442b-bc96-814c802fa301",
+                      "Name":  "Sleek Metal Salad",
+                      "Quantity":  3,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6096522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2137b4f6-d7de-4cd9-8d3f-4b3ab4a13ba6",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6096535Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

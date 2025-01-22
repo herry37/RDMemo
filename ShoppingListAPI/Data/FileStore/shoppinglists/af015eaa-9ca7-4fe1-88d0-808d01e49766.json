@@ -1,0 +1,44 @@
+{
+    "Id":  "af015eaa-9ca7-4fe1-88d0-808d01e49766",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T19:43:31.6883563+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95830d28-89ac-412e-a914-d7f4fe92c6d9",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  442,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4656535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fed3250-ad3d-4022-a5a9-5124c6f2aa7b",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4656583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d060f1d5-8870-4955-8abe-6cde06227bda",
+                      "Name":  "Refined Rubber Chips",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4656865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3552a142-9747-4563-9c9e-bf1da1e32b84",
+                      "Name":  "Small Metal Shoes",
+                      "Quantity":  1,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4656907Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

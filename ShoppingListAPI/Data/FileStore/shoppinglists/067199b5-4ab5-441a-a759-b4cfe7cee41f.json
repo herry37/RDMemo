@@ -1,0 +1,44 @@
+{
+    "Id":  "067199b5-4ab5-441a-a759-b4cfe7cee41f",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T12:23:51.4220933+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95d20461-36e1-4277-9aed-5f5910b23437",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  331,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.164929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31b36784-3301-45e4-bf3c-5af6a124e6e2",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1649325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5c51f6c-72d6-4239-a16e-c685cf3f2d18",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.164935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4905192e-a61a-42e9-bcd4-70570a68ffd1",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.164936Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

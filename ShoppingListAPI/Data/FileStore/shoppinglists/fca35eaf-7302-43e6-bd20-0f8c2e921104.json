@@ -1,0 +1,44 @@
+{
+    "Id":  "fca35eaf-7302-43e6-bd20-0f8c2e921104",
+    "Title":  "01/14 飲料購物清單",
+    "CreatedAt":  "2025-01-18T13:52:10.5763912+08:00",
+    "Items":  [
+                  {
+                      "Id":  "af22da4d-49f3-44c5-92bb-a7ddb6b92fd5",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  408,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7313213Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33b56c24-4f3c-4bd5-956c-4c492043148f",
+                      "Name":  "Refined Steel Cheese",
+                      "Quantity":  2,
+                      "Price":  479,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7313454Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eefc7473-dcd0-44b9-88db-3f9c66bf964a",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7313493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ec2df62-9198-4b46-bd7a-0aabb74647b5",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7313514Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

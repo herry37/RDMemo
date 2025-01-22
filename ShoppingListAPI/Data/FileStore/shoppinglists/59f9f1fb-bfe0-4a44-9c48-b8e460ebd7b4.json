@@ -1,0 +1,62 @@
+{
+    "Id":  "59f9f1fb-bfe0-4a44-9c48-b8e460ebd7b4",
+    "Title":  "早市採買 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-18T14:03:28.0764435+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15aec991-eb4b-4441-ac15-527efcc2c78f",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:56:20.7661537+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db0c9859-f22f-4438-8b0d-4a515a5663cc",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  5,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:55:30.3129564+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7965f34e-f269-40c4-b9eb-ddcf35e2647b",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:06:51.0669485+08:00",
+                      "CompletedAt":  "2025-01-15T18:44:18.3670082+08:00"
+                  },
+                  {
+                      "Id":  "dbb2cedd-2cfe-4d08-b785-37f4a62ea086",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:32:23.1771448+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a79a4a64-4be4-408d-825b-facb01e83bef",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:54:38.5507912+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c58ad3bb-86fd-4693-a0ec-26ddf9d15834",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:00:07.1117784+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

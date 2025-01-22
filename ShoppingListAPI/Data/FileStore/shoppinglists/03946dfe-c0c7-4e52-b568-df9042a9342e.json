@@ -1,0 +1,62 @@
+{
+    "Id":  "03946dfe-c0c7-4e52-b568-df9042a9342e",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T18:52:00.528594+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7ca7a77-17d5-4ab2-a2bf-9842c82740ae",
+                      "Name":  "保鮮膜",
+                      "Quantity":  3,
+                      "Price":  47.9268092823989740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:53:35.9323688+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b0b44bf-7444-46b5-a364-a4692203e39a",
+                      "Name":  "可樂",
+                      "Quantity":  2,
+                      "Price":  363.430700882601790,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:19:55.8058133+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11e560c2-6683-46b3-a30e-c625725962e0",
+                      "Name":  "拖把",
+                      "Quantity":  5,
+                      "Price":  86.148365251890750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:24:23.4116256+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa58a0d0-9c44-410a-9d39-20dcdb59ad23",
+                      "Name":  "餅乾",
+                      "Quantity":  7,
+                      "Price":  149.538417637981110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:27:05.681707+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4572d03-0043-4e59-b7ca-8afa58497c3b",
+                      "Name":  "護手霜",
+                      "Quantity":  9,
+                      "Price":  128.80777260136890,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:25:51.0345657+08:00",
+                      "CompletedAt":  "2025-01-18T08:02:15.1709229+08:00"
+                  },
+                  {
+                      "Id":  "bf777aec-0696-42ab-b7b1-c54c70e04b32",
+                      "Name":  "垃圾袋",
+                      "Quantity":  8,
+                      "Price":  315.377886364858370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:09:16.5707701+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

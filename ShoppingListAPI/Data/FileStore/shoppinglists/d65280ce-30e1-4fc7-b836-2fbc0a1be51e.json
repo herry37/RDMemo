@@ -1,0 +1,89 @@
+{
+    "Id":  "d65280ce-30e1-4fc7-b836-2fbc0a1be51e",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-18T23:55:58.9237544+08:00",
+    "Items":  [
+                  {
+                      "Id":  "48fa4661-21b1-4dd3-bfee-6c7855b66f3c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4971963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25aa68df-2643-416f-b7f5-a0ae0cbf1541",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4971979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0786cb84-f1a9-4a69-9b81-a56a3851da60",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.497201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "963f6a18-1f42-42fd-b129-5eaeebb4681b",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4972015Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e8248bf-cb67-4013-b5bc-d3f02481f96d",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4972021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "681167ed-ef91-44d8-bc06-ee36833abd0f",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4972035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c41a5bcd-031d-4448-b9e6-7c7ef4a50efe",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4972039Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5e6e59e-7381-4c43-a087-0a10d55f035f",
+                      "Name":  "Handmade Steel Car",
+                      "Quantity":  3,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.497217Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c67b414-3cef-439f-ad32-4fa31bf566e4",
+                      "Name":  "Tasty Plastic Computer",
+                      "Quantity":  5,
+                      "Price":  422,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.4972193Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "8e13ccdf-ea2a-41e3-bbce-18c3e7523fc4",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-15T09:10:33.3726873+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ffe78ee4-e3e8-4f49-8d7d-d403ac03a841",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  472,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0210555Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db770610-184e-4eeb-be27-8f2b33ab409c",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0210602Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "133a65aa-69c6-46c7-8f67-349e8aabc34e",
+                      "Name":  "Rustic Granite Hat",
+                      "Quantity":  3,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0210829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9d1cafb-70da-49bf-9c6e-23d8c0a3b842",
+                      "Name":  "Gorgeous Wooden Table",
+                      "Quantity":  2,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0210872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1281eea8-3e60-4805-88d4-dfcb4fe9cf2d",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0210885Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

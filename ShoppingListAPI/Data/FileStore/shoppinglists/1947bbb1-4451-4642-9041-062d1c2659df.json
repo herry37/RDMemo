@@ -1,0 +1,71 @@
+{
+    "Id":  "1947bbb1-4451-4642-9041-062d1c2659df",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T16:30:30.3892518+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b723050c-a2ef-4751-a419-c596bf2ccd5a",
+                      "Name":  "Handcrafted Soft Hat",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4995806Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f52a146d-643a-4073-844a-a751f9e1268f",
+                      "Name":  "Rustic Granite Tuna",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4995885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7aaaa04b-5964-4953-aec1-2bb9c1fbb182",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4995921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6e656c4-fcee-4b06-a333-ccbd4aaef37d",
+                      "Name":  "Handcrafted Concrete Cheese",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.499596Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fae2a1c0-2767-4cb1-84bb-20b4953aed3c",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4995971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dadec20-6545-48a0-bfa1-4b372bdd7270",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4995994Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51b3ef10-5a2c-47b9-8eb0-14a5cf7303c7",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4996008Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "98d022c6-4a97-4729-ad26-52cffb9c8d40",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T02:21:13.7760489+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a5c0bf21-4cc5-444b-846e-f498900668e5",
+                      "Name":  "杯子",
+                      "Quantity":  6,
+                      "Price":  201.074938534038020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:18:17.892091+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "993cdfe0-c1b6-4dc1-86bf-527f3fde82a8",
+                      "Name":  "咖啡",
+                      "Quantity":  8,
+                      "Price":  444.917496348506010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:31:59.8593733+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22d9c086-c91c-40d2-97d5-e2c8e6866de5",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  169.45207454605240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:01:56.8824242+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7283955e-1ed3-4cb2-b655-88996c42e626",
+                      "Name":  "拖把",
+                      "Quantity":  5,
+                      "Price":  177.724664442181770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:43:03.5654139+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e67770e-e959-4346-afeb-56e0ede17862",
+                      "Name":  "牙刷",
+                      "Quantity":  8,
+                      "Price":  171.637122621419270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:49:49.0761348+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0883eba-1c9e-44b7-9b33-0557a9dc21a1",
+                      "Name":  "牙膏",
+                      "Quantity":  6,
+                      "Price":  215.8532017694040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:05:41.2652393+08:00",
+                      "CompletedAt":  "2025-01-20T18:37:18.5010943+08:00"
+                  },
+                  {
+                      "Id":  "13f10807-d7a4-4eff-bcc3-d814f4af1879",
+                      "Name":  "杯子",
+                      "Quantity":  2,
+                      "Price":  433.550683960333930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:32:35.7061537+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "143743e2-818a-4005-9034-be537baef7b8",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  262.849160623944920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:24:48.7719547+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

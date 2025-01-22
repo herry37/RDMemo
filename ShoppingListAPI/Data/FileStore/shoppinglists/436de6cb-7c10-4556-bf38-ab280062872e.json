@@ -1,0 +1,98 @@
+{
+    "Id":  "436de6cb-7c10-4556-bf38-ab280062872e",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T07:37:45.2062641+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2fede140-a8f5-427c-8197-226203b369f9",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2538605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2199b87b-c8b7-4b7a-8bd4-c7c49f5e4000",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2538658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcd79979-4b31-45ec-b603-6104861131b4",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  341,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2538667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76eb572d-ae3e-4904-b38b-4e7c0cbccab8",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2538675Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7aa06c9-7d25-4dc6-bf18-ead189f605c8",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  359,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2538687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08c54bcc-9ab2-4d9b-9790-ffe12acbdb72",
+                      "Name":  "Generic Cotton Mouse",
+                      "Quantity":  2,
+                      "Price":  496,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2545731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68132cb6-2d78-41c3-a801-b1bed4445aeb",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2545775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fc1c4d7-4cc1-44c7-afec-cbc4b3b4ff8a",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2545786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c8af0a3-a142-48d7-b3a3-5bbf2f1f9a28",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  396,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2545794Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f31eb291-f77c-4717-8d28-f5a17b3caffc",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2545852Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

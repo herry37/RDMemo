@@ -1,0 +1,53 @@
+{
+    "Id":  "b7586420-bf0b-4de1-bc76-adfed39b138a",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-18T15:46:50.7804868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8211210f-f6bd-45a6-a84f-376afc8a1663",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.76648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd6d1a52-dce3-4350-9335-e9b02cf6bc50",
+                      "Name":  "Small Cotton Cheese",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7665443Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96030f88-be0b-49fb-b5e6-e0596a646c2b",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7665463Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d40445f-7f26-4e0f-ab0f-87454be136b1",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7665486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "658b102a-3ffb-4fd5-ae65-e28b8841fc37",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7665497Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

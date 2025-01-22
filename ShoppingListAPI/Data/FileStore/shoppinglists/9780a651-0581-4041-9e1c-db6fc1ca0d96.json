@@ -1,0 +1,53 @@
+{
+    "Id":  "9780a651-0581-4041-9e1c-db6fc1ca0d96",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T07:50:29.5992709+08:00",
+    "Items":  [
+                  {
+                      "Id":  "685f729e-c90a-481a-8887-2ca108073641",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9796937Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8b7272f-104e-4d9d-a8b8-c8f9479c7a79",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9797025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ba9b0fc-4b76-4988-a5f7-0667cb0dedce",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9797052Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9472e6bc-b9c6-46ec-8f16-238fc3231e24",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.979708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5000dd6f-58ed-45bc-8fc2-02e92df0c0ab",
+                      "Name":  "Handcrafted Fresh Soap",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9797715Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

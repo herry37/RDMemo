@@ -1,0 +1,35 @@
+{
+    "Id":  "5ba44ca9-e579-4b3b-ba99-64e2bd4176de",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T22:56:54.4996323+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8f032fdc-3fef-4033-87d6-1bc01c366045",
+                      "Name":  "Refined Frozen Cheese",
+                      "Quantity":  2,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5372848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb1ed945-a210-491e-b642-a81c2f84377e",
+                      "Name":  "Fantastic Concrete Computer",
+                      "Quantity":  1,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5372907Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1e98c9b-8679-47d7-a0c1-1ea3ccd07bab",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5372939Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

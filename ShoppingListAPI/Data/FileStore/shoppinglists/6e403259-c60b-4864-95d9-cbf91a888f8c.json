@@ -1,0 +1,44 @@
+{
+    "Id":  "6e403259-c60b-4864-95d9-cbf91a888f8c",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-17T10:12:34.0710349+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a0d225ce-4fa4-402f-a8d0-776033e59899",
+                      "Name":  "海綿",
+                      "Quantity":  4,
+                      "Price":  184.820500639260910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:40:10.3008967+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1b266b0-182a-41a3-a692-a4968b3c1c29",
+                      "Name":  "番茄",
+                      "Quantity":  4,
+                      "Price":  473.951133746010540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:00:59.1897514+08:00",
+                      "CompletedAt":  "2025-01-16T12:24:31.9166229+08:00"
+                  },
+                  {
+                      "Id":  "6a9a8d2f-97d2-4a6f-9d48-fa3c64266966",
+                      "Name":  "汽水",
+                      "Quantity":  1,
+                      "Price":  114.087721971436140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:30:05.2804375+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62c05909-f110-4f4e-9b1d-a2253bee1556",
+                      "Name":  "掃把",
+                      "Quantity":  4,
+                      "Price":  237.431586505095910,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:05:09.1837864+08:00",
+                      "CompletedAt":  "2025-01-16T22:23:19.3953532+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "c5933903-67bc-498c-a602-23ca8f7ff464",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T04:57:06.0758465+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2097ffe9-bb5f-42f7-bae4-def95eea6952",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4563878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7272817-37f0-4c2f-b145-8d696c380ddf",
+                      "Name":  "Handmade Concrete Shirt",
+                      "Quantity":  3,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4564142Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e09f14c-fbc7-4784-847d-19530e92ba2d",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4564154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61f526f0-cf83-4c7b-9c17-6fb0807c561d",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4564163Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

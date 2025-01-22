@@ -1,0 +1,35 @@
+{
+    "Id":  "226eab6b-0a55-4a78-b76f-d5dad2cf0e6f",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T06:39:23.2187047+08:00",
+    "Items":  [
+                  {
+                      "Id":  "837788dd-ab8e-458e-9cdb-077f3b2d2d3f",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:38:39.2768466+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50b5cafb-d479-4d3d-adcd-3b7bd351634f",
+                      "Name":  "有機番茄",
+                      "Quantity":  3,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:37:34.3264209+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ce8b09a-40e2-4477-994d-497137f47b3d",
+                      "Name":  "綜合堅果",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:19:50.2580902+08:00",
+                      "CompletedAt":  "2025-01-19T23:29:00.4511995+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

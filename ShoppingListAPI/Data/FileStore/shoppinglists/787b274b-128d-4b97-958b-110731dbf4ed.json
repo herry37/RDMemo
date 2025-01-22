@@ -1,0 +1,35 @@
+{
+    "Id":  "787b274b-128d-4b97-958b-110731dbf4ed",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T06:56:59.7102802+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d68955cf-62a4-4295-b156-fa5659b79856",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  379,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6092826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "754873e9-4b4a-4af0-adf5-c14c30c0e33f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  95,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6092867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc36d14b-4468-45cb-9480-ea16e8fe79e3",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6092907Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

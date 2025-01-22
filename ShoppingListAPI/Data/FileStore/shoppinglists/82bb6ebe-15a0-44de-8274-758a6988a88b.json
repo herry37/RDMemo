@@ -1,0 +1,80 @@
+{
+    "Id":  "82bb6ebe-15a0-44de-8274-758a6988a88b",
+    "Title":  "居家整理 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T16:24:27.942166+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c82c4bd5-6bd6-450e-a177-2a399f07c5e4",
+                      "Name":  "清潔手套",
+                      "Quantity":  4,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:26:20.5439497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db162d54-9368-46c2-bd49-c007af90dd19",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:29:19.9425003+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60a4e985-0dde-4fb4-9eda-4f45a6766b9b",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:14:42.9981091+08:00",
+                      "CompletedAt":  "2025-01-21T01:08:00.9097981+08:00"
+                  },
+                  {
+                      "Id":  "c888002a-fa34-4a13-9d52-05295b1ad008",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:11:19.497179+08:00",
+                      "CompletedAt":  "2025-01-18T12:32:08.3686403+08:00"
+                  },
+                  {
+                      "Id":  "e767e25e-d3d4-4f6f-ab93-a1ec02df559e",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:31:38.3238598+08:00",
+                      "CompletedAt":  "2025-01-16T10:16:35.6641907+08:00"
+                  },
+                  {
+                      "Id":  "d2e65b56-a1dc-46e2-9cbe-2afe71a29ad2",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:15:13.8189593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61ec528a-c3f3-457f-90a8-777f671d3df8",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:04:40.4580847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "125c6e9b-be64-43b7-8c0d-c3982d5cf660",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:40:28.7825445+08:00",
+                      "CompletedAt":  "2025-01-18T09:21:29.0210665+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

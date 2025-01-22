@@ -1,0 +1,62 @@
+{
+    "Id":  "21e5c318-a5dd-4a0b-9ee2-da09d5ad63f3",
+    "Title":  "年節採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-17T11:17:35.8300897+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cd07c19e-6e62-46b7-b09a-456ed350476f",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  3,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:59:51.8535405+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef1b4303-94eb-42f8-b71c-4697380070ea",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:40:05.811873+08:00",
+                      "CompletedAt":  "2025-01-17T19:36:55.7622834+08:00"
+                  },
+                  {
+                      "Id":  "7fede332-adee-4754-a1cf-13fdcd4d410a",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:58:07.9494129+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ff27a57-0c8c-40b3-8fbf-633039b25097",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:12:50.0477995+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bbe1adc5-6635-411b-9382-d836ebaf0bd4",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:46:46.8188223+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fb5771f-d90b-4c1d-aa29-e7d2cb12ace4",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:44:37.5224293+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

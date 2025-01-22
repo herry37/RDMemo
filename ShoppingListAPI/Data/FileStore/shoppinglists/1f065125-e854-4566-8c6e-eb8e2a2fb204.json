@@ -1,0 +1,35 @@
+{
+    "Id":  "1f065125-e854-4566-8c6e-eb8e2a2fb204",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T16:50:08.2684653+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b5f3fb9-d55c-47aa-815e-c3305fdcf305",
+                      "Name":  "可樂",
+                      "Quantity":  7,
+                      "Price":  463.002468594895170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:20:34.0550458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1efdb96c-228f-4a99-bdea-8433ad03d15f",
+                      "Name":  "果乾",
+                      "Quantity":  10,
+                      "Price":  61.629989976899810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:35:40.9382186+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94e6080d-0ceb-48b5-9cb6-788a4f61ff7f",
+                      "Name":  "牙刷",
+                      "Quantity":  6,
+                      "Price":  179.309058320132990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:15:36.6652517+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

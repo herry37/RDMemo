@@ -1,0 +1,80 @@
+{
+    "Id":  "08bead61-b53a-48ee-a596-436e75e53af2",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T00:04:42.4140651+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c1167c75-a1bb-45ee-8100-b4bbb427605a",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  459,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.566941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c0719bd-28d9-4a0b-94fa-1ab96c2fd995",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d09f61da-65fb-458d-aa87-e4249a76d27c",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21bf4aa9-1e1a-4ae0-a48f-a67bf49d87aa",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669467Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93294644-aa93-4b3e-ac24-b3049f4e06d4",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669479Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5c60edb-52fa-47aa-a282-5b8943a1231a",
+                      "Name":  "Licensed Steel Sausages",
+                      "Quantity":  4,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669764Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3f72907-0268-40b6-81b2-e05271fd10dd",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5669776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39ee8119-668f-4733-93bc-02d052662798",
+                      "Name":  "Intelligent Wooden Gloves",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.566983Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

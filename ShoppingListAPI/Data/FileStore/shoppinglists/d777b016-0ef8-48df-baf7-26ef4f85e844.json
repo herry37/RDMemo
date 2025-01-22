@@ -1,0 +1,53 @@
+{
+    "Id":  "d777b016-0ef8-48df-baf7-26ef4f85e844",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T11:36:04.3330596+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c80d244-3f66-4f27-9374-594ca3d7c3d3",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:35:33.9447977+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8728a13-addc-4535-92f3-6d2ce77255cd",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:07:38.4161518+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1f8d727-ae95-463f-981a-a71bf6645ee1",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:39:43.9415196+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ebc842e-bb88-4eb1-a03f-7fe7f98bf30e",
+                      "Name":  "黑巧克力",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:18:02.3076389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aba579e4-247d-4321-8bc3-af927e53bea9",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:18:04.5027589+08:00",
+                      "CompletedAt":  "2025-01-22T07:57:35.8173397+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

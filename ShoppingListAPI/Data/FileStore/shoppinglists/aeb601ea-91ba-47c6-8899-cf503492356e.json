@@ -1,0 +1,80 @@
+{
+    "Id":  "aeb601ea-91ba-47c6-8899-cf503492356e",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-14T23:28:07.4712131+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7bad70f9-09e3-48b9-b2c7-1e220ccfc0e3",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:59:56.3060124+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa879a92-8ea1-4d5a-bf1f-3d368bc7f60f",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:39:01.8387356+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "062cc667-528a-4631-8885-c5cdb4f8da49",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:17:44.9410692+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99c8eb6d-25a6-497a-a8ba-f3bdea819b9a",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:16:09.5831389+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a738877-6599-4425-9d25-5a3a47d41afb",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:14:15.6179933+08:00",
+                      "CompletedAt":  "2025-01-21T14:36:22.4957645+08:00"
+                  },
+                  {
+                      "Id":  "25753444-1e5f-4e49-b9ea-65fbd5147200",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:15:31.885058+08:00",
+                      "CompletedAt":  "2025-01-21T01:48:56.6264257+08:00"
+                  },
+                  {
+                      "Id":  "7ba99f2f-c1f9-4f27-b835-61b89050f081",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:15:11.7490497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d1ddce9-03ce-43cf-b999-6e713cd2a8f5",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:36:18.3438885+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

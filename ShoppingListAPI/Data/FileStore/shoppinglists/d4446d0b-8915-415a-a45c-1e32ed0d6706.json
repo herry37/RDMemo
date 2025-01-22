@@ -1,0 +1,71 @@
+{
+    "Id":  "d4446d0b-8915-415a-a45c-1e32ed0d6706",
+    "Title":  "日常補充 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-21T08:52:26.9623587+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ee368cc1-af79-41ee-ac81-27198c94f903",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:20:44.8100422+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00631190-db87-4065-b1ba-e55945b7d539",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:53:23.529043+08:00",
+                      "CompletedAt":  "2025-01-17T23:34:18.2391875+08:00"
+                  },
+                  {
+                      "Id":  "6bcd1015-680d-4690-a216-e6fd062555a0",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:31:58.7136148+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2533bccd-33cd-41ef-8acd-5cda81226984",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:30:47.5993354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef14d09c-1ee5-41e1-af39-68615322edca",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:16:14.3709901+08:00",
+                      "CompletedAt":  "2025-01-16T15:50:01.0092889+08:00"
+                  },
+                  {
+                      "Id":  "a81d8f14-4e42-4c11-8849-4e27c53525c7",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:20:30.9442552+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3b5883e-ebca-4d67-bca0-485b1e53021b",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:42:30.4340405+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "9b6148fb-382a-42d8-88dd-a6704ef47d98",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-21T20:37:45.3075911+08:00",
+    "Items":  [
+                  {
+                      "Id":  "284cd187-3778-419e-a6ee-2d252c91fbac",
+                      "Name":  "Practical Wooden Gloves",
+                      "Quantity":  2,
+                      "Price":  15,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4228373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6042d768-b5e1-4e88-aaff-b79ab0180af3",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4228395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd1d2004-47a6-4bda-abbe-94be596df62d",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4228422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26797957-5d02-4d3d-ad2f-28ceabc7f8ce",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4228434Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

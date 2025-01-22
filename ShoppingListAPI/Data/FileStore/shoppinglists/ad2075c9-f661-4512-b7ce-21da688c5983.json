@@ -1,0 +1,62 @@
+{
+    "Id":  "ad2075c9-f661-4512-b7ce-21da688c5983",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T20:07:35.8296596+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1501d1f6-76a0-4931-aeb8-5200e74b54ec",
+                      "Name":  "衣架",
+                      "Quantity":  8,
+                      "Price":  66.342660118497060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:35:23.7070079+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d3032a3-12e4-43f4-a706-587f6d7024e7",
+                      "Name":  "洋芋片",
+                      "Quantity":  5,
+                      "Price":  61.618067229881530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:27:00.2031924+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "132100fb-beb0-4276-b5c9-0f8ddc018a8b",
+                      "Name":  "電池",
+                      "Quantity":  6,
+                      "Price":  436.837458536065150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:20:13.2708076+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bce94dd0-5431-43ea-b451-72c0f34a22be",
+                      "Name":  "筆記本",
+                      "Quantity":  5,
+                      "Price":  360.300575703514940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:32:44.7734265+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "931d9594-5feb-4673-a525-a342aee4de34",
+                      "Name":  "餐具",
+                      "Quantity":  2,
+                      "Price":  174.185631069348910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:48:24.4622025+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2f9d4a9-9ae1-4b26-8630-79b0c174238c",
+                      "Name":  "膠帶",
+                      "Quantity":  7,
+                      "Price":  67.050360237503990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:36:05.222051+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "03a84ff9-1d59-4c80-a860-65dafbd020fe",
+    "Title":  "年節採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-18T06:33:01.3855665+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2b1af5f8-be1a-44e9-90e3-235fe99bef40",
+                      "Name":  "美白牙膏",
+                      "Quantity":  2,
+                      "Price":  251,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:59:55.6613548+08:00",
+                      "CompletedAt":  "2025-01-21T17:49:25.5943686+08:00"
+                  },
+                  {
+                      "Id":  "c6814397-295c-4081-8cc9-23473c2ce499",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:36:35.3776751+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5b80614-a123-4066-9e26-686d676653e1",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:12:54.5590204+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03b68362-7533-4d23-8c00-878f6b7e3554",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:23:29.1847025+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e2bf8cc-65a5-4c09-9356-9c161f13f9ad",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:07:10.6102705+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17143b05-b2c7-409c-ba71-4f2653c1a2ca",
+                      "Name":  "進口糖果",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:34:53.3203683+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e1b77ed-53f0-4711-8aef-f4a8d02ba18c",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T21:53:40.897803+08:00",
+                      "CompletedAt":  "2025-01-17T14:54:07.6092748+08:00"
+                  },
+                  {
+                      "Id":  "763b0060-f41d-4eb7-afad-ce86bb49e617",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:12:08.5685613+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

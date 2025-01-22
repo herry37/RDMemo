@@ -1,0 +1,44 @@
+{
+    "Id":  "a6fc33b7-8587-496f-90a8-4b393a510d4e",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T08:50:13.076407+08:00",
+    "Items":  [
+                  {
+                      "Id":  "62a02db1-17d7-469d-86e0-5a9012f971e2",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8846431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d450347-6ef9-47b4-aba9-6e0f41384dc1",
+                      "Name":  "Fantastic Concrete Chair",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8846662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1599d886-ec6d-4168-9abf-cbedeab838bf",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8846688Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a39abbe-79cc-45fc-ad70-4086f09b9ba6",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8846697Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

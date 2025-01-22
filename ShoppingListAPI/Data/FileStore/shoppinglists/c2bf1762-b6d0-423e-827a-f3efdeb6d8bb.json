@@ -1,0 +1,62 @@
+{
+    "Id":  "c2bf1762-b6d0-423e-827a-f3efdeb6d8bb",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T12:44:44.2785957+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26d06a81-5dbe-4294-aacd-54a1147241fd",
+                      "Name":  "Handcrafted Frozen Shoes",
+                      "Quantity":  3,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5159973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd24bcae-6d36-4468-8825-694c75ddcb07",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5159994Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9924357a-81d6-48a8-be43-661b79c32931",
+                      "Name":  "Small Frozen Car",
+                      "Quantity":  2,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5160051Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a14c88b8-5ea5-4003-b301-6c8e89d221b3",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5160059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c5dd19f-c87c-4980-919e-a0f9e7dbd406",
+                      "Name":  "Incredible Wooden Computer",
+                      "Quantity":  4,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5160076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a003f7b-935d-4cdb-80c8-ac526c9e9c48",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  474,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5160091Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

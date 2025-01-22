@@ -1,0 +1,35 @@
+{
+    "Id":  "1f4b8311-c8c8-4c51-a30d-c9630797c0f8",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T16:48:57.4927795+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29b1b424-8632-458a-ac9e-cc0c7ade0f8c",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7580063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03316f2a-73a2-4d24-a212-d803f0421206",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.758013Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7ff9aae-18e4-453d-9f01-4f5241004248",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7580141Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

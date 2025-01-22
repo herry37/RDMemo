@@ -1,0 +1,62 @@
+{
+    "Id":  "68ee17bd-7432-42d8-9f5b-568b26e096ce",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T15:15:47.3297872+08:00",
+    "Items":  [
+                  {
+                      "Id":  "066594ce-f935-47d6-abc1-e1b18bcdf30a",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9856742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c73f127-c604-478e-8b34-d93bee3e693d",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.98568Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcb8d047-c3c1-4727-99a2-5706f0afd0c3",
+                      "Name":  "Gorgeous Rubber Car",
+                      "Quantity":  3,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9857097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1123aaf7-3785-4988-bbf5-ee7213840105",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9857125Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84796493-ac71-4532-90d9-c7f2cc3bd3ce",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9857296Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b779daff-875e-4362-a5a1-32f757d9a176",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9857336Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

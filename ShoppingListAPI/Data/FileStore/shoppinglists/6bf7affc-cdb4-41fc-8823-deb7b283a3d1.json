@@ -1,0 +1,35 @@
+{
+    "Id":  "6bf7affc-cdb4-41fc-8823-deb7b283a3d1",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-15T22:41:53.8756959+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f037faba-21aa-4aef-b4a2-9dd226523773",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7355759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a97a95b9-85e8-4b13-a9bf-f0aa8f69dd63",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7355776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd965882-61c1-44fb-b95d-3ec9cdcf15fd",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7355783Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

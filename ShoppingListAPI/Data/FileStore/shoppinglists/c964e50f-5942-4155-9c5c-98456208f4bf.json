@@ -1,0 +1,71 @@
+{
+    "Id":  "c964e50f-5942-4155-9c5c-98456208f4bf",
+    "Title":  "01/19 飲料購物清單",
+    "CreatedAt":  "2025-01-17T22:47:13.6104671+08:00",
+    "Items":  [
+                  {
+                      "Id":  "198dee0f-7085-40ff-84bb-c911d439306f",
+                      "Name":  "Practical Frozen Gloves",
+                      "Quantity":  3,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b79cf613-45f6-4c77-9d40-48c51441df5b",
+                      "Name":  "Small Granite Ball",
+                      "Quantity":  4,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4c90c33-de17-476d-9af9-713a6a20481a",
+                      "Name":  "Ergonomic Frozen Keyboard",
+                      "Quantity":  5,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d383ada3-2426-4745-83e3-c3b6ff505649",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9999243-8305-427a-ae40-32faacdbc707",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351413Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f31f323-3462-43ca-ac09-08ec9d9bd9bc",
+                      "Name":  "Sleek Rubber Sausages",
+                      "Quantity":  1,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351673Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "114cc130-b61e-45a4-9629-aa7281a7f4e8",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0351692Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

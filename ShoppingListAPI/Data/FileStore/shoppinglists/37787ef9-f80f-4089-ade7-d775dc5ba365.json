@@ -1,0 +1,71 @@
+{
+    "Id":  "37787ef9-f80f-4089-ade7-d775dc5ba365",
+    "Title":  "年節採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T08:38:53.1173739+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7e58ee7d-5209-4268-8c55-ceec5fc8392a",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  1,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:52:34.6841932+08:00",
+                      "CompletedAt":  "2025-01-17T19:05:06.5227326+08:00"
+                  },
+                  {
+                      "Id":  "657bd53a-b7f8-4f3a-9aae-629539e7cf14",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:57:45.0885091+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cef09d88-e4a7-4e7f-8878-30c6a15ca20c",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:08:47.3644337+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "467bea99-f0f7-4b65-9987-de3078394f65",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:48:25.6029103+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3edd9f6a-6342-4d3b-9deb-b5b980cbc9fe",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:06:35.59248+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e084c42-735d-435d-85cb-c05f2cc97273",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:51:34.3380179+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ad38862-938e-44d3-9645-6c1765ba5ecb",
+                      "Name":  "日本泡麵",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:22:00.5967953+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

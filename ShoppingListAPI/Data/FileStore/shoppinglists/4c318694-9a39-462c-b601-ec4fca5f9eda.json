@@ -1,0 +1,35 @@
+{
+    "Id":  "4c318694-9a39-462c-b601-ec4fca5f9eda",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-15T15:19:09.9714929+08:00",
+    "Items":  [
+                  {
+                      "Id":  "374251a3-0f2a-4220-98d1-b4b85bdf73e8",
+                      "Name":  "Handmade Rubber Table",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.4107508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cbe7e7a-9259-4885-af83-8a5cbf62b75a",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.4107525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f416e5bf-6df4-4f75-b9f2-3eb6ef876133",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.410755Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

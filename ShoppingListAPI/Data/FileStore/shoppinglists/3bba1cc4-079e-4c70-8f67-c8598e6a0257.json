@@ -1,0 +1,44 @@
+{
+    "Id":  "3bba1cc4-079e-4c70-8f67-c8598e6a0257",
+    "Title":  "早市採買 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-20T20:49:28.7982167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bb3007bc-d6b2-4b25-a4f6-3c344dd520b9",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:03:11.7018884+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7919d40-cc4b-4b2b-850c-2001a1226367",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:48:50.2092896+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7d38e3e-3a3c-4b3e-972a-3a7f3a2997b3",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T12:28:45.1067264+08:00",
+                      "CompletedAt":  "2025-01-18T22:08:10.0433452+08:00"
+                  },
+                  {
+                      "Id":  "60c43ee6-8652-4ab4-93a1-c97465f75883",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:34:54.4586862+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

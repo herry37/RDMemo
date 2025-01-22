@@ -1,0 +1,53 @@
+{
+    "Id":  "25b437ea-b8ca-415f-92b1-75169019ed23",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-16T12:52:45.5042153+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e85a64a7-7922-4c22-b0e9-86ecc62a265f",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  361,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6354305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b392a403-9972-40c0-bee3-09a0982639eb",
+                      "Name":  "Unbranded Wooden Ball",
+                      "Quantity":  2,
+                      "Price":  472,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6354605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a60a5f4d-39f5-4ae3-9e7b-1695f8c5bad5",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.635462Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffad446a-9ab7-4335-b94a-24bcde39f5c8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6354633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ada91a7-80d7-4416-8655-1c270698eb15",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6354652Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

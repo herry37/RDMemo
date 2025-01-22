@@ -1,0 +1,89 @@
+{
+    "Id":  "d344dfeb-1c64-4c0a-9c43-3040493e3a0b",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T10:16:33.8600946+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b499618d-3bb5-4da6-b4f3-c808d0cbbdf8",
+                      "Name":  "芳香劑",
+                      "Quantity":  6,
+                      "Price":  66.333719699714730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:42:34.9110924+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "825d3c2f-4c02-4b4f-9d19-f073d7044f2d",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  76.947207377133160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:15:57.0619449+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2aeb5705-3925-47cf-9e44-ef1adfdde748",
+                      "Name":  "糖果",
+                      "Quantity":  10,
+                      "Price":  153.991647607903480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:00:19.588841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d6b74c1-75c1-40fe-8c9a-1eb0e0433022",
+                      "Name":  "毛巾",
+                      "Quantity":  2,
+                      "Price":  299.00127155829230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:39:13.4825935+08:00",
+                      "CompletedAt":  "2025-01-20T00:21:33.8289611+08:00"
+                  },
+                  {
+                      "Id":  "78a909b9-c25f-43e8-8fc1-afb2ba4e9e92",
+                      "Name":  "礦泉水",
+                      "Quantity":  7,
+                      "Price":  288.37758525396050,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:06:09.8378514+08:00",
+                      "CompletedAt":  "2025-01-21T08:58:22.8140016+08:00"
+                  },
+                  {
+                      "Id":  "0534520b-b93d-49ec-9e03-eb0e2b2f5f22",
+                      "Name":  "清潔劑",
+                      "Quantity":  7,
+                      "Price":  229.208150807406110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T01:53:22.425336+08:00",
+                      "CompletedAt":  "2025-01-16T04:31:27.827054+08:00"
+                  },
+                  {
+                      "Id":  "cc4b13dc-6ce9-4a75-a580-dc2d3d7c04f5",
+                      "Name":  "芳香劑",
+                      "Quantity":  4,
+                      "Price":  431.719112738789250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:14:25.8378734+08:00",
+                      "CompletedAt":  "2025-01-15T11:00:59.1746768+08:00"
+                  },
+                  {
+                      "Id":  "b9164d18-03ba-40be-a7fa-8dcab685ac07",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  269.30996419857970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:25:51.4365496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2344f72c-c716-4953-bd04-8f85d681734c",
+                      "Name":  "筆",
+                      "Quantity":  4,
+                      "Price":  335.609858432932990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:38:15.9281166+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

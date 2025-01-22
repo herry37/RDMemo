@@ -1,0 +1,80 @@
+{
+    "Id":  "bcf49d46-4d33-4e6c-919f-46e9bcee5571",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T01:00:01.9011034+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9508086f-ffbe-44d7-9124-57d26dc1a37c",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:44:48.8595729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11214115-f962-4b6c-aa8a-9e8462b70519",
+                      "Name":  "防滑衣架",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:31:03.5597939+08:00",
+                      "CompletedAt":  "2025-01-15T04:09:22.1741969+08:00"
+                  },
+                  {
+                      "Id":  "54090d43-c83c-4242-a73c-1956040a50de",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:43:33.4524945+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3f72478-59cc-4a64-b03c-6a5cc9d67a95",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:14:06.6499729+08:00",
+                      "CompletedAt":  "2025-01-15T09:06:49.8687582+08:00"
+                  },
+                  {
+                      "Id":  "fe9d5488-0a24-4a04-a126-9ef415ce5ff1",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:08:58.0236901+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5cd4e06-a5cc-428b-8211-17f07c635c8d",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:44:25.8294195+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dc96cf0-ecf5-4ff3-9d06-655567a1ac3d",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:06:19.6706567+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "586dcc1a-3f12-41f7-b794-ded3512b38d2",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:33:58.257527+08:00",
+                      "CompletedAt":  "2025-01-20T22:28:18.6817081+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

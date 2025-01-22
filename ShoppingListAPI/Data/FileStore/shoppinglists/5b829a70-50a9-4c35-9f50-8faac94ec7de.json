@@ -1,0 +1,89 @@
+{
+    "Id":  "5b829a70-50a9-4c35-9f50-8faac94ec7de",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-21T00:25:51.2614075+08:00",
+    "Items":  [
+                  {
+                      "Id":  "36c7437c-416e-41ac-82a5-7b2026ed21ad",
+                      "Name":  "漂白水",
+                      "Quantity":  3,
+                      "Price":  439.577669822905380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T19:26:09.8490456+08:00",
+                      "CompletedAt":  "2025-01-14T20:37:51.081941+08:00"
+                  },
+                  {
+                      "Id":  "dbefe142-78a3-4558-a366-4636f4937f92",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  402.674836300105590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:01:43.2701143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5db92dc-bdc1-4182-9ad1-a5b32b26737a",
+                      "Name":  "啤酒",
+                      "Quantity":  5,
+                      "Price":  498.254677631492590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:23:16.3024912+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39a86491-1065-48eb-a4c6-998148ec1ec3",
+                      "Name":  "置物盒",
+                      "Quantity":  8,
+                      "Price":  159.8935869849390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:35:11.6211103+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "979512f2-abf0-409b-ad08-54ff7849aa0e",
+                      "Name":  "杯子",
+                      "Quantity":  9,
+                      "Price":  225.014184478361940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:01:09.5765887+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09e4a051-4c4b-41a4-a070-a5744b29d443",
+                      "Name":  "拖把",
+                      "Quantity":  5,
+                      "Price":  428.209816540437040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:57:53.3456526+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02a88feb-855a-4ab9-bcf3-19a902a40e15",
+                      "Name":  "筆",
+                      "Quantity":  2,
+                      "Price":  229.396217051589620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:07:25.7772485+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4efb6e1c-5657-4532-a017-d679c169b101",
+                      "Name":  "鍋子",
+                      "Quantity":  8,
+                      "Price":  126.966450757527980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:20:58.0603917+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79ecbac4-3abf-40b3-b98e-f6ee464d63f5",
+                      "Name":  "爆米花",
+                      "Quantity":  4,
+                      "Price":  192.80098440090760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:10:52.9078813+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

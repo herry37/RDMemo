@@ -1,0 +1,62 @@
+{
+    "Id":  "3aabe6f6-068f-4b7e-bd8a-5445ba19c4e0",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-16T20:50:52.0063986+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d63cde8b-90f8-4b74-b0ca-8ef8779c188b",
+                      "Name":  "堅果",
+                      "Quantity":  2,
+                      "Price":  200.183675684270870,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:28:51.984105+08:00",
+                      "CompletedAt":  "2025-01-19T22:43:58.2248249+08:00"
+                  },
+                  {
+                      "Id":  "285dd874-c025-44d0-abbb-21a66eb9bd0f",
+                      "Name":  "訂書機",
+                      "Quantity":  4,
+                      "Price":  42.7754662200593040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:28:11.788349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15202e94-1c9d-47c5-81cb-eb0479612ab1",
+                      "Name":  "防曬乳",
+                      "Quantity":  3,
+                      "Price":  210.390214962528430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:21:34.0880038+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7becd851-77a2-4ca3-b038-477792cdc6b5",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  378.810959599493810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:54:56.7210644+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d39f1d5e-59a2-4bd7-ba0b-ad1e1f11f3d8",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  110.736691061117510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:31:51.1417143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69a2439e-f86c-44d6-b67f-52123453d405",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  156.29658992232760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:22:51.5259471+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

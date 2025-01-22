@@ -1,0 +1,35 @@
+{
+    "Id":  "6a639563-77d1-4566-b825-dd1f56f17d70",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-16T20:26:31.312366+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff3d38fa-54b8-4708-bee9-dd5d34f0ca3a",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:42:54.4641738+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce7b3991-869f-4f46-b881-e6ef05e965f5",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:12:00.8790076+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04a35cfb-2750-447f-b0fd-56b2961fd0f9",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  286,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:36:25.6451565+08:00",
+                      "CompletedAt":  "2025-01-15T00:06:29.2590929+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

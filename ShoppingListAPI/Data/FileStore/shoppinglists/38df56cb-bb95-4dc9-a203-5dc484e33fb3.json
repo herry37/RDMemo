@@ -1,0 +1,53 @@
+{
+    "Id":  "38df56cb-bb95-4dc9-a203-5dc484e33fb3",
+    "Title":  "派對用品 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T01:46:44.3315063+08:00",
+    "Items":  [
+                  {
+                      "Id":  "07d2c648-6e79-4c25-b1b3-f2ae21d34e62",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  164,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:04:32.3167611+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "157350ea-5639-4219-ac71-768dffb74529",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:24:04.2266265+08:00",
+                      "CompletedAt":  "2025-01-16T23:11:13.0500897+08:00"
+                  },
+                  {
+                      "Id":  "208f8855-9386-4a99-b177-906d13e3528e",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:52:23.3845529+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6427b900-d0cc-4a48-84d5-5d46859a042e",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:47:45.168286+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f42fc870-a6ad-41bf-8912-42c94a7003a5",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:57:44.8450742+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

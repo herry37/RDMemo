@@ -1,0 +1,44 @@
+{
+    "Id":  "4acf4e15-f865-4bea-8a05-6159f94b7ee6",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T22:05:06.1488904+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95bf8549-39cb-4c55-af3b-e1f852e699fd",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0844274Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05ac55ff-ac77-4043-9272-0a6fc1db97dd",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  221,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0844339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "461f0b50-f762-4fd4-b9c4-c8c1e8ce47e6",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.084436Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f52e07e0-ae29-4752-a78b-00eb2ff78c62",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.084438Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

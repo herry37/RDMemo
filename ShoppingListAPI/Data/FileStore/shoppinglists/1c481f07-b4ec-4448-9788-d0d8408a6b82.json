@@ -1,0 +1,44 @@
+{
+    "Id":  "1c481f07-b4ec-4448-9788-d0d8408a6b82",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-18T19:04:41.5814024+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22335660-2719-4736-bdca-4653df834ddd",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8773011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2d326c3-8d10-44ac-9e6b-350d25332c99",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.877306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c5fdc23-086e-4e2f-bbc9-bd94ccecbe74",
+                      "Name":  "Practical Frozen Pizza",
+                      "Quantity":  1,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8773276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aafe58f5-9068-4da9-9a6d-a2834164dacf",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8773295Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

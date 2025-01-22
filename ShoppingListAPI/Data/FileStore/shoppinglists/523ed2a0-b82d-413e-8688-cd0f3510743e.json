@@ -1,0 +1,44 @@
+{
+    "Id":  "523ed2a0-b82d-413e-8688-cd0f3510743e",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T05:20:23.2824017+08:00",
+    "Items":  [
+                  {
+                      "Id":  "60862c38-3a12-4b27-95e0-0305b1a86c83",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5143432Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a20ced6d-d2e1-4f38-96b8-19358e1cf01c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5143502Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94807d82-b100-45f7-a92f-099a5bdcbbc1",
+                      "Name":  "Fantastic Concrete Cheese",
+                      "Quantity":  1,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5147715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "913b8dac-afac-4f00-8ce5-130c28e59dcc",
+                      "Name":  "Handmade Fresh Chicken",
+                      "Quantity":  1,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5147918Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

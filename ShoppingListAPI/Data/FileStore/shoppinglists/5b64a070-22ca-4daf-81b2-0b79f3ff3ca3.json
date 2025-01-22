@@ -1,0 +1,62 @@
+{
+    "Id":  "5b64a070-22ca-4daf-81b2-0b79f3ff3ca3",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-20T17:27:33.1403369+08:00",
+    "Items":  [
+                  {
+                      "Id":  "60f57d90-a43d-4176-96e2-d08ba2536d08",
+                      "Name":  "雞肉",
+                      "Quantity":  6,
+                      "Price":  36.9786727503140260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:04:06.0768407+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0aa2842d-56ec-47ff-a060-89490189d455",
+                      "Name":  "蛋糕",
+                      "Quantity":  4,
+                      "Price":  387.904200433475170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:07:15.3382468+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ba4b7b6-ae91-494c-b7d3-44b11cd40f97",
+                      "Name":  "保鮮膜",
+                      "Quantity":  4,
+                      "Price":  157.589102740537080,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:28:35.5159262+08:00",
+                      "CompletedAt":  "2025-01-23T06:05:52.7000367+08:00"
+                  },
+                  {
+                      "Id":  "5248a186-5c3f-4666-9851-e4e173356604",
+                      "Name":  "資料夾",
+                      "Quantity":  3,
+                      "Price":  166.35192421107070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:15:12.0052827+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e66158f7-3ccd-4746-9f21-64fb4c6ce1a3",
+                      "Name":  "便利貼",
+                      "Quantity":  3,
+                      "Price":  270.8045214460980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:30:14.6377415+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73be6c47-eb0e-4c6c-a8a7-2cf48a947262",
+                      "Name":  "資料夾",
+                      "Quantity":  8,
+                      "Price":  460.538615403368590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:36:45.4403645+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

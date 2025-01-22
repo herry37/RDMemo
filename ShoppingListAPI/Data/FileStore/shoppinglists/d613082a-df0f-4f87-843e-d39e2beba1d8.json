@@ -1,0 +1,35 @@
+{
+    "Id":  "d613082a-df0f-4f87-843e-d39e2beba1d8",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-16T16:44:54.6252348+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c73b08b-ad84-49f3-95e3-bd68ea86fdd0",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7494518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f0ecffd-d0d2-4cb0-adf1-abea44d97ed0",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7494572Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "397aaf0e-d9ae-4701-8f14-71d359a5841a",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  66,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7494617Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

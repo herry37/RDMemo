@@ -1,0 +1,98 @@
+{
+    "Id":  "db61cac5-2df2-4f83-8c00-92acfc7c5599",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T20:55:03.6916411+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ad37a472-c8ee-47e2-bf06-e07042f454ac",
+                      "Name":  "Practical Wooden Mouse",
+                      "Quantity":  2,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.111249Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f26fe6c-9fc2-491d-81e7-f81d395138f7",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab3b4252-3c02-44e3-b4d1-a46c01b2cf29",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112544Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20a0e90b-acaa-45db-8edb-f5721d5d326a",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112559Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "684ec475-5390-4155-b12a-8f6b310a4ec3",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.111257Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9116891-f9c9-4250-9288-7e042a778f6a",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112598Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "068402b1-ac53-40c5-905b-139f9e3636a7",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79edbccf-d4c8-4eca-9f14-30a235704492",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.111262Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ce7242e-a2b2-4675-bff3-e76791715f42",
+                      "Name":  "Handmade Cotton Cheese",
+                      "Quantity":  1,
+                      "Price":  168,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1112676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5efdea06-b317-4f58-a92e-9646b2afe2c8",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.111269Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "90453372-b7df-44ef-b652-87d8ed055dd9",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T22:21:11.5096406+08:00",
+    "Items":  [
+                  {
+                      "Id":  "55e22acc-ca3d-438d-ac8a-6a105d677a87",
+                      "Name":  "果汁",
+                      "Quantity":  6,
+                      "Price":  354.249651662997780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:53:24.6784552+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5540403b-eeb9-491b-bcd6-e39dea1e2db8",
+                      "Name":  "掃把",
+                      "Quantity":  3,
+                      "Price":  64.671895644067590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:52:50.8021783+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "731c2638-4569-4e0f-a90e-e169ccdafd2d",
+                      "Name":  "洗衣精",
+                      "Quantity":  3,
+                      "Price":  305.420327924225140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T13:19:14.0685239+08:00",
+                      "CompletedAt":  "2025-01-17T13:44:05.9442301+08:00"
+                  },
+                  {
+                      "Id":  "d6e90310-47de-40aa-9fe9-99931473efba",
+                      "Name":  "乳液",
+                      "Quantity":  10,
+                      "Price":  168.392359842491810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:34:37.8561923+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45fecdf0-d8b6-4f4b-bfa7-aed1324ac303",
+                      "Name":  "魚",
+                      "Quantity":  9,
+                      "Price":  118.454333823410820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:01:04.1058775+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "823d64f9-3107-4510-996c-d86feacdb841",
+                      "Name":  "豆漿",
+                      "Quantity":  3,
+                      "Price":  400.248103676957540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:50:18.2211647+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15f9684a-d8f6-4962-9196-6596fd42973a",
+                      "Name":  "杯子",
+                      "Quantity":  1,
+                      "Price":  476.396694287787270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:23:57.8264081+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

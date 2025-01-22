@@ -1,0 +1,35 @@
+{
+    "Id":  "7a6e96e7-0e5e-45f5-a3f8-3fb248d961ba",
+    "Title":  "早市採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-15T10:17:26.5939806+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0d9c0827-e0dd-47a1-97e0-b243791bad0f",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:18:16.7754973+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ce20e7a-21ed-4499-9450-7e9c16e11495",
+                      "Name":  "中性筆組",
+                      "Quantity":  3,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:09:05.1799449+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b748ca9-d7e7-4ddf-b28c-d95e7f154c13",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:44:19.0792723+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

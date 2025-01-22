@@ -1,0 +1,35 @@
+{
+    "Id":  "af4539cb-77f0-4eb8-83c4-976f1894c902",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T23:54:59.1263425+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b1ea6b24-f0a3-40ab-b4d4-76b8a9fc3a6c",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7359477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d8dc7ee-ab74-4903-8ea8-24af5b824ea9",
+                      "Name":  "Refined Soft Pizza",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7359749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7dfac88-1495-47d8-be11-64054d49e6a6",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7359778Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

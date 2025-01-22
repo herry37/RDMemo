@@ -1,0 +1,44 @@
+{
+    "Id":  "5698ffdc-297e-4f94-ac3c-abbf0098fa97",
+    "Title":  "露營準備 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-16T20:34:15.8758799+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38aa8056-328f-4afa-86e2-b9248fe9c687",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:59:04.1175756+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d2e479e-bc8d-4ec7-8784-21bb61d770dd",
+                      "Name":  "放山雞",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:18:10.5444326+08:00",
+                      "CompletedAt":  "2025-01-17T07:32:05.8381481+08:00"
+                  },
+                  {
+                      "Id":  "9c192172-852c-4acc-815f-4febc558d9ca",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:05:49.7720667+08:00",
+                      "CompletedAt":  "2025-01-19T15:43:59.8839383+08:00"
+                  },
+                  {
+                      "Id":  "278ea604-c801-4504-a2a6-97207a131bc7",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:43:13.1114783+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "7c80f649-661e-43cc-9f1a-953396463088",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T09:56:42.8795745+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d5b6a19-3b46-4590-abe0-beb57ca36843",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7127656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6d080e9-a369-4653-a54a-8e5725192041",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7127687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6686918-73d0-4dc8-a0d9-847d6aa0597a",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7127697Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7499fa74-84d1-4e4a-88e6-bb1a442f1e78",
+                      "Name":  "Rustic Plastic Bacon",
+                      "Quantity":  4,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.712784Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

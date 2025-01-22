@@ -1,0 +1,71 @@
+{
+    "Id":  "8225483b-fda3-43b5-a4bc-9c338ff81558",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T17:12:39.7454314+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7260ce21-1383-4d1a-8e10-7752b1b2e803",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9307973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6111a619-dfb6-4804-ab7e-823e1c00ced5",
+                      "Name":  "Handmade Concrete Gloves",
+                      "Quantity":  4,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9308264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36ae6986-0083-493f-8974-749e7a39fe47",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9308285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f5b1c08-30de-4566-9544-dd29d07fa04f",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9308314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff84473f-3b25-4c8f-9c05-c123b1d19288",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9308329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9217bc8b-b4e2-401f-bf89-5bfc6343846a",
+                      "Name":  "Sleek Granite Car",
+                      "Quantity":  3,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9308425Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5934d273-02dc-4118-9043-6b95b0456a51",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.930844Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "2cd3c57e-0882-4dab-88cd-1383c479e074",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T14:23:31.9902999+08:00",
+    "Items":  [
+                  {
+                      "Id":  "638a9311-1cfc-4055-9498-add1353d3d86",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.197143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63f46760-4e57-4df1-8448-4566e0fbd687",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1971486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c65c1a8-9b0d-4436-af13-86ce93f060cc",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1971496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b6011a0-dad8-44bb-9126-a9ed27a0759f",
+                      "Name":  "Unbranded Plastic Towels",
+                      "Quantity":  5,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1971731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c7243e9-1c20-4e1a-8208-a372942b74d7",
+                      "Name":  "Handmade Wooden Shirt",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1971771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75f77652-f3a6-4655-93bb-80aebec29da3",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1971803Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

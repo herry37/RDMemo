@@ -1,0 +1,71 @@
+{
+    "Id":  "578d14a6-199e-4af7-a135-d5eec590171f",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T17:48:21.0877825+08:00",
+    "Items":  [
+                  {
+                      "Id":  "458e1075-0988-43d0-9420-24a8910ab968",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9408789Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0620bca5-b16c-49bf-8f9c-777e408962df",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  368,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9408839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bba80598-5b4a-4398-90cc-124e84668c8e",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9408854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29bc7354-eaa1-4e6f-83d2-60b231e5c8f8",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9408869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e83f174-841d-48d9-a3b7-1170b20a5459",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9408884Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96ed9075-b838-4b1b-b702-d5d51c291678",
+                      "Name":  "Fantastic Soft Towels",
+                      "Quantity":  4,
+                      "Price":  428,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9409186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "426b958f-0b99-4402-ad0d-c2eec0bf0264",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9409209Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

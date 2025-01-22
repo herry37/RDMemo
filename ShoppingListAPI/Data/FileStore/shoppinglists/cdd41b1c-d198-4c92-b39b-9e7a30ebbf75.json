@@ -1,0 +1,44 @@
+{
+    "Id":  "cdd41b1c-d198-4c92-b39b-9e7a30ebbf75",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-17T03:19:11.2256597+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8d71f62a-b91d-4d9e-9109-f26acd4e3c6e",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:50:47.6179793+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38db0202-d714-4e45-932d-3516af7fd67e",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:30:38.2801322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5e08230-6789-4efb-bad9-3cffeb9aa94e",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:29:45.6225134+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61ebbb4c-025d-4724-a1cd-7a06e503763e",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:02:44.9400865+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "aef1c302-b8e6-4ccb-bc96-2201dbd539e0",
+    "Title":  "聚會準備 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-19T03:42:19.4886925+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d295c51b-24c8-4c06-8fb2-d320b33ec7bc",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:32:31.1595376+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5bfc4290-8f06-4907-bff7-f7523fe42f9d",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:00:02.2662868+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "456d46a8-1556-45de-abba-fe69491a2a17",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:46:03.4741551+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56724ea3-f3ea-495f-9bfe-f453e597ef83",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:44:21.0455036+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0559d11e-d222-46a4-b73d-ae845e6413eb",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:16:18.9240335+08:00",
+                      "CompletedAt":  "2025-01-16T10:56:00.9948167+08:00"
+                  },
+                  {
+                      "Id":  "07ab0778-9044-4c75-8aeb-d7207fe2bff7",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:30:36.8882775+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

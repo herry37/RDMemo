@@ -1,0 +1,44 @@
+{
+    "Id":  "a1c154ab-5083-41b1-b080-7a879afd6e47",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-16T13:00:03.1641254+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a57486c-f9b0-4de3-b3d5-8725ccc07abb",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  471,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9188512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6417e2fc-ff0d-49cd-b7bc-6618d23090a7",
+                      "Name":  "Practical Wooden Pants",
+                      "Quantity":  5,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9188777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81331f7c-5f11-4606-b3a3-b7fedfdf02e4",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9188807Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7086f295-0725-456b-bfc6-bf446a261800",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9188818Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

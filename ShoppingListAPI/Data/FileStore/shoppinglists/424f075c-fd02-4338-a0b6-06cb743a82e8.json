@@ -1,0 +1,35 @@
+{
+    "Id":  "424f075c-fd02-4338-a0b6-06cb743a82e8",
+    "Title":  "日常補充 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T23:24:11.474158+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b2da739-8bea-4cb6-8046-28722f8c72da",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:43:02.4841095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00ef7ff3-7180-41cc-9ce1-7294a7e6eaef",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:05:20.8623012+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "262f2990-bb20-454f-85a3-700133325ce9",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:28:07.3285101+08:00",
+                      "CompletedAt":  "2025-01-18T03:35:34.9384155+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

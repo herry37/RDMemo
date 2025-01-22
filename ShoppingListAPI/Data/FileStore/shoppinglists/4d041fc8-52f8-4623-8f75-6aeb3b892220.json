@@ -1,0 +1,44 @@
+{
+    "Id":  "4d041fc8-52f8-4623-8f75-6aeb3b892220",
+    "Title":  "派對用品 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T01:23:57.1785492+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cbd81d04-b16c-47f9-a6fb-a9de99a09e00",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:17:00.7952553+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dc718d4-b4d0-41ee-9ab4-22d20a252cc7",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:50:14.1439296+08:00",
+                      "CompletedAt":  "2025-01-22T02:33:11.4467043+08:00"
+                  },
+                  {
+                      "Id":  "5c24a307-face-42e8-b36e-fb8c69835ec7",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:40:31.3636321+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b36b1f05-37be-408f-a3f9-a43351d137e1",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  5,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:07:40.1528399+08:00",
+                      "CompletedAt":  "2025-01-19T13:22:31.6723593+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

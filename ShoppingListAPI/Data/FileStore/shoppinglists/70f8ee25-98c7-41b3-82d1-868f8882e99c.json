@@ -1,0 +1,80 @@
+{
+    "Id":  "70f8ee25-98c7-41b3-82d1-868f8882e99c",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-19T00:53:33.07504+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4aac7be7-a369-4cf5-8392-04758e7fe533",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0697913Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "522468b1-5420-4792-842a-83d0818cde58",
+                      "Name":  "Intelligent Rubber Shoes",
+                      "Quantity":  1,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0698312Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e8c8947-19ea-433d-9d9c-92ef6ccbbaad",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0698361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e8c53a8-8d6e-4ea7-b4d5-56f065fe7cf0",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0698388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45e7ec63-71cb-4a6b-a822-328a4fa374cd",
+                      "Name":  "Intelligent Plastic Sausages",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0699763Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e98daea3-acc3-452a-a0aa-54557560b078",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0699972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "073936aa-4c93-4a55-b157-41cf6c8be0cd",
+                      "Name":  "Licensed Steel Tuna",
+                      "Quantity":  3,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.070024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ee24b75-7c00-419b-8700-bb15cfb0643e",
+                      "Name":  "Awesome Soft Tuna",
+                      "Quantity":  1,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0700294Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "ee4a55c0-aef6-4466-8b33-a80b1972a73d",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-21T11:50:07.4773984+08:00",
+    "Items":  [
+                  {
+                      "Id":  "25029a97-6985-47fb-acac-72a016a96e51",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:51:47.939701+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "810f9346-6404-4ab4-8b99-1c7f1bca6dc7",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  90,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:04:10.4625284+08:00",
+                      "CompletedAt":  "2025-01-21T13:19:44.667674+08:00"
+                  },
+                  {
+                      "Id":  "7c824627-4abf-463a-b791-3759bedb69eb",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:31:45.0835299+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4711ad30-aa5c-4372-ab7a-99a5b78e47a9",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:30:21.3978424+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1b0e405-2e24-451c-b95c-77bd95a606b2",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:45:00.4190371+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b689ab2-6e37-42ed-b48f-eaf2ebb265de",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:23:52.3142298+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d84837f2-66c8-43c8-966f-337fe2b0c841",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:22:54.7156642+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfda3431-9fa5-4197-8f06-3c415afb6780",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:30:27.5606098+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

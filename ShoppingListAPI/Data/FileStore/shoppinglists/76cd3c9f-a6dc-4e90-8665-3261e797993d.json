@@ -1,0 +1,80 @@
+{
+    "Id":  "76cd3c9f-a6dc-4e90-8665-3261e797993d",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T19:15:13.1965304+08:00",
+    "Items":  [
+                  {
+                      "Id":  "32775e5c-e6dc-4a32-86d6-cda5d8e6e8b2",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d196c37-9b97-4b48-a071-1522feec0f8e",
+                      "Name":  "Licensed Soft Chips",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37e929f4-ec81-40d2-81db-dd1c72e2a7d2",
+                      "Name":  "Sleek Cotton Shoes",
+                      "Quantity":  3,
+                      "Price":  333,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b07af2b-8996-4ca9-8a85-eb3a3b8b6bb8",
+                      "Name":  "Incredible Granite Fish",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88bb37dc-3b05-46b3-9b76-a2782a1bb985",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cee4b3a-8eac-41aa-b2a2-5e38a8c7a4e2",
+                      "Name":  "Generic Soft Tuna",
+                      "Quantity":  5,
+                      "Price":  305,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c5f1a3f-df75-4040-8a1b-6f6c7a0f98a7",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d753804-9fa4-487b-8b00-aeb7f7bf4cad",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4913534Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

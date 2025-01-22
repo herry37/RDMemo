@@ -1,0 +1,71 @@
+{
+    "Id":  "23f3f6a5-98d4-4076-8cce-a90095c38554",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T21:31:39.5102666+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88db19f4-2cb5-46fe-aa5f-5dbdcd2c28d1",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030095Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08d9201c-9a8b-4d3c-80b8-46a256bdec55",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030117Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54e0c79f-a887-4aca-9888-bca3648fc589",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55ed01e8-1599-4356-b655-326932a81a39",
+                      "Name":  "Gorgeous Plastic Keyboard",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a444a97d-357f-421e-952f-269992d5692f",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  43,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0816d3d9-c917-477c-9a73-94cd28f49a3d",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  386,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.503058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "550e0a98-8e3e-4853-9069-afdfeb1d49df",
+                      "Name":  "Practical Wooden Shoes",
+                      "Quantity":  5,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5030636Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

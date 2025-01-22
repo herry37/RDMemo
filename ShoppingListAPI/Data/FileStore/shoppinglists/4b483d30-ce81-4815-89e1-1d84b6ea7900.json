@@ -1,0 +1,35 @@
+{
+    "Id":  "4b483d30-ce81-4815-89e1-1d84b6ea7900",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-15T06:50:06.6487442+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a61ecc5-0d40-4098-b182-fd917131302a",
+                      "Name":  "運動飲料",
+                      "Quantity":  7,
+                      "Price":  293.81636027752630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:52:27.5974393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "247a9fa3-8270-4f13-b61d-20cb15fd01c4",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  131.106601382693150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:02:25.3988803+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "955ceb6d-8cfb-400f-a30c-ff5fe2163a37",
+                      "Name":  "膠帶",
+                      "Quantity":  3,
+                      "Price":  62.019027079270860,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T01:00:34.0725605+08:00",
+                      "CompletedAt":  "2025-01-20T23:43:55.6839736+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

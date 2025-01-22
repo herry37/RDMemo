@@ -1,0 +1,35 @@
+{
+    "Id":  "52723f5e-73bb-45a8-821b-7d92e3cf3f7a",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-17T12:29:22.204938+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b1abb67-e913-44de-a7c4-1f720988ddf4",
+                      "Name":  "天然果乾",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:59:16.9409091+08:00",
+                      "CompletedAt":  "2025-01-21T00:45:53.0859076+08:00"
+                  },
+                  {
+                      "Id":  "a2910bb0-dadc-40c1-a834-4bca95b19253",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:24:04.2063955+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "721d50df-8d7f-4327-b849-3f4f7aef79ce",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:53:05.4501679+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

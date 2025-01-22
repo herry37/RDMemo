@@ -1,0 +1,71 @@
+{
+    "Id":  "c7b6c363-2401-451f-ac43-026c7a7796d2",
+    "Title":  "早市採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T23:54:31.5125576+08:00",
+    "Items":  [
+                  {
+                      "Id":  "225d7fb8-3ee4-4494-9196-82fa98880012",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:03:46.6629553+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eec30db9-dcb7-4258-9059-a0af1f0f0b53",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:58:31.3239727+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "993da041-1e23-47f7-9de8-90c846a3b96c",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  5,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:48:13.0758271+08:00",
+                      "CompletedAt":  "2025-01-16T12:32:03.5001256+08:00"
+                  },
+                  {
+                      "Id":  "4272eaa7-8625-4e44-9d26-9a009e1d5ff4",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  4,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:45:48.5945299+08:00",
+                      "CompletedAt":  "2025-01-21T05:36:22.2240082+08:00"
+                  },
+                  {
+                      "Id":  "a4242da3-cd4a-456b-8725-812278e878bd",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:40:08.001517+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e760eb84-7b31-4579-8973-c8fb58885f19",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  287,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:47:11.4945342+08:00",
+                      "CompletedAt":  "2025-01-15T15:49:55.7534552+08:00"
+                  },
+                  {
+                      "Id":  "ed6b1a24-0a84-4460-8a76-d4fe4a11080e",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:10:23.1347658+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

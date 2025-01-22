@@ -1,0 +1,44 @@
+{
+    "Id":  "894e5738-4667-46e2-abe6-a164871dee04",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-19T03:52:35.9958197+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d8a18932-ad59-4c31-a637-dc57faab3b8e",
+                      "Name":  "餐具",
+                      "Quantity":  5,
+                      "Price":  172.78937477931170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:44:10.3660843+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "807ffcba-856f-4223-95d1-3f1723bd7f2a",
+                      "Name":  "筆筒",
+                      "Quantity":  10,
+                      "Price":  279.343377778380780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:03:40.5281551+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7a96eab-2bdb-411a-94c0-0a1091565163",
+                      "Name":  "清潔劑",
+                      "Quantity":  4,
+                      "Price":  464.519293826250240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T15:33:54.405512+08:00",
+                      "CompletedAt":  "2025-01-19T22:15:05.8926526+08:00"
+                  },
+                  {
+                      "Id":  "52f93207-87bd-43dd-be62-c90df625c9f8",
+                      "Name":  "棉被",
+                      "Quantity":  3,
+                      "Price":  434.92642884986350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:55:44.2658252+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

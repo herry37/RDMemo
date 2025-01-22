@@ -1,0 +1,71 @@
+{
+    "Id":  "e694148e-c716-4287-bb1f-bfa400e73b14",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-18T17:04:57.7536985+08:00",
+    "Items":  [
+                  {
+                      "Id":  "477995f1-7308-44e6-b6b8-be51193fccdd",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:15:03.1867532+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85ae1a71-826c-4775-b728-c33fa05a743a",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:44:02.2737953+08:00",
+                      "CompletedAt":  "2025-01-17T11:21:08.0686425+08:00"
+                  },
+                  {
+                      "Id":  "227fe49c-570c-4a11-bc85-52b05bfd82cf",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:00:20.8734703+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22ce5a31-fd4e-4377-ab95-7b741b7f790f",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:44:54.5557841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "260483a0-1589-44ef-9424-17206605e9ad",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:46:47.2407279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4da21dd3-cc67-47e9-9cdc-e1594d0d7487",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T06:41:37.5839749+08:00",
+                      "CompletedAt":  "2025-01-21T10:52:29.9575254+08:00"
+                  },
+                  {
+                      "Id":  "0876e624-43c4-4870-8319-6d70d151c146",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:49:22.8700517+08:00",
+                      "CompletedAt":  "2025-01-19T07:14:11.8421001+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

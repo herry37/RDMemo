@@ -1,0 +1,98 @@
+{
+    "Id":  "470449de-b159-4788-b105-c7aa9c59457c",
+    "Title":  "01/16 飲料採買清單",
+    "CreatedAt":  "2025-01-19T05:25:09.7621427+08:00",
+    "Items":  [
+                  {
+                      "Id":  "54069f99-66ce-48d4-8cf4-c97630a2a0d9",
+                      "Name":  "Gorgeous Plastic Chair",
+                      "Quantity":  4,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9678845Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "954ecdbb-e87b-4fe0-b168-c8dcf074bc7d",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9678879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be04ca00-c429-4850-bc91-63cabcf4c223",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9678906Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1faba2b5-8863-4d26-be65-0b2644384f68",
+                      "Name":  "Ergonomic Metal Bacon",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9678975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84d73571-eac8-4aed-af53-f072e8b4d3b6",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9678988Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f252e688-3d1a-432f-8925-5268898a1e76",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9679014Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "040511f2-d07e-4b75-8829-30f9cf171008",
+                      "Name":  "Awesome Rubber Computer",
+                      "Quantity":  4,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9679062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3307c11e-7d5c-46e1-8e67-953db1a164c4",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9679074Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f76eef0d-d487-467d-931e-82f2af82abf0",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  485,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9679087Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2319f683-b9f6-4e06-b5a5-0a6db4bc1d33",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.96791Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

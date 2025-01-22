@@ -1,0 +1,53 @@
+{
+    "Id":  "270456c1-8267-47f4-80a0-a167444a8654",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T02:24:50.693595+08:00",
+    "Items":  [
+                  {
+                      "Id":  "751662cd-a5d5-488b-b2a9-c50d9b708729",
+                      "Name":  "Ergonomic Rubber Fish",
+                      "Quantity":  5,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5845947Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60698bd3-499c-4ec1-ada3-9e060a70e957",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5845996Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba7b229b-25ac-4c85-9dd2-63a6fe28682d",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5846046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d83c172-808f-4720-b8a6-1191f27c53fe",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5846076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc323e49-73e2-4551-973d-4efd190c3382",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.58461Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

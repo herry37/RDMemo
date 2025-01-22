@@ -1,0 +1,53 @@
+{
+    "Id":  "6b9425f0-b72c-464f-80af-683bed9cac26",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T13:38:47.5738908+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1ecb2ae-bf1e-460e-b84a-329629ea1d59",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1899728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a443ec52-e845-4a19-be12-07274add539b",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1899751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9edcf9f9-3ace-46b1-92bb-5ffed9f1a94d",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  377,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1899759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d294aa6-086b-464b-aeef-16f05d5c5666",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1899802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68367c8f-5e63-4cee-925a-1127cd163f69",
+                      "Name":  "Licensed Rubber Keyboard",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1899872Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

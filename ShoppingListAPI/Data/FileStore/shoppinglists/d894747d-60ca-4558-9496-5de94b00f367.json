@@ -1,0 +1,44 @@
+{
+    "Id":  "d894747d-60ca-4558-9496-5de94b00f367",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T21:56:28.9014818+08:00",
+    "Items":  [
+                  {
+                      "Id":  "30606e5a-e859-437c-85b3-0ea4ab5ae4ff",
+                      "Name":  "餅乾",
+                      "Quantity":  9,
+                      "Price":  303.240708606977740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:44:11.6628414+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37a9e8b5-637f-49e5-9c0c-3da5f2c1402f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  379.481131540282860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:34:24.6776186+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90933025-6030-4af3-aa97-35e18d3b2c04",
+                      "Name":  "海綿",
+                      "Quantity":  4,
+                      "Price":  393.266165958326560,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T17:30:41.990943+08:00",
+                      "CompletedAt":  "2025-01-15T17:07:30.9694253+08:00"
+                  },
+                  {
+                      "Id":  "ddf25116-5198-4887-9998-8bd3de0a47f2",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  291.984722960710210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:34:33.6559347+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "bb7366fd-c635-48d7-929e-ed1d1ab7b817",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T16:54:24.2944332+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9f515522-9f57-4a94-8ff2-b62b78a1b693",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:37:37.7779347+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d02b84b-ce1c-4255-98bb-5b8293930112",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:48:21.0099328+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49239d6b-93d7-4fe8-a03d-4163061bd2d5",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:09:12.0167432+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

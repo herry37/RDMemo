@@ -1,0 +1,98 @@
+{
+    "Id":  "85941f0c-b945-4796-b754-14939a47840c",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T22:39:09.2765845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8648f015-9f3d-4952-8d2c-b6fe8b6c443e",
+                      "Name":  "保鮮膜",
+                      "Quantity":  10,
+                      "Price":  31.8002000237073990,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:30:03.779118+08:00",
+                      "CompletedAt":  "2025-01-15T14:10:58.2845727+08:00"
+                  },
+                  {
+                      "Id":  "60eb083a-6933-4b16-b03b-9ee40416b727",
+                      "Name":  "筆筒",
+                      "Quantity":  7,
+                      "Price":  130.390731853379540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:06:05.953798+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3a34424-f6ff-4ee8-b52e-da160837836d",
+                      "Name":  "洋芋片",
+                      "Quantity":  6,
+                      "Price":  122.717202259544680,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T14:11:14.0367311+08:00",
+                      "CompletedAt":  "2025-01-16T04:29:14.7287454+08:00"
+                  },
+                  {
+                      "Id":  "69bfb8ba-9b4e-4d57-8433-e6ae5c69eedb",
+                      "Name":  "相框",
+                      "Quantity":  7,
+                      "Price":  24.3428164772741660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:15:47.4675927+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9537d53a-cefb-4360-8002-2e32f04369bd",
+                      "Name":  "海綿",
+                      "Quantity":  3,
+                      "Price":  490.709773033586320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:32:56.1791735+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4e87829-9151-41d1-b766-b41f51b4329a",
+                      "Name":  "梳子",
+                      "Quantity":  8,
+                      "Price":  85.850572723959460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:41:04.7039202+08:00",
+                      "CompletedAt":  "2025-01-22T11:13:39.4891541+08:00"
+                  },
+                  {
+                      "Id":  "e7345ca9-04d0-40f3-9486-0366fc956be0",
+                      "Name":  "海綿",
+                      "Quantity":  10,
+                      "Price":  425.197053368418790,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:22:03.4081131+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07e49388-c994-42ff-b15c-cee43eb04eb2",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  9,
+                      "Price":  301.161828447672840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:19:23.8854488+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4aeff55-98a6-4288-acbb-106abd8db323",
+                      "Name":  "抹布",
+                      "Quantity":  5,
+                      "Price":  361.136288160878220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:20:14.3960453+08:00",
+                      "CompletedAt":  "2025-01-20T01:17:41.6584311+08:00"
+                  },
+                  {
+                      "Id":  "15b12d72-1e5c-4754-980f-07870b063a75",
+                      "Name":  "杯子",
+                      "Quantity":  5,
+                      "Price":  325.137373401181940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:20:24.6237369+08:00",
+                      "CompletedAt":  "2025-01-17T05:31:40.0940835+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

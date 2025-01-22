@@ -1,0 +1,80 @@
+{
+    "Id":  "ddb777c5-37d7-47db-ad02-afa8a5d4a25d",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T13:21:23.4304336+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15579ac7-fbb3-418a-b934-65fb9b5fdc05",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:39:15.4269437+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd299f0c-c948-4701-96ef-d48859c9a7f2",
+                      "Name":  "放山雞",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:56:25.0565595+08:00",
+                      "CompletedAt":  "2025-01-15T18:39:00.7891689+08:00"
+                  },
+                  {
+                      "Id":  "a167fed3-abe4-451c-95cf-2a65e19a7524",
+                      "Name":  "防滑衣架",
+                      "Quantity":  4,
+                      "Price":  223,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:46:21.7685092+08:00",
+                      "CompletedAt":  "2025-01-18T18:13:26.5131058+08:00"
+                  },
+                  {
+                      "Id":  "8d563bd5-55fa-4062-9989-630e24ae9ba6",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T21:24:38.9595462+08:00",
+                      "CompletedAt":  "2025-01-19T17:07:58.773686+08:00"
+                  },
+                  {
+                      "Id":  "3f924b84-53a0-43c3-ac8e-84973dc4d838",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:54:39.1959039+08:00",
+                      "CompletedAt":  "2025-01-20T19:06:31.9589047+08:00"
+                  },
+                  {
+                      "Id":  "5f395437-ab5b-4558-bc09-a1c7eb4d155a",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:12:09.1082468+08:00",
+                      "CompletedAt":  "2025-01-17T23:12:36.004445+08:00"
+                  },
+                  {
+                      "Id":  "fcb9834c-8fdf-417f-8f85-2ca48ef94cb1",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:11:58.6791661+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "208e5f0e-007e-4ba5-8d23-5217fc877ce0",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:29:36.1238599+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "2197e1e4-f00c-4948-9b2b-691e4679de57",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T19:51:45.3030267+08:00",
+    "Items":  [
+                  {
+                      "Id":  "99a3aaa9-9dcc-4329-93ca-1deb5831bdce",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5083209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49418c50-feed-403d-b72a-e9105018d7d0",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5083254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a20d171-5d7b-438a-ba0a-6fb260c96756",
+                      "Name":  "Intelligent Frozen Sausages",
+                      "Quantity":  1,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5083887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fc71687-edec-465f-ad36-373d8633397e",
+                      "Name":  "Unbranded Wooden Mouse",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5083937Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

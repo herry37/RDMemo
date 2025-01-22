@@ -1,0 +1,62 @@
+{
+    "Id":  "1443da68-8211-4e0c-85c8-53d2026ec0d0",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T03:44:51.3188178+08:00",
+    "Items":  [
+                  {
+                      "Id":  "81e9ccbd-5cd8-41f1-b15e-a41209e7bcb4",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:31.0178224Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ff8550c-cc98-43dd-ac0f-5f5d0a2f9508",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  391,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:31.017828Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1123fc0-2348-4e69-9023-6dcd093174d5",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:31.0178294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "110d8f7c-8c0c-4d54-9d79-aa5f49ce53d8",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:31.0178316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06d8050f-f4e0-427b-b29e-e547e034f309",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:31.0178331Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad598b78-3f95-4da5-b9b0-eeb4ab597a0c",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  478,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:31.017836Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "f5365974-9ab8-4e7d-a1c5-5c6e56afebcb",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T17:30:05.8959405+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e907e8d7-eef3-46bd-9c8b-234d84fcf218",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:44:58.9017178+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0f57862-7f27-417c-9269-7a2b57b5aa5d",
+                      "Name":  "中性筆組",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:36:29.4304198+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e659f332-c4b3-406a-ad27-03f2444d503d",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  5,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:22:42.7546066+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b52f2aa-1274-40d0-9512-69441ff91d18",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:27:50.233933+08:00",
+                      "CompletedAt":  "2025-01-16T19:59:44.9400007+08:00"
+                  },
+                  {
+                      "Id":  "fcec0cb6-809a-4a9b-b001-b75b33488bfe",
+                      "Name":  "保養化妝品",
+                      "Quantity":  3,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:38:05.8685107+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f558088-c0ba-4616-9aed-77dce1b13831",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:05:02.4233867+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

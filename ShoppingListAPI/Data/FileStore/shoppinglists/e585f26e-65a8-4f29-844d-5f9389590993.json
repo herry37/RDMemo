@@ -1,0 +1,62 @@
+{
+    "Id":  "e585f26e-65a8-4f29-844d-5f9389590993",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T23:13:34.3553357+08:00",
+    "Items":  [
+                  {
+                      "Id":  "173113a8-dcc9-480e-87d6-505876ed3de0",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:04:05.1018795+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e275f819-6ea6-4b20-8553-2528d05ff190",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:34:28.7672441+08:00",
+                      "CompletedAt":  "2025-01-21T06:26:26.1141614+08:00"
+                  },
+                  {
+                      "Id":  "175a1e43-f845-4cf8-831b-c7f484dbbaf6",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:25:04.4501194+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb3e231a-609f-4415-9826-b31da6e23698",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:36:55.6350871+08:00",
+                      "CompletedAt":  "2025-01-19T18:45:18.6545409+08:00"
+                  },
+                  {
+                      "Id":  "831ce10d-3b41-46f2-ad32-924774e1b456",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:38:28.2995956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "003da940-5919-4d77-8492-c785989381ee",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  5,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:48:26.6075989+08:00",
+                      "CompletedAt":  "2025-01-20T02:54:48.8078535+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "38a353e6-7ab6-433a-ae40-8fff4de922c1",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-20T01:37:25.067222+08:00",
+    "Items":  [
+                  {
+                      "Id":  "76c1fb9a-cefa-4010-af6d-032a990bf84c",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0535822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f67a716-25ca-489f-8ec0-49f98720ae48",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0535862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4caafe6b-cde9-4566-98f3-57538e39f741",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0535886Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67cf571e-0922-4437-8eed-1a7ac7b6d5db",
+                      "Name":  "Handcrafted Concrete Fish",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0536491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80369b9a-18ee-432a-8d68-2a5b757109b7",
+                      "Name":  "Licensed Steel Towels",
+                      "Quantity":  5,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0536599Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11124aba-d778-4339-bec2-07037dfc57f1",
+                      "Name":  "Tasty Cotton Tuna",
+                      "Quantity":  3,
+                      "Price":  256,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0536808Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

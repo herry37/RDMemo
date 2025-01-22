@@ -1,0 +1,89 @@
+{
+    "Id":  "14e55bca-de3e-48b8-ab20-e2d9dc5f2868",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T03:15:35.4791835+08:00",
+    "Items":  [
+                  {
+                      "Id":  "93a9ee03-b7a6-44b9-8b54-b632a1dcd29b",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391262Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "060c2f29-9a3f-47ae-90a1-9631590bac4e",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ee40c87-8f73-42a5-a8b9-e6e6ede2ff88",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.53913Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be3c0659-bcb7-4cbb-b514-86a7b151a18f",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e9f2507-638f-4d75-8d37-9ccb22d491e9",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a957f1fa-80e5-483d-b1f3-2c4c7ca51468",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391332Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23bc9a6b-61bb-42ba-afda-f5dcc1cf674e",
+                      "Name":  "Small Steel Salad",
+                      "Quantity":  4,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391483Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae86fb69-394e-4226-841f-15a32836e99b",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.539149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19048759-fc54-4e21-9e46-96b15856c865",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5391497Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

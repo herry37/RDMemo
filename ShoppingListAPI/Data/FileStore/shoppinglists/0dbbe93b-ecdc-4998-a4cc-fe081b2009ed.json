@@ -1,0 +1,35 @@
+{
+    "Id":  "0dbbe93b-ecdc-4998-a4cc-fe081b2009ed",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T22:10:12.8783827+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f49c8278-3052-4204-b57d-cee6ccf9ba85",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.820975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44f16d67-20ce-498c-bb29-25f7ee3264e8",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8209797Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f97f1789-c9c8-4fa4-8ab8-99a160405444",
+                      "Name":  "Rustic Steel Tuna",
+                      "Quantity":  1,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8210037Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

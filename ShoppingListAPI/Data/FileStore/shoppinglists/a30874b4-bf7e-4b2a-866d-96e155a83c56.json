@@ -1,0 +1,71 @@
+{
+    "Id":  "a30874b4-bf7e-4b2a-866d-96e155a83c56",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T23:46:40.0755623+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3853be3a-387c-401c-a19d-c6babc78c744",
+                      "Name":  "Refined Cotton Ball",
+                      "Quantity":  2,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5a84341-0f2a-4f87-ad8a-4c8526d6f96b",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.65762Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48e6b1e9-981d-47e5-8fa6-35078a4e1cad",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576208Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8150d2c-8578-4f15-beb3-88ce6b348c10",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d27df846-243f-4b36-b2b4-5151c7aa9f00",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d15390d-3275-4b7c-a5fc-9314a91cdc4f",
+                      "Name":  "Licensed Cotton Gloves",
+                      "Quantity":  5,
+                      "Price":  270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576268Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7000167-e7ee-4f41-a965-0e36d904b540",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6576275Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

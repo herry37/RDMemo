@@ -1,0 +1,53 @@
+{
+    "Id":  "b26a9b63-9683-41c7-9bf9-7ca240881fd9",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T14:40:16.0615895+08:00",
+    "Items":  [
+                  {
+                      "Id":  "be965b7b-479f-467c-91f0-85359f5f839a",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4799722Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fd413ce-c39e-479a-a83e-e14dff2fcc73",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4799771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d07a953-4e1d-41e2-b816-a3a6f36afec2",
+                      "Name":  "Refined Cotton Pizza",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4800018Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ca77554-538a-4c2d-a997-ee5e1f11972f",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4800027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "569e5dc6-cb49-4e50-b426-d386d8c88599",
+                      "Name":  "Awesome Plastic Salad",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4800341Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

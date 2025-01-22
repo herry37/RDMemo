@@ -1,0 +1,44 @@
+{
+    "Id":  "edbc800a-b196-478e-a248-8e2b2a34543f",
+    "Title":  "每週採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T04:41:57.5604711+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8456322e-0cc5-4176-9562-ae0abd233594",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:08:38.8133594+08:00",
+                      "CompletedAt":  "2025-01-21T10:13:34.7448816+08:00"
+                  },
+                  {
+                      "Id":  "3b0ca7b1-5dfd-4f62-a5d1-17530dfec653",
+                      "Name":  "放牧蛋",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:31:34.1268962+08:00",
+                      "CompletedAt":  "2025-01-16T21:04:28.3733631+08:00"
+                  },
+                  {
+                      "Id":  "3761abbc-9311-4c5b-9bb0-0e744a59c566",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:37:49.4552753+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c27f58f-afa2-452b-8fd8-9ce41cc494b7",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  201,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:28:05.9094978+08:00",
+                      "CompletedAt":  "2025-01-20T03:43:59.2728547+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

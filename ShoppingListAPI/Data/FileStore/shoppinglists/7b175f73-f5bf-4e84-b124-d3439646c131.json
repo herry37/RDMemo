@@ -1,0 +1,44 @@
+{
+    "Id":  "7b175f73-f5bf-4e84-b124-d3439646c131",
+    "Title":  "年節採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-21T10:10:08.1109503+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d50ecd19-ce22-4499-aa52-7f60bce7c3d9",
+                      "Name":  "電動牙刷",
+                      "Quantity":  1,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:07:41.8795511+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b022fff6-b377-4a40-b815-cc7cbf39ce2a",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:21:43.7058957+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "480b7645-3b8b-4bfe-a5f0-4e1313e33547",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:44:35.3743313+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1873c659-9781-44fa-a9bb-38deafe0f18f",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:52:57.5063394+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

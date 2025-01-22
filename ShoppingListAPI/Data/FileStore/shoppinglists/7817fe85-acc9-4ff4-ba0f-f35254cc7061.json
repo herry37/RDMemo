@@ -1,0 +1,80 @@
+{
+    "Id":  "7817fe85-acc9-4ff4-ba0f-f35254cc7061",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T21:22:17.9464834+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0287bdd8-1123-4c3e-b800-7a864e43ed7b",
+                      "Name":  "保鮮膜",
+                      "Quantity":  9,
+                      "Price":  64.111162407194480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:16:33.454679+08:00",
+                      "CompletedAt":  "2025-01-17T21:07:50.557062+08:00"
+                  },
+                  {
+                      "Id":  "7472c069-5454-41b1-8523-5e34fba2c12d",
+                      "Name":  "電池",
+                      "Quantity":  2,
+                      "Price":  232.402691999288920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:04:57.9174635+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a304da44-ff90-4fa2-97bc-377f61523c5f",
+                      "Name":  "電池",
+                      "Quantity":  3,
+                      "Price":  423.392458979716580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:20:47.2595662+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4201a315-908e-43a2-ac9c-fd757080ed48",
+                      "Name":  "蘋果",
+                      "Quantity":  9,
+                      "Price":  347.230299385826490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:10:46.7078947+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26f59474-0e56-4206-9c0c-2aa3fb1699aa",
+                      "Name":  "汽水",
+                      "Quantity":  6,
+                      "Price":  441.771027994943140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T15:27:50.5006109+08:00",
+                      "CompletedAt":  "2025-01-15T15:31:44.1865996+08:00"
+                  },
+                  {
+                      "Id":  "051e883f-001b-41c7-9d9a-210b159beaa7",
+                      "Name":  "糖果",
+                      "Quantity":  8,
+                      "Price":  498.062632394877750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:17:34.9686465+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e569d06-099e-4681-8edb-21acc87518a6",
+                      "Name":  "筆筒",
+                      "Quantity":  10,
+                      "Price":  41.1308092625927040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:56:25.3813528+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "053d26bb-8e16-49ff-ad2c-d2e133b81ca6",
+                      "Name":  "相框",
+                      "Quantity":  2,
+                      "Price":  436.692465929649150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:33:13.9041539+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

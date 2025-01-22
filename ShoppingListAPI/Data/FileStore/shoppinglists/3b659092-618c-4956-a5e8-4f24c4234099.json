@@ -1,0 +1,62 @@
+{
+    "Id":  "3b659092-618c-4956-a5e8-4f24c4234099",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-19T13:40:22.0155715+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a0a1340-d117-4e58-b079-90e650adde34",
+                      "Name":  "Handmade Soft Tuna",
+                      "Quantity":  2,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "078163ea-9149-48a9-9ef7-5402c7cc8f72",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00483f1a-d1ad-430a-9331-6fb9d6be6ba7",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073212Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18f80d6f-6173-4907-b1f9-88f67a6cc3f3",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073223Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8830673-edb7-4c09-99bc-adf4f9841600",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  428,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88d7723d-0911-4b10-948f-21ce60df423c",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5073433Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

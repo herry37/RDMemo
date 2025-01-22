@@ -1,0 +1,62 @@
+{
+    "Id":  "aa82aefc-a650-41f5-939e-3f74f5b4407a",
+    "Title":  "年節採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-15T19:58:35.6863828+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6812f1ea-eb3d-4c91-9739-2cc63cc6ca20",
+                      "Name":  "放山雞",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:43:04.1311586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5359ee80-74ab-4e3b-97a6-ac61dc805372",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  4,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:27:52.6499904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "239a85c2-8e5f-42b4-addc-97bf384dbdfb",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  90,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:27:54.5213022+08:00",
+                      "CompletedAt":  "2025-01-18T21:08:41.616947+08:00"
+                  },
+                  {
+                      "Id":  "ddafec07-1b05-4fba-bdab-02ab3f93403c",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:13:11.7796505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ca374b9-4d7b-4d0f-8601-e24689558bb1",
+                      "Name":  "透明膠帶",
+                      "Quantity":  1,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:57:56.3887818+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c36feb0-7f29-441a-aad8-780c802abb35",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:08:03.0248103+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

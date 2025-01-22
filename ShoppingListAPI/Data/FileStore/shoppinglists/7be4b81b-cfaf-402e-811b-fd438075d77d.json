@@ -1,0 +1,62 @@
+{
+    "Id":  "7be4b81b-cfaf-402e-811b-fd438075d77d",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T14:02:01.6737616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "090e0190-10f9-408f-b8b3-0092b0eb901e",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3030899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4b62930-78c7-4108-a944-5a8f2fac9077",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.303096Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "172e026d-2982-444f-8b6f-08d9d76d314d",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3030975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7eae667-c469-48be-8dc9-4291153a1046",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3030989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ace3b722-593c-4549-aa3c-5cad35d973e7",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3031229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cdc6546-1b2b-4e06-8841-b502a0668548",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  459,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3031284Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

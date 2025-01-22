@@ -1,0 +1,98 @@
+{
+    "Id":  "97527d5c-97c5-476c-a0a4-522a5e7fbc57",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T06:52:02.3197911+08:00",
+    "Items":  [
+                  {
+                      "Id":  "641dc802-2927-4669-bcd7-b1dec8897436",
+                      "Name":  "Incredible Soft Cheese",
+                      "Quantity":  1,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566202Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44fa3224-6679-42dc-a339-02381cf23128",
+                      "Name":  "Handcrafted Concrete Chair",
+                      "Quantity":  4,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566296Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ab97ed4-472a-47a4-b5f9-5a0b6628f533",
+                      "Name":  "Small Steel Ball",
+                      "Quantity":  2,
+                      "Price":  317,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a679797a-5c24-448e-862a-0567cc8e94e3",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566411Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acc48428-7670-4880-9892-d47d085ec690",
+                      "Name":  "Tasty Wooden Fish",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f0cc019-b736-4770-88fd-310e08d71cd4",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566461Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a55efe7-be47-4288-88bb-22b99aab8927",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566473Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60701aa9-d79b-46b3-898f-fc81136bd6ec",
+                      "Name":  "Sleek Wooden Bacon",
+                      "Quantity":  3,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2de7f11-d31a-42c2-9b76-4ec123432ff2",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566513Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bef06880-db55-41f3-ae92-02c3dc777672",
+                      "Name":  "Incredible Metal Pants",
+                      "Quantity":  1,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.7566538Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

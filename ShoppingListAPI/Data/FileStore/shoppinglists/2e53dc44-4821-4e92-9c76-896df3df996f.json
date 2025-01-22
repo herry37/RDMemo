@@ -1,0 +1,35 @@
+{
+    "Id":  "2e53dc44-4821-4e92-9c76-896df3df996f",
+    "Title":  "月底大採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T10:33:48.0712949+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5c20d3e0-79e1-44e3-a430-bd937385c69c",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:06:48.7728837+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afe6a17a-67c7-4b10-9e5b-7a51051893cc",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T15:28:40.0404935+08:00",
+                      "CompletedAt":  "2025-01-20T09:36:54.2112011+08:00"
+                  },
+                  {
+                      "Id":  "a09f2caa-ccd2-42dd-87ca-c86ee1d5d4c2",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:51:25.2159934+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

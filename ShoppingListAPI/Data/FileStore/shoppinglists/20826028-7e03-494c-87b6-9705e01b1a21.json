@@ -1,0 +1,53 @@
+{
+    "Id":  "20826028-7e03-494c-87b6-9705e01b1a21",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T08:44:36.1523468+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88a9e5ef-01fa-415f-8cbe-16fa4cbb5e52",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4380273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a77cf2d4-964b-4b31-b9d6-273ac6fc4ac3",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4380284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a27272d2-ff3e-488d-bb75-a9f28da37c50",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4380298Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fda66020-3694-4c6a-b70d-6f28755c3041",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4380306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c11203ff-169d-474a-ad55-8b2a258fce65",
+                      "Name":  "Incredible Wooden Towels",
+                      "Quantity":  1,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4380375Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

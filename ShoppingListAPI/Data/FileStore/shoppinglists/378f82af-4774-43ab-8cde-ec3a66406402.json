@@ -1,0 +1,62 @@
+{
+    "Id":  "378f82af-4774-43ab-8cde-ec3a66406402",
+    "Title":  "派對用品 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T02:13:43.6768251+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8b63fcec-5b28-49c6-9de7-0a9767d734e4",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:51:50.1095161+08:00",
+                      "CompletedAt":  "2025-01-18T18:53:43.8349109+08:00"
+                  },
+                  {
+                      "Id":  "7c3f2267-4784-42c6-b169-1705596b67d1",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:02:12.8308529+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cce45317-621d-448f-aef6-02e05b807cdb",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:57:51.8803146+08:00",
+                      "CompletedAt":  "2025-01-19T06:32:06.5501859+08:00"
+                  },
+                  {
+                      "Id":  "59b862e6-5855-4fb7-ae07-fac6e9235aed",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:53:06.5001633+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d62aee22-5003-47f9-8945-8adea67548ca",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:23:50.608904+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb6bd04c-e589-4fdc-acf0-17c3002b7d18",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:37:52.7602661+08:00",
+                      "CompletedAt":  "2025-01-21T16:15:50.1854885+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

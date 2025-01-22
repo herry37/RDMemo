@@ -1,0 +1,80 @@
+{
+    "Id":  "05141e63-c982-48d1-bf59-54318e1a77df",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-18T18:01:11.6546454+08:00",
+    "Items":  [
+                  {
+                      "Id":  "33e9e13d-ae39-4ba3-afa1-b417a8e90030",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:52:48.2005319+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca118326-1ff0-44ad-a708-54765c2f04e2",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:35:34.6880198+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6e80f1e-5f97-4d89-8c61-bd8ec918dc4b",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:31:26.37742+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9f3add8e-5e8e-4fc7-9ae2-a7aa14e8a6af",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:09:38.7963268+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aacb026c-805d-46eb-a7ea-946bdee2f24a",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  2,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T17:44:45.1264904+08:00",
+                      "CompletedAt":  "2025-01-21T02:27:30.0979599+08:00"
+                  },
+                  {
+                      "Id":  "0d3e27cb-8ad7-49e7-9209-45a6d336584f",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:56:54.7979556+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4641f76b-2af2-4aff-9198-7052510cfac7",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:56:21.2369132+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d99f4b71-16b6-4339-bcaf-159f4c2d812c",
+                      "Name":  "綜合堅果",
+                      "Quantity":  5,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:51:35.6167962+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

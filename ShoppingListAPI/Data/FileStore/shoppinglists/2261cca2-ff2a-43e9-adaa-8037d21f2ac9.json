@@ -1,0 +1,53 @@
+{
+    "Id":  "2261cca2-ff2a-43e9-adaa-8037d21f2ac9",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T09:50:06.3362832+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b08f2314-2483-49ea-9ef4-6be4b3c85bac",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:34:51.7612183+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0b44544-bf1e-4a5b-8e37-42893725c259",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:17:30.2826414+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d47d634-f47e-4c25-afbc-0d6e93331a9b",
+                      "Name":  "木質相框",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:00:31.5403723+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "186e8b9c-ebd3-49c4-8452-318ad7e03260",
+                      "Name":  "原木梳子",
+                      "Quantity":  2,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:39:46.5536551+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfc3180e-8140-4f11-9449-c7447da84594",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:52:58.5530888+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

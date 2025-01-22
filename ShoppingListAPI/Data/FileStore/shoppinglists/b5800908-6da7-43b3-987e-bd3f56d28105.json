@@ -1,0 +1,62 @@
+{
+    "Id":  "b5800908-6da7-43b3-987e-bd3f56d28105",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-15T20:04:33.2445278+08:00",
+    "Items":  [
+                  {
+                      "Id":  "519b724d-7a44-483e-b636-07fb6bc556b4",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  463,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7395422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "905c3cc6-b421-4029-a2a7-dc5544c51803",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.739546Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42a8c986-ab9e-4acc-a65d-a61fd5a06fe5",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.739547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7281eac6-4237-4894-81e3-95e14914a98c",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7395478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "496bb6f1-775b-4529-a866-811dae6573d1",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.739549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14beb849-5eb5-452b-8a8c-1088f2a7372a",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7395516Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

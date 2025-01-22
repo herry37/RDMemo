@@ -1,0 +1,80 @@
+{
+    "Id":  "0aa6f587-7831-479e-94c6-ea89bd17fa5f",
+    "Title":  "露營準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T15:16:46.901671+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6ebb57b-6593-4a2b-a340-f0b0c1b8368a",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:25:53.4203451+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9c196ae-c3e0-4e15-afb6-86e7fd6834c2",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:12:53.7958981+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59d3bd1e-1218-4ab5-a285-f26c103c4f13",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:51:39.2795978+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be11d1d2-801f-4580-9d84-a7e9bc819294",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:41:47.6721858+08:00",
+                      "CompletedAt":  "2025-01-16T11:21:11.9565056+08:00"
+                  },
+                  {
+                      "Id":  "8da5d551-d8df-4d9b-9084-bbdb0bff42c3",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:14:00.1816033+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db646842-68d9-4772-989f-a0f17d06a0de",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:03:42.0419812+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9854ef3c-5598-4359-a0a5-855d5619a237",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:47:01.4491938+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9ecbc8d-8d12-4720-9e35-0e6a38c2b4ae",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:03:36.8100622+08:00",
+                      "CompletedAt":  "2025-01-16T02:13:25.6633437+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

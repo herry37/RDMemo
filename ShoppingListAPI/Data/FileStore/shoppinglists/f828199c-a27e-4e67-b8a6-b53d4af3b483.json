@@ -1,0 +1,62 @@
+{
+    "Id":  "f828199c-a27e-4e67-b8a6-b53d4af3b483",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T12:39:34.7843524+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d7c4ad9d-21d0-4469-bd2f-0f40079452d9",
+                      "Name":  "掃把",
+                      "Quantity":  4,
+                      "Price":  435.038610968073620,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:56:52.4091097+08:00",
+                      "CompletedAt":  "2025-01-17T04:19:09.1764537+08:00"
+                  },
+                  {
+                      "Id":  "effb5888-0e00-448c-aee9-f9032a25d8db",
+                      "Name":  "杯子",
+                      "Quantity":  3,
+                      "Price":  433.817222022355280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:51:41.1597113+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ec76c86-0091-4f4c-bf75-95ebd2f1f436",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  8,
+                      "Price":  305.240099566683880,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:36:53.5060712+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3061f9e-c764-4065-b166-3648ec56882a",
+                      "Name":  "化妝品",
+                      "Quantity":  10,
+                      "Price":  239.166158914412090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:07:32.0970913+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3413fe3f-a0a9-467c-9bd4-21c3a06db693",
+                      "Name":  "運動飲料",
+                      "Quantity":  9,
+                      "Price":  19.8004974265064930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:36:40.0091253+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98fb4d63-bb63-4163-8e70-63fd8c2d287c",
+                      "Name":  "口香糖",
+                      "Quantity":  9,
+                      "Price":  471.001029201959260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:16:32.6087264+08:00",
+                      "CompletedAt":  "2025-01-20T16:45:17.5933912+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

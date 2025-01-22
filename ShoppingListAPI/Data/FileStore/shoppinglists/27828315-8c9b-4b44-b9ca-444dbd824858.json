@@ -1,0 +1,71 @@
+{
+    "Id":  "27828315-8c9b-4b44-b9ca-444dbd824858",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T15:57:54.5517904+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8c353b75-0da9-4fec-83e7-cb65961fead0",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d5a60f6-b16e-4ed2-87a6-8c986605eb30",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aaf99952-423d-416a-a361-b7db9ef3823a",
+                      "Name":  "Fantastic Metal Mouse",
+                      "Quantity":  1,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872764Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "364ead7c-7a01-42ce-968c-a84b5a3606dd",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.087278Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d506f0a5-a705-442a-90c4-e6ef3e20f41b",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c3ab26c-cf35-4e39-afe3-92f8fee52b00",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872833Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c943e81a-3b01-4efe-8327-7e991043bafa",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:37.0872847Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "a901a6fb-ba3b-4197-b6f4-8e260f4f3aaf",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-14T20:17:06.8414603+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95a6c0ff-2f84-457e-884e-2c056529fe04",
+                      "Name":  "手套",
+                      "Quantity":  3,
+                      "Price":  210.425366368046120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:48:40.2548431+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8986a248-6199-4ae9-8114-f72a04c62cfb",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  304.952212717013390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:16:05.0780417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ff7ee96-bdfd-4f4b-bf62-7f90b4a8b668",
+                      "Name":  "雞肉",
+                      "Quantity":  10,
+                      "Price":  143.663048519282940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T22:20:02.114019+08:00",
+                      "CompletedAt":  "2025-01-16T17:45:02.697111+08:00"
+                  },
+                  {
+                      "Id":  "645a238b-cfa0-420c-82a0-508b4a990e95",
+                      "Name":  "洗衣精",
+                      "Quantity":  7,
+                      "Price":  115.421411208539160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T16:06:17.1693628+08:00",
+                      "CompletedAt":  "2025-01-18T10:32:55.3193146+08:00"
+                  },
+                  {
+                      "Id":  "68e3f91c-7bcd-4a42-8936-8df57673e582",
+                      "Name":  "剪刀",
+                      "Quantity":  2,
+                      "Price":  61.141855233104160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:37:23.7501894+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2f55179-b46c-40ff-9387-a589f7643162",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  103.27578635432610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T18:19:02.4598655+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

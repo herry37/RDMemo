@@ -1,0 +1,35 @@
+{
+    "Id":  "923cf1b5-f644-4d75-b925-d5fccd6a850e",
+    "Title":  "01/18 零食採買清單",
+    "CreatedAt":  "2025-01-18T06:45:21.6833109+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37e717bf-a530-4124-8fb6-f8623713f145",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4998364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "966926fc-fc68-40bb-a089-2d63fc12b963",
+                      "Name":  "Tasty Rubber Pizza",
+                      "Quantity":  3,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4998648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "804d8a35-4e3d-4a22-886b-9e437a5ae2b1",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.499866Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

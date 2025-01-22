@@ -1,0 +1,35 @@
+{
+    "Id":  "64dd4d41-2601-4b3b-b1e3-5d8b6e052976",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T06:41:12.3646972+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1ad402ed-1489-4258-b85a-a55d693413cb",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4067706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5118e8c5-5aaf-4921-b057-ab118a4e1a90",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4067742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "279a1821-fa34-4d6e-ae51-e90a41b423db",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4067751Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

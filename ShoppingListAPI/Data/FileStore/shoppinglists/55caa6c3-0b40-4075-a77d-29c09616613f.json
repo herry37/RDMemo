@@ -1,0 +1,35 @@
+{
+    "Id":  "55caa6c3-0b40-4075-a77d-29c09616613f",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-19T00:31:27.2479153+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a833205-5a65-4e88-83f6-d9013cef9ab1",
+                      "Name":  "Refined Metal Keyboard",
+                      "Quantity":  1,
+                      "Price":  470,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7491437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27c21d83-89ab-445e-8148-a5f683d35d3b",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7491456Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9626bdce-8701-4786-9612-d395d3fe1927",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7491469Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

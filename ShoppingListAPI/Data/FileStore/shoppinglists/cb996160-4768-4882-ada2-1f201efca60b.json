@@ -1,0 +1,89 @@
+{
+    "Id":  "cb996160-4768-4882-ada2-1f201efca60b",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T12:45:59.6129238+08:00",
+    "Items":  [
+                  {
+                      "Id":  "55e608d5-3c7d-4ee2-adb9-564bbfff1ade",
+                      "Name":  "梳子",
+                      "Quantity":  8,
+                      "Price":  198.34501820260420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:54:25.4171249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d11b49a0-6357-4a8e-8380-ab281a883b02",
+                      "Name":  "杯子",
+                      "Quantity":  8,
+                      "Price":  68.282378951652730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:39:11.7877651+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7120ded4-67cf-4952-9c2d-5df9d0fef4d4",
+                      "Name":  "除霉劑",
+                      "Quantity":  7,
+                      "Price":  108.238504298028360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:30:32.0872074+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e17b50fd-78a6-443e-9c33-8a32bb778dbc",
+                      "Name":  "漂白水",
+                      "Quantity":  6,
+                      "Price":  413.458064891612010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:11:25.0842957+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "934d6d08-a16a-4fe5-86dc-692160d1c71c",
+                      "Name":  "剪刀",
+                      "Quantity":  4,
+                      "Price":  340.752998867976720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:17:02.3432126+08:00",
+                      "CompletedAt":  "2025-01-16T02:12:49.4028127+08:00"
+                  },
+                  {
+                      "Id":  "6ce22da6-b9f8-4856-ba2d-e2b4fa7eaa60",
+                      "Name":  "護手霜",
+                      "Quantity":  10,
+                      "Price":  38.2511753284567170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:22:11.0781349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64771227-a9e6-4426-970e-00292789b267",
+                      "Name":  "檯燈",
+                      "Quantity":  7,
+                      "Price":  320.374407228098360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:30:04.0841393+08:00",
+                      "CompletedAt":  "2025-01-18T21:57:12.0815052+08:00"
+                  },
+                  {
+                      "Id":  "848f85c2-71f0-4f4c-94c9-d530c431b019",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  112.514059918669910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:33:42.1304501+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff066019-875b-4ea4-8bf5-a378bf938887",
+                      "Name":  "鍋子",
+                      "Quantity":  5,
+                      "Price":  155.207784851070410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:46:36.1578405+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

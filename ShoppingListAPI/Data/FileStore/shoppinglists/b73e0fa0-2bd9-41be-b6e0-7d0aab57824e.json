@@ -1,0 +1,44 @@
+{
+    "Id":  "b73e0fa0-2bd9-41be-b6e0-7d0aab57824e",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T21:53:35.3207049+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c02d675e-6802-400f-9278-0606a4e5e7b1",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:09.9844917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dec167db-a46f-407f-8693-b3bf90eae09b",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:09.9845785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3bcf173-0657-4857-88a3-4c05279d3181",
+                      "Name":  "Tasty Rubber Tuna",
+                      "Quantity":  3,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:09.9854292Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d876a97-baf0-4816-b7e1-de7b18dfd163",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:09.9854397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

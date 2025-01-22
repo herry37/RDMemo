@@ -1,0 +1,89 @@
+{
+    "Id":  "a7673ad9-0fd9-4824-a99a-546e119ad1ca",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T09:53:31.3331003+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27a92e9f-35ba-4564-b3a6-333da5588871",
+                      "Name":  "筆記本",
+                      "Quantity":  4,
+                      "Price":  83.423581613735850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:10:13.3166514+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e6415ce-c934-4311-a72f-e78ed6abd2d0",
+                      "Name":  "礦泉水",
+                      "Quantity":  7,
+                      "Price":  63.360723102554280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:21:32.448469+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10f33438-9803-4bcc-9660-4e4e5531e2a3",
+                      "Name":  "訂書機",
+                      "Quantity":  9,
+                      "Price":  207.695312352972840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:30:58.6603298+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a8139db-49b4-4a26-b0cb-c7d573c6dace",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  229.534689607523850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:28:36.6308223+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6d50f58-0669-480f-ab59-18c1b9a77904",
+                      "Name":  "香蕉",
+                      "Quantity":  6,
+                      "Price":  13.05279956262992340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:37:39.6904141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afbd220f-4b00-49f9-8959-42dc0ddbc117",
+                      "Name":  "魚",
+                      "Quantity":  9,
+                      "Price":  176.267340486307690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:51:27.73459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ff317b5-ee5c-4ab6-8f8e-19c36011454c",
+                      "Name":  "盤子",
+                      "Quantity":  2,
+                      "Price":  258.479476103725930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:07:55.1563655+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6a04a6d-7f8a-4683-9afd-0e4af3307bbd",
+                      "Name":  "剪刀",
+                      "Quantity":  8,
+                      "Price":  349.530885235336340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:13:56.5349571+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6ebb81c-194a-408f-bca5-c08525ec9d5f",
+                      "Name":  "堅果",
+                      "Quantity":  5,
+                      "Price":  264.518539732108820,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:30:17.609028+08:00",
+                      "CompletedAt":  "2025-01-20T15:40:42.9184642+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

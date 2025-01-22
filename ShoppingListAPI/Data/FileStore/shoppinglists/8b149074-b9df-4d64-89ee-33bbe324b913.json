@@ -1,0 +1,89 @@
+{
+    "Id":  "8b149074-b9df-4d64-89ee-33bbe324b913",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T20:49:09.367074+08:00",
+    "Items":  [
+                  {
+                      "Id":  "54f218fa-7e24-46c4-ad75-efda3d76f6f1",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8023351Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b352a4c-e13d-44b7-96a9-866cf0cd787e",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  359,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.802342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f33f9a2d-8a84-4732-bf93-a6f5cc56a8d1",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8023452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1efd5f8c-46ab-4569-a5f3-f1eba93379c8",
+                      "Name":  "Sleek Steel Soap",
+                      "Quantity":  3,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8023815Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dde3227-226f-43d1-aed2-c14c66d3caef",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8023894Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f42a30ec-3b0e-42c6-a4e6-1c58e2865a56",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.802394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6fb17aa-3cde-4e46-af71-4dca3f172ecd",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8023966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5eeeae1f-c748-4c46-8b43-aaa96c7f39eb",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8024001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34dd7319-3877-48f5-912a-fb1ddf8a5563",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8024027Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

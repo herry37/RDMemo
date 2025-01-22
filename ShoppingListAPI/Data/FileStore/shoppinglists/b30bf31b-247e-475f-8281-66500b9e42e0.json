@@ -1,0 +1,44 @@
+{
+    "Id":  "b30bf31b-247e-475f-8281-66500b9e42e0",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-17T16:34:52.5072139+08:00",
+    "Items":  [
+                  {
+                      "Id":  "47001b30-c28d-40f1-870f-3b3aa090b8d8",
+                      "Name":  "Intelligent Plastic Chair",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4618773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4383166-c502-44c0-9584-b34707f8add2",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4618785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0eabff5-33e5-43f7-97a5-8cdaafdd8e9b",
+                      "Name":  "Tasty Plastic Mouse",
+                      "Quantity":  1,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4618811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "318521ab-5db5-4b2b-8c33-ee2c6a9bd07a",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.461882Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

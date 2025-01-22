@@ -1,0 +1,71 @@
+{
+    "Id":  "044a3d9e-5b97-469d-9c09-6727286fdde5",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-20T12:00:34.388535+08:00",
+    "Items":  [
+                  {
+                      "Id":  "92a9921b-a19a-4ed7-b97b-fb5dabc0b1bf",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:04:14.469639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd349fec-7d73-4381-b0a4-95f3022113c6",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  36,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:23:31.0808733+08:00",
+                      "CompletedAt":  "2025-01-18T10:21:38.2116934+08:00"
+                  },
+                  {
+                      "Id":  "3f9e6906-a891-4b3b-bdff-b621993e963a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:05:19.370067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3c7475e-7376-4643-9ae8-4f21ac92a71b",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:24:24.8705312+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c228b86b-4c5b-4138-bc31-fffe34a349f4",
+                      "Name":  "透明膠帶",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:55:57.3625313+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7556f51e-bc38-4d77-9742-692ed6375d86",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:57:53.5874423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09fe10f7-bbb7-4510-9deb-e6084930f418",
+                      "Name":  "電動牙刷",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:33:46.2478944+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

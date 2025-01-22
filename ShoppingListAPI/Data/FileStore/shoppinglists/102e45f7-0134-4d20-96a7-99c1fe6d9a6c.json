@@ -1,0 +1,71 @@
+{
+    "Id":  "102e45f7-0134-4d20-96a7-99c1fe6d9a6c",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T10:11:33.3837747+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b9442011-a889-4af5-8f3c-00a01cedc49a",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  223,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:47:56.8614571+08:00",
+                      "CompletedAt":  "2025-01-15T03:55:48.4868561+08:00"
+                  },
+                  {
+                      "Id":  "e585bf03-39af-4904-8ad6-ca47d780ed5d",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:30:47.4831402+08:00",
+                      "CompletedAt":  "2025-01-21T06:48:36.746439+08:00"
+                  },
+                  {
+                      "Id":  "a295979d-fe0c-4182-a7e0-f0b1e695e99b",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:26:21.4696461+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "018999c5-98ee-4ba2-ad7c-249a5c389b76",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:05:38.9266564+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b888675-e299-400e-bb1e-c6b5db912da0",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  3,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:07:53.452495+08:00",
+                      "CompletedAt":  "2025-01-21T02:16:09.8778875+08:00"
+                  },
+                  {
+                      "Id":  "404c614d-2fbf-4886-af38-8bb7c8cc98ca",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:54:45.7840201+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab66ef40-826f-47ba-8968-cdaa7947eb1e",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:53:11.0768704+08:00",
+                      "CompletedAt":  "2025-01-19T12:59:24.8818202+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

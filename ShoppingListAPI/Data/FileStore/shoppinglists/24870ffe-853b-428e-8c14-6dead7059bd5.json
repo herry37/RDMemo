@@ -1,0 +1,71 @@
+{
+    "Id":  "24870ffe-853b-428e-8c14-6dead7059bd5",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T15:35:22.6461754+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4750554-7419-48b9-936a-f44aca7b4e33",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.599003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "234413b1-e029-453a-8bae-1c41c9dd9970",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990067Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8143f56-3c51-4740-8e62-b7c4de91d34b",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990078Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f1fa7a0-fdef-4df9-a4d4-ed9bf1ec5e4f",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf946e35-89b6-433c-93b3-ae0050886421",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990107Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6a1264b-40f0-45ea-8c70-ade29f58f0fb",
+                      "Name":  "Ergonomic Wooden Mouse",
+                      "Quantity":  5,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990562Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d0106e2-0f4e-435d-97fd-f29468ceea28",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.5990591Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

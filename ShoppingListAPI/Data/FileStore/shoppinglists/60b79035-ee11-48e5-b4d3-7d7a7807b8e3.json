@@ -1,0 +1,44 @@
+{
+    "Id":  "60b79035-ee11-48e5-b4d3-7d7a7807b8e3",
+    "Title":  "年節採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-20T12:46:32.7151961+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b57ac0d-ff8d-4a91-a86b-48b3d3775367",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:53:59.2616586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a39aa329-1605-4202-800c-bf47aea86b64",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T06:23:22.7483693+08:00",
+                      "CompletedAt":  "2025-01-20T02:13:31.533443+08:00"
+                  },
+                  {
+                      "Id":  "e261371f-bf71-4fcf-aeca-4925a45dc925",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:12:03.1331751+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da5779c9-56b8-4c20-8132-7a6b7e76a427",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:17:56.2203918+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

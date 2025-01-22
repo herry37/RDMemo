@@ -1,0 +1,44 @@
+{
+    "Id":  "89dc0a79-dbb7-4a20-8dd2-57f4bcf8cfe3",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T21:19:09.1124372+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5e904f9e-91f4-4a8b-86b0-021b699426d5",
+                      "Name":  "Awesome Steel Chicken",
+                      "Quantity":  1,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2083468Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a8a2671-dc4f-461a-94d3-5fb8656c8467",
+                      "Name":  "Fantastic Frozen Cheese",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2083522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5db1f6d-878a-41b6-bcf6-c26204d505d7",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2083536Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fede272e-4411-409c-8326-b0da0a5f04de",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2083561Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

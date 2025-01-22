@@ -1,0 +1,35 @@
+{
+    "Id":  "5b85ace5-b854-4431-b7a2-b9a59e0a49cb",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-18T01:08:44.4472869+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9d495c94-22ce-4854-a9b8-2f29b9a55d84",
+                      "Name":  "鍋子",
+                      "Quantity":  8,
+                      "Price":  89.947853072840760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:53:07.003722+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "658ee5d6-d19f-4953-9650-df4848070c32",
+                      "Name":  "洗髮精",
+                      "Quantity":  6,
+                      "Price":  66.948320902336570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:12:54.9646027+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8adcff5f-9126-4e2d-8e5b-d115489d3893",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  36.8774726262181440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:00:46.2760321+08:00",
+                      "CompletedAt":  "2025-01-18T17:56:20.7708263+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

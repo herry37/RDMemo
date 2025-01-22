@@ -1,0 +1,71 @@
+{
+    "Id":  "df592e31-d405-4ecc-9914-3abf3d0c3a5f",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-15T14:47:33.8040327+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3739e9f3-779d-44b0-8a7f-50fcb2f43989",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3314433-fd2d-4222-a0e7-bed40d30118e",
+                      "Name":  "Practical Steel Shoes",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19ebf44d-e391-4a85-af31-5995871e264e",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83c2d75b-1ffa-4e37-912f-3c39fe94ed66",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d863cad-7869-4356-8896-37ff97dce3ba",
+                      "Name":  "Practical Soft Ball",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0c4f8bc-4d38-4e60-a8b0-d4ae893b1a61",
+                      "Name":  "Incredible Cotton Mouse",
+                      "Quantity":  5,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be854b0b-b751-4980-bd92-9c44cc6766c5",
+                      "Name":  "Incredible Rubber Soap",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5800652Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

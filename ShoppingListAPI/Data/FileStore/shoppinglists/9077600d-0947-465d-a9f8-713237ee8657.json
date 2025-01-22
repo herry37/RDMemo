@@ -1,0 +1,80 @@
+{
+    "Id":  "9077600d-0947-465d-a9f8-713237ee8657",
+    "Title":  "緊急採購 - 01/20",
+    "CreatedAt":  "2025-01-20T22:46:20.9703356+08:00",
+    "Items":  [
+                  {
+                      "Id":  "af5a1fd2-80cb-453c-ac72-f382cacad7f6",
+                      "Name":  "尺",
+                      "Quantity":  6,
+                      "Price":  406.090902595197250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:31:55.3417443+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f79d301-edbb-40df-86e5-8675dbf686cd",
+                      "Name":  "海綿",
+                      "Quantity":  1,
+                      "Price":  210.137203889281190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:31:48.5081008+08:00",
+                      "CompletedAt":  "2025-01-16T19:13:41.1919462+08:00"
+                  },
+                  {
+                      "Id":  "c37bba08-151f-478f-af69-904f5644ddc4",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  195.44879039630370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:41:28.224452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8d9e410-4c69-443d-ad8a-2979bb366ef1",
+                      "Name":  "啤酒",
+                      "Quantity":  6,
+                      "Price":  172.853856687542860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:35:26.8727459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f8a3307-639e-46b6-8dc9-f9c4051583ff",
+                      "Name":  "化妝品",
+                      "Quantity":  10,
+                      "Price":  48.1172497725768980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:31:08.909343+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96631222-203e-4431-bbb8-178773d68a26",
+                      "Name":  "鍋子",
+                      "Quantity":  6,
+                      "Price":  352.571510374775080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:57:47.7816359+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49b43a7d-64f7-457c-87d0-bceb639539e2",
+                      "Name":  "電池",
+                      "Quantity":  1,
+                      "Price":  74.091025488733530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:50:36.614347+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04646962-954b-4f33-9707-222b51f40a04",
+                      "Name":  "啤酒",
+                      "Quantity":  7,
+                      "Price":  137.225571010380850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:00:59.5889193+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

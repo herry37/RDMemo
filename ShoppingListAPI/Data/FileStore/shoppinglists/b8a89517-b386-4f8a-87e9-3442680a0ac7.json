@@ -1,0 +1,35 @@
+{
+    "Id":  "b8a89517-b386-4f8a-87e9-3442680a0ac7",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T14:46:37.6382402+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ea77d2cc-2df5-4852-9bc4-930c898c9dc1",
+                      "Name":  "筆",
+                      "Quantity":  7,
+                      "Price":  58.5591420661602080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:42:12.8585809+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96580d71-0c3d-4997-a67b-ffdfd1e5b590",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  301.043095804563830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:02:14.2913014+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52a34731-44a9-4916-b3f9-8df390acea91",
+                      "Name":  "運動飲料",
+                      "Quantity":  9,
+                      "Price":  437.754946987223380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:45:10.0470507+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

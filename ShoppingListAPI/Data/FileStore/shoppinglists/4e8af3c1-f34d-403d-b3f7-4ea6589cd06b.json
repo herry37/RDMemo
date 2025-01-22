@@ -1,0 +1,89 @@
+{
+    "Id":  "4e8af3c1-f34d-403d-b3f7-4ea6589cd06b",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-21T05:30:22.0408704+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8410e198-4877-4bec-a6f0-d48e891956d1",
+                      "Name":  "資料夾",
+                      "Quantity":  10,
+                      "Price":  429.382704589852640,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:45:23.8205089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd991fae-a16d-40ac-bcf7-c5afe54873aa",
+                      "Name":  "手套",
+                      "Quantity":  4,
+                      "Price":  397.292674799148860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:25:23.940752+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d30e369b-86f6-44ac-a0ec-bc7fcf6da109",
+                      "Name":  "牙刷",
+                      "Quantity":  10,
+                      "Price":  149.470565893829590,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:23:45.2572407+08:00",
+                      "CompletedAt":  "2025-01-21T05:39:13.8058996+08:00"
+                  },
+                  {
+                      "Id":  "edbbb04e-8e19-4dfe-a31f-b3b3461b14be",
+                      "Name":  "芳香劑",
+                      "Quantity":  7,
+                      "Price":  99.001029969816580,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:24:15.7621802+08:00",
+                      "CompletedAt":  "2025-01-18T08:30:41.3736918+08:00"
+                  },
+                  {
+                      "Id":  "ef6e523c-8083-4139-b2f0-310d7b9231a6",
+                      "Name":  "面膜",
+                      "Quantity":  5,
+                      "Price":  272.633217527960230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:30:43.8035512+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1003ef33-7b0f-450a-86fd-283b0d83f6ba",
+                      "Name":  "面膜",
+                      "Quantity":  10,
+                      "Price":  274.621691867654380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T20:16:40.8883728+08:00",
+                      "CompletedAt":  "2025-01-20T22:58:11.9957831+08:00"
+                  },
+                  {
+                      "Id":  "a8aaca77-a9ae-4703-bf6e-fbbd7d68a0f3",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  238.704114939510140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:57:09.6889252+08:00",
+                      "CompletedAt":  "2025-01-20T20:19:29.3765709+08:00"
+                  },
+                  {
+                      "Id":  "90046fca-f87e-416f-bc04-ff516d841b9d",
+                      "Name":  "魚",
+                      "Quantity":  8,
+                      "Price":  59.699024648027580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:12:47.6625514+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34313200-381c-4191-a0a3-4ddf66408b4b",
+                      "Name":  "糖果",
+                      "Quantity":  2,
+                      "Price":  208.498155649393040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:13:52.76287+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

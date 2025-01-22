@@ -1,0 +1,53 @@
+{
+    "Id":  "3eceeda8-9c30-439f-9501-abfe8987d64e",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T17:30:35.8369879+08:00",
+    "Items":  [
+                  {
+                      "Id":  "09e404c1-b8f4-434e-b878-ec022f1341da",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3112996Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d70082c1-b90d-4e63-bb4f-39b130fc22da",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3113037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71f9c383-4b22-4490-a6be-82f4726218ce",
+                      "Name":  "Fantastic Rubber Table",
+                      "Quantity":  2,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3113288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86c883fe-782a-4f53-9082-42f4202b267a",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.31133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ab2bb0b-d693-4ee2-8b89-6508dcd33a9d",
+                      "Name":  "Refined Frozen Fish",
+                      "Quantity":  4,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3113341Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

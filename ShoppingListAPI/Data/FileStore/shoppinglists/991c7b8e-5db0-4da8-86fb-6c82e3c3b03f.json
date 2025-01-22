@@ -1,0 +1,35 @@
+{
+    "Id":  "991c7b8e-5db0-4da8-86fb-6c82e3c3b03f",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-16T22:18:46.5823653+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff2edff4-648a-40e4-a6f8-fa21654d267b",
+                      "Name":  "果乾",
+                      "Quantity":  5,
+                      "Price":  262.920385392830470,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T22:50:54.3382794+08:00",
+                      "CompletedAt":  "2025-01-15T11:42:43.3292259+08:00"
+                  },
+                  {
+                      "Id":  "67a93d30-6246-470a-b17f-ee0a8e222051",
+                      "Name":  "棉被",
+                      "Quantity":  5,
+                      "Price":  483.877312730980130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:56:29.4551678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f53c3082-79e8-4d6e-8012-3aa10def87c1",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  8,
+                      "Price":  121.703311011561290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:47:54.1828946+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

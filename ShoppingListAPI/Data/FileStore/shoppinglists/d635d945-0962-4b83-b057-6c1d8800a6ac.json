@@ -1,0 +1,62 @@
+{
+    "Id":  "d635d945-0962-4b83-b057-6c1d8800a6ac",
+    "Title":  "派對用品 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-15T11:02:23.2032501+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cee31a63-51bd-4d6e-bfec-ec8c301cc569",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:06:38.2442665+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8416ab1d-0cb0-4f5b-97b8-d28c0fbd9dc5",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:45:25.7693997+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38eeab88-c889-4ddb-949e-603df93b9e5d",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:27:34.3002052+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa42b6f0-df9e-46f0-acc9-a6c569ee81dd",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:22:19.5493882+08:00",
+                      "CompletedAt":  "2025-01-21T16:06:09.086645+08:00"
+                  },
+                  {
+                      "Id":  "74157035-5ef5-4e43-bc2e-0199e5fe4e72",
+                      "Name":  "綜合堅果",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:04:04.6450691+08:00",
+                      "CompletedAt":  "2025-01-22T02:47:19.4278028+08:00"
+                  },
+                  {
+                      "Id":  "24427ef3-fc26-48d2-a049-24543a6d59fe",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:07:07.8392185+08:00",
+                      "CompletedAt":  "2025-01-18T10:06:27.7011476+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

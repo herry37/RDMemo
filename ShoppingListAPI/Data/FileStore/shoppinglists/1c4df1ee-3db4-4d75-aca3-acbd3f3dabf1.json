@@ -1,0 +1,98 @@
+{
+    "Id":  "1c4df1ee-3db4-4d75-aca3-acbd3f3dabf1",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T00:27:47.9468612+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74cef045-b27c-4a78-8625-39b44b598087",
+                      "Name":  "Practical Plastic Table",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9057786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73e6b7ff-150a-4de8-8a6a-f8ee0eaf9001",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9057827Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18db06d4-5851-42a3-bb9c-cdcc7ac0c599",
+                      "Name":  "Rustic Rubber Pizza",
+                      "Quantity":  2,
+                      "Price":  474,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9057902Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c0eeb2a-90d4-4ab7-8ceb-ddfabb3ff619",
+                      "Name":  "Refined Granite Shirt",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9057951Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "701dfb7e-869f-4b64-bb50-58090bb8b27a",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9057974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "823b29cd-6582-4c4e-81b0-f27f3ce94071",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9058006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dcc7773-e1c8-4403-8a07-d8210d4508f6",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9058025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3869ef4f-d43a-487a-826d-ad828a94e24a",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9058043Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba39bbab-557f-4ed9-9327-e691f3d17be5",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9058196Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6987bbdd-bebe-49a8-8289-e715b773d2ec",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9058218Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

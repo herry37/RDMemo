@@ -1,0 +1,89 @@
+{
+    "Id":  "504a8102-cb0c-42bb-98bf-18c3fbbbe0e5",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-21T11:52:39.6796586+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72edaa2b-f2f2-49cc-83fa-4a83170d0054",
+                      "Name":  "資料夾",
+                      "Quantity":  10,
+                      "Price":  88.488802769590780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:00:50.3258821+08:00",
+                      "CompletedAt":  "2025-01-20T18:23:53.5052969+08:00"
+                  },
+                  {
+                      "Id":  "6824a62e-a58f-4d1d-9f6a-22de2ea7574f",
+                      "Name":  "可樂",
+                      "Quantity":  7,
+                      "Price":  285.742457045449310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T21:49:47.9524189+08:00",
+                      "CompletedAt":  "2025-01-21T03:27:08.3735411+08:00"
+                  },
+                  {
+                      "Id":  "f716bacc-39a6-4996-8c6b-cfa58f8a7faf",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  210.729550269978310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:03:20.7696276+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aef7c080-6326-4a78-9087-a0c98976f7bf",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  113.607069834455460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:23:06.5934161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b42acb55-81b6-4913-9ba8-a9f1b35bf500",
+                      "Name":  "洗碗精",
+                      "Quantity":  2,
+                      "Price":  116.486590690114810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:59:36.2451492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a97c2620-1ff4-4a48-a0b7-64d4610de9df",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  5,
+                      "Price":  50.7574885077106040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:55:53.3604762+08:00",
+                      "CompletedAt":  "2025-01-18T16:32:45.7302426+08:00"
+                  },
+                  {
+                      "Id":  "b68dda1e-cb2e-47df-ab7c-0304da2ab245",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  75.209451969356730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:42:42.6491977+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3578e157-07c5-49e6-98e3-aa84bd18e750",
+                      "Name":  "礦泉水",
+                      "Quantity":  7,
+                      "Price":  213.704945291380750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:14:55.0919875+08:00",
+                      "CompletedAt":  "2025-01-20T23:37:42.5254856+08:00"
+                  },
+                  {
+                      "Id":  "0c778bca-f64e-431b-9524-60f4f78348d7",
+                      "Name":  "糖果",
+                      "Quantity":  7,
+                      "Price":  94.165288439444730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:22:48.2399345+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

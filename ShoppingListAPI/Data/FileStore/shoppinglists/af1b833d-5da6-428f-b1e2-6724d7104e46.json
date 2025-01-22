@@ -1,0 +1,71 @@
+{
+    "Id":  "af1b833d-5da6-428f-b1e2-6724d7104e46",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-17T20:24:36.094127+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1d82dfc9-badf-4311-adfd-e8f61ad6e1ea",
+                      "Name":  "糖果",
+                      "Quantity":  7,
+                      "Price":  115.431235222341560,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:17:44.1507889+08:00",
+                      "CompletedAt":  "2025-01-19T05:17:08.288748+08:00"
+                  },
+                  {
+                      "Id":  "deaa09ce-f413-46d2-89de-794747422f86",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  349.214729010027780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:42:10.4992802+08:00",
+                      "CompletedAt":  "2025-01-19T16:27:48.12768+08:00"
+                  },
+                  {
+                      "Id":  "8966beae-f450-4f97-8346-ff89f002396d",
+                      "Name":  "堅果",
+                      "Quantity":  9,
+                      "Price":  75.784869104809260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:03:24.796676+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dbaccdc-e1ab-453b-9e3c-3cf5d683bc14",
+                      "Name":  "茶",
+                      "Quantity":  7,
+                      "Price":  149.14899950398370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:01:41.7042072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d1b0303-c684-4262-9058-706c6301d5c1",
+                      "Name":  "資料夾",
+                      "Quantity":  9,
+                      "Price":  316.58029229528260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:05:22.9603408+08:00",
+                      "CompletedAt":  "2025-01-17T22:28:57.2022667+08:00"
+                  },
+                  {
+                      "Id":  "44b42b23-9bf4-48cd-a6cb-faccbd7cac6b",
+                      "Name":  "杯子",
+                      "Quantity":  1,
+                      "Price":  34.284645132805190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:33:32.9537588+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1856885-ca08-473d-9f2a-207f65a7d458",
+                      "Name":  "相框",
+                      "Quantity":  1,
+                      "Price":  100.828847558771490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:24:58.1183302+08:00",
+                      "CompletedAt":  "2025-01-20T14:42:52.0115215+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

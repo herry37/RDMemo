@@ -1,0 +1,89 @@
+{
+    "Id":  "642825cb-f560-4e5c-9b10-82754e3c98d7",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T06:46:50.6333004+08:00",
+    "Items":  [
+                  {
+                      "Id":  "838a9449-d636-4c4e-bcf2-e1f8eef1986d",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869859Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eec1b0fa-089a-4d7f-a908-0da7bc6ab0c0",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ce21870-b7ec-4c98-9e00-8f91c10502be",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07dd534d-d581-4211-9811-d3b0df673a80",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869903Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d9ceffe-7efe-449d-8dd0-190c12a22ccf",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869912Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d19cf161-d21e-4e89-b954-8ffe09d160aa",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "497ee61e-303d-4ac9-94f8-6fffc2007f16",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86ca3b60-f810-4c52-9fc7-0ef5f8ef6ca0",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  409,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7869948Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f7ca921-90ee-413d-8606-d8ec3f5a1cfa",
+                      "Name":  "Handcrafted Soft Gloves",
+                      "Quantity":  5,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7870117Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

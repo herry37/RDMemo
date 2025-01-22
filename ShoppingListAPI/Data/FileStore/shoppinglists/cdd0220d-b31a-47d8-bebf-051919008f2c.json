@@ -1,0 +1,80 @@
+{
+    "Id":  "cdd0220d-b31a-47d8-bebf-051919008f2c",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T05:38:40.1485681+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cc2f8f5e-3e0c-4e4e-973d-317c6db90665",
+                      "Name":  "Handcrafted Cotton Tuna",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7742cd2a-6a4d-4e38-a84d-aede66432f85",
+                      "Name":  "Ergonomic Rubber Fish",
+                      "Quantity":  4,
+                      "Price":  288,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "175a481d-d9a3-4bf1-938d-d6c701d08c50",
+                      "Name":  "Awesome Steel Bike",
+                      "Quantity":  3,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "484fb7b8-07bc-477b-aa3e-20399109bd64",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03c7201b-d2c7-496b-ab70-b03c0d54d561",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  384,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012883Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82abfd19-d459-47d0-88cf-d5d315ad06de",
+                      "Name":  "Gorgeous Metal Shoes",
+                      "Quantity":  2,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2012924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a04c59c5-0b68-4b7d-8669-375cab8c4d9b",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.201294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a5030b1-833a-47fb-9396-d2cdae7a6f34",
+                      "Name":  "Licensed Cotton Keyboard",
+                      "Quantity":  2,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.201297Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

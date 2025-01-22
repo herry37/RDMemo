@@ -1,0 +1,44 @@
+{
+    "Id":  "63f39179-d591-4f4b-9594-57bba80ab999",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T16:14:40.2352595+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bbe1323e-e84f-4b34-aa37-fe80376daf03",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4182654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9172bc8b-0712-4b28-b2aa-11012676fb2b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4182687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52baad92-a91a-43a7-855a-5069f8e720c0",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  118,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4182704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d173cc9-9a61-4b08-8509-414c190338ec",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4182787Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

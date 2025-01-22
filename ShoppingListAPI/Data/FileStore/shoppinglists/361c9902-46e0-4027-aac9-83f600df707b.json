@@ -1,0 +1,44 @@
+{
+    "Id":  "361c9902-46e0-4027-aac9-83f600df707b",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-16T12:57:38.7716899+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4c0b3ad6-d3a0-4d48-8363-7f76b259dbf8",
+                      "Name":  "電池",
+                      "Quantity":  7,
+                      "Price":  367.966354327949780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:38:04.5059189+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d449434-3cc4-4087-a302-4cb6b52d5543",
+                      "Name":  "漂白水",
+                      "Quantity":  8,
+                      "Price":  451.7900444709010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:52:18.5932791+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8145c410-6501-4a56-8c75-d43729c3453f",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  314.613826908989640,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:09:07.8990164+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c398c4b2-e67c-4fa8-a560-4a78d181d342",
+                      "Name":  "化妝品",
+                      "Quantity":  5,
+                      "Price":  36.041463679221410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:43:55.1202874+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "a8a28fd9-0952-40b3-b732-97f8d2bcc258",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T15:43:02.0278632+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da11b1bb-435b-4557-9a1e-d7fc4be7fade",
+                      "Name":  "Licensed Steel Pizza",
+                      "Quantity":  2,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bff8ae53-d78f-4c2d-86a1-9961e99c914c",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb13be81-352b-46dc-8380-6fc0229f1552",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972838Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73661218-0ad3-4651-ab21-c51f923a6016",
+                      "Name":  "Licensed Steel Soap",
+                      "Quantity":  1,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7291f056-63f7-4bd3-9844-c8285376e6b7",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972897Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc5e8d12-b845-4a06-a5d0-007ad6e4c180",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb3ff642-692c-4303-a53a-95d153c4c6f0",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23f7c4f5-7a69-4f5b-b972-003858f0db32",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e456062-e9fe-4df4-a49f-53e70b836bf0",
+                      "Name":  "Tasty Wooden Pizza",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "425b3de6-f82e-44b8-b24d-091176ceda1a",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5972997Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "a055a353-09dc-42c9-a244-feea344b3f6c",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T20:18:41.3412784+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82dd766b-4d31-4be5-9a45-ec6f556ab28d",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  483.304836832303770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:59:35.4863733+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e17f101e-25ce-4ea8-950a-bf18beedf7f2",
+                      "Name":  "豆漿",
+                      "Quantity":  7,
+                      "Price":  387.2676547906630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:43:01.3469655+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cae85ec8-c2c3-406a-a212-118dc317c73e",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  386.035779620393830,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:17:37.8563006+08:00",
+                      "CompletedAt":  "2025-01-22T08:19:43.9926952+08:00"
+                  },
+                  {
+                      "Id":  "12e56e90-3534-4266-b94a-9b836bfcbf12",
+                      "Name":  "面膜",
+                      "Quantity":  2,
+                      "Price":  147.854058389142830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:21:24.3856102+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09d39d3d-466a-46c5-a8ee-c93fe779d55f",
+                      "Name":  "口香糖",
+                      "Quantity":  3,
+                      "Price":  213.243122698736540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:10:59.9632235+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1cf9e9a-a688-4e8d-ad75-9d11ab77f25c",
+                      "Name":  "蛋糕",
+                      "Quantity":  6,
+                      "Price":  294.39917097558260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:37:09.8143688+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c338be8-7d3f-46ec-8d3e-5bd37aed2a5a",
+                      "Name":  "茶",
+                      "Quantity":  8,
+                      "Price":  79.109335965737830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:43:40.1133109+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9df4dc27-f6d6-4955-ac9c-1881f9d9308e",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  6,
+                      "Price":  131.369892849445310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:07:43.2707048+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e43e9126-4281-4686-8423-59ad87be65bb",
+                      "Name":  "盤子",
+                      "Quantity":  9,
+                      "Price":  326.871252655827310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T15:18:14.9464602+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

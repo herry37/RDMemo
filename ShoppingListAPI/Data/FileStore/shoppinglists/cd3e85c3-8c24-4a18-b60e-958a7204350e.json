@@ -1,0 +1,53 @@
+{
+    "Id":  "cd3e85c3-8c24-4a18-b60e-958a7204350e",
+    "Title":  "聚會準備 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T01:54:52.7097977+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a30a757b-3b17-4db3-bc1a-b86639f16284",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:55:12.9857077+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38fbf2d1-2211-4fda-a2cf-df606a5700c5",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:03:33.7091197+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c260e45d-1094-41fd-9dfd-d12f13aa424b",
+                      "Name":  "環保餐具組",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:30:44.4852161+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ec26010-12c2-4764-927e-90ef1be8ba82",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:14:52.6634454+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4f16f70-cd89-4c52-ad9d-37baaffd894d",
+                      "Name":  "LED檯燈",
+                      "Quantity":  3,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:16:08.1864044+08:00",
+                      "CompletedAt":  "2025-01-17T17:01:31.3277635+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

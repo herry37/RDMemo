@@ -1,0 +1,71 @@
+{
+    "Id":  "798b11f0-c26c-4288-92a0-d0b64b65506a",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T15:03:13.3176202+08:00",
+    "Items":  [
+                  {
+                      "Id":  "585aa877-0368-42da-a6f1-e4dbab3d8af1",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:22:15.5499101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a12f8d0-65c6-49f2-a6e3-6654c133eb03",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:21:31.5071197+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4cac983-e998-40d1-8c9b-fdb77da904a5",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:39:48.8948715+08:00",
+                      "CompletedAt":  "2025-01-15T12:53:21.3872633+08:00"
+                  },
+                  {
+                      "Id":  "331b7399-8bd2-49a2-893d-b6385275aab6",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:05:20.1097329+08:00",
+                      "CompletedAt":  "2025-01-16T22:37:52.8429791+08:00"
+                  },
+                  {
+                      "Id":  "3a29745e-d54c-4870-a807-4a566793bf9c",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:38:51.6840334+08:00",
+                      "CompletedAt":  "2025-01-21T19:49:42.7711265+08:00"
+                  },
+                  {
+                      "Id":  "a9004fc9-93d5-4ae9-8769-8ef74026b9a3",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:08:14.7201872+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0acfef1a-78d9-4c95-9591-42b29706da59",
+                      "Name":  "環保餐具組",
+                      "Quantity":  5,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:49:55.1036695+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "55b64044-fffa-4780-8349-bace0a589ad7",
+    "Title":  "聚會準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-18T14:20:20.7948945+08:00",
+    "Items":  [
+                  {
+                      "Id":  "08a3871a-d1da-4dd7-91de-2556af31e71d",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:57:34.6976364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e52c71c-4c15-4447-9546-0ba368f4c74e",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:19:34.5040378+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "433d8901-9e37-44a3-a7ff-0bd11c8ff6cf",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:35:42.2975059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f21aa24a-a21d-4c2e-a27a-87ef6fd1a511",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:23:58.9914627+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71ffafd5-9b4c-4e0e-bd59-5e734d7d3dba",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:12:25.4343856+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7efb23a3-7acb-4a31-b31e-609a839c2956",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:06:25.9998748+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e704f76-0277-4bef-b187-1949b212f379",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:44:44.7604316+08:00",
+                      "CompletedAt":  "2025-01-18T16:32:26.5902636+08:00"
+                  },
+                  {
+                      "Id":  "251d30d1-b6c3-4e39-8cec-c74b896f42aa",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:16:28.9277975+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

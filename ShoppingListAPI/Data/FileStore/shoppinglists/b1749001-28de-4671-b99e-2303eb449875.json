@@ -1,0 +1,44 @@
+{
+    "Id":  "b1749001-28de-4671-b99e-2303eb449875",
+    "Title":  "年節採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-20T13:53:02.4478866+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4abc8f79-0887-4684-922a-df1ce03c83f5",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T21:39:01.2871214+08:00",
+                      "CompletedAt":  "2025-01-20T03:24:40.4605839+08:00"
+                  },
+                  {
+                      "Id":  "1fea2964-a3ff-46f8-a76c-ac3c3353f675",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:10:13.3167399+08:00",
+                      "CompletedAt":  "2025-01-19T03:06:18.8001709+08:00"
+                  },
+                  {
+                      "Id":  "cd82ef8b-31ae-4aae-b4ff-51d50df682b2",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:42:51.2127441+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "202f8a7c-21b4-4a40-b369-6ec43c3f5b10",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:09:08.621396+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

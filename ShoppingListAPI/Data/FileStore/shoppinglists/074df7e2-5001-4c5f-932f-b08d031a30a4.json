@@ -1,0 +1,35 @@
+{
+    "Id":  "074df7e2-5001-4c5f-932f-b08d031a30a4",
+    "Title":  "聚會準備 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-20T13:56:56.5797843+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ec8ac12-ea67-4257-90c4-eb69aa1cf278",
+                      "Name":  "中性筆組",
+                      "Quantity":  4,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:31:44.3145471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fddf922-152b-42b7-9a4d-6f4a2c4a4a98",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  48,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:15:42.523114+08:00",
+                      "CompletedAt":  "2025-01-15T14:12:54.3439122+08:00"
+                  },
+                  {
+                      "Id":  "34c988b1-85a3-4d05-ba1b-7e34e1ef9715",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:14:48.3334554+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

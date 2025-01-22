@@ -1,0 +1,35 @@
+{
+    "Id":  "515872a4-ace1-48a1-a867-167f7e23d067",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-14T23:03:45.1010688+08:00",
+    "Items":  [
+                  {
+                      "Id":  "945911aa-c55d-4835-ad1c-2e4a58725717",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  399,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4265838Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "411f50a8-cbfd-4573-9efd-5e8e0432227a",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4265905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "707613b2-2607-4463-a731-ee63effa8f36",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4265914Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

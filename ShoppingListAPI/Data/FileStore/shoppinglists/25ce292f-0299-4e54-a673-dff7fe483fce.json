@@ -1,0 +1,71 @@
+{
+    "Id":  "25ce292f-0299-4e54-a673-dff7fe483fce",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-18T20:34:00.4147351+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9faf2a61-cbb2-443a-a12e-c2eee1ac93c2",
+                      "Name":  "Licensed Granite Gloves",
+                      "Quantity":  5,
+                      "Price":  434,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0442879Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e8489cb-805f-4a30-bae3-7eec2c40165f",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  318,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0442963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b2102cf-70dd-402a-afde-330351e31c74",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0442973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "430b9fc3-f916-4c39-b640-24b68a451ee0",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.044299Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2451b91-1403-4716-87c4-302850471646",
+                      "Name":  "Ergonomic Concrete Pants",
+                      "Quantity":  2,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0443062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6ff8120-d964-4e65-8884-6ba10af0d7b2",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0443087Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6206f6e-f507-4b0e-8bb6-356e0c7e9684",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0443097Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

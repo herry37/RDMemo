@@ -1,0 +1,35 @@
+{
+    "Id":  "0507c78c-85a1-4f7a-a910-cc2754c9aa74",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-20T22:17:26.5889671+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c9e3fafb-c62f-4845-a7c7-1d3573733834",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7554624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c0040c1-4cc6-4b6a-937a-d214100dcd43",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  194,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7554663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ad8e885-77a1-4ef2-b565-61b30c3cda06",
+                      "Name":  "Handmade Steel Mouse",
+                      "Quantity":  1,
+                      "Price":  498,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7554907Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

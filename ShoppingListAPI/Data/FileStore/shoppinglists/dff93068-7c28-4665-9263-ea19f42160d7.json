@@ -1,0 +1,62 @@
+{
+    "Id":  "dff93068-7c28-4665-9263-ea19f42160d7",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-19T21:30:08.8992332+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d12adcce-9684-4e49-a4d7-612381b8921f",
+                      "Name":  "尺",
+                      "Quantity":  10,
+                      "Price":  216.233602945463660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:58:58.5873216+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b7fcada-4c6a-48fa-8f57-7f8ab8e9819f",
+                      "Name":  "資料夾",
+                      "Quantity":  9,
+                      "Price":  191.395269953605050,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:14:22.1773452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "327fa784-32df-4d6f-8c68-efd4dc318018",
+                      "Name":  "可樂",
+                      "Quantity":  5,
+                      "Price":  93.976852975580740,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T23:19:59.6019347+08:00",
+                      "CompletedAt":  "2025-01-16T17:21:23.0521839+08:00"
+                  },
+                  {
+                      "Id":  "6be645bb-f4f8-4a2f-b0a0-aeeb3803c97a",
+                      "Name":  "乳液",
+                      "Quantity":  4,
+                      "Price":  431.246311557472590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:43:05.2724385+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dccb0fd8-97a7-462c-88b0-94057b609543",
+                      "Name":  "青菜",
+                      "Quantity":  4,
+                      "Price":  386.793385004248940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:13:04.3823534+08:00",
+                      "CompletedAt":  "2025-01-15T07:55:34.009218+08:00"
+                  },
+                  {
+                      "Id":  "bda18263-9497-4d8e-9aed-d27a1d28cc0a",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  32.8332405808570070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:19:56.8021051+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

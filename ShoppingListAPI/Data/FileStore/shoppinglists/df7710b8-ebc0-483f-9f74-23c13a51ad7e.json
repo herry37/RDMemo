@@ -1,0 +1,62 @@
+{
+    "Id":  "df7710b8-ebc0-483f-9f74-23c13a51ad7e",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-15T09:05:28.2549403+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4a3e038a-75a4-4449-984d-ab46e4b82261",
+                      "Name":  "筆",
+                      "Quantity":  8,
+                      "Price":  139.141908764905540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:44:01.6506008+08:00",
+                      "CompletedAt":  "2025-01-18T14:39:07.9539917+08:00"
+                  },
+                  {
+                      "Id":  "87eac9a0-bf7b-4ab7-a69e-c4b6d81ccf9e",
+                      "Name":  "礦泉水",
+                      "Quantity":  10,
+                      "Price":  432.643376399584060,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:28:11.5825318+08:00",
+                      "CompletedAt":  "2025-01-20T07:37:05.826462+08:00"
+                  },
+                  {
+                      "Id":  "b4040434-55d6-41c7-ad1c-f7407f107f51",
+                      "Name":  "膠帶",
+                      "Quantity":  9,
+                      "Price":  216.796267541695160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:48:08.9663623+08:00",
+                      "CompletedAt":  "2025-01-22T13:27:45.164211+08:00"
+                  },
+                  {
+                      "Id":  "fab1a89e-2d72-4f6f-8678-1f67ab369a85",
+                      "Name":  "便利貼",
+                      "Quantity":  7,
+                      "Price":  378.984590888717370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:03:11.1563124+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28d7caa1-c217-4eec-94db-887d6eb75f94",
+                      "Name":  "筆記本",
+                      "Quantity":  5,
+                      "Price":  465.838732156036460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:31:30.2069586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d08b612b-d962-4b2f-91cd-cab41a224966",
+                      "Name":  "相框",
+                      "Quantity":  9,
+                      "Price":  476.170852390452720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:17:07.975088+08:00",
+                      "CompletedAt":  "2025-01-19T12:15:09.9208464+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

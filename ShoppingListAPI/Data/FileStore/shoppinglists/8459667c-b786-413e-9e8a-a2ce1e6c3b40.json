@@ -1,0 +1,35 @@
+{
+    "Id":  "8459667c-b786-413e-9e8a-a2ce1e6c3b40",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-16T07:01:50.2418448+08:00",
+    "Items":  [
+                  {
+                      "Id":  "94dec772-63cf-43f5-8c28-97bf0e395955",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.699109Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bee40eeb-c209-45e2-9f26-034adf4a3abf",
+                      "Name":  "Handcrafted Metal Hat",
+                      "Quantity":  5,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.6996781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9a6d12d-eeab-49ca-8d92-4fca7d39f5aa",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.6996812Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

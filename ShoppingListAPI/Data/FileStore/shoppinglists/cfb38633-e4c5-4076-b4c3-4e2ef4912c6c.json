@@ -1,0 +1,44 @@
+{
+    "Id":  "cfb38633-e4c5-4076-b4c3-4e2ef4912c6c",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-17T01:32:23.3310699+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26d9efdd-8596-4049-9b81-10f62ee4043a",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.316344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c69a474f-d475-484b-bda0-3ad75b059433",
+                      "Name":  "Unbranded Granite Sausages",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3163724Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad195891-50f4-4d69-90a1-d40b74db6714",
+                      "Name":  "Refined Frozen Keyboard",
+                      "Quantity":  1,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3163766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b570df27-e3e2-4cf8-819c-e532c6747071",
+                      "Name":  "Ergonomic Metal Tuna",
+                      "Quantity":  1,
+                      "Price":  15,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3163818Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

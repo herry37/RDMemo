@@ -1,0 +1,98 @@
+{
+    "Id":  "69d32509-5d00-40bb-8f2f-3da3551d47a0",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-18T21:39:53.8079281+08:00",
+    "Items":  [
+                  {
+                      "Id":  "988c6d28-0665-4fd1-931f-ac29b8efc145",
+                      "Name":  "Refined Fresh Salad",
+                      "Quantity":  5,
+                      "Price":  374,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0401817Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b15dac5-470c-48db-b2ae-36b05b811ce6",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0401968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "171ae950-ed79-44c8-9959-86943e3303c0",
+                      "Name":  "Licensed Metal Tuna",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91fb5e2f-316c-419a-b44a-7cbef69c4f91",
+                      "Name":  "Rustic Fresh Chicken",
+                      "Quantity":  3,
+                      "Price":  379,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bcf0791-778f-48fa-a019-d1d8245b1865",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70032e12-9171-4dd1-993f-ecdb932f8f31",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402116Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4602ef84-187f-4fe2-a470-728786f86fcf",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402131Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "084122e1-a587-4e02-9918-f7b23db2bf9c",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402146Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cad945d0-be12-412b-a3b1-26a73ea8790e",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  342,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402161Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbdf21f0-5d8f-4ccd-af6b-6860de98e8f2",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0402176Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

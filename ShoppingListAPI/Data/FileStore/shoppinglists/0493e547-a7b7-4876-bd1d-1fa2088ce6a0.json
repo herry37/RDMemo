@@ -1,0 +1,80 @@
+{
+    "Id":  "0493e547-a7b7-4876-bd1d-1fa2088ce6a0",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T02:40:21.7580381+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ec589de5-c3e9-45ab-a0fa-867100504f95",
+                      "Name":  "蘋果",
+                      "Quantity":  9,
+                      "Price":  106.080485796198750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:42:44.9630247+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95b45fd5-e552-4552-be9c-f4c4c28ddb7d",
+                      "Name":  "口香糖",
+                      "Quantity":  1,
+                      "Price":  228.492422599875970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:54:41.2379491+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8379b6d8-c11f-4a5d-9580-52708f1e8c44",
+                      "Name":  "除霉劑",
+                      "Quantity":  3,
+                      "Price":  64.091788563118460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:13:45.5445345+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bbdf9c1-222f-4015-8e7b-a18c9ae9e1da",
+                      "Name":  "果乾",
+                      "Quantity":  9,
+                      "Price":  83.924751148117590,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:59:18.7029282+08:00",
+                      "CompletedAt":  "2025-01-21T03:40:20.8179287+08:00"
+                  },
+                  {
+                      "Id":  "5d502049-b0e4-4b6e-841e-623206414953",
+                      "Name":  "剪刀",
+                      "Quantity":  10,
+                      "Price":  85.848979390187710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:12:17.7378013+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "246721e0-27a6-4a45-827d-5d7b60434f7f",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  18.0365243920261650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:59:07.8217733+08:00",
+                      "CompletedAt":  "2025-01-19T12:43:11.4256952+08:00"
+                  },
+                  {
+                      "Id":  "11dd1fa6-65fc-498f-b9d4-26f2955e3a9c",
+                      "Name":  "筆記本",
+                      "Quantity":  1,
+                      "Price":  96.914491101839170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:33:50.5589457+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d765f379-0803-4db0-9c5a-8ebc89719a1c",
+                      "Name":  "毛巾",
+                      "Quantity":  4,
+                      "Price":  287.458454357412440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:43:13.2356872+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

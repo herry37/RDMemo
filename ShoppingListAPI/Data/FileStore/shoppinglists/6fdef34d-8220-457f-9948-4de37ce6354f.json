@@ -1,0 +1,98 @@
+{
+    "Id":  "6fdef34d-8220-457f-9948-4de37ce6354f",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T06:29:57.4032673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5cf7e3bf-b57c-443e-a6ee-4488ffc39a78",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5457998Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc17a69a-9454-429c-83bd-947bab589ac3",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25a56344-fea3-42a7-98da-922a228c7cc2",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4046057-bb15-4f89-b0ca-4548a4ebbf22",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  481,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458264Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "193a3fc4-d302-4330-8f72-d8e95ed84d23",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458298Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75a17b7b-95aa-49cb-99ef-316bc239c816",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb4f03c9-acd5-475a-b61c-81d9eb2c57a8",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72f9b5b1-320a-469a-993d-317af39d00a7",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98f72155-0d9e-42fd-a1ec-dd0808d0aa7b",
+                      "Name":  "Sleek Rubber Soap",
+                      "Quantity":  3,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bafbbc81-6dce-45fd-a479-d094da39878c",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5458653Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

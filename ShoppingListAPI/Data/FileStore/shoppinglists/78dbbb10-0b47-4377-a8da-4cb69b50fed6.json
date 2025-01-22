@@ -1,0 +1,62 @@
+{
+    "Id":  "78dbbb10-0b47-4377-a8da-4cb69b50fed6",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T21:59:30.7537395+08:00",
+    "Items":  [
+                  {
+                      "Id":  "17d9a9fc-ce6e-4b43-b8e8-5f961b26cab2",
+                      "Name":  "糖果",
+                      "Quantity":  3,
+                      "Price":  337.953922106449590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:57:17.1796765+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07f6b1f1-0ec7-4091-aef8-2ea75477326c",
+                      "Name":  "魚",
+                      "Quantity":  6,
+                      "Price":  157.639126611179840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:35:21.5249261+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc717697-4489-46a7-90ad-928b67af8b39",
+                      "Name":  "泡麵",
+                      "Quantity":  5,
+                      "Price":  50.1661286226130280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T13:41:17.3003959+08:00",
+                      "CompletedAt":  "2025-01-16T05:43:14.8141589+08:00"
+                  },
+                  {
+                      "Id":  "a615ea7c-3575-4774-95e8-5189feec4df4",
+                      "Name":  "糖果",
+                      "Quantity":  1,
+                      "Price":  154.567260921986490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:35:24.6688607+08:00",
+                      "CompletedAt":  "2025-01-20T07:08:16.7692563+08:00"
+                  },
+                  {
+                      "Id":  "43ac4530-3359-486d-be18-d7a52380353c",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  174.745547825803210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:43:56.2422244+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "911bf440-85eb-4ac2-99f8-783e6fcf7464",
+                      "Name":  "面紙",
+                      "Quantity":  7,
+                      "Price":  190.933650220030330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:16:40.5094257+08:00",
+                      "CompletedAt":  "2025-01-17T01:44:37.4064923+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

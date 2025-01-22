@@ -1,0 +1,44 @@
+{
+    "Id":  "bdaa05b6-c487-4d9c-9047-ad0dcb886a6c",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-18T15:08:48.2751371+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0834ffb4-f5fb-47b0-822e-7c712dfdfa97",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5191833Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db5d9eb3-f266-4da8-96c6-097b11c092e1",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5191866Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb9d9061-f354-48e0-a5a7-f36acad404ec",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5191882Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5ef7153-0571-445e-80d2-1e88481954a7",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5191899Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

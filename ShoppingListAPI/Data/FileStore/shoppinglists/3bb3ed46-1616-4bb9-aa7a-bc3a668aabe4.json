@@ -1,0 +1,98 @@
+{
+    "Id":  "3bb3ed46-1616-4bb9-aa7a-bc3a668aabe4",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-17T23:33:34.6532995+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cd104cbd-3e2c-4671-b540-e5b6c39f27ae",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2894338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6e80ee5-9376-44bd-ad39-c3ac2d988300",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2894363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "819f888d-3ab4-4204-be96-5bd715ad87d8",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2894372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ff23200-e22b-4913-b08a-6395c2022d62",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2894381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c210c168-2575-4601-8825-5861ad3bb12d",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2894394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53fc6a04-4baf-49ef-b007-a9a9f9cae646",
+                      "Name":  "Refined Rubber Shirt",
+                      "Quantity":  5,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2895103Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3698360f-45bf-487e-8dad-8d48533f7a00",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2895113Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51840a70-277b-4b9c-abdb-168eed915a52",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  15,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2895122Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "339e1736-cc54-47a2-99eb-9269ead6e8c0",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2895141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "569aba9d-098b-4ad1-9e75-6c80a12c097f",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2895159Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

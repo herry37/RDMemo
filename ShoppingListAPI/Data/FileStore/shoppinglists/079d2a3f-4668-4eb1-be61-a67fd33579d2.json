@@ -1,0 +1,62 @@
+{
+    "Id":  "079d2a3f-4668-4eb1-be61-a67fd33579d2",
+    "Title":  "日常補充 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T19:14:46.9009482+08:00",
+    "Items":  [
+                  {
+                      "Id":  "22f3d929-b9ef-4d8d-aea2-d4c3e3e23d76",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:10:44.5342769+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f7bf8cfa-3a93-4caa-99ca-e34d39078bca",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:46:00.3475502+08:00",
+                      "CompletedAt":  "2025-01-16T01:07:53.9818185+08:00"
+                  },
+                  {
+                      "Id":  "f31a6727-ac7a-45bd-930e-70e8c0a11d9d",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:51:31.7551593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2156082d-19bd-4ef9-8d2c-49c342d164d1",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:11:47.7779062+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d66f45cf-b671-4e0f-8cb5-e1e2044d4904",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:57:11.8884539+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2541cb7-4fea-4331-9f26-00fe4ecf904f",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:59:22.0961843+08:00",
+                      "CompletedAt":  "2025-01-21T06:41:47.38274+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

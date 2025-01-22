@@ -1,0 +1,80 @@
+{
+    "Id":  "6ed454b5-0432-4567-a129-0298717b19e6",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T09:33:31.8737726+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e48e29dd-4446-41a8-a03f-22e5c375357c",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8340794Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5122eaf7-9cca-481b-b6db-aaa8fb146f76",
+                      "Name":  "Refined Soft Chicken",
+                      "Quantity":  2,
+                      "Price":  389,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99014339-de40-4a85-b847-331f801cdfac",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  199,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341032Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "278b431e-7f07-465d-ac68-9657d2d61c69",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341049Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73cd0ac7-c709-4764-ad1f-19c39856aefc",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91cb6775-6e11-4804-a63a-645412ac2893",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  15,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341256Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2c681fc-4950-453c-b25c-ff25b4a51803",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8341266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36bc091b-3d4d-4550-a372-fa943bc9f43a",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.834128Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

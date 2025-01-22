@@ -1,0 +1,89 @@
+{
+    "Id":  "297db0e4-4fa8-46e1-9c31-138c4978c6a8",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T11:06:17.6259568+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43925834-76b3-4879-9e80-6160345a7b64",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8303489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd069a34-b091-4ccb-b554-a1a0a13a8d50",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.830355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "384d24ba-9007-47ab-a3cd-6a46ebaf4153",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8303564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa65bdf3-ca55-406e-8cc9-dc8ee963f9bc",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8303576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88f2734e-4698-4bd7-aa4c-3fb7dcb7ebe5",
+                      "Name":  "Ergonomic Soft Chair",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8303971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ecea143-2196-4a0c-afe9-271da96f0770",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.830401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "857a5b7e-c97b-4602-9f9f-77762fc2996b",
+                      "Name":  "Generic Metal Shirt",
+                      "Quantity":  1,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8304082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e9f4bf3-98cb-4a7e-be2b-fd048f3c944e",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8304094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03794e13-4558-4661-820f-5b3e34473a2b",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8304112Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

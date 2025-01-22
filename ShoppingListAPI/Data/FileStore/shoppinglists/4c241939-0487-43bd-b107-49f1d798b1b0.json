@@ -1,0 +1,35 @@
+{
+    "Id":  "4c241939-0487-43bd-b107-49f1d798b1b0",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-15T13:50:35.9718055+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ba26967-52fb-4b2d-a2cb-d2ef682f0ff5",
+                      "Name":  "Licensed Concrete Pants",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5038744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d90aebc-3279-4a3c-b642-a861470a4d63",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.503878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba7ac301-e1ff-4367-be92-dd1800400b13",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5038802Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

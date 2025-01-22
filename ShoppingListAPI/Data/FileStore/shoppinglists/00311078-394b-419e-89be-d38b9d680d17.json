@@ -1,0 +1,44 @@
+{
+    "Id":  "00311078-394b-419e-89be-d38b9d680d17",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-16T07:27:10.456126+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5be54b6-f274-4fe1-9e5f-adaeb9df93b9",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.632781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "978193cd-01cb-46e1-aa7b-2612200e561b",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6327839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96acb63e-cf6d-4478-9bc4-1f628e14f472",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6327847Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "910005d2-83a9-4843-a537-ef8aac682263",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6327859Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

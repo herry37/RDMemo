@@ -1,0 +1,53 @@
+{
+    "Id":  "342925b0-9586-4697-970a-3cabb75598df",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T01:09:40.301953+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0535b6f2-51b1-4ee9-8971-cf482c7b0a95",
+                      "Name":  "Handcrafted Plastic Bike",
+                      "Quantity":  1,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0696636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "700dbe2d-1b79-450c-a42d-cc2c086876a9",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  446,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0696672Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67e5388a-b34b-4827-8c9f-5c6e38ddccd4",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  476,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0696689Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3f3d4cb-07f4-4457-a56f-98e0c3cee55c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0696705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ba9a0d2-d6c9-45c7-8bcc-440e68f169d5",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0696729Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

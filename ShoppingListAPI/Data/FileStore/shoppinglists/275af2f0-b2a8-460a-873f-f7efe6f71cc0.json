@@ -1,0 +1,62 @@
+{
+    "Id":  "275af2f0-b2a8-460a-873f-f7efe6f71cc0",
+    "Title":  "聚會準備 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-17T03:19:01.4344485+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01feb205-4b7f-435f-8b8d-a42461297414",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:58:13.4936797+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63feeddb-414a-45f9-b6b3-37ef91cfb887",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:21:20.327605+08:00",
+                      "CompletedAt":  "2025-01-20T01:03:28.4407903+08:00"
+                  },
+                  {
+                      "Id":  "3732dc33-5f37-4549-8a16-c62c7c031c46",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:20:11.9152675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e57e48f6-1684-4abd-982f-e6e73f8e4b3b",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:31:35.222464+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09de2531-03a4-4d8b-bd50-132f36895ba7",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:33:34.0425824+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afdbfc98-5117-40d7-9b19-6676dd7c6fb7",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:06:28.8764182+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "78eeaa51-d42c-49f5-8725-9d11fb486a3a",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T00:29:42.576085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e4d81023-30f3-4fe0-a294-2a2109585837",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568142Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2ea45b0-de00-42e0-a8ed-773b3ed72db4",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  436,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568197Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85669102-05cf-44c0-9acf-91048847bf91",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a79bd031-18eb-4c92-af4c-b2cdb43ef809",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23e99edc-c748-4c2c-b4cf-ff9834989f07",
+                      "Name":  "Handmade Steel Soap",
+                      "Quantity":  3,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a1a05b8-a32f-4dc1-9d8d-4b860bfc0260",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9568476Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "47b0a608-2845-4858-a492-4dd7decb8c84",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-19T03:50:48.1359255+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2b554011-4347-4ea6-9d85-67957a23a482",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3140844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3c2427d-0ecd-4678-83ba-f384bdf33391",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3140867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ebbcc30-d961-4dd2-9748-5bae8bb5fe91",
+                      "Name":  "Handmade Granite Computer",
+                      "Quantity":  1,
+                      "Price":  358,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3141061Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75a3b846-8567-45c2-8ebd-bceb74487bd7",
+                      "Name":  "Incredible Metal Chair",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3141168Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f7412ad-c9f7-4600-a289-e9984b4e6c0f",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3141179Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

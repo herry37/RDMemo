@@ -1,0 +1,53 @@
+{
+    "Id":  "482ab786-cd49-4d65-b7e0-83c8a4dc9d55",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T04:19:30.9361206+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4eeea1c7-0302-4283-be7b-b215b45519da",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2530553Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f79e68e1-4cbb-496e-90ac-1139ac8d2d3b",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2530595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38a05b4c-1d8b-4ab1-8b43-68ebfe3a8527",
+                      "Name":  "Incredible Cotton Soap",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2530877Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53f61b8b-53e4-4f0c-82bc-c8d07bc44b3b",
+                      "Name":  "Ergonomic Cotton Soap",
+                      "Quantity":  2,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2530946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0bda1d5a-dce1-4505-aa0d-81fbcc16a7eb",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2530962Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "ad41b6b6-4866-49a7-9c7f-60639d233376",
+    "Title":  "聚會準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T09:14:27.4536052+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f5c63ae9-1390-4a3a-a0c7-3f90415b38a7",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:25:23.6680458+08:00",
+                      "CompletedAt":  "2025-01-16T21:08:06.0889115+08:00"
+                  },
+                  {
+                      "Id":  "bd6f8f72-170d-4ed6-87ad-d32353321585",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:36:03.8341375+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9964a760-e6a7-4dca-ba5a-cddec6287759",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:13:20.9308229+08:00",
+                      "CompletedAt":  "2025-01-17T01:43:02.6524339+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

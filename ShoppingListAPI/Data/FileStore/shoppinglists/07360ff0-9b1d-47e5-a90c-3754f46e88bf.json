@@ -1,0 +1,53 @@
+{
+    "Id":  "07360ff0-9b1d-47e5-a90c-3754f46e88bf",
+    "Title":  "01/16 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T04:13:01.6162124+08:00",
+    "Items":  [
+                  {
+                      "Id":  "07095a19-5229-4648-ae70-b6ee77b752d6",
+                      "Name":  "Intelligent Rubber Pants",
+                      "Quantity":  3,
+                      "Price":  427,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.563985Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66332591-12d6-4fd6-83e1-4c6f940b6421",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5639869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b03ab678-e2a6-4fd4-bcca-1e27d36c0e16",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5639876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d3a4064-5787-43c7-ba81-3d2a1c107723",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5639883Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a36261e-ab77-40db-9a7a-5adfbb9d30dd",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.563989Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

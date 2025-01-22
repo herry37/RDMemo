@@ -1,0 +1,98 @@
+{
+    "Id":  "16f1008a-3b86-4f61-a6ca-2467781a5bd8",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T05:03:35.9303319+08:00",
+    "Items":  [
+                  {
+                      "Id":  "90e6f3fe-b772-4eb5-b789-178606aca0de",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6241961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80cff5be-89a5-4579-8a4f-dba9150dd64d",
+                      "Name":  "Generic Granite Bacon",
+                      "Quantity":  1,
+                      "Price":  267,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.624215Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc6f7280-7f8f-4312-9f19-42692c82273d",
+                      "Name":  "Licensed Frozen Salad",
+                      "Quantity":  4,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242173Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26195c48-ef2b-4d58-9778-85a261ac588d",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "706664de-3211-4bce-bc3a-b63c494b33ff",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bde7b64-6908-4d9b-ab34-4e60f9441832",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242217Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d51ec330-2f24-4340-8dae-e68515a0cfc2",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "198b3e3e-3921-43ea-ba92-0165b3cee969",
+                      "Name":  "Gorgeous Frozen Pants",
+                      "Quantity":  1,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242251Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7841a392-1be1-4867-816d-92c21984e27d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.624226Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f42f5a8d-82c7-43be-b957-4842debde5e6",
+                      "Name":  "Sleek Plastic Table",
+                      "Quantity":  4,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6242335Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

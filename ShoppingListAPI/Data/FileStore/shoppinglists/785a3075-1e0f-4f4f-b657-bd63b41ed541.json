@@ -1,0 +1,44 @@
+{
+    "Id":  "785a3075-1e0f-4f4f-b657-bd63b41ed541",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T10:02:47.6691374+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bda49c84-fa4c-45bc-b01c-6396a6676e12",
+                      "Name":  "Fantastic Concrete Chair",
+                      "Quantity":  2,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0538334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7d45eef-80b1-4da8-84a4-187ce478ff08",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0538366Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50a521cb-7a2e-4fb3-929c-3f2866b5ef5c",
+                      "Name":  "Licensed Fresh Shirt",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0538476Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c6bea2a-4b64-443c-97c0-33d3cd3553cf",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0538488Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

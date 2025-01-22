@@ -1,0 +1,80 @@
+{
+    "Id":  "df266386-7b05-4c64-a004-5bd560c1232f",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-21T15:26:16.5246202+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a7ec05f4-fff8-4220-92e2-09b275e7ba84",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:51:34.8719834+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf35e04d-5643-4d4a-8d9c-cd6a0bb942bc",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  90,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:36:29.7286378+08:00",
+                      "CompletedAt":  "2025-01-19T13:09:58.1761393+08:00"
+                  },
+                  {
+                      "Id":  "8a138906-f020-40d6-b99b-13216b52ae3f",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  5,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:46:23.4725333+08:00",
+                      "CompletedAt":  "2025-01-19T10:18:02.2976279+08:00"
+                  },
+                  {
+                      "Id":  "0ff8c261-4f95-4cd4-8210-62c25566655f",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:17:18.9958574+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f70fae04-cdd1-4f4f-9e92-aad911f89ef2",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:04:00.4276654+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d3c5ccf-6684-49a1-a636-fa974b3c6418",
+                      "Name":  "中性筆組",
+                      "Quantity":  4,
+                      "Price":  164,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:51:57.0453547+08:00",
+                      "CompletedAt":  "2025-01-16T20:46:00.9467547+08:00"
+                  },
+                  {
+                      "Id":  "7853b8aa-e5ff-4b61-aa59-5f791f1d8042",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:18:51.0300865+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16f77054-5360-43ba-be5a-0b0c45fdc53a",
+                      "Name":  "放牧蛋",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:13:07.8176225+08:00",
+                      "CompletedAt":  "2025-01-19T02:36:18.9798249+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "71d6973f-2835-4eb1-97f6-3152ad4394b3",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-17T03:22:33.9625577+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1fe18f1e-56ee-4e5e-ae9e-de09b9d474c1",
+                      "Name":  "Rustic Fresh Tuna",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3696812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a845ab1d-ce98-4419-a52d-5a188edffdbe",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3696865Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "536dd33e-b0be-49c5-9b14-2578a864a76e",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  371,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3697126Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42c8c63d-fc11-4633-b979-778666706229",
+                      "Name":  "Rustic Fresh Bike",
+                      "Quantity":  1,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3699725Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

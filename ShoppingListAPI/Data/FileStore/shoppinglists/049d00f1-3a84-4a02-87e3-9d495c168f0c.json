@@ -1,0 +1,53 @@
+{
+    "Id":  "049d00f1-3a84-4a02-87e3-9d495c168f0c",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-18T01:44:29.522865+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f28fea99-e3f2-477e-8d9c-b2ecb9a94277",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1736334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "184bfc02-a9bc-4776-8183-64c229a990a7",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.173639Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "330bb02f-503a-4c93-b4cc-f44ace0803f1",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1736401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "483db4f5-588e-4966-b91d-cf8a01cd1ece",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1736411Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "700a74c9-7c9e-4a09-b478-c9d4e3e6b2a4",
+                      "Name":  "Incredible Steel Towels",
+                      "Quantity":  1,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1736664Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

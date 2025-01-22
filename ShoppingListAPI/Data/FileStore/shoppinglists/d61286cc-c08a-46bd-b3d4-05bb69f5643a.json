@@ -1,0 +1,98 @@
+{
+    "Id":  "d61286cc-c08a-46bd-b3d4-05bb69f5643a",
+    "Title":  "01/18 零食購物清單",
+    "CreatedAt":  "2025-01-18T07:21:10.2654261+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c637f142-3ff5-4df4-a459-f563b3c722d2",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2316715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a79bdf68-beeb-4297-aac9-c97fa9d678b5",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  201,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.231677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e19c9dfa-bbf2-46c2-8a40-17849c33089f",
+                      "Name":  "Fantastic Cotton Fish",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbad9144-d1e6-4350-aa08-f09664b1d344",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42215855-5d00-42cc-94dd-860cbc02ac06",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.231709Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b813ade-d34f-4fbe-90b1-120081e0d42d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd725771-2b47-4c0b-ab32-95332a891c68",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317129Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d81476f-65a0-4a42-afbb-95ca6830e3b9",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab01fdab-ab2e-424a-b007-500794704f54",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  235,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "094b5924-840f-4fc6-b9be-d83a7bf5099f",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  445,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2317169Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

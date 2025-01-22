@@ -1,0 +1,44 @@
+{
+    "Id":  "487bd7e7-4079-49fd-87fa-4e2b33148c13",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-16T17:03:17.8619558+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b901de5-1615-4e35-9c20-04df4e1ca9fc",
+                      "Name":  "Sleek Steel Hat",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1181708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f7a97bc-e9ff-4fa6-914f-bc080494f51c",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1181746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7779b4ca-f53b-44c1-968a-189215d4177a",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1181767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe244693-ce88-417e-a3d5-8085d99763af",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1181789Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

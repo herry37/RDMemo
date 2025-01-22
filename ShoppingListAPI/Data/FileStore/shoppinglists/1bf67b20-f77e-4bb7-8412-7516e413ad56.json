@@ -1,0 +1,98 @@
+{
+    "Id":  "1bf67b20-f77e-4bb7-8412-7516e413ad56",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T19:11:40.8280932+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c029f0aa-820f-435d-92a0-20c61af1b52c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  426,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5622713Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7f3c7f8-4b28-47f0-abb4-1ec18d20c1ed",
+                      "Name":  "Fantastic Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7d58d56-c884-4f39-93f8-dbed13471f2d",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623039Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c6d451b-1f73-4aaa-a9e7-d5d1a92e2e4c",
+                      "Name":  "Refined Granite Gloves",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "190a0ea7-88be-4095-bcac-71102a3128fd",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623113Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd9e6436-88eb-4a3e-9f20-ba1351fe6831",
+                      "Name":  "Fantastic Steel Gloves",
+                      "Quantity":  4,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.562317Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d74554f5-7c4e-4123-8f48-85567b3fc9c2",
+                      "Name":  "Refined Fresh Soap",
+                      "Quantity":  4,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623214Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1295764a-4f77-4359-a8e4-ee5e054d4632",
+                      "Name":  "Generic Wooden Table",
+                      "Quantity":  4,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.562333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2661631-ed63-4ba4-a8e0-5eaef21449d1",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623344Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "025522e8-b632-4828-8765-7f7bb00dc32d",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  387,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5623364Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

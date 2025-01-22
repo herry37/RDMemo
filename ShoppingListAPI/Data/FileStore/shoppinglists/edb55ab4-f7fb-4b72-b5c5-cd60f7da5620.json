@@ -1,0 +1,80 @@
+{
+    "Id":  "edb55ab4-f7fb-4b72-b5c5-cd60f7da5620",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T13:58:19.7383205+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca5db14f-90e2-4173-a54b-fdc290e37a5d",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248163Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "363987a6-c893-49d5-b1a5-79d203e3269c",
+                      "Name":  "Refined Frozen Mouse",
+                      "Quantity":  2,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5fa6d2f-c1d0-404f-b87e-885754ae2877",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248478Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03311494-3804-4674-8ea8-c6a3139c7586",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33c3d3df-11f7-4fa8-ab2d-e9e45bbe60b8",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248518Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f218db84-badc-4e39-ac3a-080d8d16b221",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94bf6308-2f5e-4be5-919b-b53c5ec18a4c",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  375,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68c7dd98-ea40-4598-81f4-9c9597cdab82",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2248617Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

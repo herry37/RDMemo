@@ -1,0 +1,44 @@
+{
+    "Id":  "54b51d91-60c0-4611-bdc5-75d9a0f2e920",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-19T03:19:47.909857+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d5f05d9-12a4-4ac0-a692-8d33f923097f",
+                      "Name":  "護手霜",
+                      "Quantity":  7,
+                      "Price":  17.2449387367096390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:54:51.9515358+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2a0b6fb-77a0-4fcc-81b2-28db801a3952",
+                      "Name":  "可樂",
+                      "Quantity":  5,
+                      "Price":  103.587753332718190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:24:54.2460392+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b9cbb06-cf04-4f54-b95e-2945230357db",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  128.26532955866160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:52:19.4956789+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31e2d297-ec01-4ad2-adc2-f9796d62f663",
+                      "Name":  "相框",
+                      "Quantity":  10,
+                      "Price":  291.353744577236030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:33:30.813213+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

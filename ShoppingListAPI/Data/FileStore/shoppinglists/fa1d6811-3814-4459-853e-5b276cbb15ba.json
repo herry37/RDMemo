@@ -1,0 +1,44 @@
+{
+    "Id":  "fa1d6811-3814-4459-853e-5b276cbb15ba",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-14T14:47:51.5633858+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b22becae-01bb-4fb4-9452-13f53aade7b3",
+                      "Name":  "巧克力",
+                      "Quantity":  10,
+                      "Price":  462.62719762892590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:00:43.3972679+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b42d206a-7b73-460c-9634-6c6573fe24a2",
+                      "Name":  "剪刀",
+                      "Quantity":  6,
+                      "Price":  118.111730372843260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:43:12.6930395+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7ee7b60-c7d4-45c5-8476-408bd12086ea",
+                      "Name":  "防曬乳",
+                      "Quantity":  9,
+                      "Price":  333.923328911143920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:18:51.6084897+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e7362f2-7c6a-4de5-a8ae-1829ed33c605",
+                      "Name":  "尺",
+                      "Quantity":  9,
+                      "Price":  309.168967083092260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:58:48.9881331+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

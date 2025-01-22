@@ -1,0 +1,62 @@
+{
+    "Id":  "8501b438-a27d-4ae0-9cc4-2a6c53673322",
+    "Title":  "01/15 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T23:29:58.6230055+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6567ffd0-1cf7-43cc-a66a-efa07cb41476",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7018008Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "054e9575-1e58-4622-9e0f-9167a0ecbdf4",
+                      "Name":  "Sleek Soft Shirt",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.701811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb9fd295-86ec-4fd6-ab3e-422b10b46109",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7018119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "147cb922-961a-44eb-9fa8-615ce27d0ab6",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7018128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c9b1a42-f23d-4a34-a14a-fc952bda2cc2",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7018975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfde7d35-8c0f-4ad9-9ba1-38061f98a893",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7018995Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

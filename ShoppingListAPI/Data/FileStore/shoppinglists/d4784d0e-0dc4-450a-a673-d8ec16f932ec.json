@@ -1,0 +1,80 @@
+{
+    "Id":  "d4784d0e-0dc4-450a-a673-d8ec16f932ec",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T05:02:49.2029543+08:00",
+    "Items":  [
+                  {
+                      "Id":  "91eabe1e-7781-491d-8e65-5e2d8b38d215",
+                      "Name":  "抹布",
+                      "Quantity":  10,
+                      "Price":  238.871762038683260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:48:07.973134+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7d4f15a-2673-4486-969f-a53372b15aa9",
+                      "Name":  "蛋",
+                      "Quantity":  10,
+                      "Price":  52.5213066987547580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:24:08.4975972+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64600840-8ddd-4d52-ac89-1cf64c772e54",
+                      "Name":  "洗髮精",
+                      "Quantity":  7,
+                      "Price":  324.308340646014190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:39:30.3168504+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "545af3ff-d9c7-4df5-bd08-88ed2d9ebcc6",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  190.951289555344350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:08:13.9746299+08:00",
+                      "CompletedAt":  "2025-01-22T06:27:30.5014576+08:00"
+                  },
+                  {
+                      "Id":  "e6d1c303-3cef-4361-bd90-2065f3f570f3",
+                      "Name":  "盤子",
+                      "Quantity":  2,
+                      "Price":  164.28007903576380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:31:26.0762865+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "806b09b1-8edb-4f6f-8b9d-59868d86145a",
+                      "Name":  "雞肉",
+                      "Quantity":  10,
+                      "Price":  139.069904572143710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:45:35.4444821+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba25f098-b1e9-46ad-872e-fbc4b4fe838b",
+                      "Name":  "除霉劑",
+                      "Quantity":  4,
+                      "Price":  101.976730090745080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:01:53.369331+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1891f8bc-e548-4b91-94c5-474bb01538e5",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  431.548152060412020,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:21:46.118579+08:00",
+                      "CompletedAt":  "2025-01-16T13:43:07.4543312+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

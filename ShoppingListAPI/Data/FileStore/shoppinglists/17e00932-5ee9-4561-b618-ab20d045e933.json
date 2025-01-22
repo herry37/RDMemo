@@ -1,0 +1,44 @@
+{
+    "Id":  "17e00932-5ee9-4561-b618-ab20d045e933",
+    "Title":  "緊急採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T05:04:08.6935144+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85d2d882-57fa-4b60-aa23-7fb7d7a4b335",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  94,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:35:03.0667849+08:00",
+                      "CompletedAt":  "2025-01-19T21:57:07.9436906+08:00"
+                  },
+                  {
+                      "Id":  "fcdad282-ab8b-43d4-b257-e78a29572e20",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:09:16.8175244+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0c2b86e-01bd-463a-aa12-01d6e9ebb34e",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:44:55.9626068+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ba4aa9d-57ba-49bc-b06d-75b6aa0fc9d5",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:05:54.3098458+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

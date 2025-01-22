@@ -1,0 +1,89 @@
+{
+    "Id":  "c0f11170-d8d2-4dcc-be9c-39c0c4cfe024",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T04:31:13.4784088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a5b3dc96-5b32-4254-ad8a-f551b06c3f2a",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.497894Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c669f24f-d408-4c3d-87c6-453b7c41c457",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4979002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fec51733-9546-44de-a9da-e97243eede8a",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4979022Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32408d74-2ef1-433e-9b7a-2704fd7af33a",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4979044Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b6a22f2-7209-4c6b-bbf8-15c75b7b566b",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4979066Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5facfe0-e08d-4044-802c-cb0a6de412cd",
+                      "Name":  "Ergonomic Cotton Salad",
+                      "Quantity":  2,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4979497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c99b027c-7afb-4908-ae19-e91f5ffeffef",
+                      "Name":  "Incredible Concrete Shirt",
+                      "Quantity":  4,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4980928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2bc2cff5-0d4d-4320-8472-e420f2445224",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4980956Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8256560c-8f09-4294-a6b6-494b6818f9a5",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.498098Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

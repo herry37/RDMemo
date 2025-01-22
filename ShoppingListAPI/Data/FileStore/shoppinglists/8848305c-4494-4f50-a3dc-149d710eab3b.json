@@ -1,0 +1,44 @@
+{
+    "Id":  "8848305c-4494-4f50-a3dc-149d710eab3b",
+    "Title":  "居家整理 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-20T14:15:41.8195464+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45be5105-a12d-47fc-91a3-d3e040251ca1",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:04:34.6839296+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67b23215-1070-4acb-86c4-9417ac171fef",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  2,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:55:38.6787153+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2827874-bd55-4c6c-96b7-53df0d4d459f",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:06:18.0999093+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9931aaee-2975-4a4b-9d7e-b39b61874f4c",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  3,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:49:38.7239683+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

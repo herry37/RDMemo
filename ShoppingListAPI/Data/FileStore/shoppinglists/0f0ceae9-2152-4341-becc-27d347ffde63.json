@@ -1,0 +1,98 @@
+{
+    "Id":  "0f0ceae9-2152-4341-becc-27d347ffde63",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T01:50:44.0699585+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8d62361b-d2a6-4579-8e09-a056531b4d11",
+                      "Name":  "Handcrafted Cotton Soap",
+                      "Quantity":  2,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561286Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57922c3e-dc09-4b19-9141-fdb77a7b1ef5",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "389d273b-aac7-4d4f-8e72-ba617ca08f0b",
+                      "Name":  "Licensed Metal Ball",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561426Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "699e9e7e-6849-4c38-9761-980cdf384f27",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561447Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c2915f9-26d2-40a3-ba23-58501d08cd6d",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561466Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdacefe2-6caa-41a5-825a-a9cb9c1ad4f6",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.55615Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "834d99b8-ee8d-457f-b50d-614d8674e080",
+                      "Name":  "Sleek Frozen Table",
+                      "Quantity":  3,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561567Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec904afb-ea26-4833-b711-16583522aa7a",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90fd58bd-17e2-48dc-ad33-72d44118b78a",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.55616Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5dfb5619-7ff6-40ef-ac5e-9c93a278c1e7",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5561627Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

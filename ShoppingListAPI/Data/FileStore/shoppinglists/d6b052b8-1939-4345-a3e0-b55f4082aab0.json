@@ -1,0 +1,35 @@
+{
+    "Id":  "d6b052b8-1939-4345-a3e0-b55f4082aab0",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T19:31:03.5020444+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9e9bbf54-7e8e-450f-b63b-47ab451bc484",
+                      "Name":  "口香糖",
+                      "Quantity":  8,
+                      "Price":  316.381074301278130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:48:18.5325497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3f5ab56-b72c-43cb-a5d7-436c0f2822eb",
+                      "Name":  "洋芋片",
+                      "Quantity":  10,
+                      "Price":  435.391789485305650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T15:28:03.812175+08:00",
+                      "CompletedAt":  "2025-01-15T04:06:45.6398751+08:00"
+                  },
+                  {
+                      "Id":  "c13bc0c3-77b7-4ea0-9f45-d542314cf671",
+                      "Name":  "尺",
+                      "Quantity":  10,
+                      "Price":  160.622922970997260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:19:45.151915+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

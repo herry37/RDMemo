@@ -1,0 +1,35 @@
+{
+    "Id":  "1474023b-1aa0-4c48-9995-2efab4fb4b4a",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T11:27:30.5872126+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b3ad2846-3054-474c-8d90-4ea479ddee1e",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2146715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c053d835-3bb1-4ccf-800c-a22f893f3969",
+                      "Name":  "Ergonomic Frozen Shoes",
+                      "Quantity":  5,
+                      "Price":  324,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2147029Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a848cb97-9bc6-4da7-8e3d-4da9dcd72ab4",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  471,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2147046Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

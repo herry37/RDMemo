@@ -1,0 +1,62 @@
+{
+    "Id":  "bafe43a2-1423-4092-815c-30e3a51326f8",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-14T19:18:28.6229361+08:00",
+    "Items":  [
+                  {
+                      "Id":  "375cd351-2495-48d7-b795-ea0714bf1400",
+                      "Name":  "果汁",
+                      "Quantity":  9,
+                      "Price":  333.159418666473690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:50:30.7906829+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9661f069-1107-4f27-8b5b-de3f0f6f18bc",
+                      "Name":  "運動飲料",
+                      "Quantity":  9,
+                      "Price":  469.762096019179730,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:19:44.5216482+08:00",
+                      "CompletedAt":  "2025-01-16T06:09:56.8361196+08:00"
+                  },
+                  {
+                      "Id":  "edd43283-7741-42f7-a472-e463386744a4",
+                      "Name":  "杯子",
+                      "Quantity":  3,
+                      "Price":  313.158632473019680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:46:43.5592679+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f9e8064-a8d9-4777-b51b-90f810e00787",
+                      "Name":  "咖啡",
+                      "Quantity":  6,
+                      "Price":  292.686912757150230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T17:33:45.3967063+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f0d6f28-65c7-40fa-85a6-383dd8550aa8",
+                      "Name":  "牛奶",
+                      "Quantity":  10,
+                      "Price":  233.869084276732860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:20:07.0700089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "adc34c53-5d13-43f3-863d-9d60f956843f",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  8,
+                      "Price":  340.044801978674580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:18:35.0759723+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

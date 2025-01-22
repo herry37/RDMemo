@@ -1,0 +1,89 @@
+{
+    "Id":  "f336460d-0533-4b12-ba52-154332563e7e",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T08:01:20.3897195+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d35231f9-ba16-4898-aee7-242d7af747e1",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6603284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9ad78f0-6ee3-496f-a340-880243f32061",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6603367Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93b27a5a-93c9-46c1-9ee0-bea19f7fe1da",
+                      "Name":  "Unbranded Metal Chips",
+                      "Quantity":  2,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6603773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0db3fcaa-08d7-4f31-b1e8-6cb664612667",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.660379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a22d011-3c95-4f08-b6be-9e2c6f0d42c0",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  398,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6604138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c81f01a-9f93-407d-a62f-c3878940e853",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.660421Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6e28b68-fb00-4aac-99e7-72ec2de0ab7c",
+                      "Name":  "Tasty Metal Gloves",
+                      "Quantity":  1,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6604335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0332a3b1-1337-4725-bb05-9af918eeb01c",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6604347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a5f412c-b7b9-414b-8896-1edc95b5620e",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6604359Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

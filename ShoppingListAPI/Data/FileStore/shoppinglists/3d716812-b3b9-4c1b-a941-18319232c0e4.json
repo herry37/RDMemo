@@ -1,0 +1,44 @@
+{
+    "Id":  "3d716812-b3b9-4c1b-a941-18319232c0e4",
+    "Title":  "露營準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T15:18:41.9529579+08:00",
+    "Items":  [
+                  {
+                      "Id":  "867504bd-89db-4b83-9de9-7ec0aaf1c5ed",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:17:36.2379492+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f975db72-038d-461a-b53e-293015b8817d",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:47:40.4391709+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5208d9b-0199-4331-a0f5-20f5d2e98ad9",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T23:03:21.4328932+08:00",
+                      "CompletedAt":  "2025-01-16T06:03:48.9094603+08:00"
+                  },
+                  {
+                      "Id":  "1b8cc1e9-e242-4d0f-8bb5-f916414c25e5",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:40:02.5049653+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "6dfc52c1-f3bb-407b-ba08-0b103448abee",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-17T19:15:26.179531+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ddfc947-c042-410d-8643-19f28ba1afb7",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8142051Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac84540e-d15e-48b3-9563-9a56bd9d9e38",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.814209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34bc9150-755d-46cc-87bf-b4131a81f5fc",
+                      "Name":  "Ergonomic Wooden Shoes",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.814233Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

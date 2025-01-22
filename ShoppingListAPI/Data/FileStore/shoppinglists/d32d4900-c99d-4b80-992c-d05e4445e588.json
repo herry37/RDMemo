@@ -1,0 +1,53 @@
+{
+    "Id":  "d32d4900-c99d-4b80-992c-d05e4445e588",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T07:35:58.5452143+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cba463a8-59fd-4c0c-9037-bbfe2dbcedd0",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5232324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6417ef0c-84da-44f9-9d52-3cd2efa2dd13",
+                      "Name":  "Awesome Rubber Chicken",
+                      "Quantity":  2,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5232578Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e626e062-cdf4-4cde-9295-9c3c8a498f8a",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5232591Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f212cfe-11ea-4ca4-aa10-a02aad4d1421",
+                      "Name":  "Rustic Concrete Pants",
+                      "Quantity":  4,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5232633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52a0abf9-4f65-468e-af9f-7f9312acb5b6",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5232649Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

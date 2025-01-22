@@ -1,0 +1,35 @@
+{
+    "Id":  "c0bb9c34-378d-4fb9-818d-d5c3697f3205",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T17:42:34.3242158+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e13b144-e41e-412b-b4f7-e97193c77af4",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5427931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a91e317-206a-47dd-b9c5-671dd08cb2c3",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5427977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2653499-7e0e-46ad-8868-b0be522bcef7",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5427992Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

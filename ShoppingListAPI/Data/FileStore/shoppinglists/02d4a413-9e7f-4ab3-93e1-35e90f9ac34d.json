@@ -1,0 +1,89 @@
+{
+    "Id":  "02d4a413-9e7f-4ab3-93e1-35e90f9ac34d",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T19:14:27.248216+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d35c7068-f6d2-4886-88b0-6ecac0a99af9",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b3b8ebd-88ad-47b2-98f9-ec9f12a56399",
+                      "Name":  "Intelligent Wooden Bike",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75dde425-ed5b-42d1-b216-bae0128acb32",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095473Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35ceaeff-dfc9-4324-b3ff-32e9db25377b",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e88ec46a-12fe-46f4-bda0-546b7674171e",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d70231b0-43e9-414b-82db-b0823479a10f",
+                      "Name":  "Generic Granite Salad",
+                      "Quantity":  4,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.209559Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c3f6e8b-1488-4ea7-b58c-78f214944dd4",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.209561Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b0deb7c-49cc-41ae-9220-9a588f85498f",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095633Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3b01cce-9363-43c9-8d48-d1c990ba9144",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2095657Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

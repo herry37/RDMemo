@@ -1,0 +1,35 @@
+{
+    "Id":  "493e0522-9cc2-4cff-afd0-1997ef9768ff",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T23:37:03.5650356+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a7ef23d-e422-46e1-b2f9-12faad327240",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1579088Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2ac8bb6-7cc2-4080-bcc0-cb6a4cb2ae40",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1579127Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5223f30-59a3-4566-8618-13eb9522d398",
+                      "Name":  "Licensed Metal Cheese",
+                      "Quantity":  1,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1579336Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

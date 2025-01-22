@@ -1,0 +1,80 @@
+{
+    "Id":  "d9523a68-e214-43cb-bf8c-05917f151425",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-21T07:42:41.3260264+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bdd75e3a-e356-423a-8f4c-1d4dfe7f9a4d",
+                      "Name":  "尺",
+                      "Quantity":  9,
+                      "Price":  51.719121381072450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:13:26.5488781+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f2fd699-cccb-4845-9130-8c8e7adc4831",
+                      "Name":  "剪刀",
+                      "Quantity":  1,
+                      "Price":  185.650031355336650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:49:33.8617322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe88375c-8d4c-4c12-82ab-5a8e1eaa1d0f",
+                      "Name":  "訂書機",
+                      "Quantity":  2,
+                      "Price":  212.275258042976020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:04:14.7781473+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1272f100-75b0-4eb8-a30a-e5e7938ba7e4",
+                      "Name":  "堅果",
+                      "Quantity":  7,
+                      "Price":  339.823148364988040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:36:02.5150889+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f255be4-50c9-42b5-a6c0-653db69e9148",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  358.329038563608270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:00:48.5084292+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed0fb5a3-4120-4458-b851-e9291fe476a4",
+                      "Name":  "巧克力",
+                      "Quantity":  9,
+                      "Price":  355.86799379308680,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T18:05:19.3703377+08:00",
+                      "CompletedAt":  "2025-01-16T10:59:31.1957695+08:00"
+                  },
+                  {
+                      "Id":  "7ccc6867-e46e-4504-975e-0dde6a2d1f94",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  467.955817517527070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:08:56.342729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53ec6430-0092-4673-a85b-a1522cc4f1ce",
+                      "Name":  "杯子",
+                      "Quantity":  8,
+                      "Price":  241.440264994536290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:34:00.0738843+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

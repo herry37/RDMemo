@@ -1,0 +1,80 @@
+{
+    "Id":  "ceb698fe-c533-4fb8-9d0e-7a247ed7fb02",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-21T09:12:58.9662211+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6f2fc4a-da4b-481e-b23b-57e41dab7d95",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0110ff8e-5e5b-4cc7-8e39-488992fe7be9",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9463afeb-87e8-4eec-aecc-2ce205b45694",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989473Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b12043e1-53bd-477d-9414-397ca18c0d27",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fef609cd-c210-4b56-a0bf-e39a41480730",
+                      "Name":  "Practical Metal Salad",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fafd2c50-dff7-4e91-88d1-bc01fff7bbab",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31f8b76e-dcee-42e9-9798-9bb111bedf0d",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.998979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cb878ed-2a04-42e0-a1ec-3302aff4abd0",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  158,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9989812Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

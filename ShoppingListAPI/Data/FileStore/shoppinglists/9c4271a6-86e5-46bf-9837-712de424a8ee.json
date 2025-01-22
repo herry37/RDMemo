@@ -1,0 +1,80 @@
+{
+    "Id":  "9c4271a6-86e5-46bf-9837-712de424a8ee",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T05:24:52.7022167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a3647155-e8c3-479f-9386-3634982e2204",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2b219f3-ecf4-4ca1-9f93-549e709e5efa",
+                      "Name":  "Small Wooden Bacon",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395457Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1aae3086-3158-4f16-b178-9c8e56b024ae",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  401,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395489Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcc1e7c1-b536-4c26-8ec3-32d838f10600",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395504Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4573b385-c9ab-410a-ba7f-f3eb0e641592",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d183d65b-675a-47da-bb25-9074d67b1c5b",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fac5a9c5-611c-476d-9141-7ab96193fdba",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "148d76c1-9d3f-41ff-a093-b6809bd748bd",
+                      "Name":  "Handmade Steel Cheese",
+                      "Quantity":  5,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3395757Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

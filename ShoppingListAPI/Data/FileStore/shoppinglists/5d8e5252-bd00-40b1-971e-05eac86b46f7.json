@@ -1,0 +1,35 @@
+{
+    "Id":  "5d8e5252-bd00-40b1-971e-05eac86b46f7",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T04:37:22.2821168+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4b763d0-82aa-40d7-a9c4-976148c4ac9b",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:21:48.7439136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe50fcf9-edbf-456d-8090-1209cc3dfcac",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:45:52.9602979+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc7a8835-a0b9-4b62-8c68-b17d65c52fbe",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:26:22.2769918+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

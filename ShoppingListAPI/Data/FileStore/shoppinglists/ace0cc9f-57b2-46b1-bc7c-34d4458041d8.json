@@ -1,0 +1,89 @@
+{
+    "Id":  "ace0cc9f-57b2-46b1-bc7c-34d4458041d8",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T21:02:22.987051+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6599bb32-f3b9-4fbd-889a-d27170dc6d4d",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2120cac-7a83-47f2-ac1d-1127682b36f8",
+                      "Name":  "Ergonomic Granite Shoes",
+                      "Quantity":  4,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75259517-5693-48a4-b7ac-26c6ac3fa698",
+                      "Name":  "Incredible Concrete Chips",
+                      "Quantity":  4,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63d51032-2ab8-4db1-bc31-e415395f140d",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "739f1abf-c54c-48d7-8100-2b70b8960fd7",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddad0589-f973-488e-95e7-fe82286ff4cc",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "177254d4-5c0d-4974-9058-c98dd4d0e7d6",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  13,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253387Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a55efd76-d758-4256-9195-e3a67793e3f4",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  484,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253398Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b779fcb4-c656-40d5-9ff8-7c34a580c036",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5253411Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

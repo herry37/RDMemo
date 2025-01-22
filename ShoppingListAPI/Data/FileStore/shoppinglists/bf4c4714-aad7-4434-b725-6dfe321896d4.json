@@ -1,0 +1,53 @@
+{
+    "Id":  "bf4c4714-aad7-4434-b725-6dfe321896d4",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T20:29:03.3233676+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c21f3e7a-53d3-4f09-b695-f483f4b939d0",
+                      "Name":  "清潔手套",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:05:33.4919031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa12b824-cbf5-4c7a-8d4c-5cb0574c988d",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T21:11:52.7667339+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2df89d85-7df3-49ba-892b-0d33e8959bd1",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:11:15.6502633+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44cd291c-9629-4055-92f5-ef48286fc89d",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:00:56.0724692+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f3d29d2-9c96-4355-9460-640fa78ad280",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:54:43.7433126+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

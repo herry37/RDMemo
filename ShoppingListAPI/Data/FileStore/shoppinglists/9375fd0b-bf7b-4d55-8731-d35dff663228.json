@@ -1,0 +1,98 @@
+{
+    "Id":  "9375fd0b-bf7b-4d55-8731-d35dff663228",
+    "Title":  "01/17 零食採買清單",
+    "CreatedAt":  "2025-01-20T21:52:36.3339371+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d252dda9-f592-406f-8661-136363ff73f0",
+                      "Name":  "Gorgeous Granite Bacon",
+                      "Quantity":  3,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2448921Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74e362ab-3db7-461a-8e02-0b95c03a5f69",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  440,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2448943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2231e15e-b57f-4f49-840b-10c6c8f3c992",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2448952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67a825d7-df15-4c6d-ae44-544ca933cb27",
+                      "Name":  "Incredible Granite Ball",
+                      "Quantity":  5,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2448971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4cdd5dd-c618-4fa1-84da-fda06dae13e1",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.244898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01bf6b92-eb0a-4081-b6c7-4788f9a3a768",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2448996Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e62ee55-65ea-4528-bbb6-1878790ce4d6",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2449004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd8bcece-7a3e-4077-b3d2-97a87327dc10",
+                      "Name":  "Gorgeous Wooden Gloves",
+                      "Quantity":  4,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2449021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f08dce64-64cb-4426-baef-1ca76a1645a8",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2449028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb9d3944-7d7f-4af3-bf0f-677d0089265c",
+                      "Name":  "Ergonomic Fresh Towels",
+                      "Quantity":  1,
+                      "Price":  462,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.244905Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

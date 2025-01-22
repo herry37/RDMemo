@@ -1,0 +1,35 @@
+{
+    "Id":  "de16e6d0-50b5-4bd9-b28e-4d4b288a078f",
+    "Title":  "居家整理 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T05:26:54.567788+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da06a5d3-0f41-46df-a799-8c76d56bc5e9",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:11:09.5630864+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9117ec9-5dad-4011-ba9b-f9c9900fbc00",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:41:34.0307004+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22a755c0-3d23-42ce-93b7-ffb6889a459b",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:08:27.1091029+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

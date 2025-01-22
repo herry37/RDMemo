@@ -1,0 +1,44 @@
+{
+    "Id":  "b186a671-b078-40ae-9b16-4ad022fb4193",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T07:46:21.6991865+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2a3c81e2-8215-43dc-81ae-294266978f59",
+                      "Name":  "Gorgeous Steel Chips",
+                      "Quantity":  1,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4145989Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a73fa3d-30ba-4d6d-9cdc-0c64cf489129",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4146023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58a19c87-e6a3-4efe-a0e3-1dc0cb7776aa",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4146056Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3f99c44-84f4-4d80-8a45-63f2c1689612",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4146065Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

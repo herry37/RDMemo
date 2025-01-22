@@ -1,0 +1,44 @@
+{
+    "Id":  "07872313-60db-4588-8f39-7fd6b1bacb70",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T16:01:10.3166899+08:00",
+    "Items":  [
+                  {
+                      "Id":  "48818414-f00c-48aa-83af-6206214c44a9",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  24,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4167075Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fff1ea7d-cb8a-46ed-a4a4-f3fae8d32acb",
+                      "Name":  "Licensed Soft Chicken",
+                      "Quantity":  3,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4167651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "929646cd-f8ea-4bac-ba87-89191d557568",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.4167691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "388a05c5-be44-47d6-a261-db8c9e7f62e0",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.4167701Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

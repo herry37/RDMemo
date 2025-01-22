@@ -1,0 +1,71 @@
+{
+    "Id":  "099dfd5f-6b4c-48e2-8c68-fc56cf1f1abb",
+    "Title":  "月底大採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-19T21:06:41.7658256+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f6da5b1-03b9-4bdc-b45c-38ef904003c2",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:42:31.7671407+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e646169d-3611-43de-87ec-dc36d93972b3",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:10:15.3240258+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4edca2fb-7a71-497a-816b-da99d8c67a25",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:35:02.887514+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b160f3e-32c7-4702-bbe5-f199f0864d58",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  4,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:11:37.6258764+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "024a240b-0f61-49a1-8697-692372f4bee1",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:55:44.4674101+08:00",
+                      "CompletedAt":  "2025-01-21T00:50:20.7897517+08:00"
+                  },
+                  {
+                      "Id":  "044c1fa3-aab1-4b72-a855-f5622e44a010",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:54:24.8038106+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a2a54ec-afca-47c2-8601-79c7f25e9a52",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:39:08.4451829+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

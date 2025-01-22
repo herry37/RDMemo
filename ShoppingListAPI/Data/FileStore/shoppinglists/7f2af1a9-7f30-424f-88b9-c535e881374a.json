@@ -1,0 +1,80 @@
+{
+    "Id":  "7f2af1a9-7f30-424f-88b9-c535e881374a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-16T10:11:45.6216395+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c8d656f3-2bb2-4c95-b8b7-3d0b6ab93e9d",
+                      "Name":  "茶",
+                      "Quantity":  7,
+                      "Price":  221.820146609196440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:59:39.9967656+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "433df0c9-d6c8-424e-bcb5-3e7c4e2aa843",
+                      "Name":  "雞肉",
+                      "Quantity":  8,
+                      "Price":  63.863496604865150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:50:03.1715929+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0838ce2-189b-4d07-aff7-3a60cfc8c7b3",
+                      "Name":  "雞肉",
+                      "Quantity":  4,
+                      "Price":  451.487864526573340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:05:04.8423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "187c8e90-930a-4e44-bdfa-fd385e670697",
+                      "Name":  "相框",
+                      "Quantity":  6,
+                      "Price":  318.78819992987610,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T03:39:32.9113498+08:00",
+                      "CompletedAt":  "2025-01-22T01:19:16.3877718+08:00"
+                  },
+                  {
+                      "Id":  "63c19218-4d20-4b40-a5d1-9014343cd193",
+                      "Name":  "棉被",
+                      "Quantity":  2,
+                      "Price":  476.456076032153760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:02:15.3553145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da1397cf-d6eb-4903-98a1-ef1bdb2b2569",
+                      "Name":  "糖果",
+                      "Quantity":  6,
+                      "Price":  336.571158348213030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:10:43.0781651+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6179c44-4e76-4c9b-a4b4-3a3fe996eeb4",
+                      "Name":  "漂白水",
+                      "Quantity":  7,
+                      "Price":  375.709075725714910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:02:22.1698271+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48c6c0d8-7aa9-4eb8-815c-002e2893d130",
+                      "Name":  "堅果",
+                      "Quantity":  7,
+                      "Price":  356.153665799566240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:31:35.8130848+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

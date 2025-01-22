@@ -1,0 +1,35 @@
+{
+    "Id":  "d5e5dd3e-e939-4338-9176-13c8fc682702",
+    "Title":  "聚會準備 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-18T19:11:56.5847144+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f65a205b-bf52-419c-919f-5800a4c0c195",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:15:59.3218892+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8504473b-a43b-44b5-a8da-f710cf1d1044",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:29:36.4031635+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b42bd6db-1421-47d3-99f4-ac072b9f6c13",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:48:43.6064+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

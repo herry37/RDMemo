@@ -1,0 +1,71 @@
+{
+    "Id":  "9114ba73-32d2-41ba-ae62-28bbf6ace3f4",
+    "Title":  "日常補充 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-20T17:26:02.6879933+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b9b64ae-9e6a-4ebf-8f9e-de092a7351f8",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:32:40.0195438+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fea634ee-a30f-413d-ab7e-a9ae4031c38e",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:00:06.4822679+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45000fea-e063-43a1-86ec-3ca589be768b",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:18:28.1628734+08:00",
+                      "CompletedAt":  "2025-01-20T23:48:03.4237855+08:00"
+                  },
+                  {
+                      "Id":  "8a547e27-ccee-4eb4-86c9-febd209e8719",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:43:22.9890843+08:00",
+                      "CompletedAt":  "2025-01-15T20:45:01.3468947+08:00"
+                  },
+                  {
+                      "Id":  "92bc7732-8492-48d9-abd2-c6920a12deeb",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T01:21:15.5846336+08:00",
+                      "CompletedAt":  "2025-01-16T18:36:01.2197228+08:00"
+                  },
+                  {
+                      "Id":  "fa0f4341-e761-4ad7-a64a-c69d86cbf4d4",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  242,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:10:00.8649556+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "969aa7cc-b7d7-43a6-836d-d125e7190ff8",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:40:48.6024514+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

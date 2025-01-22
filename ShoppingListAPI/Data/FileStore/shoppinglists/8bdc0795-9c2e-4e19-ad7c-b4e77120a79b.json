@@ -1,0 +1,44 @@
+{
+    "Id":  "8bdc0795-9c2e-4e19-ad7c-b4e77120a79b",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-17T19:48:35.1766354+08:00",
+    "Items":  [
+                  {
+                      "Id":  "839e93e0-3a1d-4060-aedb-4a8b8b36e52c",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  59.414973168645560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:13:31.9735911+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ecda8c8b-1fa4-404e-93b1-bd295aae0546",
+                      "Name":  "除霉劑",
+                      "Quantity":  8,
+                      "Price":  162.894856034419590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:50:16.4807558+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "354e7b6d-43b0-4b08-9370-43b186b837a3",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  325.789811833928880,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:11:38.6835324+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8dfdf70-fa6a-438a-aef5-873ec7c2b5e5",
+                      "Name":  "面紙",
+                      "Quantity":  8,
+                      "Price":  16.0595465890027040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:26:35.6368842+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

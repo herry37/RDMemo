@@ -1,0 +1,98 @@
+{
+    "Id":  "dfc5289d-6fd5-40c3-9533-6cf3f820d165",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T01:44:56.519889+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6407cd16-3c5e-45b9-8383-22874a1308e7",
+                      "Name":  "Ergonomic Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166727Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4494811e-f54f-438d-abdd-55921fbb53d6",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53637426-8642-4d77-bdc4-f37afe83310e",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166779Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a059f75e-b700-4371-8f32-a23aa600e2ba",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2c83e63-b4f6-44d4-9d3a-4a99cc70d0be",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccf83885-d319-41da-b367-845995bb757c",
+                      "Name":  "Gorgeous Soft Bike",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9166871Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3c9fc34-6add-43ae-ab5d-5481ce77da03",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  176,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.916688Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc70d576-b45e-4b25-a739-43d390cff52f",
+                      "Name":  "Awesome Cotton Pants",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9167151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3347d7a8-9df9-4c14-ad95-89de3e27d94a",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9167161Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a2c3285-ccfc-4a4e-85e4-eb80ba8d9a13",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9167183Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

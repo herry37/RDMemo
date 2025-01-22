@@ -1,0 +1,71 @@
+{
+    "Id":  "859473af-2d09-41b8-8a91-1dd2e1f6a18b",
+    "Title":  "緊急採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T12:50:56.4966411+08:00",
+    "Items":  [
+                  {
+                      "Id":  "382d729a-7194-46f9-8e6e-ebdb33f43727",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:50:57.2712498+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "474cb657-9bde-4316-93ba-0097e44247ce",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:42:23.6137727+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d398436a-4d36-4411-87a9-ff8a337a595c",
+                      "Name":  "清潔手套",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:17:47.5223083+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6d484ca-bac9-4a1b-ae6e-6a9b0bc7c556",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:24:51.963676+08:00",
+                      "CompletedAt":  "2025-01-17T21:37:52.8216692+08:00"
+                  },
+                  {
+                      "Id":  "29626faa-5629-4703-b4a4-24ae9a51a72b",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:40:06.2343607+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c68c6a13-b4a9-41a7-8171-c4ad8f2b472d",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  58,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:13:40.0273457+08:00",
+                      "CompletedAt":  "2025-01-20T02:43:13.8100182+08:00"
+                  },
+                  {
+                      "Id":  "4e3750aa-cdbd-4f05-934d-57cb3724a689",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:36:12.798774+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

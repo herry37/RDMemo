@@ -1,0 +1,71 @@
+{
+    "Id":  "a4d89de6-1508-415a-bd47-4a976d08667b",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T13:59:25.7836429+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1dcf3d8e-e2e2-4a96-a721-a100a33ff370",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491212Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab52c0ca-3636-44f6-827e-64919bd62ed5",
+                      "Name":  "Gorgeous Fresh Keyboard",
+                      "Quantity":  1,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.449128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa8f496f-38fd-4160-b751-ef541c42c3ae",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ceec7bf-c470-43dd-9e11-9a05ac8b009d",
+                      "Name":  "Gorgeous Plastic Cheese",
+                      "Quantity":  5,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aec68cdc-0b48-41c2-9196-c297ade0fac3",
+                      "Name":  "Refined Cotton Chips",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491348Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ace7d4eb-fb46-4cb7-b346-e5466dc8d60c",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ede7581d-1094-4139-b05b-6fceff4ab7bd",
+                      "Name":  "Refined Metal Tuna",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4491381Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

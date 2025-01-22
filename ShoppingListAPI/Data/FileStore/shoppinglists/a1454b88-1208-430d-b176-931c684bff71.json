@@ -1,0 +1,53 @@
+{
+    "Id":  "a1454b88-1208-430d-b176-931c684bff71",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-18T14:44:35.793772+08:00",
+    "Items":  [
+                  {
+                      "Id":  "083b6be8-1b6c-49e7-a09a-d6fcc36f0916",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:39:35.5762317+08:00",
+                      "CompletedAt":  "2025-01-21T18:27:30.6229767+08:00"
+                  },
+                  {
+                      "Id":  "0c29e38b-4441-46eb-a77d-140916912733",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  3,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T03:30:47.9909605+08:00",
+                      "CompletedAt":  "2025-01-17T21:00:55.631699+08:00"
+                  },
+                  {
+                      "Id":  "e53ddc9e-a0e3-480b-9e83-5aec70336989",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:38:55.278329+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5efcb0c0-aca7-4d4c-9a2e-11694df90c55",
+                      "Name":  "美白牙膏",
+                      "Quantity":  2,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:02:17.5491319+08:00",
+                      "CompletedAt":  "2025-01-19T20:56:05.4896801+08:00"
+                  },
+                  {
+                      "Id":  "6f2a84da-9900-4be2-a5b1-e5c46e1f6a22",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:37:34.0488162+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

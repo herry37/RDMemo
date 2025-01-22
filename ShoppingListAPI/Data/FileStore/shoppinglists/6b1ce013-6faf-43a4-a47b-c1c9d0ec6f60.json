@@ -1,0 +1,62 @@
+{
+    "Id":  "6b1ce013-6faf-43a4-a47b-c1c9d0ec6f60",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T09:49:34.2789262+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d3190d5e-8d96-48cc-8c5d-5f29f5808f82",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  67,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5587741Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8f268b1-69a4-448d-b8ef-d1f3e78c5042",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  459,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5587763Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ce12515-ffaf-4013-af3c-712060a47359",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5587774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca6c04a5-8ca9-4dfa-8422-c67a530c66fb",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.558779Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b180e613-8de7-4833-8f03-09d2e8be079a",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  305,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5587799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76ffbe2d-1ebd-4973-bd7b-8f42f81701ce",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5587819Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

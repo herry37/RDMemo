@@ -1,0 +1,44 @@
+{
+    "Id":  "09d25517-c6ab-47ce-9e87-0678ed51d2d6",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T20:32:20.1482341+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7d80554c-d51e-42e1-bda6-5083045ec82d",
+                      "Name":  "Unbranded Frozen Car",
+                      "Quantity":  5,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9508525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15b77780-7050-4667-9f39-5101aaf2ac51",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9508575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e9fdfce-f7b9-4c81-a1a2-9665acbe246b",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9508592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "444137fe-7909-4682-ba8d-984f483abd19",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9508607Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

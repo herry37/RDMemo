@@ -1,0 +1,80 @@
+{
+    "Id":  "2417fc9b-a190-40bc-ad39-b4c11216ac92",
+    "Title":  "月底大採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-21T04:20:47.4282179+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2736cee1-0832-4845-b87c-c7ad9eafcc5c",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  5,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:02:33.6230565+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19492537-f773-4011-a176-a7d99c236479",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:17:41.3348261+08:00",
+                      "CompletedAt":  "2025-01-18T06:59:22.0309488+08:00"
+                  },
+                  {
+                      "Id":  "dd8bfafb-b82a-40ba-a48d-8c3d8e2a1b19",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:29:44.440394+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96c56741-ee8a-4631-977a-bd37f585253a",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:29:36.4454082+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a58db30e-246a-44d9-8572-932845cf1385",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:30:41.5957294+08:00",
+                      "CompletedAt":  "2025-01-21T12:03:26.6787046+08:00"
+                  },
+                  {
+                      "Id":  "e8499908-2c50-466e-a1c6-b2700dbaeb24",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:14:12.204441+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfe06614-5bfa-4cc3-9db0-5895e89a941c",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:30:15.8962535+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c90e6bbc-7311-412d-9246-3f7fffd4a119",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:17:58.9621399+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

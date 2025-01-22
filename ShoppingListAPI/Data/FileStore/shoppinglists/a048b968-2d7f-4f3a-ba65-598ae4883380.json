@@ -1,0 +1,35 @@
+{
+    "Id":  "a048b968-2d7f-4f3a-ba65-598ae4883380",
+    "Title":  "01/19 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T05:28:34.5646893+08:00",
+    "Items":  [
+                  {
+                      "Id":  "729cdf13-a68e-4bc8-af93-2e22000442b4",
+                      "Name":  "Unbranded Metal Keyboard",
+                      "Quantity":  3,
+                      "Price":  495,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2652998Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a9405f5-f003-42ed-862a-cbe3d164d2d2",
+                      "Name":  "Gorgeous Cotton Gloves",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2653058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "625903c9-8197-4584-876f-fcaf20c85966",
+                      "Name":  "Small Fresh Pizza",
+                      "Quantity":  1,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2653101Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

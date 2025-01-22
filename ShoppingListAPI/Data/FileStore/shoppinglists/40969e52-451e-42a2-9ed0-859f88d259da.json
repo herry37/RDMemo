@@ -1,0 +1,80 @@
+{
+    "Id":  "40969e52-451e-42a2-9ed0-859f88d259da",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T20:10:44.7684897+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0fb43c61-8566-4397-9e2c-c0b02468cc9a",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00a584ce-9652-4b23-9046-03786bee72d5",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233499Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aff2c60e-01d9-42e3-b207-f5ee82579388",
+                      "Name":  "Fantastic Frozen Bacon",
+                      "Quantity":  5,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b6af6d2-a19e-4e62-a394-00170c4e5f1d",
+                      "Name":  "Tasty Frozen Car",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0f43562-635d-451f-a486-c96e02a1ac06",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df2742fd-3fe8-4975-884e-2a5062dfbc46",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8222eac-3473-436c-91fc-976ec92ae8f9",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5842ea43-53b8-4e5c-9fe2-f81cbe3bc76b",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  354,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1233901Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

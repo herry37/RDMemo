@@ -1,0 +1,35 @@
+{
+    "Id":  "dfa107f0-0a85-40e1-96a3-9289def6ebd1",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-16T10:34:55.9492496+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fd066b7e-3f3d-4c1f-a50b-87a4394650fb",
+                      "Name":  "Tasty Cotton Towels",
+                      "Quantity":  1,
+                      "Price":  111,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6686477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e076b1dd-ca41-46e3-84f5-721c9ce07519",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6686494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a293688-0b09-4a4a-ae56-eedd85e3740a",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6686503Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

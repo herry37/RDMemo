@@ -1,0 +1,71 @@
+{
+    "Id":  "f0784ecc-0311-412f-b58e-3310b69857e5",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T06:06:21.6706311+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b3351ea8-e833-49e0-ba5b-8a4d8b0f6d35",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  349,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.535769Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3141722f-3742-42ba-a3d9-114138004aa4",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  409,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.535773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "499e4732-ff1c-48f8-b6d6-b3622fc8be20",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5357746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5c8184e-0b77-4007-aa66-1086e009e2de",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.535776Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f03fd53f-a8c6-4403-9716-fa1a4a19eae4",
+                      "Name":  "Unbranded Wooden Bacon",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5358076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7684c12-29d8-4c11-b011-36d1e2b61c14",
+                      "Name":  "Rustic Granite Bacon",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5358148Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c012b96-d35b-4c0f-bed3-f08d36955f1f",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5358161Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

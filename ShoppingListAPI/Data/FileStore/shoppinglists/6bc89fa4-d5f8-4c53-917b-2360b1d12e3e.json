@@ -1,0 +1,44 @@
+{
+    "Id":  "6bc89fa4-d5f8-4c53-917b-2360b1d12e3e",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T05:51:52.1600528+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f269ea1a-b2de-419c-b8a1-263625590441",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4896752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d97ed14f-ba91-436f-9aa2-040b33d30d93",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4896809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c1d54e8-fd7e-4ac5-9d22-5dd552d1a23d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.489682Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a75c001c-8995-402d-bf6c-ce06c8a82d14",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4896829Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

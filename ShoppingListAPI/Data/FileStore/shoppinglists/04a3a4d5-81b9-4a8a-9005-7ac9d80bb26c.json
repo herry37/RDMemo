@@ -1,0 +1,53 @@
+{
+    "Id":  "04a3a4d5-81b9-4a8a-9005-7ac9d80bb26c",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T21:42:47.5472253+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b4052086-72d9-4440-be7b-b2bc61f7bdd6",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  482,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1596586Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "308a7bdf-e090-4b2a-bf5a-f8dcc72a8b1e",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1596625Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "885839e0-b088-449a-962c-d1def9f9c5d8",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1596635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54915485-2872-4b6e-b1dc-0919be99cebc",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1596644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b148a95-afbe-4abf-b406-9a1e4347e9c3",
+                      "Name":  "Unbranded Frozen Table",
+                      "Quantity":  1,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1596847Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

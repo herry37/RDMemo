@@ -1,0 +1,89 @@
+{
+    "Id":  "56f482ac-743c-42f8-8362-709b4591dde0",
+    "Title":  "01/17 零食採買清單",
+    "CreatedAt":  "2025-01-19T23:27:55.0494289+08:00",
+    "Items":  [
+                  {
+                      "Id":  "00f22ff0-4525-4926-9f83-9046563d1d2e",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  346,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791169Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47ba39d0-09af-47d7-bab1-bbeb3f891972",
+                      "Name":  "Awesome Rubber Computer",
+                      "Quantity":  1,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97d8c09b-8357-4f48-9a3f-470a2a462f98",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.079141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e231a9e8-c1a9-4316-b72a-cc8b49161c1a",
+                      "Name":  "Rustic Plastic Cheese",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d538497-c0a2-4617-9fd1-b94d1f4d4b6a",
+                      "Name":  "Refined Plastic Salad",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15a2a441-3017-43ed-b81f-c39981bb6f99",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791515Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6b30610-892a-4688-90a3-43ecb86ed2ef",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791524Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bc1711c-c682-4ec7-bf66-595deb93d617",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791533Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fe137f3-c46d-4813-83cc-8c0adea1ef73",
+                      "Name":  "Ergonomic Concrete Bike",
+                      "Quantity":  2,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0791577Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

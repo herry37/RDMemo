@@ -1,0 +1,80 @@
+{
+    "Id":  "0b65a494-dc78-435e-8797-e1385cea7a65",
+    "Title":  "01/15 飲料採買清單",
+    "CreatedAt":  "2025-01-17T14:26:06.0734227+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e645f72-0d53-4fc2-bd88-5997ac62a7f3",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2416878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "779aa563-ebe9-4727-8b65-6dc8a04d5d7b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2416931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6abc042e-bbae-4b12-8826-e3ba3f01673d",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2416944Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0d2feef-9d8c-4d3d-b6b9-bbcd280ebd67",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2416955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed7188b8-ff07-4ad6-9277-a6c0b3b34393",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2416971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4b0d376-36ed-452e-b5b9-51f6abaf722e",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  201,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2417002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96839ff9-fec7-4476-a965-44b8e545d866",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2417013Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd5c3253-d41d-42b9-b35f-f1ed5403f15e",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2417025Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

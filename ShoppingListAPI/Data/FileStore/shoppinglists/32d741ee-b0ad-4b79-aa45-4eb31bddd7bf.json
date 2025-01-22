@@ -1,0 +1,71 @@
+{
+    "Id":  "32d741ee-b0ad-4b79-aa45-4eb31bddd7bf",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-19T10:00:55.4864781+08:00",
+    "Items":  [
+                  {
+                      "Id":  "879a34a9-5c6a-4adf-8c1b-75f990d518ee",
+                      "Name":  "礦泉水",
+                      "Quantity":  10,
+                      "Price":  99.290601373981420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T06:05:16.0968432+08:00",
+                      "CompletedAt":  "2025-01-20T20:51:44.8484283+08:00"
+                  },
+                  {
+                      "Id":  "e9ade5e6-fbbf-4a9d-a7c6-8810618f76fa",
+                      "Name":  "衛生紙",
+                      "Quantity":  8,
+                      "Price":  421.894752627136520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:22:50.8715791+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2afe7c7-622c-4f66-8a8d-ed179edecab3",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  445.975562057559230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:33:12.6655284+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99bf1187-f24f-4ecf-aedc-df2bd8c1e6c4",
+                      "Name":  "化妝品",
+                      "Quantity":  7,
+                      "Price":  259.559910490444330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:24:26.2360369+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32ac273d-4724-4d2e-a968-ef380446e06a",
+                      "Name":  "筆",
+                      "Quantity":  3,
+                      "Price":  447.948965155523710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:45:03.3596617+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "647710b3-3eab-4056-a7ba-563c1c8357e9",
+                      "Name":  "棉被",
+                      "Quantity":  7,
+                      "Price":  225.560791709975180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:06:32.9552809+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81caa70a-2eda-4e59-a65e-4082b9399e2b",
+                      "Name":  "魚",
+                      "Quantity":  7,
+                      "Price":  489.337420399408690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:59:27.2891302+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

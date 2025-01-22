@@ -1,0 +1,44 @@
+{
+    "Id":  "4be699be-84c8-4a60-93ed-8f0092541122",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-20T10:54:48.6688627+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d3846b03-a177-4c6e-9870-e7217834ec5b",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  449,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9003331Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da06e525-d184-42ad-ab50-0f2e9ae1a090",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9003368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38b2ffac-f966-448c-8ca7-1cc80e251e5e",
+                      "Name":  "Gorgeous Soft Towels",
+                      "Quantity":  1,
+                      "Price":  420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9003623Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd651c64-fd0a-4b60-99c3-37bf739075ba",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9003648Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

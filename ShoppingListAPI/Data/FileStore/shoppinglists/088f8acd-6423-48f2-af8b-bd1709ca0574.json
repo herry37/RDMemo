@@ -1,0 +1,62 @@
+{
+    "Id":  "088f8acd-6423-48f2-af8b-bd1709ca0574",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-15T06:16:07.6468894+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cf15a073-38a7-46f2-a40f-ba6a458ed0bd",
+                      "Name":  "中性筆組",
+                      "Quantity":  4,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:09:21.0008951+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1165e7b-7234-44ca-8a68-b82c19a287bb",
+                      "Name":  "天然果乾",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:35:19.1389082+08:00",
+                      "CompletedAt":  "2025-01-20T12:31:20.8780483+08:00"
+                  },
+                  {
+                      "Id":  "c3cf3117-a2f8-4927-84c8-8328fbfd4c9a",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:36:49.8597393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06c0b0c9-707f-416b-aa53-139dd7f38191",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  250,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:31:19.8440449+08:00",
+                      "CompletedAt":  "2025-01-19T22:19:39.2395142+08:00"
+                  },
+                  {
+                      "Id":  "f5f409cf-bcfc-410c-ab55-9a8e1d7b7f50",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:21:17.0676401+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1103c56f-11cf-442f-8ab2-a143654d09b0",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:33:25.4142946+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

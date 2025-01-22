@@ -1,0 +1,62 @@
+{
+    "Id":  "a40077b2-c635-4e0c-8004-13cf116710ef",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-18T18:53:17.1613555+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5382b148-e7b0-4e9a-9519-40b0106bd10f",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T15:30:51.9440426+08:00",
+                      "CompletedAt":  "2025-01-17T17:41:46.9818705+08:00"
+                  },
+                  {
+                      "Id":  "5881a07c-0a61-44b8-859c-15efcaa920eb",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:16:05.9326841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f1de18c-615b-42d1-807c-a4a0187b7f3b",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:02:17.1100389+08:00",
+                      "CompletedAt":  "2025-01-15T03:31:40.1173222+08:00"
+                  },
+                  {
+                      "Id":  "638a76a7-8359-436d-a219-75cff22bb6a7",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:51:59.4921177+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88e06f27-f95b-4733-8ad8-f126e81bace2",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:02:43.5021612+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9aa33d9b-31b6-4acc-96f7-d86dc2a4dfe0",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:08:55.8370669+08:00",
+                      "CompletedAt":  "2025-01-19T10:56:19.1165357+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

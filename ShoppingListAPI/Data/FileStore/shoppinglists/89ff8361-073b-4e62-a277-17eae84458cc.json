@@ -1,0 +1,53 @@
+{
+    "Id":  "89ff8361-073b-4e62-a277-17eae84458cc",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T16:57:22.9671879+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a004e5b8-b0c3-4602-8ada-d79464ba97c6",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2030837Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "138f3143-14cc-47a7-ac17-6533d62a1304",
+                      "Name":  "Ergonomic Concrete Gloves",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2031128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b37066a-b523-4693-a066-54f0d9521bcd",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.203114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c7c144f-b1df-447f-b3dd-83d8a87f7fc5",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2031151Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b27f5adc-3177-4ac7-b83f-49a5ca009188",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2031166Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

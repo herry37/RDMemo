@@ -1,0 +1,44 @@
+{
+    "Id":  "b4108e9d-dd22-42eb-a3f2-6c09f4d039af",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-19T18:15:56.0642804+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d0da18b-27d5-4dcb-937c-755c02c200cd",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6899928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26693495-d520-46b2-ae98-3200b45eec98",
+                      "Name":  "Licensed Wooden Fish",
+                      "Quantity":  5,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6900233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9296cbc-51d1-42fc-8dd1-6c1ec01a1a04",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.6900245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92cb5ddc-37cd-49c0-954f-9d08e69e041b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  402,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.6900264Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "b7f385e8-b36e-4c2e-857d-64cacc98ff54",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-20T19:39:34.1984621+08:00",
+    "Items":  [
+                  {
+                      "Id":  "251b1494-e7de-4c6b-84bb-57f1317272d0",
+                      "Name":  "Intelligent Fresh Computer",
+                      "Quantity":  1,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6630846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdd7e8c5-db8f-4680-a165-be8cb8e9ab13",
+                      "Name":  "Ergonomic Cotton Table",
+                      "Quantity":  3,
+                      "Price":  170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6630932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7dbb222-0a72-4a26-9bc2-796f4864d0b3",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.663097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f64b7d47-9165-4e4e-b256-223287fe9eca",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6630986Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "8958ac89-8baf-4556-a6c1-c6ff59d055b5",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T19:52:08.8551952+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8ae60794-91d6-45c3-9fdd-3a2bf75ba35c",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:48:36.6857911+08:00",
+                      "CompletedAt":  "2025-01-21T22:59:21.7673142+08:00"
+                  },
+                  {
+                      "Id":  "1802f2fe-69c5-404d-9f16-4d2d9ab151d6",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:49:45.5372957+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a0f5921-e7f2-4290-afb5-08dbf8b7e57e",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:44:08.5269035+08:00",
+                      "CompletedAt":  "2025-01-20T14:09:14.8145477+08:00"
+                  },
+                  {
+                      "Id":  "284e550e-2a77-46c3-a7dc-50b7f05101fe",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:53:49.1543666+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a6f92b8-24a9-48cf-841c-2640886dd707",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:36:59.2094837+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

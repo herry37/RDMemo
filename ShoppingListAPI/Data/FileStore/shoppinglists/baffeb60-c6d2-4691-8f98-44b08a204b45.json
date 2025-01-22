@@ -1,0 +1,98 @@
+{
+    "Id":  "baffeb60-c6d2-4691-8f98-44b08a204b45",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T21:14:02.266483+08:00",
+    "Items":  [
+                  {
+                      "Id":  "411442ec-42d6-402a-9964-bf049c4f8835",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9716914Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "892d4753-3bd1-4dbe-a55f-e29c6e28cd75",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9716977Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b11f75b-303b-4242-84d5-151c97668fbf",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9716992Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc73f817-d024-47d1-80e4-d99f719e1324",
+                      "Name":  "Rustic Granite Keyboard",
+                      "Quantity":  1,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0513c2e-c34e-4bb6-8993-2603effb25c4",
+                      "Name":  "Fantastic Concrete Tuna",
+                      "Quantity":  5,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcfa28ce-f7d5-4c02-aa11-3b94ec8f8a04",
+                      "Name":  "Practical Metal Hat",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9c238cb-ca02-49a4-a4df-556d51b602af",
+                      "Name":  "Tasty Frozen Pants",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e98d4dc-3b6d-4f50-b640-5d8faddd0ddd",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0be5adf8-5369-4da8-beef-d308986f7687",
+                      "Name":  "Refined Concrete Table",
+                      "Quantity":  5,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717853Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7241a77c-5350-419b-8abd-bb434378a4ee",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9717891Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

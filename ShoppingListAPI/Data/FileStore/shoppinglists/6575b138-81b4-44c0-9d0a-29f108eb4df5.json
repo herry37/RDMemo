@@ -1,0 +1,44 @@
+{
+    "Id":  "6575b138-81b4-44c0-9d0a-29f108eb4df5",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T11:44:17.9698636+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7921fba-6491-452a-9432-089be74466c1",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0365788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38a07806-2bad-459e-b259-bcc9ebf8ccab",
+                      "Name":  "Rustic Cotton Computer",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0366072Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a10b220-6c55-4cb8-a0cc-049024503684",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0366088Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ac704b8-9639-4b0b-948e-d5d4f1c8b832",
+                      "Name":  "Small Frozen Fish",
+                      "Quantity":  4,
+                      "Price":  407,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0366141Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

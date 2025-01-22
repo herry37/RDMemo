@@ -1,0 +1,44 @@
+{
+    "Id":  "9b314b6f-21b0-4971-8357-e9310a181904",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T17:29:58.5795414+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9c330783-d921-4834-a371-c9c1c7bb6bce",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5664781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1039fcd2-9056-4ae6-aeab-fe88bbf5906c",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5665226Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27af2dce-7b15-460b-9513-002ea4fe6ac1",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5665253Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00ab6102-3fda-4ef1-81cc-9af14788049c",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.566527Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

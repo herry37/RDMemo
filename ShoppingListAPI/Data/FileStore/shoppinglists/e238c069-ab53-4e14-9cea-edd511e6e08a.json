@@ -1,0 +1,62 @@
+{
+    "Id":  "e238c069-ab53-4e14-9cea-edd511e6e08a",
+    "Title":  "露營準備 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-21T15:52:21.9616909+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ab41e74d-2c1e-4d2b-b172-93b987b5f660",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:37:08.1248337+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "121fe0f7-cccd-4dc8-b986-cac073217f13",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:59:03.7573349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dafc52cb-3d17-439e-b086-76b9c8f9928c",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:33:16.8716206+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d866c0f-b4ef-480c-848c-b00aee65783f",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:44:47.3490426+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "849aec19-c3d0-46cc-9d4f-575f85d5480b",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:49:06.9083736+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3132f12d-bcd3-40b5-8108-452a9851d173",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:34:05.1090534+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

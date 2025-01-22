@@ -1,0 +1,44 @@
+{
+    "Id":  "35264d5c-4013-453e-9969-ac4e7e639819",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T02:12:51.6012534+08:00",
+    "Items":  [
+                  {
+                      "Id":  "562af9de-1062-40ac-b2f7-231007f8435e",
+                      "Name":  "Gorgeous Frozen Bike",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3175692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9ee16fc-2d9a-4478-a9a8-c5de9de8303d",
+                      "Name":  "Incredible Granite Hat",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3175753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df0ec935-69fe-4522-a9ef-f93fd7758853",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  307,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3175766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf260534-b5e0-44c1-abf2-c14fccbd9ba3",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3176081Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

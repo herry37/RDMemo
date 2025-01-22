@@ -1,0 +1,80 @@
+{
+    "Id":  "0f35968b-552b-469f-82a2-b26f3f0dd49e",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T20:33:45.0128881+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b7da70b8-0f53-4373-a43b-33a05b33072f",
+                      "Name":  "Tasty Rubber Towels",
+                      "Quantity":  3,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177498Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da4e23ec-ebd8-4d7e-b840-f30ec3798586",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177519Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09be2b47-f055-4ce5-8769-0432f25c673c",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "805171ba-cafa-4f3e-aedf-df3c85d9becc",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177567Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9dc31226-deaa-4303-b238-0d79cefd9ed4",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177577Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48981405-094b-4b91-9e91-e0becc310a9a",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177601Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10473eec-91c2-4dc0-ad57-9b45968f48cf",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177617Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c22f656-0499-4465-a98f-45d0b7310c6d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4177798Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

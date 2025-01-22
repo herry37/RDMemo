@@ -1,0 +1,89 @@
+{
+    "Id":  "dc03b4d7-ab2f-4cdd-8bf6-555d6967378b",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T11:56:33.9203175+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f8746315-fa20-47a7-9632-0839010a9c9d",
+                      "Name":  "餐具",
+                      "Quantity":  10,
+                      "Price":  188.300751627223820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:55:05.4099464+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53b61133-b796-4b05-98dd-363815476305",
+                      "Name":  "杯子",
+                      "Quantity":  2,
+                      "Price":  294.223288372919280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:22:48.9113168+08:00",
+                      "CompletedAt":  "2025-01-21T11:50:57.5532038+08:00"
+                  },
+                  {
+                      "Id":  "d3c22ed8-64f2-4b87-a3b2-51f20b13e547",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  217.641956460083040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T06:53:00.2973917+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a668de7-3cc4-435c-ad75-47ab7e67a434",
+                      "Name":  "膠帶",
+                      "Quantity":  9,
+                      "Price":  435.138654960954690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:08:00.6016031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2387ae9b-1da2-4afb-8234-3704af97312e",
+                      "Name":  "漂白水",
+                      "Quantity":  9,
+                      "Price":  169.74816274065110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T01:15:19.1798845+08:00",
+                      "CompletedAt":  "2025-01-16T16:52:11.4655666+08:00"
+                  },
+                  {
+                      "Id":  "e02eb182-3b24-4792-8450-7b204916f3bb",
+                      "Name":  "便利貼",
+                      "Quantity":  7,
+                      "Price":  343.85412865362530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:11:46.8021642+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea4dee65-d77b-4ef7-b8b0-02d3ca3ffce7",
+                      "Name":  "掃把",
+                      "Quantity":  5,
+                      "Price":  99.977978893729010,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:02:23.7170782+08:00",
+                      "CompletedAt":  "2025-01-20T20:54:24.2264374+08:00"
+                  },
+                  {
+                      "Id":  "ddc1b9c3-6ed7-4bc6-a363-c6b66866d7dd",
+                      "Name":  "掃把",
+                      "Quantity":  3,
+                      "Price":  470.75210475894110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:23:22.0771875+08:00",
+                      "CompletedAt":  "2025-01-15T14:42:07.115665+08:00"
+                  },
+                  {
+                      "Id":  "fbd4f7cb-0796-4549-95b9-f222b8e5c0af",
+                      "Name":  "海綿",
+                      "Quantity":  6,
+                      "Price":  147.607053841834570,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:33:17.4799934+08:00",
+                      "CompletedAt":  "2025-01-19T17:12:13.9508506+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

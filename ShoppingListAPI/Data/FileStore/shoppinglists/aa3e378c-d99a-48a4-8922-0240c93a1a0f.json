@@ -1,0 +1,62 @@
+{
+    "Id":  "aa3e378c-d99a-48a4-8922-0240c93a1a0f",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-20T15:23:01.4656127+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fc884957-974c-4c54-89f8-4f91069d4ca3",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  483,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017365Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a6f7173-cbe6-4076-83e1-228c4ee94a19",
+                      "Name":  "Incredible Soft Car",
+                      "Quantity":  3,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017645Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06c46e23-b76e-43ba-8da2-5119495958f4",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff21d8b4-9ed6-40c3-a847-f01294abd2a4",
+                      "Name":  "Unbranded Soft Bike",
+                      "Quantity":  5,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017716Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2ca24af-5043-4c64-8dd2-fee610e79937",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a7e8b05-d487-40c5-8795-858da60a9272",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.6017764Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

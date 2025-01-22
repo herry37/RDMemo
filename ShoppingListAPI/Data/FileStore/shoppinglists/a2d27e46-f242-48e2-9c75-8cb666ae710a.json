@@ -1,0 +1,80 @@
+{
+    "Id":  "a2d27e46-f242-48e2-9c75-8cb666ae710a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-16T05:02:40.9860288+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c32eae4a-669d-48fb-b99b-3c52de6b5598",
+                      "Name":  "果乾",
+                      "Quantity":  3,
+                      "Price":  352.884762451630420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:02:46.2106595+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6f6e6f5-a115-4a1c-94fb-132cc26acd5c",
+                      "Name":  "尺",
+                      "Quantity":  10,
+                      "Price":  477.539230806987360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:24:41.600373+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c93f9b3-defa-4f35-9ae7-2aa650ee4cbc",
+                      "Name":  "梳子",
+                      "Quantity":  1,
+                      "Price":  120.754311154652340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:07:54.336356+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bb10383-20c5-4c88-96f5-de5337536cd4",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  93.353321989997990,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:51:34.9897735+08:00",
+                      "CompletedAt":  "2025-01-16T16:23:00.4403056+08:00"
+                  },
+                  {
+                      "Id":  "14b3a446-9cee-44c0-b0e3-a17dafe3863a",
+                      "Name":  "魚",
+                      "Quantity":  6,
+                      "Price":  444.311926129746070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:13:42.3361733+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "92ca0f37-9031-4478-8bf1-7630041f519a",
+                      "Name":  "衛生紙",
+                      "Quantity":  7,
+                      "Price":  201.405015258057650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:51:49.3964928+08:00",
+                      "CompletedAt":  "2025-01-21T03:47:05.0503728+08:00"
+                  },
+                  {
+                      "Id":  "3a6584fa-dd45-49cd-9981-a5a50f747a36",
+                      "Name":  "糖果",
+                      "Quantity":  9,
+                      "Price":  134.005877852370220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:56:38.84261+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be18374c-bdb2-400c-ab91-4046f0a2812c",
+                      "Name":  "洗碗精",
+                      "Quantity":  2,
+                      "Price":  133.3577358062770,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:52:37.9875224+08:00",
+                      "CompletedAt":  "2025-01-20T16:38:33.1865249+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

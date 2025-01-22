@@ -1,0 +1,80 @@
+{
+    "Id":  "a2a38c0c-a82f-4696-896c-215b290129bc",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T06:19:59.8610161+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d015c97d-253f-4a12-b067-bdab5e105f9d",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3754476a-12e9-4651-bd81-8ecdea6b0a0d",
+                      "Name":  "Handcrafted Fresh Shirt",
+                      "Quantity":  4,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee5c48d3-acb5-4708-9361-aa1f71a353f3",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50a097e3-4747-422f-8383-f76e4c4201c5",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590396Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ef9b8de-ece1-4b18-8405-1725e884500f",
+                      "Name":  "Licensed Soft Shirt",
+                      "Quantity":  1,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "329f72a1-d8f7-499f-a00b-a4ec35ac11d8",
+                      "Name":  "Intelligent Cotton Towels",
+                      "Quantity":  2,
+                      "Price":  386,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "509d3d63-ef37-424c-89b1-9cacd520fd31",
+                      "Name":  "Rustic Granite Sausages",
+                      "Quantity":  4,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590558Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8060e08f-0f67-401d-ba0f-2518f32ef308",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.5590625Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

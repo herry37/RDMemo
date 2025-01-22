@@ -1,0 +1,80 @@
+{
+    "Id":  "1fcc39d1-c399-41cc-b014-f312e52eb03f",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T23:25:52.0351793+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b52bd70-5e72-46ec-bc89-a7703de62ca8",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532218Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a97b62a-18a7-4621-881d-56f9302b703a",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9e83257-c9a9-4e66-a200-8a67a5deae9d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532252Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d0dac68-d691-4ad5-bc40-2d8fd28e15b9",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da65dab0-b272-4c38-881f-d735368d9b47",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fff4bdcf-761d-48fa-a8a8-0f093b65959a",
+                      "Name":  "Intelligent Wooden Fish",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7414552-19e5-472f-9dab-4534ca6d3467",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4c85fab-725f-4adb-bf48-e83e0ca96f94",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8532461Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

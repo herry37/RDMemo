@@ -1,0 +1,62 @@
+{
+    "Id":  "539816f6-e1d6-4a3a-a6ff-7ba47bdba2e9",
+    "Title":  "年節採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T16:37:47.0590658+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4b3d8ecd-0df9-4ea7-8b56-1a5a985a692b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:12:12.3221611+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5437e5f-6a30-47f2-b3a6-7343caaceee9",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:12:41.5365763+08:00",
+                      "CompletedAt":  "2025-01-15T17:32:35.038868+08:00"
+                  },
+                  {
+                      "Id":  "0b1cf869-f0e2-4a2e-86e9-81936f5799da",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:47:06.7335601+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c90f6008-337d-4227-aed1-1364cac09827",
+                      "Name":  "黑巧克力",
+                      "Quantity":  5,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:05:12.0552669+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2849057b-60d7-4c0e-a135-a5885ebc07a9",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  95,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:43:20.1126744+08:00",
+                      "CompletedAt":  "2025-01-15T19:29:54.5691517+08:00"
+                  },
+                  {
+                      "Id":  "432f30a7-33fd-400d-b14a-131c3f01405f",
+                      "Name":  "天然果乾",
+                      "Quantity":  5,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:25.5260918+08:00",
+                      "CompletedAt":  "2025-01-22T03:40:46.8395733+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

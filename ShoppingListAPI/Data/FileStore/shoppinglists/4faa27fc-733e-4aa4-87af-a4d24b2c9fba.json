@@ -1,0 +1,80 @@
+{
+    "Id":  "4faa27fc-733e-4aa4-87af-a4d24b2c9fba",
+    "Title":  "年節採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T07:03:18.5717074+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2088cad7-4738-4144-9480-3336c802d5dc",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:54:51.3288808+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4605453f-5170-487d-8f6b-4ee61e017da3",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:48:54.5940767+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90e256c6-ccfd-4773-9e59-96820b8e5cf1",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:26:37.6672333+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1044eb25-bf58-4778-93ee-e51b9a518439",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:08:18.6529233+08:00",
+                      "CompletedAt":  "2025-01-21T03:18:51.1162936+08:00"
+                  },
+                  {
+                      "Id":  "ff5271c1-7167-407a-8f09-2f2cc9eafe3e",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:05:38.0011082+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95ce45f4-cef9-487d-b45f-8b46a4a06dd0",
+                      "Name":  "木質相框",
+                      "Quantity":  3,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:17:26.2377924+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8183300e-99e3-4878-bf19-bdf790a3ba62",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  4,
+                      "Price":  90,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T08:49:36.5105563+08:00",
+                      "CompletedAt":  "2025-01-16T08:44:41.7064577+08:00"
+                  },
+                  {
+                      "Id":  "17f2d23b-72b9-4b3e-b440-f68383214064",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:55:17.0547868+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

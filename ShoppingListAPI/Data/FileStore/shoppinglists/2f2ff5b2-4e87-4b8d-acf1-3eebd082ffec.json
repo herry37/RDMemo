@@ -1,0 +1,89 @@
+{
+    "Id":  "2f2ff5b2-4e87-4b8d-acf1-3eebd082ffec",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T18:27:28.1855543+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f265322f-7fb7-4e6a-98ea-0aecd8eb8ab1",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1656752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54df5ac9-8d8a-4c33-8c9e-de0a7318d7d6",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1656823Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f15d2d20-b4a9-41eb-991d-31547cac42c3",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.165685Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce83d036-8f9a-4457-9e5f-cd78c62367ed",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1656881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90ca432f-4259-443d-b1c3-584936cff544",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1656919Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "000dd418-1fcd-499c-9ca5-7510dd022689",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1656972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f8e525c-3494-4ad6-b52f-21a6f872ee63",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  409,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1657Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0478d63-ac70-4307-a971-7a44ff1f1f86",
+                      "Name":  "Fantastic Cotton Hat",
+                      "Quantity":  4,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1657362Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40d1bfda-6b14-46b5-86e6-f8d7f7e727a7",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1657392Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

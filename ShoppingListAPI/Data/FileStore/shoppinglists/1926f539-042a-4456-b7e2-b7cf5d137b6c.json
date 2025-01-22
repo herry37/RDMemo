@@ -1,0 +1,71 @@
+{
+    "Id":  "1926f539-042a-4456-b7e2-b7cf5d137b6c",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-20T03:50:07.1951008+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eba3eb14-4c11-4e2c-ab6a-d18a6bd3aedb",
+                      "Name":  "海綿",
+                      "Quantity":  6,
+                      "Price":  80.044121981576470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:28:31.1084842+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbcc85ff-eb3f-4c18-9833-cf76ba2acb77",
+                      "Name":  "牙膏",
+                      "Quantity":  8,
+                      "Price":  409.174016589382860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:22:42.2476379+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "65631122-2ab6-40e2-acbb-ca2a7f1acd58",
+                      "Name":  "蘋果",
+                      "Quantity":  10,
+                      "Price":  368.56036505318190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:29:54.4513795+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0613be3-e0f3-4c49-9f2a-76741c028918",
+                      "Name":  "糖果",
+                      "Quantity":  4,
+                      "Price":  357.740732739344280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:07:09.0785865+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e0f9e0d-82e3-4806-8b13-5bf971c8db1b",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  111.918410345209990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:09:01.3249825+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88b58c98-7039-4040-973c-e1635c82a080",
+                      "Name":  "橡皮擦",
+                      "Quantity":  5,
+                      "Price":  262.293460371387680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:04:46.3478914+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "578068dc-39af-47a7-bd5f-52afbd15b4a9",
+                      "Name":  "化妝品",
+                      "Quantity":  8,
+                      "Price":  79.957558414522240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:30:41.4357495+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "b0c45c2c-10fa-47b0-9351-1e2b57cb3e97",
+    "Title":  "派對用品 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T04:16:52.4090719+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8cd26819-0b94-45e3-a918-bd813579329c",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:06:00.1542158+08:00",
+                      "CompletedAt":  "2025-01-16T20:34:27.9289899+08:00"
+                  },
+                  {
+                      "Id":  "b32c4cc3-aa10-4b35-9859-dd95b9170bfe",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:59:37.5918645+08:00",
+                      "CompletedAt":  "2025-01-17T18:16:45.5628712+08:00"
+                  },
+                  {
+                      "Id":  "f7f38f7b-7ebd-4eb3-95ab-bb6b66e9957e",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:24:27.8293137+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f231b5c5-5579-455f-9382-875fd5d137da",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:58:23.8955336+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89c39d96-e596-4658-8945-2f65faab5ccc",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:16:13.6999265+08:00",
+                      "CompletedAt":  "2025-01-20T01:39:53.8544158+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

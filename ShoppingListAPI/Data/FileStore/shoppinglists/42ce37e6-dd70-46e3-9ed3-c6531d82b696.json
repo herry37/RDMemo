@@ -1,0 +1,89 @@
+{
+    "Id":  "42ce37e6-dd70-46e3-9ed3-c6531d82b696",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T22:37:24.2743845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "369e94da-1b3d-4da8-932f-c8ab1e624364",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  321,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029601Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "771c55dd-c11b-430f-9430-1cf64df21dc4",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029627Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c0353fd-4256-4dfe-bc40-ab34acadbb22",
+                      "Name":  "Rustic Cotton Pizza",
+                      "Quantity":  1,
+                      "Price":  210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029684Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37546be9-eb62-4ce6-8c60-66e7b5a5c526",
+                      "Name":  "Handmade Plastic Keyboard",
+                      "Quantity":  4,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32f971e4-5999-450b-be5e-cb15a0aa21f6",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029713Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e259b63d-c8d1-4289-a9ec-f22f0a7594b4",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  415,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029725Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa1b15b1-4443-4861-a2c5-cc5c9902932c",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029734Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84f3b6f1-c1b8-486d-a29f-cde472e0d4d5",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029744Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31a0ec33-1471-4264-8964-e50bd1e375a9",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2029752Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "49f9865e-e049-45fb-9cb4-9607323868e5",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T20:38:04.2542797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "94c5581e-9d5b-414b-8e20-c4ccf08c08af",
+                      "Name":  "Rustic Plastic Salad",
+                      "Quantity":  3,
+                      "Price":  15,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1027576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7562360a-de31-413b-802e-93038610e9d1",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1027616Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bdb94c89-a7cd-4cee-90a1-2b4309475245",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1027656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a263063-2760-41f1-827f-81845cc859a4",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.1027675Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46252604-5130-4ac3-82e7-c155ce0bbda6",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.1027696Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

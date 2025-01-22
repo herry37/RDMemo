@@ -1,0 +1,35 @@
+{
+    "Id":  "ba334e6e-6155-4727-b02d-6e079c7f4e1d",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-16T20:41:36.6019565+08:00",
+    "Items":  [
+                  {
+                      "Id":  "16dca462-68c4-44f2-a20c-90bbfd13d640",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3852891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45e335de-83f5-41c7-ace6-b8b7ac63d5b7",
+                      "Name":  "Incredible Plastic Shirt",
+                      "Quantity":  2,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3853077Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba86ec96-ee33-4c41-bae3-a7dd9763b14d",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  476,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3853087Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

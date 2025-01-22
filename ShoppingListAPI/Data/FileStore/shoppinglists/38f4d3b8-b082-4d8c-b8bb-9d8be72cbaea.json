@@ -1,0 +1,62 @@
+{
+    "Id":  "38f4d3b8-b082-4d8c-b8bb-9d8be72cbaea",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T12:22:00.666594+08:00",
+    "Items":  [
+                  {
+                      "Id":  "87e3d70d-d59b-4e84-b826-9a3d47d5cf4e",
+                      "Name":  "便利貼",
+                      "Quantity":  7,
+                      "Price":  277.086233868554310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:09:24.1769304+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2573043-03a2-45fe-89c4-5184a2b620b3",
+                      "Name":  "洗衣精",
+                      "Quantity":  3,
+                      "Price":  336.279368605657250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:18:25.0832227+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31ea1d78-5a2a-4f06-b1f0-fd1618fbfc0b",
+                      "Name":  "便利貼",
+                      "Quantity":  7,
+                      "Price":  177.91857306721210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:01:03.8160777+08:00",
+                      "CompletedAt":  "2025-01-17T16:42:05.5896881+08:00"
+                  },
+                  {
+                      "Id":  "07fb10d7-4fa8-4a00-9955-b198d036ccf8",
+                      "Name":  "電池",
+                      "Quantity":  9,
+                      "Price":  164.844277819976010,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:20:39.8715631+08:00",
+                      "CompletedAt":  "2025-01-18T06:59:33.9388994+08:00"
+                  },
+                  {
+                      "Id":  "9ebf7ebc-bbb8-459d-8726-43ca124c0dc2",
+                      "Name":  "礦泉水",
+                      "Quantity":  8,
+                      "Price":  46.0787456793486940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:46:13.4948038+08:00",
+                      "CompletedAt":  "2025-01-18T21:33:10.0769485+08:00"
+                  },
+                  {
+                      "Id":  "2fb010c3-0f91-4737-a359-ccad556e9750",
+                      "Name":  "梳子",
+                      "Quantity":  7,
+                      "Price":  151.959451708757340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:19:42.8040923+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

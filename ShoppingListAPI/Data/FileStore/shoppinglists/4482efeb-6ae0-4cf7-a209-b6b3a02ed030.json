@@ -1,0 +1,98 @@
+{
+    "Id":  "4482efeb-6ae0-4cf7-a209-b6b3a02ed030",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T03:11:22.5506675+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2d007bc7-9c25-48a5-9226-2a09a93384d8",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0a7a2c6-41d8-4912-8576-a337e8e78281",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13de5717-6769-4a0f-ad40-774161703e15",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cfda12f-cdf4-4fea-b490-5f56c82cd7e3",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.590825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a8aa9bf-ea36-4e7d-8d79-651c3f1c1016",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908279Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3b61ed3-84c9-4404-ad79-e65759866963",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908324Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d74338c-e66f-4005-b46e-daa3ab1c976e",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908348Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "33ec8843-8f6f-40e5-8183-5c616f8b44c3",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  467,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcc30be1-1005-4700-b0ff-31f05e660cfa",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8ff5e01-c251-4f14-9439-8c794692f549",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5908421Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

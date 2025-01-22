@@ -1,0 +1,62 @@
+{
+    "Id":  "1df350b1-016c-4bdc-b3d3-e7483dff5c3b",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T17:45:31.7553097+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0be535b-3fb5-4c1f-97a4-73cfb772ee24",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7121758Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "684ac12c-9546-4adf-98f6-1d725c252ef7",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7121812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29997b97-4eee-40f3-a7d0-74f4d515690c",
+                      "Name":  "Tasty Rubber Table",
+                      "Quantity":  3,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7122149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1976902a-d736-4b59-af5e-2a6f5db09ebd",
+                      "Name":  "Incredible Wooden Pants",
+                      "Quantity":  1,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7122242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c980685-bd94-4338-99cf-375218c87e47",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7122258Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a6ca380-edd5-4b9e-ae20-59d5c0013589",
+                      "Name":  "Awesome Soft Sausages",
+                      "Quantity":  3,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.712235Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

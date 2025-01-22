@@ -1,0 +1,62 @@
+{
+    "Id":  "d391d1b0-f27d-45c3-a244-b6b042f57c4f",
+    "Title":  "居家整理 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T05:18:02.5724634+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aef19700-e135-45ee-8780-5b725508fa83",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  2,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:58:23.0166822+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b509ecda-86c3-473d-8110-55ba01224a32",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:22:47.145391+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6349c3ba-e61a-4db0-b185-5ea0d629ed24",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:28:56.8565543+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b41231d-c254-44a6-89c9-e4bb3e9e1f25",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:00:08.3532994+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaea54d2-53e0-4520-8ec9-13af00fef564",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  4,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:50:41.5039854+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0ad03e5-9489-45ed-ba50-84bdd897e570",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:06:51.9916998+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

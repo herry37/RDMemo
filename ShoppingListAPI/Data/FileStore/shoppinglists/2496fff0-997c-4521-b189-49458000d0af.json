@@ -1,0 +1,35 @@
+{
+    "Id":  "2496fff0-997c-4521-b189-49458000d0af",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-16T04:00:25.9909313+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f2be5613-f0c2-4437-8c88-7f7846259162",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:51:07.8681105+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e21ea12-af53-4e51-9de5-dfd508616b40",
+                      "Name":  "清潔手套",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:12:37.3796562+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4810481a-c9bc-4d71-a847-397d1f7d35df",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:10:47.5643738+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "bf20111b-aef6-4c17-bcc3-683b4fbbc2fa",
+    "Title":  "年節採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-14T23:12:52.4308236+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82a0da18-3d17-43e4-a7b2-4903d765a9c0",
+                      "Name":  "造型便利貼",
+                      "Quantity":  5,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:34:11.1478843+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "025f8742-6e84-4d1a-9c4b-1f1f529c78e0",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:44:26.8528461+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e1b8b4f-6776-4a6e-9d8a-f1b1c33e6cb3",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:47:57.4432087+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7b71d45-2223-4f46-8a42-3853e25a3de2",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:43:35.7572155+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6ec0a5e-0694-4e96-9613-7e8a6a1b9cd2",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:28:00.0856888+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31256918-6cee-4737-a625-bad55cbd5826",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:19:29.4369287+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11b16159-665c-49c3-9ad8-57abfc795d73",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  4,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:58:28.9588788+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

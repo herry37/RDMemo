@@ -1,0 +1,80 @@
+{
+    "Id":  "2cdd9c28-773b-41de-84d2-11d53ca56131",
+    "Title":  "每週採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T22:35:12.2918974+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4e53aa9-2def-4634-bdad-c9e534ae90eb",
+                      "Name":  "環保餐具組",
+                      "Quantity":  5,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:19:51.2540441+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c66f759-c7bd-42f3-85fd-de31a8aae03d",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:43:54.4191042+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80abd66e-fe0e-45f6-a5cd-f8ef35f595e3",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T01:03:09.5237816+08:00",
+                      "CompletedAt":  "2025-01-16T15:54:52.6945469+08:00"
+                  },
+                  {
+                      "Id":  "ecd7b1b9-9bce-4bc9-9e4b-0dc364ff79bb",
+                      "Name":  "美白牙膏",
+                      "Quantity":  4,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:55:54.1358188+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f57bb078-2349-4f0d-b58a-ff8429e3cbf2",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:09:08.8426383+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49b9b5fd-7446-4b94-b03e-28b058c64c30",
+                      "Name":  "黑巧克力",
+                      "Quantity":  3,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:55:47.119111+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "add1a1a3-5dfc-4a3b-9f35-1394df3de3f1",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:42:08.2990741+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dded850-9a3f-4256-802c-f76d6c9524c8",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:39:13.0706235+08:00",
+                      "CompletedAt":  "2025-01-18T17:31:20.8152966+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

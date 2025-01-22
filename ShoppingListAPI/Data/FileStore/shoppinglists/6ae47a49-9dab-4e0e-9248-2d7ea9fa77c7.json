@@ -1,0 +1,44 @@
+{
+    "Id":  "6ae47a49-9dab-4e0e-9248-2d7ea9fa77c7",
+    "Title":  "居家整理 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T08:41:01.1049254+08:00",
+    "Items":  [
+                  {
+                      "Id":  "414b1d6f-27ad-4bf4-ac40-58f39731db13",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:56:29.0178836+08:00",
+                      "CompletedAt":  "2025-01-17T18:58:28.5937433+08:00"
+                  },
+                  {
+                      "Id":  "d3fbd1ee-cec5-412c-b803-2ae73521ce3e",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:55:31.7962906+08:00",
+                      "CompletedAt":  "2025-01-18T19:27:48.7502571+08:00"
+                  },
+                  {
+                      "Id":  "e07b956d-76cd-4d82-bcf0-3c15c79ab548",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:40:38.7088872+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13d7a294-ffd7-49e8-9539-11895973cbbe",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:32:36.1930194+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "236e22f0-fb28-4dcd-b8b1-59aec03ac9da",
+    "Title":  "早市採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-19T16:11:18.5501591+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d58592a9-5604-428f-ab81-644a6d7187bb",
+                      "Name":  "放牧蛋",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:22:56.5087095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb676ccd-bf85-488d-a687-42423acda5d2",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  95,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:58:54.8043144+08:00",
+                      "CompletedAt":  "2025-01-16T07:47:23.1316469+08:00"
+                  },
+                  {
+                      "Id":  "84971a3e-578c-4200-a9fc-4046eea9b59f",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:27:35.8956758+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e06675a-bee1-4ae1-b0d1-9e42a9e74d5b",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:24:37.8012053+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea95cb19-9b65-48a9-bd4c-9831dac3102c",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:57:33.2882705+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a885ff3-998c-4d53-a706-f0c80d1c3dc1",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:37:40.6988479+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "576c2399-a7e9-4217-9aed-fcf4cb5305eb",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:34:44.9183917+08:00",
+                      "CompletedAt":  "2025-01-21T20:16:27.1723925+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

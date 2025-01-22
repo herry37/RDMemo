@@ -1,0 +1,89 @@
+{
+    "Id":  "ec078506-fb7c-4e36-b4f3-cab4605e5b86",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T10:11:26.8553133+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74122c9e-b53f-4443-a44e-f79895dfda3c",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  473,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6390912Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0c2ae55-b638-44ba-9596-aca284c574b3",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6390935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8dd2dc5-8836-4555-a299-3c94a223b3d4",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6390943Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b11ad4d-e526-4802-a219-ba429ec7d707",
+                      "Name":  "Tasty Rubber Fish",
+                      "Quantity":  2,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6391149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c48a38f-0379-425d-a160-3c43382c1dc2",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  416,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.639116Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8d96ac4-95d1-4964-a664-e2a7d548d582",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.639118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf8e00a4-264e-4b75-8c89-2f779e810729",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  94,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6391186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea2e1047-5309-47e8-8ed4-f581c963f7ba",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6391193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7669c666-30fc-4b81-a9c6-2152863005bb",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6391202Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

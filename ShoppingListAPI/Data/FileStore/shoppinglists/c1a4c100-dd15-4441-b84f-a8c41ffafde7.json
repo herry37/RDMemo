@@ -1,0 +1,35 @@
+{
+    "Id":  "c1a4c100-dd15-4441-b84f-a8c41ffafde7",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-17T00:19:46.7769899+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b90cba4a-c840-467d-8fd7-5d02965c88ef",
+                      "Name":  "尺",
+                      "Quantity":  7,
+                      "Price":  401.152995838566920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T17:44:10.6882852+08:00",
+                      "CompletedAt":  "2025-01-18T01:39:11.469325+08:00"
+                  },
+                  {
+                      "Id":  "0bbfbd9b-6125-4b77-a82e-78f127e39823",
+                      "Name":  "膠帶",
+                      "Quantity":  3,
+                      "Price":  103.409593802699580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:25:26.5223433+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "381b8a79-7bf3-4b89-8d7e-3d4d132839ae",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  161.105185458588270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:13:36.2035777+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "f8599d4e-0233-49a4-898e-15ea146c2d3a",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T01:20:01.7940838+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5cd7b9d6-3e35-4ae2-ae4c-0287aff66cfc",
+                      "Name":  "Intelligent Frozen Car",
+                      "Quantity":  4,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3332756Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4343bcc2-5290-443d-af51-0911db9bf65a",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3332816Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5444e52-7da7-42fc-a414-d7d256d54042",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  497,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3332829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbd87541-283b-4f80-853d-c4ae30673ad4",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3332838Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

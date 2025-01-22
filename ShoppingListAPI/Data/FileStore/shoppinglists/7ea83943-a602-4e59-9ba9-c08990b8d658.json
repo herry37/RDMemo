@@ -1,0 +1,53 @@
+{
+    "Id":  "7ea83943-a602-4e59-9ba9-c08990b8d658",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-18T23:03:10.9129673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4c19da70-56c4-4ca4-b40f-f20728806e72",
+                      "Name":  "垃圾袋",
+                      "Quantity":  8,
+                      "Price":  460.218144891578420,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:47:36.8455299+08:00",
+                      "CompletedAt":  "2025-01-17T11:11:58.2048046+08:00"
+                  },
+                  {
+                      "Id":  "d85efe06-b33a-471e-b5f7-4a48b89d4749",
+                      "Name":  "訂書機",
+                      "Quantity":  3,
+                      "Price":  109.020547982864130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:06:57.8876497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26069938-4b93-4a52-9fe9-1a2a3f220d4a",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  415.868517683540520,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:47:34.1537982+08:00",
+                      "CompletedAt":  "2025-01-20T19:58:39.3662935+08:00"
+                  },
+                  {
+                      "Id":  "42bfb2bb-8220-4b38-bcf7-72b5a7828dba",
+                      "Name":  "清潔劑",
+                      "Quantity":  8,
+                      "Price":  210.736343348525250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:52:12.0493721+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbc67ea1-543b-4c49-aea8-36cec4f2ce42",
+                      "Name":  "蛋糕",
+                      "Quantity":  10,
+                      "Price":  264.646606471030060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:09:15.0018593+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

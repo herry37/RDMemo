@@ -1,0 +1,44 @@
+{
+    "Id":  "87f32d92-d96b-4785-838a-ec2eaaee4239",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T20:04:13.3850412+08:00",
+    "Items":  [
+                  {
+                      "Id":  "05799ac2-511b-4e05-95f7-d3ce87397528",
+                      "Name":  "筆記本",
+                      "Quantity":  9,
+                      "Price":  396.011105724398630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:49:41.0999266+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c57b729-ccc9-4766-b1fc-462ab544aad9",
+                      "Name":  "筆筒",
+                      "Quantity":  10,
+                      "Price":  46.8872285580747480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:39:26.8266969+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dbe9e574-49f4-4c44-ad58-b1d631fa9136",
+                      "Name":  "筆筒",
+                      "Quantity":  2,
+                      "Price":  453.970154894784980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:11:11.9303866+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a54bb280-a08e-4a5f-8578-5b2b0b8e4c26",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  6,
+                      "Price":  214.634907787273460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:14:28.087401+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

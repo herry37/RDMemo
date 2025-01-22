@@ -1,0 +1,89 @@
+{
+    "Id":  "2c751227-663e-45db-b6db-f50483f2b358",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-16T23:11:34.8579609+08:00",
+    "Items":  [
+                  {
+                      "Id":  "26b38f1a-1906-4669-8bff-3e1ada3d7183",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c027b29-b1f4-493c-97be-0ebf507e5847",
+                      "Name":  "Intelligent Steel Soap",
+                      "Quantity":  5,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0173e348-ad93-422c-aca2-8aaa13b45729",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "575443ae-a90b-4ba7-8813-1474f6a15aae",
+                      "Name":  "Gorgeous Frozen Gloves",
+                      "Quantity":  5,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05866a8a-5fa6-44c6-bbc9-7c6c6b91ffd5",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b0d9dad-42e7-497f-ba4c-5fc6eaf4f03f",
+                      "Name":  "Unbranded Plastic Sausages",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247627Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49713844-98d4-49bc-972f-680105897c65",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  297,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247637Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15c87ef8-1736-4e8e-8e6a-36c66cf464db",
+                      "Name":  "Tasty Steel Ball",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ccf363b-60cf-4518-953d-abff46943339",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7247667Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

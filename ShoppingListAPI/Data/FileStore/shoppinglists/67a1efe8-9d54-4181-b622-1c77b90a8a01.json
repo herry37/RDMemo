@@ -1,0 +1,80 @@
+{
+    "Id":  "67a1efe8-9d54-4181-b622-1c77b90a8a01",
+    "Title":  "月底大採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T03:59:22.305848+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72380a18-554f-43f7-962a-032496cd7573",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:27:04.8635251+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87581409-5e57-4b05-9ff2-a8388e15db8f",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:06:13.8835925+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1516c31-4ced-406d-a88c-78a3c012f0f3",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:40.3714207+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d457151-4784-40f9-ad50-8c4db0301f10",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:08:02.1554338+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dda3a2df-3bf2-4b13-ad53-f97ab7633599",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:30:26.6215031+08:00",
+                      "CompletedAt":  "2025-01-20T07:08:55.6863366+08:00"
+                  },
+                  {
+                      "Id":  "7142fa83-2fe9-49ec-ae4d-e59b3dc1e426",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  43,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T01:07:42.8458574+08:00",
+                      "CompletedAt":  "2025-01-18T07:02:48.6374264+08:00"
+                  },
+                  {
+                      "Id":  "7a482cd4-6706-4ebf-9be6-7ca0d572dc85",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:47:05.6376979+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5063516b-b1d2-4850-9b6e-0146e86adf07",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:45:12.5995777+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "15c5f32a-8c05-4362-b950-1dcec5a0d63e",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T14:25:20.8302346+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3238ed28-f271-4b9e-88c2-f35ac9a54e6c",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  246,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.706416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a4e0538-f03b-46aa-b297-f7a2ad290f7f",
+                      "Name":  "Handmade Cotton Towels",
+                      "Quantity":  3,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40b8bb7c-086e-498b-95fc-b546d1b3e00c",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  156,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064587Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f045646-b589-42bb-ba80-58272eddeb63",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064602Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f383a390-725c-4baf-b952-fae5d073aff6",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064616Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d836725-96a2-4047-8d41-e8a15fa2b100",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064666Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ea355cb-4737-4389-9ef9-0f877b4892a1",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.706468Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ea70f4e-0acb-41fd-8d6d-31883a29ba03",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "791ae4be-6e3a-4386-ba84-784c7a5d905f",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064707Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "342660df-c273-44b7-9183-3281ee05d8f6",
+                      "Name":  "Fantastic Metal Cheese",
+                      "Quantity":  2,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7064786Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

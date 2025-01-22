@@ -1,0 +1,98 @@
+{
+    "Id":  "549aeda0-1900-4f5f-888c-27fd7a9794be",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T13:44:40.1386435+08:00",
+    "Items":  [
+                  {
+                      "Id":  "61c81c66-ab33-4d6e-bdbf-5206b6eaf1c0",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7838058Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd46ee1f-af0a-4e9e-a70a-625eb03412ba",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7838409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17e00a84-eb1c-43c1-8c9e-b9c23fca67d4",
+                      "Name":  "Licensed Granite Soap",
+                      "Quantity":  4,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fe931b8-b8c9-4c15-b470-9d5c6cdc90e3",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839041Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07f30e7b-3c15-4304-92ef-df094a51e977",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839073Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "073ba85e-63d8-472e-a909-bbf9110a0311",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "905a83cd-d813-4793-a992-c86582a894bb",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.783917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "083e7757-e3df-4135-ac7d-f93b84543942",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839194Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd38e097-14a6-4db3-9d97-d11398c69388",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  72,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839218Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc74f847-c5ae-447c-b035-24429be1c8e6",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  497,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7839253Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

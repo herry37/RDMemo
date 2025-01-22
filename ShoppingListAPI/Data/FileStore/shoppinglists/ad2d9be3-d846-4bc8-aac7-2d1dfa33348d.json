@@ -1,0 +1,35 @@
+{
+    "Id":  "ad2d9be3-d846-4bc8-aac7-2d1dfa33348d",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T20:19:43.8884161+08:00",
+    "Items":  [
+                  {
+                      "Id":  "87a8e662-b8d3-4065-8843-437e9d7990a0",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  375,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8255342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04857e34-5a78-48ea-81e7-2d04b679a305",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8255401Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58f5d118-b29b-4134-839f-e0d17e4e27af",
+                      "Name":  "Small Wooden Towels",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8255619Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

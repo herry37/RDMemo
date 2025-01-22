@@ -1,0 +1,80 @@
+{
+    "Id":  "eb1199d0-fa49-46ca-983c-9e20e977fe22",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T19:41:28.7604527+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c8b2a00-d106-4714-bbd4-c68cb5b6fafa",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  3,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:46:25.6634578+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "349894b7-baaf-4a2f-bb4c-d94f46a1f7c0",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:04:43.8228173+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9b663e5-ac17-4d66-b3cc-c3c32d863e45",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:06:59.8114971+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f8d2669-047d-4785-b98c-0d195ed82d94",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:20:18.0189583+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "180d9c6a-af2f-4838-bc8f-c3f56124d795",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:54:41.4625672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc0f6867-0e9b-45f9-b934-d52db637bccf",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  3,
+                      "Price":  198,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:28:09.6310956+08:00",
+                      "CompletedAt":  "2025-01-15T03:34:09.3757764+08:00"
+                  },
+                  {
+                      "Id":  "3f2454d1-d2bc-4928-9f7a-9581c51a5abc",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:38:28.6931253+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64ee7e11-bd15-412a-9b45-f54c78326d95",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:01:08.312648+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

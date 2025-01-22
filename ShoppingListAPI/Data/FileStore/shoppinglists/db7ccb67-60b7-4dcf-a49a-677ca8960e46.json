@@ -1,0 +1,80 @@
+{
+    "Id":  "db7ccb67-60b7-4dcf-a49a-677ca8960e46",
+    "Title":  "聚會準備 - 好市多 (01/20)",
+    "CreatedAt":  "2025-01-21T09:23:58.1342845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8e2d8ad7-2f1d-4604-8155-09db233d6ea4",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:25:06.8359891+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ceb47f2-7a89-4d61-a73b-eabc758011ef",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:45:47.1523408+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3adf35b-26ee-48cc-94cc-0a4262046429",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:52:53.1687672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef958c62-e72f-4251-b67c-e39c6fd712da",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:44:04.3532598+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80ae373d-1111-459f-b6be-217febbc962f",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:16:38.9783927+08:00",
+                      "CompletedAt":  "2025-01-18T14:55:26.9393507+08:00"
+                  },
+                  {
+                      "Id":  "814618a3-7faf-42e6-8ec7-1f64e4fe80af",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:55:24.9928012+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37e48961-d68c-4b3f-9cc5-8c801ce476e7",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  3,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:44:55.6149176+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "016ddf4a-a35c-4dd4-8655-d1f321e496be",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:05:12.1236256+08:00",
+                      "CompletedAt":  "2025-01-19T07:46:17.7895685+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

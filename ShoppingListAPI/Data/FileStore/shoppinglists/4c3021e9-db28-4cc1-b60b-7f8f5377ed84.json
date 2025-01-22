@@ -1,0 +1,35 @@
+{
+    "Id":  "4c3021e9-db28-4cc1-b60b-7f8f5377ed84",
+    "Title":  "01/15 飲料採買清單",
+    "CreatedAt":  "2025-01-17T03:54:40.1926362+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e6d59c8-2759-4316-ba10-5dfc0bf65567",
+                      "Name":  "Sleek Plastic Bike",
+                      "Quantity":  1,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.369051Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cadeee0-0e02-4c03-a382-33801185fc00",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3690555Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d3f8d235-c4c4-4297-84d2-55dd73375c87",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3690654Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

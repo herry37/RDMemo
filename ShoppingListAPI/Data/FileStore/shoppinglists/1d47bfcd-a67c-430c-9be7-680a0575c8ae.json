@@ -1,0 +1,80 @@
+{
+    "Id":  "1d47bfcd-a67c-430c-9be7-680a0575c8ae",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T16:05:44.7735398+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8fbf4687-17d3-4532-9d35-5992d544e4e1",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:47:49.9989145+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a055261-a073-4582-b240-cb006824c8aa",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:21:06.9327585+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b335dfba-ac01-45fa-b58c-d74a3e8ae500",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:53:17.6625636+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "830ee381-ae77-43d5-a203-b546449fb81e",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:25:00.3946975+08:00",
+                      "CompletedAt":  "2025-01-19T19:20:25.5463151+08:00"
+                  },
+                  {
+                      "Id":  "07563a01-c2ce-4bbb-90a7-fd48456a7a15",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:40:12.5172519+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e17687e5-784e-4f25-90ac-9fd1869ee3ef",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:30:56.0056081+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3217b945-c3a9-44b9-b826-ecb112612d4b",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:55:37.3658083+08:00",
+                      "CompletedAt":  "2025-01-21T02:14:35.1745296+08:00"
+                  },
+                  {
+                      "Id":  "5f3b891c-7ffc-4a6f-aa1f-5639c059672c",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:08:39.0130279+08:00",
+                      "CompletedAt":  "2025-01-16T22:15:32.3895952+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

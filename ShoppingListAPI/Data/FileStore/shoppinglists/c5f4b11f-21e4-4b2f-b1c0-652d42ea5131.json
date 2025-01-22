@@ -1,0 +1,80 @@
+{
+    "Id":  "c5f4b11f-21e4-4b2f-b1c0-652d42ea5131",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-18T13:41:18.0979035+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ee9963c8-ad95-4693-8daf-6e598cfe72fa",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  243.088475175413410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:30:47.9385331+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8794a04d-5dbb-4da1-befa-5aa0c5f36d88",
+                      "Name":  "筆",
+                      "Quantity":  8,
+                      "Price":  387.984448217954340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:25:19.6585407+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "150d14ed-0bcc-4772-a581-6f185da7a114",
+                      "Name":  "棉被",
+                      "Quantity":  1,
+                      "Price":  206.701884987698090,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:43:55.1953454+08:00",
+                      "CompletedAt":  "2025-01-19T05:46:29.1562174+08:00"
+                  },
+                  {
+                      "Id":  "7186848f-aeac-47fd-8937-b240bc85188d",
+                      "Name":  "果乾",
+                      "Quantity":  4,
+                      "Price":  482.644198529942180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:18:17.6635419+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fbb5412-afba-4372-97a5-b4897f2ee568",
+                      "Name":  "手套",
+                      "Quantity":  4,
+                      "Price":  15.835263815175270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:50:58.6768745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bfd6285-b28d-4e49-b574-584bc2cef4b9",
+                      "Name":  "抹布",
+                      "Quantity":  10,
+                      "Price":  60.742656170166940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:20:48.4256571+08:00",
+                      "CompletedAt":  "2025-01-21T03:24:22.9302221+08:00"
+                  },
+                  {
+                      "Id":  "de97776a-e62d-497c-bf8a-9e355196983a",
+                      "Name":  "手套",
+                      "Quantity":  6,
+                      "Price":  148.809298479153820,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:07:42.3386724+08:00",
+                      "CompletedAt":  "2025-01-20T10:30:34.8980072+08:00"
+                  },
+                  {
+                      "Id":  "98afa73a-b36f-4aa1-aedd-ec9e6ef145d8",
+                      "Name":  "面膜",
+                      "Quantity":  10,
+                      "Price":  117.773789717778310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:56:56.5014789+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

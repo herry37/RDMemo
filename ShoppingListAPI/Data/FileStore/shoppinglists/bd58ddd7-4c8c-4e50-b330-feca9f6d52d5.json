@@ -1,0 +1,35 @@
+{
+    "Id":  "bd58ddd7-4c8c-4e50-b330-feca9f6d52d5",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T23:21:14.8985797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "452b2f94-e975-425c-9eb5-692d2acf24c8",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7525177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ace40682-c560-4c14-8d9d-c5fa6d31f251",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7525195Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3c17202-dbb8-4490-9fc5-5a49b02d8798",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7525204Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

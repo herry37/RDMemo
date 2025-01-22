@@ -1,0 +1,53 @@
+{
+    "Id":  "62f70fe9-d519-47e7-880a-5a1d020443b9",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-21T12:29:57.1618029+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a90ff93-a6e6-471d-a9ce-cbdb814a03ee",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.784097Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "698fe3b0-5f73-4341-a9b6-65e97b51f085",
+                      "Name":  "Generic Concrete Car",
+                      "Quantity":  2,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7841145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "050ec31d-de9f-4bbf-8e25-dc4760633d1c",
+                      "Name":  "Handcrafted Fresh Hat",
+                      "Quantity":  5,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.784119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58cbe5f5-e0ad-4bd8-bfff-50cdfc09de09",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.78412Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea4344e8-9ee2-40ae-a556-b9afe8c3cfba",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.784121Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

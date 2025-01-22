@@ -1,0 +1,35 @@
+{
+    "Id":  "1afa53ea-53b3-499a-8b29-c443a0b1e9f6",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T08:43:33.8861492+08:00",
+    "Items":  [
+                  {
+                      "Id":  "325b9294-4fdd-4cf2-bad9-22624a348ea9",
+                      "Name":  "Small Steel Pants",
+                      "Quantity":  4,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:31.0204016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcd78194-08ab-4811-8535-0a6b8189055c",
+                      "Name":  "Handcrafted Fresh Mouse",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:31.0204115Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfcc3099-da27-4dcc-90e0-c87d0ed7ec6c",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:31.0204154Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

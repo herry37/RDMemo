@@ -1,0 +1,44 @@
+{
+    "Id":  "6a72b385-7f59-4d07-8ad8-9e83afb198ad",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T03:13:40.4073867+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a8b5e70c-1102-4071-9949-a8b0d49b2d24",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6352628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3f8f8b1-0b7f-4a62-9501-2b68749282bc",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  73,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6352653Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72cdbb83-24f3-4f08-b5e3-d5f295ea960f",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6352663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "806518fa-2147-486c-a069-a27a7ccdedbc",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  114,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6352677Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

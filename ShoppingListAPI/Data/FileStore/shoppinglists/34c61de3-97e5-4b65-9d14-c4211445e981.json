@@ -1,0 +1,62 @@
+{
+    "Id":  "34c61de3-97e5-4b65-9d14-c4211445e981",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-17T16:39:17.0975949+08:00",
+    "Items":  [
+                  {
+                      "Id":  "acb84f1c-99cb-4b3d-a9e2-9cb7ac0894e6",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.352833Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d0feb68-419e-42ed-8ef9-59bd28dc3eb5",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3528381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77575c06-b4e8-427c-889d-81a3bc565c17",
+                      "Name":  "Handmade Cotton Bike",
+                      "Quantity":  2,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3528808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7efbb2fc-9edf-4806-8523-c61444c17786",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3528821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62f1990f-27d8-4403-acab-8b3e1ed56c5d",
+                      "Name":  "Handmade Plastic Soap",
+                      "Quantity":  3,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3528887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88c45921-e6e0-4c49-adf2-efd546bffa2b",
+                      "Name":  "Rustic Wooden Shoes",
+                      "Quantity":  3,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3528963Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

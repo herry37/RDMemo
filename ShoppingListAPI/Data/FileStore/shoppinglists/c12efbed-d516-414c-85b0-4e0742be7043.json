@@ -1,0 +1,44 @@
+{
+    "Id":  "c12efbed-d516-414c-85b0-4e0742be7043",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T17:54:57.475117+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b41e4d0e-7958-42b8-97c3-c600eea320ec",
+                      "Name":  "面膜",
+                      "Quantity":  9,
+                      "Price":  483.183801672025570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:11:26.7883072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98ce9724-a365-4607-8d11-de1b211ac81a",
+                      "Name":  "電池",
+                      "Quantity":  9,
+                      "Price":  232.049651838738150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:56:38.4386265+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9489718c-b743-4673-95e3-1809cda33c0f",
+                      "Name":  "相框",
+                      "Quantity":  3,
+                      "Price":  127.43637707510520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:10:34.6939961+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d33f0793-8427-4ad4-83d1-f59c76af72ca",
+                      "Name":  "清潔劑",
+                      "Quantity":  7,
+                      "Price":  89.67640298682750,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:47:04.1264715+08:00",
+                      "CompletedAt":  "2025-01-20T03:44:19.7846122+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

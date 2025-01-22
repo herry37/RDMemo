@@ -1,0 +1,71 @@
+{
+    "Id":  "68507ece-3cd6-48a9-9055-115f2c447f7a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-19T20:18:35.7270729+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d90eac9-8c14-4928-8c49-1d90abc14a71",
+                      "Name":  "口香糖",
+                      "Quantity":  2,
+                      "Price":  138.569083521886070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:52:30.4496992+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3da411ed-cc64-460d-90ec-1ce73e45d7e8",
+                      "Name":  "番茄",
+                      "Quantity":  1,
+                      "Price":  167.571803569498920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:02:30.6538726+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e501cc3-2345-4dc6-8fa8-b4e88e1400ec",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  415.065213698867890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:52:31.6068244+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "848b7242-d0ea-4985-a958-91adf9f82fe9",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  301.184414531209990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:35:13.6076425+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "640d4bf3-cc8f-4ad3-8d7a-2e60ceb732d4",
+                      "Name":  "爆米花",
+                      "Quantity":  1,
+                      "Price":  255.076258014334180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:57:07.8971149+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49c19832-5cb1-4357-8f92-dba59b5901c1",
+                      "Name":  "芳香劑",
+                      "Quantity":  8,
+                      "Price":  275.953806305914790,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:04:40.2940805+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75502e1e-6e56-4ad9-b615-a70d3e98d016",
+                      "Name":  "巧克力",
+                      "Quantity":  3,
+                      "Price":  260.710194597035040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:23:20.0591209+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,89 @@
+{
+    "Id":  "7fd07172-ed84-49a2-b279-c0b0ebb23f7f",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T13:09:03.6072682+08:00",
+    "Items":  [
+                  {
+                      "Id":  "39b838f5-5221-4196-9541-6dd25c65cdb0",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8449b385-ef94-4e55-af0f-ee92a841e158",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a83f5db-8e15-43ee-bfbc-ed23766e7086",
+                      "Name":  "Refined Cotton Chair",
+                      "Quantity":  3,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "144c75a9-a517-4320-8870-5acc29d705e4",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  411,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874375Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9dab726-bf82-4306-aa0c-c648f976c390",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  481,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c88ce09c-e2a2-49b9-9b6f-0869bb2602ca",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874443Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70b02342-7b67-4547-aa69-3693affc1fcb",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.487447Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "134907f5-bc4e-454f-9465-1eaa384694b9",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874501Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fed61d2-ae14-49e9-9cba-43dd13e937ef",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4874527Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

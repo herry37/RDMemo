@@ -1,0 +1,53 @@
+{
+    "Id":  "4352d120-2f6e-4154-90be-12250ef8e8d5",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-20T04:28:37.8657442+08:00",
+    "Items":  [
+                  {
+                      "Id":  "377b902f-f953-4d06-8b67-a7377a9a6b28",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7712463Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e3b6d92-a54e-499b-95a8-30e287a0710b",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.771252Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29336325-49a0-435c-a09c-a78ad8bfda0a",
+                      "Name":  "Handcrafted Rubber Chair",
+                      "Quantity":  5,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7712772Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "464f8679-05cb-43b8-975b-5b78842e461e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7712798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8d08740-5574-40ee-9b3b-d8807b4ab406",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7712818Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

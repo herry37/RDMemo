@@ -1,0 +1,35 @@
+{
+    "Id":  "994f3996-1070-4bd2-8da1-96514e88da4e",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T22:40:01.9047311+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1e2cfd07-2819-498f-8fe4-0529876ab209",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2193667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "557aebd7-f511-4576-9548-92fc0a6958a3",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2193708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a8ded10-5cd4-46f4-8652-2d840ab9584b",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2193717Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

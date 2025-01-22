@@ -1,0 +1,44 @@
+{
+    "Id":  "cb643069-7ab0-474b-8cf4-3e3f11b7ea73",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T23:06:11.8593347+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fe3e9a38-bf1f-4553-9983-646e99435168",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:04:19.8899458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2527a04a-a8ec-4406-9195-c7e1e4790413",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  123,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:14:47.6710307+08:00",
+                      "CompletedAt":  "2025-01-22T00:14:33.7369061+08:00"
+                  },
+                  {
+                      "Id":  "c4a5ed61-24a9-442b-a848-85c4c40f3a58",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:32:21.5875144+08:00",
+                      "CompletedAt":  "2025-01-18T17:34:08.0753325+08:00"
+                  },
+                  {
+                      "Id":  "480f0e50-7e03-46b1-acb1-1ba2b12ae5e1",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:03:54.4097969+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

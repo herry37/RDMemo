@@ -1,0 +1,35 @@
+{
+    "Id":  "5b946e79-8a83-4bb4-ab24-7fc142a41a8f",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-20T05:40:37.4194796+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38cf32d1-e213-48bd-ba65-f4e98b4c8576",
+                      "Name":  "除霉劑",
+                      "Quantity":  3,
+                      "Price":  63.280540069988490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T23:28:22.7540436+08:00",
+                      "CompletedAt":  "2025-01-16T04:18:45.9242301+08:00"
+                  },
+                  {
+                      "Id":  "c4ec8339-b32b-4d82-908a-7d7c8238bf90",
+                      "Name":  "清潔劑",
+                      "Quantity":  8,
+                      "Price":  68.014696524414070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:08:46.2964516+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6aa552f2-c8aa-4537-9a8c-1a3e5d1ffbbc",
+                      "Name":  "化妝品",
+                      "Quantity":  1,
+                      "Price":  108.354460032754030,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:51:39.2459764+08:00",
+                      "CompletedAt":  "2025-01-20T08:46:37.9797903+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

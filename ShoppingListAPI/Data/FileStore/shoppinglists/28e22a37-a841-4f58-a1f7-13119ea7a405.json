@@ -1,0 +1,71 @@
+{
+    "Id":  "28e22a37-a841-4f58-a1f7-13119ea7a405",
+    "Title":  "緊急採買 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T12:49:48.3516112+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e4b29110-edd6-4f6f-b455-058991d99b39",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  144,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:40:55.106444+08:00",
+                      "CompletedAt":  "2025-01-22T01:01:15.0297931+08:00"
+                  },
+                  {
+                      "Id":  "a954650b-0040-43c0-bd72-7046b3a1be5c",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  59,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T02:54:08.1469737+08:00",
+                      "CompletedAt":  "2025-01-21T17:03:17.3152263+08:00"
+                  },
+                  {
+                      "Id":  "f2a6896a-6119-4a07-a23f-fcf95b612e3e",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:27:06.6559329+08:00",
+                      "CompletedAt":  "2025-01-19T17:31:35.3945344+08:00"
+                  },
+                  {
+                      "Id":  "63b2a624-65ca-41e7-af47-03a47f5cba9a",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:29:20.0316452+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acca141c-7431-4d0f-a74c-860e4fea156c",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  1,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:29:34.1301477+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8324b28-96cf-4fc9-81ff-ccb5a83f89b3",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:20:04.7566471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f698b393-0408-4a2f-b067-30198ded1e57",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  2,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:55:40.7718095+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

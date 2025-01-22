@@ -1,0 +1,62 @@
+{
+    "Id":  "e6e2e8ef-a796-4568-86ad-1adb74a959ec",
+    "Title":  "緊急採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-21T19:00:39.0394942+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06a4f1c8-c9da-414b-aa9c-a3fb63a51bdf",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:40:37.9874871+08:00",
+                      "CompletedAt":  "2025-01-21T13:38:46.0961141+08:00"
+                  },
+                  {
+                      "Id":  "705b37ff-ce6a-420c-81ae-fbc32f4ef6fd",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:02:44.3791129+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84f68fc7-9e33-4dff-ad16-c3a857fd82c5",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:25:21.8375196+08:00",
+                      "CompletedAt":  "2025-01-15T23:45:32.2510694+08:00"
+                  },
+                  {
+                      "Id":  "956a9910-6df9-4554-8816-cfc3227146d8",
+                      "Name":  "保養化妝品",
+                      "Quantity":  1,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:25:19.1218568+08:00",
+                      "CompletedAt":  "2025-01-19T10:23:44.3198651+08:00"
+                  },
+                  {
+                      "Id":  "de78f152-047c-4b7a-9bc1-58007d30c10f",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:56:59.4177352+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f79da97-4f6b-43f0-993d-24b0df8f6111",
+                      "Name":  "電動牙刷",
+                      "Quantity":  1,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:36:39.1665261+08:00",
+                      "CompletedAt":  "2025-01-19T22:45:31.0299458+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

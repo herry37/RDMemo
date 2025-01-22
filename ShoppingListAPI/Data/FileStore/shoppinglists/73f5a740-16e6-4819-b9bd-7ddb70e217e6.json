@@ -1,0 +1,89 @@
+{
+    "Id":  "73f5a740-16e6-4819-b9bd-7ddb70e217e6",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T15:58:10.6705404+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8bf10130-294f-4027-bf8c-9d04b7f84516",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193287Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4b6d610-0f9f-492f-a968-bd742940e909",
+                      "Name":  "Rustic Granite Chicken",
+                      "Quantity":  4,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193485Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bda211a5-c672-421f-90c9-08314969cd3a",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193515Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cfd693d-6942-4556-985a-773683a9b9f4",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193525Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccd08844-70f8-442e-ac23-c0a1925bd6cc",
+                      "Name":  "Unbranded Steel Shoes",
+                      "Quantity":  1,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6497fe28-79dc-4592-bf34-1b995bb4e939",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  387,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3193809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbdc40d1-df50-4e34-bbb1-86dabd9a52dd",
+                      "Name":  "Handmade Plastic Gloves",
+                      "Quantity":  3,
+                      "Price":  381,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.31939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21f69e07-aff3-4544-accd-0de56b82151b",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  177,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.319391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "520672cf-5244-4cb1-9279-ee0aec4f30d9",
+                      "Name":  "Ergonomic Rubber Cheese",
+                      "Quantity":  2,
+                      "Price":  332,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.319397Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

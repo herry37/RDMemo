@@ -1,0 +1,35 @@
+{
+    "Id":  "918ccf87-de16-45df-ad10-7c5ee308ff71",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T03:36:05.1790093+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58942ba7-14ea-42d2-99e5-fa5edcd0cff8",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5560307Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6826415c-9038-4bad-8bb2-9521bba5ff49",
+                      "Name":  "Awesome Soft Mouse",
+                      "Quantity":  5,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5560595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a070b089-48b1-4274-9288-52036897d8dc",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5560607Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

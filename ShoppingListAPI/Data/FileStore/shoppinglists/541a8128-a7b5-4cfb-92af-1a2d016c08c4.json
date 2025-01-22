@@ -1,0 +1,71 @@
+{
+    "Id":  "541a8128-a7b5-4cfb-92af-1a2d016c08c4",
+    "Title":  "每週採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-19T00:26:10.6293534+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9a4bca06-94ea-4fa6-b71b-099be9972bec",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:39:07.4818538+08:00",
+                      "CompletedAt":  "2025-01-20T20:41:52.3139701+08:00"
+                  },
+                  {
+                      "Id":  "4ac6d61c-d0d2-45a9-8c35-2c298195f931",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:59:36.703868+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "739f53d8-e47a-43ca-966c-e3131666a36e",
+                      "Name":  "透明膠帶",
+                      "Quantity":  5,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:12:17.8772866+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "300c93d2-0b6c-4963-a03e-2fe09422f548",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:00:22.9349586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e8a6308-a486-44fa-b60b-08b6aecc6fcb",
+                      "Name":  "透明膠帶",
+                      "Quantity":  3,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:17:44.950351+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53aafd4b-e4de-43cc-a2f2-75c709e245f4",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:21.2413781+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81949781-e219-46f2-a7d9-2c22cf89a198",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:27:51.1902507+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

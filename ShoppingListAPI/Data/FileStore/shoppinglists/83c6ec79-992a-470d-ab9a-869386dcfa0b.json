@@ -1,0 +1,53 @@
+{
+    "Id":  "83c6ec79-992a-470d-ab9a-869386dcfa0b",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T02:13:54.4643912+08:00",
+    "Items":  [
+                  {
+                      "Id":  "acb096d7-61f3-406c-b7b0-2046f18c64e6",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4596597Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e9c47d7-f5e1-4c17-9699-b6914db314d3",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4596608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b9edc12-4464-44c0-9dc9-75dd1780c135",
+                      "Name":  "Gorgeous Rubber Chicken",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4596674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e428048-bf52-4002-8bf6-6c12ab896e75",
+                      "Name":  "Handcrafted Plastic Sausages",
+                      "Quantity":  2,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.45967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42a47e3a-4ab7-47ec-869b-6a6c12e1b394",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4596709Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "d19e1c03-1d19-4cf6-996b-f2bcb56a9283",
+    "Title":  "01/18 零食採買清單",
+    "CreatedAt":  "2025-01-17T04:10:39.126879+08:00",
+    "Items":  [
+                  {
+                      "Id":  "378d4e13-52f6-4fd1-8996-fcf6e2836c20",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "289ed390-5a17-48c2-bdcb-3845697b5ba4",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b392515d-1a83-41df-88be-2fdb5764b3ba",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69522f0f-d7e6-44a2-8a08-f920339e8004",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c4ec213-4059-4003-b724-49a3b5e3008d",
+                      "Name":  "Intelligent Metal Fish",
+                      "Quantity":  2,
+                      "Price":  324,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810463Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83101124-7319-43bc-8261-c841ee1768ea",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37f08110-979f-41c1-a084-31aed5ebcc40",
+                      "Name":  "Gorgeous Steel Shirt",
+                      "Quantity":  5,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810772Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7843a74-543e-4478-a04b-f2c91e529107",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0810794Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

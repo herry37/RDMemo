@@ -1,0 +1,98 @@
+{
+    "Id":  "ad2d77a2-09de-475f-be02-a91ff2fa3585",
+    "Title":  "01/14 食品購物清單",
+    "CreatedAt":  "2025-01-20T01:11:50.6987423+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4da352ab-a498-4294-93b3-ee5f8c6faf53",
+                      "Name":  "Fantastic Fresh Pants",
+                      "Quantity":  2,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8734949Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f2e6322-3d90-492f-9316-a4a5349b2c51",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  399,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27d02f5a-9f88-4303-91e6-7e28ea114c8c",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735047Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c0ce5e8-986a-4bd9-9aed-506ae658e005",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99afe530-5cf8-40a1-b840-a17c971231f6",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  364,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8202c3b5-2451-493c-84f5-a22eb9935e6a",
+                      "Name":  "Awesome Metal Gloves",
+                      "Quantity":  3,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735196Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b8441d0-86ec-49be-90dd-a9ac74e276a3",
+                      "Name":  "Practical Frozen Cheese",
+                      "Quantity":  2,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735266Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e847cd2-2a9d-4725-93ca-f130e74043ce",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735421Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25d440b6-f1cc-47c5-9e78-83075df3d3a5",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735454Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d873762e-2fcb-4604-99bd-71db5a9c5f8d",
+                      "Name":  "Tasty Wooden Computer",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8735531Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/14"
+}

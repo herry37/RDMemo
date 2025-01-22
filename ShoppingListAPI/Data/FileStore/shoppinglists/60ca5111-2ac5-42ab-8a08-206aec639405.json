@@ -1,0 +1,35 @@
+{
+    "Id":  "60ca5111-2ac5-42ab-8a08-206aec639405",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T05:54:05.249435+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6596188e-0d8a-45fb-8483-98fb7d3b4d83",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9922347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "575aafdd-c062-4605-95c1-2ce374743e53",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9922416Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c507350c-569f-4585-b8aa-d0d1791142a3",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  418,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.992275Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

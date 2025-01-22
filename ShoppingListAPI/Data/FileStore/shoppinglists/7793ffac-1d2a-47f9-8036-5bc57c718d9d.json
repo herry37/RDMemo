@@ -1,0 +1,62 @@
+{
+    "Id":  "7793ffac-1d2a-47f9-8036-5bc57c718d9d",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-20T23:21:40.6985544+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7cb2e656-95b0-4069-bf88-859e2e341410",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  312,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f14b5c5f-bbc5-47bf-ba87-4d94a90a19db",
+                      "Name":  "Licensed Cotton Chips",
+                      "Quantity":  4,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "06d703ad-445c-4880-abc0-1523ce2cb1da",
+                      "Name":  "Gorgeous Cotton Pizza",
+                      "Quantity":  5,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673488Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10f883c4-91e2-4b2d-a2e0-71a42d00904e",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  327,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673499Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4154c3a9-c6b9-471b-89c5-71821f125828",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  489,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673511Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1af38c7e-d8fd-4d5a-9744-de0b86b5263e",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4673536Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

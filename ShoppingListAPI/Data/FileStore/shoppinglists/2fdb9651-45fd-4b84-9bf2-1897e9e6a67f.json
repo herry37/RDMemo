@@ -1,0 +1,80 @@
+{
+    "Id":  "2fdb9651-45fd-4b84-9bf2-1897e9e6a67f",
+    "Title":  "露營準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-20T02:36:03.0854954+08:00",
+    "Items":  [
+                  {
+                      "Id":  "215332ef-d1c0-466a-9916-485d3d218c0b",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  42,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:07:28.7260269+08:00",
+                      "CompletedAt":  "2025-01-19T22:04:16.842023+08:00"
+                  },
+                  {
+                      "Id":  "8ef1c5f5-e2b3-4bec-9c2e-3c4ca07a5bf5",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:22:13.9984618+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2da232fb-b6f5-4086-9fd0-9abdce3a8cf1",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:55:13.5296149+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fea7cf22-7986-491c-b6db-163c6f3ee18b",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:06:30.4734834+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9ba0f53-8795-473e-b8a6-d09d2371a171",
+                      "Name":  "防滑衣架",
+                      "Quantity":  1,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:57:40.4521061+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2bca6bd-e8c1-4e09-beed-4af453aed8a5",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:56:27.1914619+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6e4df05-0222-4332-91d3-fd1feca3c946",
+                      "Name":  "進口糖果",
+                      "Quantity":  5,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:48:13.1068894+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea6fe34d-d651-43b5-a77a-8cbdf31cf854",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:03:27.5148957+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

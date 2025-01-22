@@ -1,0 +1,80 @@
+{
+    "Id":  "3fdb4929-cab8-4820-82df-93d3a500c338",
+    "Title":  "01/19 飲料購物清單",
+    "CreatedAt":  "2025-01-21T15:12:23.2830717+08:00",
+    "Items":  [
+                  {
+                      "Id":  "039f5e5d-e5f3-4ca6-ad49-b9bb9bcb1ac5",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8450606Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4b81f37-9cdc-4e64-9863-3b2d3f6fef03",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8450678Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76304898-066b-4591-afd5-c2bed31c89ec",
+                      "Name":  "Refined Soft Computer",
+                      "Quantity":  4,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8451033Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ade6b65b-6b0a-4ad1-8aab-d3a96622c4e4",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8451063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b29654b-9231-4812-8ce9-38b9cd361dca",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.845142Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41228ad4-6ef9-44c5-bdf6-726ef5bba354",
+                      "Name":  "Handmade Plastic Chips",
+                      "Quantity":  3,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8451631Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc20c5c3-a588-4031-970c-51ac3bfc7f60",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8451655Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42d72dbb-0d71-42b4-b2c4-f1e372df8adf",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8451696Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

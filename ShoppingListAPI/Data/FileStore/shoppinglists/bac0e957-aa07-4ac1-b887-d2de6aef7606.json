@@ -1,0 +1,53 @@
+{
+    "Id":  "bac0e957-aa07-4ac1-b887-d2de6aef7606",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T20:01:57.7835545+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f5a83a8e-2a10-4d8a-9359-8b77234087b4",
+                      "Name":  "膠帶",
+                      "Quantity":  7,
+                      "Price":  244.566111992562210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T17:59:06.9414473+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7dafa05-a235-42a5-bb76-2158a543b35a",
+                      "Name":  "拖把",
+                      "Quantity":  2,
+                      "Price":  13.81149496727318130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:01:06.8100564+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f42790bf-1015-4f69-9400-c38a518b6424",
+                      "Name":  "汽水",
+                      "Quantity":  4,
+                      "Price":  280.841539818013570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:19:34.9454631+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76718023-8dfb-4b57-b5f8-6ea6b8780f5c",
+                      "Name":  "防曬乳",
+                      "Quantity":  10,
+                      "Price":  52.9846532932715360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:20:18.9896121+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dec3096a-b725-4229-9ebf-ef601c5298ea",
+                      "Name":  "面紙",
+                      "Quantity":  3,
+                      "Price":  41.2179961099414240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:47:16.6141625+08:00",
+                      "CompletedAt":  "2025-01-18T13:46:11.1201858+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

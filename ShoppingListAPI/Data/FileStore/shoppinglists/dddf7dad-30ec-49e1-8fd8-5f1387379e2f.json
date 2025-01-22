@@ -1,0 +1,80 @@
+{
+    "Id":  "dddf7dad-30ec-49e1-8fd8-5f1387379e2f",
+    "Title":  "露營準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-18T01:57:45.5897286+08:00",
+    "Items":  [
+                  {
+                      "Id":  "563055b4-7690-495a-b621-5e4dcd2b827f",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:06:30.5751189+08:00",
+                      "CompletedAt":  "2025-01-21T11:45:46.5815973+08:00"
+                  },
+                  {
+                      "Id":  "36d31eda-df21-444f-a600-610e75d32e8d",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:16:58.9001637+08:00",
+                      "CompletedAt":  "2025-01-20T11:16:41.0824532+08:00"
+                  },
+                  {
+                      "Id":  "97cfbb1b-1026-4808-8078-d882d57984b9",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:33:59.0252586+08:00",
+                      "CompletedAt":  "2025-01-17T07:20:30.0212161+08:00"
+                  },
+                  {
+                      "Id":  "8ff61a5c-8582-4a32-8783-7770247ebd2f",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:15:15.8814388+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be1efe2c-26e0-4dd3-9778-31585869cc64",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:38:10.3954213+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4c281ba-ed85-4a5d-b01c-fd54fc92c78f",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:07:26.3216746+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b1712c3-f042-4122-a8ef-8b67e5191c1b",
+                      "Name":  "放牧蛋",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:35:12.5862326+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4ea8fb1-7310-4bc4-aa61-afbfc332254e",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:34:04.2285023+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

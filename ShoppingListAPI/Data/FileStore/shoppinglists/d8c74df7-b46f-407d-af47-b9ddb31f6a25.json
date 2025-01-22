@@ -1,0 +1,35 @@
+{
+    "Id":  "d8c74df7-b46f-407d-af47-b9ddb31f6a25",
+    "Title":  "聚會準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T10:12:46.3889965+08:00",
+    "Items":  [
+                  {
+                      "Id":  "41d7d616-2f95-4f0f-b6dd-fade5a1a079c",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:25:50.5758795+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fc47009-af0f-4b60-ac61-12b8e5d5d877",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:54:15.2915048+08:00",
+                      "CompletedAt":  "2025-01-22T16:11:36.8179653+08:00"
+                  },
+                  {
+                      "Id":  "91a2c59e-076a-47e5-9db9-0bbb137ab7be",
+                      "Name":  "木質相框",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:20:52.6510048+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

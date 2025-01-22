@@ -1,0 +1,98 @@
+{
+    "Id":  "31d21b59-d1f0-4b19-8ea2-f27c611a3292",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T19:07:18.637955+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9e7cdde6-e83c-4407-8265-1caef4ae09e6",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d6c4641-ff00-48be-8dbc-aaf717e0c897",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "178641b7-f148-45d0-9a8b-8383baa676a3",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.058528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ee0563f-96cd-44d1-b629-19883e972669",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  354,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c97cb3fe-7966-4294-bd4a-ca41d8587569",
+                      "Name":  "Fantastic Fresh Soap",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585512Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47b5d6b0-6b3e-4a7c-a948-34aa336a30df",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585533Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c0fdefe-6b97-44ce-a523-4f6c9adf31ee",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b64e760-0eaa-4ec0-9c93-b3cd5b2a385b",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2c405006-fe3d-4d77-9a23-88dd3b842f5c",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585566Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f273893-4b73-4999-8735-dcc6a4242a15",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0585578Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "58bceded-9b11-4a14-bcd7-1690bf2b1c91",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-21T19:35:57.3925555+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d1da5380-8e37-431b-931f-a434fc529a2f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4713377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8657fed-7132-47c6-9334-40215ca22669",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4713417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "305b3c5c-a6c7-49d9-ba69-1b8b022def14",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4713455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b075c131-eb9e-4554-aea1-48e780e98b99",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4713466Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

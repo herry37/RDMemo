@@ -1,0 +1,71 @@
+{
+    "Id":  "310b9666-dfcc-4c51-bc61-aa835511abb3",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T03:42:04.3881536+08:00",
+    "Items":  [
+                  {
+                      "Id":  "afb79ae9-22c7-4a46-bc6d-88d2aff24895",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:48:28.4507314+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "666dd903-7569-4793-8beb-62c0552ee75f",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:03:08.4835552+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a41157f-c723-4eed-9916-2902c535c865",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  1,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:32:46.0834844+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f97987a7-97a9-44d9-870d-9a57d23d41e4",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:48:19.294657+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05f02c53-7127-414b-b064-33776ee96d94",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:14:42.3596956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f215e356-e316-472f-836b-9e6d916e365a",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T18:20:24.6238998+08:00",
+                      "CompletedAt":  "2025-01-19T12:33:47.7291199+08:00"
+                  },
+                  {
+                      "Id":  "99d0292e-e370-450b-9e54-178151ef3554",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:15:42.2334502+08:00",
+                      "CompletedAt":  "2025-01-20T22:02:24.0786228+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

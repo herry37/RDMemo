@@ -1,0 +1,71 @@
+{
+    "Id":  "a557818e-9db4-458a-bcda-caf6e1b9b53d",
+    "Title":  "露營準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-18T01:01:18.8273896+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d4296714-8846-4bd3-824e-90f54659f028",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:42:42.0601209+08:00",
+                      "CompletedAt":  "2025-01-18T05:53:58.4831507+08:00"
+                  },
+                  {
+                      "Id":  "789ae9e8-6021-4bc2-90bc-2ba2c3dc9dfe",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:20:10.7428068+08:00",
+                      "CompletedAt":  "2025-01-17T12:47:38.3230991+08:00"
+                  },
+                  {
+                      "Id":  "42f0dd0f-5ffb-4a2a-8b98-01d7ebe960b3",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:55:14.8454672+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19cfade4-0af1-4dfa-bc78-a00c518c223d",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:31:58.1839278+08:00",
+                      "CompletedAt":  "2025-01-21T01:08:17.0386365+08:00"
+                  },
+                  {
+                      "Id":  "90b02d58-7b91-4d84-aa7f-c4765e720f37",
+                      "Name":  "原木梳子",
+                      "Quantity":  2,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:11:35.1218941+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae675660-15f9-4e2f-a055-2962039559a4",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:25:05.9052584+08:00",
+                      "CompletedAt":  "2025-01-21T05:31:32.7013796+08:00"
+                  },
+                  {
+                      "Id":  "9b1e1e68-5170-46fb-80c7-4d5cd1cbbbaa",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  34,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:15:10.503828+08:00",
+                      "CompletedAt":  "2025-01-16T22:17:19.3429714+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

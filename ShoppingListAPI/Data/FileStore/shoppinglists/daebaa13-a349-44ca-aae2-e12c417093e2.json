@@ -1,0 +1,62 @@
+{
+    "Id":  "daebaa13-a349-44ca-aae2-e12c417093e2",
+    "Title":  "年節採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-20T02:03:05.6837875+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d6ba45ed-208c-4927-96f3-0ea8ee1cf371",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  5,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:48:10.9077016+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19a77d42-c8d2-4cf3-94ef-27bb36719db5",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:57:01.6754686+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a56b647-c645-46b3-ad77-9b7359b04993",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:02:13.7702097+08:00",
+                      "CompletedAt":  "2025-01-22T15:55:28.9226108+08:00"
+                  },
+                  {
+                      "Id":  "891d52f9-85f5-47ac-aa3f-0b7a6d34ba84",
+                      "Name":  "木質相框",
+                      "Quantity":  3,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:07:46.9139918+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffa1d0af-ac7b-4eb2-8031-1935aec962a1",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:40:10.7145453+08:00",
+                      "CompletedAt":  "2025-01-20T10:35:16.4174902+08:00"
+                  },
+                  {
+                      "Id":  "77e33698-8489-478b-ad18-e85f24fee62f",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:06:15.5868406+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

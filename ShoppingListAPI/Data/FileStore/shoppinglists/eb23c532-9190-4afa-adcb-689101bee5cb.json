@@ -1,0 +1,98 @@
+{
+    "Id":  "eb23c532-9190-4afa-adcb-689101bee5cb",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-15T06:11:42.8973966+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5cc0d8d4-6c83-4646-8330-d72701f5a3b7",
+                      "Name":  "Awesome Concrete Chicken",
+                      "Quantity":  4,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f846ac53-d39d-4213-97cc-b84357cdb3ae",
+                      "Name":  "Rustic Frozen Table",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b683ecc4-36ff-4016-9121-142bd6401fc3",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a9f69d7-4b3c-4e2c-90f8-b681ba42c720",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  111,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946414Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b51f7c53-76d8-4def-82ec-8be1b62c90d7",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946423Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c2f0e5b-aca5-4da3-b4bd-b7d3bd1a1cb6",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09ce0685-e355-44c8-81c7-5bcf8248376e",
+                      "Name":  "Rustic Concrete Fish",
+                      "Quantity":  5,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f64460fb-23cc-4cc7-9b65-c63064313866",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  314,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946492Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8443718-1515-40b8-9880-53277b049eed",
+                      "Name":  "Intelligent Frozen Salad",
+                      "Quantity":  2,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dd942d6-d861-45c5-8b74-363e5162e9a8",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3946537Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

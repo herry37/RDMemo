@@ -1,0 +1,71 @@
+{
+    "Id":  "8db84119-bd94-40de-8e83-02e8e6086bbf",
+    "Title":  "01/19 食品採買清單",
+    "CreatedAt":  "2025-01-19T09:46:56.7756931+08:00",
+    "Items":  [
+                  {
+                      "Id":  "904d9ca1-7ef4-4397-bfd7-c39d2096f321",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  47,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2018917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "727bfd21-62de-4369-88e2-6b3394792ba5",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2018964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "529a7a44-0c33-41be-b57c-c6561de4f0bb",
+                      "Name":  "Tasty Fresh Towels",
+                      "Quantity":  5,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2019215Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7813ead7-8888-411d-8c18-c47b8e3778ea",
+                      "Name":  "Handmade Wooden Chicken",
+                      "Quantity":  1,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2019267Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07620fc9-31d3-4fb9-ad5b-7b0cb012ccb9",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.201929Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "217fc150-69f3-45d3-bdfa-08a4934fc4a6",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2019322Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3429ea8f-3b17-43e5-8dc8-bd990b9a5f54",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2019341Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

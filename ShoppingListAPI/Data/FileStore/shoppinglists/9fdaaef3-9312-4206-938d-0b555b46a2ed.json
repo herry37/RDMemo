@@ -1,0 +1,89 @@
+{
+    "Id":  "9fdaaef3-9312-4206-938d-0b555b46a2ed",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-17T03:11:10.8300123+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9f1ce4f9-0ed4-4f9a-9e11-e87e3f7d227e",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.171291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26b46862-a027-4155-8d09-dbf030a7044f",
+                      "Name":  "Fantastic Wooden Sausages",
+                      "Quantity":  1,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f47b1898-eee0-4799-be4d-7c54e7cc1313",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61ef2f39-244d-494c-90b5-d0bace882368",
+                      "Name":  "Intelligent Steel Chicken",
+                      "Quantity":  3,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95b153bc-d932-4512-a8f9-8836f6d2a618",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713304Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44679745-9a56-4198-aa4c-22aaeba2b175",
+                      "Name":  "Sleek Concrete Chips",
+                      "Quantity":  4,
+                      "Price":  305,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713364Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1547161e-ffcd-4526-867b-a4af6bee39c2",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "967d6995-8181-4d61-b786-598ba531350b",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.171338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ade6bb8c-082a-48f2-be4a-4d0fd8e6e9df",
+                      "Name":  "Handmade Plastic Car",
+                      "Quantity":  2,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1713412Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

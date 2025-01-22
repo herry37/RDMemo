@@ -1,0 +1,35 @@
+{
+    "Id":  "74190eac-8de0-43a1-80e2-3ad93e4f7dd6",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-19T18:41:50.6900591+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c1f9d49b-c990-41fa-b898-c8caa6a28522",
+                      "Name":  "化妝品",
+                      "Quantity":  4,
+                      "Price":  191.010177215455980,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:13:30.5781853+08:00",
+                      "CompletedAt":  "2025-01-20T16:58:35.9857731+08:00"
+                  },
+                  {
+                      "Id":  "395a3a2a-0e25-4da4-a71a-bd6ed7590845",
+                      "Name":  "豬肉",
+                      "Quantity":  6,
+                      "Price":  279.39640290295040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:31:58.3101238+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "495dd508-e097-45fc-8f44-d1a99985e64f",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  277.334772701392480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:56:10.4584874+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

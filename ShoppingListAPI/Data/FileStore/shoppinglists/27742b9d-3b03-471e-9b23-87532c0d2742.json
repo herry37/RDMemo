@@ -1,0 +1,98 @@
+{
+    "Id":  "27742b9d-3b03-471e-9b23-87532c0d2742",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T14:15:22.6694407+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a14d24ff-2dfa-4fec-83a1-8e03e8393347",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7498149Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "122bad07-c710-4da5-90d5-3f30a1d50722",
+                      "Name":  "Handcrafted Wooden Towels",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7498535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be1b234e-fa0e-4914-ac4a-673563417748",
+                      "Name":  "Incredible Wooden Chips",
+                      "Quantity":  3,
+                      "Price":  32,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63b77e21-d8f2-491c-8ed7-7df1f85c29ac",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e747144-92d5-4432-86bc-0adf40496083",
+                      "Name":  "Intelligent Steel Mouse",
+                      "Quantity":  4,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499172Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab9b7144-ef6f-4791-8b34-ba533eb75682",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab761cd4-5067-4095-bd4e-45a656e1b420",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499253Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d784b5f5-fc85-4df6-9ee3-c1b9ffa6144b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499268Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0477baa0-366e-4f55-bbf4-b6e550c11cf9",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499282Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a7f030a-e0de-4a03-ac63-e1e7a50bb70a",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  76,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7499307Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

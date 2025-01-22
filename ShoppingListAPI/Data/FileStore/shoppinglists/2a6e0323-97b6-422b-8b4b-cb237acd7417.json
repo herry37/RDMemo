@@ -1,0 +1,53 @@
+{
+    "Id":  "2a6e0323-97b6-422b-8b4b-cb237acd7417",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-14T23:53:28.4588069+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b4b7523e-77e2-4120-b538-d65a52bb4040",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:43:46.8218932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d146e3d3-a490-4797-9374-2e16e55562ad",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T01:53:14.3831735+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f5b9af2-83c3-4392-9b5e-74093ac1d33c",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:17:15.2620398+08:00",
+                      "CompletedAt":  "2025-01-22T06:18:35.186718+08:00"
+                  },
+                  {
+                      "Id":  "a686f456-1275-432d-8250-a42cabbff209",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:19:04.9134546+08:00",
+                      "CompletedAt":  "2025-01-22T05:25:21.7072286+08:00"
+                  },
+                  {
+                      "Id":  "88b34964-c524-4161-8870-bf3deca35363",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:37:04.2494887+08:00",
+                      "CompletedAt":  "2025-01-17T18:52:13.270765+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

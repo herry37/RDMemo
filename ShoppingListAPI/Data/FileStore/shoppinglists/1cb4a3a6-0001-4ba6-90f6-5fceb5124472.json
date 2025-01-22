@@ -1,0 +1,62 @@
+{
+    "Id":  "1cb4a3a6-0001-4ba6-90f6-5fceb5124472",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T06:11:56.751221+08:00",
+    "Items":  [
+                  {
+                      "Id":  "33db6888-3326-4f18-9863-5773e9aaa534",
+                      "Name":  "Handcrafted Wooden Soap",
+                      "Quantity":  1,
+                      "Price":  437,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3964134Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fb26d82-23dd-4c7f-870a-109838bb7798",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3964171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76fc563d-68a9-4f0f-8718-632f2f29e542",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  409,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3964186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbdc89cc-5c73-41e7-8d95-c5ca245b2b2c",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.39642Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfeb4a6d-134a-438a-ab16-6703ec1ec3ef",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3964225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "badc2913-6b25-4ac9-903e-acf9397abf71",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3964264Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "d2b6a2c4-9743-48a7-a123-d9bd9e4b0496",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T12:05:30.5496504+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc444427-fbb2-48da-a249-63d9ccfc7c61",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5446319Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d00f729b-36a0-4cc0-bd85-8a2f37594938",
+                      "Name":  "Rustic Plastic Computer",
+                      "Quantity":  1,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5446588Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d930690c-5287-4d3a-9e45-00cbfd1ed8c3",
+                      "Name":  "Unbranded Rubber Pants",
+                      "Quantity":  5,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5446651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8d2452c-5d34-42ac-b6d9-7452fdae4552",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  458,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5446662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3146ec66-38ae-4439-873a-57135d70f580",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5446671Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

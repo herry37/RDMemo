@@ -1,0 +1,35 @@
+{
+    "Id":  "41918f4c-a419-4ecc-b21f-0a8263c0edb5",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T14:30:19.2855408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b142bcf-4219-4328-b988-f22e303d9ca2",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:57:00.7717141+08:00",
+                      "CompletedAt":  "2025-01-16T18:37:20.4017302+08:00"
+                  },
+                  {
+                      "Id":  "fb0e808b-9839-44af-9760-fc072293e626",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:17:06.5741929+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cf7b5bc-d7ba-40bd-a37d-f7aa441246ef",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:25:10.4997849+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

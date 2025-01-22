@@ -1,0 +1,62 @@
+{
+    "Id":  "01cbf76b-78df-4d07-b529-af753fc57384",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T10:46:11.5905372+08:00",
+    "Items":  [
+                  {
+                      "Id":  "79b9437c-1d86-4737-b318-7172dbde144d",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2201162Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cf64c5e-8ea8-4a4c-bdc2-9886a2915dff",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.22012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9a67a56-1624-4ada-98c2-c4ee30de2a08",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2201209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d359edd8-b212-433f-9022-8acca2314423",
+                      "Name":  "Handmade Metal Cheese",
+                      "Quantity":  4,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.2201452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1238f51-eb56-48d6-aa78-6aa308ebb08b",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2201461Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0503d0a9-c42a-4538-8946-0a217d958a53",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2201491Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

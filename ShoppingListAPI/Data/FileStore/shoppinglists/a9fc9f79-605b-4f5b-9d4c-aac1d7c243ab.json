@@ -1,0 +1,62 @@
+{
+    "Id":  "a9fc9f79-605b-4f5b-9d4c-aac1d7c243ab",
+    "Title":  "01/21 食品購物清單",
+    "CreatedAt":  "2025-01-18T16:25:06.8192497+08:00",
+    "Items":  [
+                  {
+                      "Id":  "504f3001-d39e-40d7-9370-e8d9326b36d8",
+                      "Name":  "Practical Concrete Bike",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d83aec7-490b-4cdb-8985-4f6d33c86f90",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078329Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5b3ceb7-3f93-4fee-9f93-c1cfbe5451f0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "934502f9-33ec-4924-8b09-017e9289ecce",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078343Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "012abbb3-4041-49cf-bd90-0a58c3b066ff",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c00b1ae1-f9ed-48f5-ba87-027676fc8926",
+                      "Name":  "Sleek Soft Chicken",
+                      "Quantity":  4,
+                      "Price":  380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7078389Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

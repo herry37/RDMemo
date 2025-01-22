@@ -1,0 +1,35 @@
+{
+    "Id":  "22591fc0-bd1f-4ed5-9f56-36a890986c0f",
+    "Title":  "年節採購 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T19:52:10.6313805+08:00",
+    "Items":  [
+                  {
+                      "Id":  "14b94411-1407-4320-940f-aa6f318682d6",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:54:38.3006279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c678dac-9792-43b9-9034-213bccb2de71",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:02:37.6727596+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7df14d2-a456-4ffc-a322-d8c098ef6734",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:15:03.8831443+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

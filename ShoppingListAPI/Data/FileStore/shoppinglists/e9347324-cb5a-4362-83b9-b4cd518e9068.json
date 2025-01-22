@@ -1,0 +1,44 @@
+{
+    "Id":  "e9347324-cb5a-4362-83b9-b4cd518e9068",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-15T09:57:50.4011618+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e0a94ef1-34c1-4ab7-aa5d-cf9fc716c631",
+                      "Name":  "糖果",
+                      "Quantity":  2,
+                      "Price":  438.015472586988090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:52:14.61899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "027d1856-6096-4e1a-8b48-700f1c5d5ec5",
+                      "Name":  "面紙",
+                      "Quantity":  10,
+                      "Price":  480.337392141987020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:41:42.5022208+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2ee7a9b1-8a62-47cd-915d-56e612c7fb22",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  451.464609300077930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:10:08.2921024+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01917a83-e221-4b2d-822d-3f833ef202a8",
+                      "Name":  "運動飲料",
+                      "Quantity":  5,
+                      "Price":  177.258273926534490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:44:45.5679481+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

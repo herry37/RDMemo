@@ -1,0 +1,89 @@
+{
+    "Id":  "c1dc324b-4ce2-4486-aa94-588c19f55908",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T11:01:23.3556616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "feb39925-84b7-47d4-b98b-502f6ba49e47",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.836545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0815986d-94a1-4fdd-b978-cc06b9aefdb1",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8365482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ed3b87b-e2ec-4b99-8821-babc293b16e8",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  347,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8365491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4ee5a82-87c4-4af4-ab74-588093b0e3be",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8365505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a924e5a-27c0-4307-9d12-b5393d90fe2d",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8365513Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3cdb1635-fd99-479c-9a69-bceb4c886e5b",
+                      "Name":  "Licensed Metal Ball",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8366081Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0cdbedb9-94c9-429f-9906-37fbf63e2e7d",
+                      "Name":  "Tasty Plastic Shoes",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8366784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35bd4727-9e18-4c68-bcae-5d4f5b2febe7",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  426,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.8366806Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75891ebc-8a44-4c52-8f3a-51bb370ceb86",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  428,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.8366815Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

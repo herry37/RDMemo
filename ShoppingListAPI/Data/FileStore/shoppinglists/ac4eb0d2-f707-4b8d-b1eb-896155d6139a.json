@@ -1,0 +1,44 @@
+{
+    "Id":  "ac4eb0d2-f707-4b8d-b1eb-896155d6139a",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T23:20:03.0834311+08:00",
+    "Items":  [
+                  {
+                      "Id":  "269926e8-19b0-463e-afbc-61119b966e74",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  399,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6134968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b39206ed-f9b4-4435-bd4c-f7a67153bee3",
+                      "Name":  "Rustic Fresh Keyboard",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6135202Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd6c5436-4acf-4d66-834b-e73224b6c192",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6135214Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b27b18c8-f597-4ace-b1bd-0b0705c9ab84",
+                      "Name":  "Refined Soft Towels",
+                      "Quantity":  2,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6135283Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "5779573a-8b72-4a6a-89b2-cec7fdc01c41",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T01:54:32.5881326+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fce1e5fa-792d-469b-8e56-4ed0c85e9f07",
+                      "Name":  "盤子",
+                      "Quantity":  10,
+                      "Price":  279.411040940714820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:32:25.786907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2200dfe8-ea2e-4323-b561-4a1a8184b0a6",
+                      "Name":  "資料夾",
+                      "Quantity":  7,
+                      "Price":  424.168887963229140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:13:24.7701496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c6cfc43-d1f0-4785-9e5c-71981a026390",
+                      "Name":  "除霉劑",
+                      "Quantity":  3,
+                      "Price":  352.761106105763660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:59:11.3228551+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db9278f1-0584-4ef8-bf55-af148cc904d1",
+                      "Name":  "面膜",
+                      "Quantity":  1,
+                      "Price":  350.928668054170140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:02:00.2699365+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd34c49b-4477-47b1-ba41-54b7a89d7176",
+                      "Name":  "面紙",
+                      "Quantity":  7,
+                      "Price":  199.45892200504710,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T22:01:03.7943733+08:00",
+                      "CompletedAt":  "2025-01-20T15:16:02.5818057+08:00"
+                  },
+                  {
+                      "Id":  "0a8701d2-3c55-4a7a-a213-1a716d3d4a5c",
+                      "Name":  "橡皮擦",
+                      "Quantity":  4,
+                      "Price":  237.163182076689460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:05:47.575645+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da481ff2-fc51-4009-b810-71dd67c3a0d1",
+                      "Name":  "洋芋片",
+                      "Quantity":  4,
+                      "Price":  180.075546323211760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:58:11.5448206+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60968542-4898-4782-8093-b854cb69c334",
+                      "Name":  "碗",
+                      "Quantity":  2,
+                      "Price":  82.01426091136060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:19:05.7991136+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

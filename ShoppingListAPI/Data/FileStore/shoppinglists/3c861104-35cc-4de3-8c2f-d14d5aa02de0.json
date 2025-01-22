@@ -1,0 +1,44 @@
+{
+    "Id":  "3c861104-35cc-4de3-8c2f-d14d5aa02de0",
+    "Title":  "早市採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T17:36:12.1696298+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86378063-e25f-4838-ae24-ef7060f03e68",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:17:51.1984729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a6c174a-c98d-42c5-9b0e-e521c22849ae",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:35:49.8418349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9932ba9-18c5-4194-9620-edea2ea6539e",
+                      "Name":  "木質相框",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:33:39.3675039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b03ea8ac-2697-469b-9e5f-3155a1e5bd66",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:35:30.6669176+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

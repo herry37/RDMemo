@@ -1,0 +1,98 @@
+{
+    "Id":  "11c7c746-6900-4a3f-9cff-b8d17cffd0a3",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T20:46:44.1660702+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2fe4c42d-c3a4-4e7b-b9e9-399f9aeff869",
+                      "Name":  "Small Plastic Mouse",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699537Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "702a8cd5-2973-4eac-864d-3039ef56395f",
+                      "Name":  "Tasty Steel Pizza",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.769962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6514556e-f162-4885-b597-56baffabd282",
+                      "Name":  "Small Fresh Tuna",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c423075-2643-424c-b29e-4d9c0a42e3dc",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.769974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11c91353-e710-4526-b586-f36d74f0d405",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc4b74a4-0dda-4ecf-a651-d19ca9ee0351",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699778Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04c9c868-cf43-446a-b1e3-1f5508bc2a0e",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1b038ec-877b-4f5a-a3f6-91d2e5daebb1",
+                      "Name":  "Handmade Steel Shoes",
+                      "Quantity":  4,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f765cdb3-1584-460c-b935-8a45af27665f",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  435,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99365ebb-c70b-47b6-afda-ddf616a102dc",
+                      "Name":  "Sleek Fresh Table",
+                      "Quantity":  1,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7699904Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

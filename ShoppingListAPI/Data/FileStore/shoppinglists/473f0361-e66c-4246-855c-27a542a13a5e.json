@@ -1,0 +1,62 @@
+{
+    "Id":  "473f0361-e66c-4246-855c-27a542a13a5e",
+    "Title":  "露營準備 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-20T04:26:16.6116409+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5d076623-f0c9-4501-b31e-254d8ce9b12a",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:03:37.7483861+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e283feb5-bf07-4aab-8cec-0ec63473ccfc",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:06:17.5286057+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00e7bf43-afef-4b1a-b3da-12044edf974c",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:53:57.8007167+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50f81306-bd0f-4783-8cef-982af19ab9a7",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  5,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:08:58.4880856+08:00",
+                      "CompletedAt":  "2025-01-22T06:02:41.1457259+08:00"
+                  },
+                  {
+                      "Id":  "319f7052-98ab-4ceb-a1ce-ca34dc21575c",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  1,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:39:27.682343+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "104c7490-cafb-4238-8a98-f4e308fcc242",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:18:10.5872381+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

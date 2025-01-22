@@ -1,0 +1,89 @@
+{
+    "Id":  "cff64d0d-2d58-4d7a-bf95-ef9059424aef",
+    "Title":  "01/18 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T13:16:46.2445716+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ff34ff55-ad40-44cd-a431-acf158cfe389",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.175402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b38b6d3-c6d1-4deb-b959-098dcb838188",
+                      "Name":  "Awesome Steel Gloves",
+                      "Quantity":  3,
+                      "Price":  435,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7aaed37a-b442-4753-8d00-2752cda10a98",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754303Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4140d2f-f1d6-4ec0-8b68-b810acca85f4",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e42c0c1-c553-4a69-a95d-dafb27f26afa",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754321Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c296ec44-d93b-42fc-87fd-9e8a1f94cef1",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b2b8b55-5588-4e59-b6f5-b1cdc4c7a3b0",
+                      "Name":  "Unbranded Fresh Ball",
+                      "Quantity":  5,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754398Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a06a4e9c-4043-4af3-a395-8e512ac4e926",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e207992c-0d24-49c0-8bfe-d033e01a2c48",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1754415Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

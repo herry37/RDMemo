@@ -1,0 +1,44 @@
+{
+    "Id":  "69912ea3-d208-475f-955d-9910b2cf280c",
+    "Title":  "01/21 ¹s­¹±Ä¶R²M³æ",
+    "CreatedAt":  "2025-01-16T13:38:33.0604381+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6bb3e97-590e-40c4-8350-50af83f02428",
+                      "Name":  "Incredible Rubber Table",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3229154Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c541db4e-054e-4485-9c6a-9e5594223501",
+                      "Name":  "Awesome Wooden Table",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3229276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc4127a7-6655-484b-a086-9db7ffaab75b",
+                      "Name":  "Ergonomic Steel Chicken",
+                      "Quantity":  2,
+                      "Price":  386,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3229351Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "189d338b-aff9-4d3e-ae16-6abede54d27e",
+                      "Name":  "Handmade Frozen Tuna",
+                      "Quantity":  1,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3229433Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

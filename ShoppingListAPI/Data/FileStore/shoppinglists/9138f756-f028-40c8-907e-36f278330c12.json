@@ -1,0 +1,98 @@
+{
+    "Id":  "9138f756-f028-40c8-907e-36f278330c12",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T21:02:10.0426729+08:00",
+    "Items":  [
+                  {
+                      "Id":  "96695c90-0f2e-4e51-96af-d6eef504a3c7",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1796958Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f069348-482d-40ab-9c43-fc682fcbe099",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1796984Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fb97900-57a4-4a03-aea3-ff031cb578db",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1796995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b44d0e52-ebb0-4bee-9359-fa716376c8a4",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15328324-6adb-4f5e-8e22-fdfcfb2dced3",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797021Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0166ef52-6cbc-45f2-af59-82def9736d7b",
+                      "Name":  "Refined Fresh Soap",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba07b89f-8c08-46f1-bfd0-e0a090c8f02c",
+                      "Name":  "Refined Metal Bike",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.179735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53191b79-262e-4c8e-b482-919b15297a42",
+                      "Name":  "Fantastic Rubber Soap",
+                      "Quantity":  1,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45885443-7fbd-42c8-bea0-6ada956b5b9a",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44798ab5-c342-42ff-aee6-e06ba0fbbed9",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1797436Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

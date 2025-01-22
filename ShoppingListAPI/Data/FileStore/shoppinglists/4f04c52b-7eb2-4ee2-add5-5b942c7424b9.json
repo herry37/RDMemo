@@ -1,0 +1,35 @@
+{
+    "Id":  "4f04c52b-7eb2-4ee2-add5-5b942c7424b9",
+    "Title":  "01/21 生鮮購物清單",
+    "CreatedAt":  "2025-01-18T07:35:04.3198077+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b93de481-2999-4aa9-980f-b9a142a342a0",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3483003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77527990-4e81-4665-b787-8020040aa603",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3483028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e366791-0030-469d-817c-86fefb715d0b",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3483039Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

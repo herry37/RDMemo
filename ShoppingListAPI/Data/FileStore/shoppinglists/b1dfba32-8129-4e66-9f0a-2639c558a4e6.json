@@ -1,0 +1,44 @@
+{
+    "Id":  "b1dfba32-8129-4e66-9f0a-2639c558a4e6",
+    "Title":  "年節採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-19T18:03:19.5798138+08:00",
+    "Items":  [
+                  {
+                      "Id":  "db2dedbe-e7e5-42c1-bea5-062a25ea07cc",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:08:17.7378056+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd1f6d49-5ec6-41ce-91aa-3e35499a079d",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:13:22.2495067+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0ca5808-86e9-4537-887a-afd1721717fe",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:04:04.1944244+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac5d7e02-ef8d-48bc-b068-6059f1e86ff1",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:08:33.5212971+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

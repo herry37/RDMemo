@@ -1,0 +1,44 @@
+{
+    "Id":  "d091271d-9b87-4c19-83bd-9eca2d507e8b",
+    "Title":  "01/19 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T07:17:09.7244447+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b442e2c6-a3bd-4d2d-a2ab-c7650a8763f2",
+                      "Name":  "Small Frozen Bike",
+                      "Quantity":  1,
+                      "Price":  405,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.1760917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1aea65b0-7a1a-4a46-bbaf-4383efdfc253",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.1761437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09dc9f11-3fcd-43a4-9ff6-a3afe5a40f41",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  486,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.1761453Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0291969d-8511-44d8-8af2-f35956602c0f",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.1761468Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

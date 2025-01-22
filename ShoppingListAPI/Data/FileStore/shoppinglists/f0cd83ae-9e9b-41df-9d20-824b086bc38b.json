@@ -1,0 +1,53 @@
+{
+    "Id":  "f0cd83ae-9e9b-41df-9d20-824b086bc38b",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T11:54:33.1972739+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5b34a929-ab21-448d-99fd-5bc1e3e980b3",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5373522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "857b3636-9e88-4846-9638-9b2f65d9d3b0",
+                      "Name":  "Small Wooden Cheese",
+                      "Quantity":  2,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5373804Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f7de5d4-0bd3-49af-ac18-b1ccf41a1393",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.537384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14803c87-507a-44aa-9fc6-3316035a55cb",
+                      "Name":  "Tasty Frozen Computer",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5373928Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28e57ff7-c728-4cd2-98c4-37aca50c7cd1",
+                      "Name":  "Licensed Frozen Fish",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5374003Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

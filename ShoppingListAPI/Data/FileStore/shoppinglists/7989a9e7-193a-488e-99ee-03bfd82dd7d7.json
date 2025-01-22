@@ -1,0 +1,44 @@
+{
+    "Id":  "7989a9e7-193a-488e-99ee-03bfd82dd7d7",
+    "Title":  "01/19 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T08:54:06.0202787+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74d2b821-ae78-4a92-acd3-b7337d3e6b26",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  337,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6879952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4e9bc5a-5a64-4040-9666-656383a56449",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6879974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f87a8ea3-6837-4ee6-b1ab-e771798f9ceb",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  456,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6879982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff9db302-9a54-4daf-b554-5a8d1e33aa97",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6879993Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

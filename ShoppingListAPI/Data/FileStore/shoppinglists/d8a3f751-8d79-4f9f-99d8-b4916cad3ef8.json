@@ -1,0 +1,98 @@
+{
+    "Id":  "d8a3f751-8d79-4f9f-99d8-b4916cad3ef8",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T18:24:12.6667901+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f9e25c1-0533-4cf2-a4f3-392f93aa571b",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  47,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101184Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "390fd549-3d90-4f75-953b-13482a6d049d",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86f5276b-38ba-4c27-beec-9f4df2c2e27f",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8528cdbd-f9c8-4e1b-a103-fd42a5e21975",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d427898-83e7-45b9-aa7b-12789d11646c",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b972aafc-c05d-41cc-acd2-54790471dd52",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  377,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101249Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0ca1333-3c5e-4280-a02f-e256350b0bf1",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  75,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101258Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12c0bcb1-b0e8-496e-a182-e24d2b599d67",
+                      "Name":  "Incredible Soft Keyboard",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.210145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc6b08b8-58ea-4866-b84b-252a5e9788cd",
+                      "Name":  "Unbranded Metal Mouse",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb560da7-be49-4266-92ed-136ce425e7d9",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  369,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2101503Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

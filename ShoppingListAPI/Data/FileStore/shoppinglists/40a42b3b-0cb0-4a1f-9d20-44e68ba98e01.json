@@ -1,0 +1,53 @@
+{
+    "Id":  "40a42b3b-0cb0-4a1f-9d20-44e68ba98e01",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T13:37:44.6906966+08:00",
+    "Items":  [
+                  {
+                      "Id":  "79169770-93c2-4c6c-9d1a-c5dc1e6598d0",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  307,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1947575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6cb6c8b-b144-4b49-878a-e44b5b91e47c",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  402,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1947609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae7dedee-7019-473c-b0c6-529eca98f058",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1947641Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "988226b5-5fb0-4575-b81a-2572ac4bc4a8",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1947651Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "949fe7a8-bb9b-475a-b839-232bb71f4686",
+                      "Name":  "Handcrafted Wooden Keyboard",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1947879Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

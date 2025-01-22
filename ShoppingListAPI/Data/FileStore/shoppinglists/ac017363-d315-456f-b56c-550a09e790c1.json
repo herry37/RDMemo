@@ -1,0 +1,71 @@
+{
+    "Id":  "ac017363-d315-456f-b56c-550a09e790c1",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-18T03:24:45.5384394+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cbdf552f-b48a-43bc-a166-1c548d9f04c3",
+                      "Name":  "拖把",
+                      "Quantity":  5,
+                      "Price":  378.072186109923540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:10:39.3010241+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8863c305-c019-4692-bf64-2a4625c53e7c",
+                      "Name":  "糖果",
+                      "Quantity":  10,
+                      "Price":  356.820085973602710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:18:58.5780883+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a68c132-8292-4097-8bf1-ee6c631dccb9",
+                      "Name":  "爆米花",
+                      "Quantity":  4,
+                      "Price":  437.063161189475440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:25:56.5705273+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d9fff6f-3969-411f-8484-7910cde2e823",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  25.8042487723597190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:10:45.276543+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2848400d-614d-4ef4-a891-478c2d3d08f9",
+                      "Name":  "洗碗精",
+                      "Quantity":  8,
+                      "Price":  432.149604704757860,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T23:25:52.6472847+08:00",
+                      "CompletedAt":  "2025-01-20T03:46:41.8364027+08:00"
+                  },
+                  {
+                      "Id":  "ae1325ce-c57b-4771-9373-98a66cda98bd",
+                      "Name":  "漂白水",
+                      "Quantity":  9,
+                      "Price":  489.452089094051010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:31:37.9676811+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3b4f15a-0694-43d0-a1f0-d3925bd7ffb7",
+                      "Name":  "剪刀",
+                      "Quantity":  7,
+                      "Price":  35.392354846281010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:05:41.4352451+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

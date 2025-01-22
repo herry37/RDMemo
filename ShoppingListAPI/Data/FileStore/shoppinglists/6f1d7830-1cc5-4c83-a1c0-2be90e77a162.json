@@ -1,0 +1,62 @@
+{
+    "Id":  "6f1d7830-1cc5-4c83-a1c0-2be90e77a162",
+    "Title":  "01/21 飲料購物清單",
+    "CreatedAt":  "2025-01-21T05:39:22.7488179+08:00",
+    "Items":  [
+                  {
+                      "Id":  "55ac1be9-253a-406a-b215-38516b5f7f14",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4436869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c6e54ad-ea3c-4bd8-a563-5a89582924ca",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.443694Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9fac9053-e43c-4019-bdc9-ee794874955b",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4436967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52d0705f-42ac-438a-974c-e74bf74374df",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4436993Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc1e2821-8886-4e9e-8f26-efb21b64a7a2",
+                      "Name":  "Intelligent Soft Hat",
+                      "Quantity":  5,
+                      "Price":  422,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4437258Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa865887-3d8b-4dfd-9f89-3b4ae5dd20dc",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4437309Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

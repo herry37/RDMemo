@@ -1,0 +1,35 @@
+{
+    "Id":  "0fc9faf3-6ed6-4f8d-98e4-50e4dcba87ee",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T13:26:44.3780176+08:00",
+    "Items":  [
+                  {
+                      "Id":  "42a01a54-1b8a-4d67-aeff-accdd4c42ee0",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  4,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:10:01.2577003+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "039430e1-2811-448d-8e92-b48904606ce0",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:45:08.8642443+08:00",
+                      "CompletedAt":  "2025-01-17T05:23:52.8264738+08:00"
+                  },
+                  {
+                      "Id":  "c7b5649d-7893-4b5d-b785-569ae02142f0",
+                      "Name":  "精品咖啡",
+                      "Quantity":  3,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T05:03:12.4285242+08:00",
+                      "CompletedAt":  "2025-01-19T13:13:47.5830777+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

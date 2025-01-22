@@ -1,0 +1,62 @@
+{
+    "Id":  "c15edf7b-bac4-4b43-a88c-ff6d3d7e683b",
+    "Title":  "01/16 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T15:14:49.7252424+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca9c6383-b951-4535-874f-387849d5b128",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3623881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66481f42-7abb-4152-88c3-33d3767fa1b0",
+                      "Name":  "Unbranded Fresh Shirt",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.362424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fae10a3-667d-4603-ab34-6f499b086dc7",
+                      "Name":  "Handmade Steel Tuna",
+                      "Quantity":  1,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3624305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbc614fb-911f-4ac2-a793-b1c27ab22d53",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3624315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23ff7e31-9781-424d-b39e-bb84af2796e4",
+                      "Name":  "Ergonomic Granite Ball",
+                      "Quantity":  4,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.3624376Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95930c1b-8cf0-4ba7-a61c-75289d1ea45c",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.362468Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

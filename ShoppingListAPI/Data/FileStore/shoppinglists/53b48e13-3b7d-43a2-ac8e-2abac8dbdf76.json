@@ -1,0 +1,80 @@
+{
+    "Id":  "53b48e13-3b7d-43a2-ac8e-2abac8dbdf76",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-20T06:29:31.3406384+08:00",
+    "Items":  [
+                  {
+                      "Id":  "421b2d63-a2dc-4845-9a8e-7f33b139d240",
+                      "Name":  "口香糖",
+                      "Quantity":  6,
+                      "Price":  377.455293810240580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:45:23.7676704+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab51ce69-85cb-464a-9713-51f1fd344130",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  435.599217891105230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:43:37.6365544+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d5d222b-5bcb-4d9b-a7d1-12263d5f9690",
+                      "Name":  "礦泉水",
+                      "Quantity":  6,
+                      "Price":  116.374979079005140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:17:27.4293444+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2b74e12-295c-4750-80f0-8b09cf1422f6",
+                      "Name":  "檯燈",
+                      "Quantity":  4,
+                      "Price":  43.221828199121380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T17:17:12.1642206+08:00",
+                      "CompletedAt":  "2025-01-15T22:00:34.616078+08:00"
+                  },
+                  {
+                      "Id":  "d2c9d097-77fb-45e3-9352-6541138b643a",
+                      "Name":  "杯子",
+                      "Quantity":  5,
+                      "Price":  101.144508435783460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:35:25.7024884+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e035276-a7ba-44e8-b092-6aa26119617b",
+                      "Name":  "果乾",
+                      "Quantity":  9,
+                      "Price":  387.044214556449370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:27:25.7625592+08:00",
+                      "CompletedAt":  "2025-01-18T03:57:10.493363+08:00"
+                  },
+                  {
+                      "Id":  "fc089cc9-29f6-4c4f-9a3e-349e74788a4d",
+                      "Name":  "杯子",
+                      "Quantity":  3,
+                      "Price":  241.087819799799060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:39:44.1190069+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b62e5bea-c151-4a43-afea-7585abff2f46",
+                      "Name":  "橡皮擦",
+                      "Quantity":  8,
+                      "Price":  235.012196743795930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:12:27.8968832+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

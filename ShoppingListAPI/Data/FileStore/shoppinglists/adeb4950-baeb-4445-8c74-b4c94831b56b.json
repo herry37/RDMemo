@@ -1,0 +1,98 @@
+{
+    "Id":  "adeb4950-baeb-4445-8c74-b4c94831b56b",
+    "Title":  "01/15 零食購物清單",
+    "CreatedAt":  "2025-01-20T21:58:24.752504+08:00",
+    "Items":  [
+                  {
+                      "Id":  "258412b7-3804-443e-aa57-f60dae3571c9",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790096Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "991d3bb1-8e1d-45f8-bda0-829d2dd50786",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790172Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ca76a0c-b280-462f-8596-d2ec152b8b3e",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50594ea0-6f8c-4dcf-b6ab-e684eba2abfb",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9def2feb-a717-440f-816a-a7577d41b412",
+                      "Name":  "Handcrafted Fresh Cheese",
+                      "Quantity":  3,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8df8743a-d5c4-467d-a931-b013df4d8efd",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  14,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790526Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f07a27aa-fbaf-4ae0-8298-0127ce4f405f",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "32e4680d-992a-4117-82b9-5a4d87a6b89f",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  335,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790558Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8ad9835-019e-4824-9f73-c922c26e3c3c",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2c89dee-5277-40f9-9089-96581818c828",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  38,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5790596Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

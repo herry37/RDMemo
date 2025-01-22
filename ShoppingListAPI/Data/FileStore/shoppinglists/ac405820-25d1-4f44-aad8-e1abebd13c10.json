@@ -1,0 +1,35 @@
+{
+    "Id":  "ac405820-25d1-4f44-aad8-e1abebd13c10",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-20T01:58:53.2467376+08:00",
+    "Items":  [
+                  {
+                      "Id":  "66348f69-a8ac-4692-9cd3-5a82a1051989",
+                      "Name":  "Practical Frozen Table",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5992854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4be4c16f-0117-4be0-8c28-19f2f5c872a5",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.599293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23b033af-a260-4297-b34b-ee87333e4faa",
+                      "Name":  "Handcrafted Granite Cheese",
+                      "Quantity":  2,
+                      "Price":  453,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5993002Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

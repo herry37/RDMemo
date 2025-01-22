@@ -1,0 +1,62 @@
+{
+    "Id":  "020e48e6-bb2a-4afc-8a46-ce08fb015259",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T23:32:45.636894+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d46b27a4-9905-4473-ae3a-80dbf331624d",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4302347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d8047fb-30ee-40f1-a262-1066b311bf54",
+                      "Name":  "Generic Rubber Chair",
+                      "Quantity":  3,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4302606Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b239c3b-4c71-41d5-9c00-3530d8c84a36",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4302624Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f322d36-2990-4eb0-9131-ca8ae6a19173",
+                      "Name":  "Small Steel Ball",
+                      "Quantity":  4,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4302668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ec3a674-65a4-49fa-b36f-50775b625dd9",
+                      "Name":  "Licensed Frozen Cheese",
+                      "Quantity":  2,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.430271Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe865eee-4692-4bb5-88c6-6e54a4ec4ac8",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4302748Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "d67a46b9-1f70-4924-995f-0bd7255dd9da",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T13:04:06.4316996+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8d818ceb-61e3-4b46-80b1-e26298ee51a9",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9582579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "176b31b6-9fa7-414f-8f2a-d920f29a54a5",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  493,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9582643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20185ff0-d072-4bdc-8e9f-c799818a985d",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.9582654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27b5d907-df53-4fdd-8c96-2377b6a42fec",
+                      "Name":  "Incredible Metal Tuna",
+                      "Quantity":  4,
+                      "Price":  466,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.9582967Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

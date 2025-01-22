@@ -1,0 +1,80 @@
+{
+    "Id":  "30069180-56da-4814-a52f-982c8d8d9090",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T19:55:44.699811+08:00",
+    "Items":  [
+                  {
+                      "Id":  "788dd032-9c30-487b-b08b-ef816176a4e6",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  384,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "edb61ecf-8298-47ef-a42b-d60268d50f6c",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79e69ac3-11e1-4a7a-a04d-da3dd26e2e95",
+                      "Name":  "Gorgeous Steel Gloves",
+                      "Quantity":  2,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e52f66d2-8bec-43b0-b41d-81cc14b0f209",
+                      "Name":  "Generic Cotton Tuna",
+                      "Quantity":  2,
+                      "Price":  455,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "091bc3a4-2eec-47fb-a555-8601ab03d500",
+                      "Name":  "Incredible Metal Pizza",
+                      "Quantity":  2,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.313057Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88e6daa7-e2b8-438f-acd6-6627fbe58715",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6348ffa9-bd9c-4a70-9105-fbc9c67b4e77",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.313075Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a84cf2de-7732-49c7-91e3-f7cddfa4183f",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3130769Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

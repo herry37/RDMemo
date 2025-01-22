@@ -1,0 +1,80 @@
+{
+    "Id":  "ec986a6a-1f34-4b10-ba06-749efc5ee91e",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-15T07:00:57.5035254+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e9b199a0-8ecd-4b4d-a921-649067f83c9a",
+                      "Name":  "Incredible Concrete Salad",
+                      "Quantity":  4,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413719Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "176289fd-6c6f-4bcb-acbe-85f01da17272",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5cf1db47-ab2f-4a57-afff-e7353e947c73",
+                      "Name":  "Generic Fresh Mouse",
+                      "Quantity":  3,
+                      "Price":  481,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413849Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e429684e-a430-4ac2-bb10-364ce3053cb4",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413887Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73afa102-4428-4a34-86c8-b2f77573870d",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  445,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f84bd3b-9732-4305-9dac-66cfa2b0b051",
+                      "Name":  "Awesome Plastic Sausages",
+                      "Quantity":  4,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6413995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffbdf350-42fb-4cf4-ab26-7387b8130fb7",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  329,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6414023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7fc9b91-e1fc-42b3-8c40-f43919fce6b1",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  474,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.641409Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

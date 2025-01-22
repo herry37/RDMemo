@@ -1,0 +1,98 @@
+{
+    "Id":  "a0e5c6ae-5d3d-4b27-b4a7-3feab799db77",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-17T09:13:56.3136919+08:00",
+    "Items":  [
+                  {
+                      "Id":  "599cfa80-07ce-4ff8-ba49-68cd68e6440e",
+                      "Name":  "Unbranded Frozen Ball",
+                      "Quantity":  2,
+                      "Price":  186,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.038407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d773593b-d7bc-4a89-bbfc-775445108430",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0384189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69b62255-2339-4d9b-9f50-b6d6e2af7155",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0384806Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c729e092-62e4-445f-a0c9-1ede6ca10c9d",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  336,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0384852Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e988322-3eea-4a8a-8b0a-7e124538d7ab",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0384881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af41b7bf-3cc5-4263-bbe6-235f2f2b24de",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.038494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b572820-dc30-47d1-a9d8-52fee5bc9251",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0385027Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a977ed2-a003-4af4-bd74-c9c72d37cdea",
+                      "Name":  "Generic Plastic Sausages",
+                      "Quantity":  3,
+                      "Price":  467,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0385191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b767ad6-4f21-49c5-a7ab-d9ccaf342d5e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0385219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b612b8e5-8037-4e6c-b820-af51f71694ee",
+                      "Name":  "Incredible Concrete Sausages",
+                      "Quantity":  2,
+                      "Price":  138,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0385299Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

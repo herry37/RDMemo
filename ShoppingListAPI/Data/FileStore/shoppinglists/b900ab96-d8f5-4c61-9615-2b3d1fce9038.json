@@ -1,0 +1,35 @@
+{
+    "Id":  "b900ab96-d8f5-4c61-9615-2b3d1fce9038",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-14T12:37:16.7126941+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1c0773b-5261-43e4-8b08-a6a4b398a6b2",
+                      "Name":  "梳子",
+                      "Quantity":  8,
+                      "Price":  352.04294526224690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:45:11.7588653+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7f11669-ba7a-4a83-8c1f-8f7f80a7fecf",
+                      "Name":  "電池",
+                      "Quantity":  2,
+                      "Price":  107.976096596107730,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:04:20.428485+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e9b8268-0114-4adc-84c5-46635ca9c064",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  175.168646243382460,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:14:13.6657102+08:00",
+                      "CompletedAt":  "2025-01-21T04:11:52.9486433+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "02682adb-29c3-405f-9d19-19318ef129d3",
+    "Title":  "緊急採買 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-16T03:34:46.6872691+08:00",
+    "Items":  [
+                  {
+                      "Id":  "695ae35d-7016-43b8-83ad-998632428cb7",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:09:28.3333878+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c0400cb-2378-445f-8275-dce80355bdba",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:09:00.9890717+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2e15d55-597e-4a63-8860-99b33de3057e",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:15:49.4889123+08:00",
+                      "CompletedAt":  "2025-01-20T16:28:24.3029013+08:00"
+                  },
+                  {
+                      "Id":  "594d79c5-02cd-493a-bcd8-4aef0e35e9bb",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:46:00.6122095+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05dd141c-74ef-4fba-99ab-1284a12ce853",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:33:31.2874637+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "780defa9-6d75-4190-8b5d-b781c31eaf86",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:00:42.5635263+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c83e746-56e4-4914-9f9a-13e6782d31a3",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  4,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:07:31.1777029+08:00",
+                      "CompletedAt":  "2025-01-18T10:11:43.3868041+08:00"
+                  },
+                  {
+                      "Id":  "97807c0d-1d86-4c8c-b222-f63809f68e0e",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:34:13.2527528+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

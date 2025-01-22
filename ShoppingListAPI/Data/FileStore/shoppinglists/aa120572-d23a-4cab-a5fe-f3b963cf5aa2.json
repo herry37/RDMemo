@@ -1,0 +1,44 @@
+{
+    "Id":  "aa120572-d23a-4cab-a5fe-f3b963cf5aa2",
+    "Title":  "緊急採買 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-20T14:55:40.6777085+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e648eeec-917f-42be-a120-6534331f4ac0",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:38:03.8593582+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7069bccf-324d-458f-9388-b1156b2c54a7",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:58:11.5196226+08:00",
+                      "CompletedAt":  "2025-01-20T00:15:08.9879972+08:00"
+                  },
+                  {
+                      "Id":  "f87f9a7a-5979-41ef-ab5b-9a4b7ec30047",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  4,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:13:02.0796114+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35af83b0-0af8-4704-8a2a-5eec536cd242",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:53:06.81285+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

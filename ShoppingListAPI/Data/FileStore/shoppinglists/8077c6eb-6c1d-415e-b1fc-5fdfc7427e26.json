@@ -1,0 +1,53 @@
+{
+    "Id":  "8077c6eb-6c1d-415e-b1fc-5fdfc7427e26",
+    "Title":  "早市採買 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-19T08:33:43.2881885+08:00",
+    "Items":  [
+                  {
+                      "Id":  "252835bb-4165-4c73-a71e-495ae0c1e96a",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:15:48.0569205+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d61c9fd7-41e1-4daf-b476-ca53b32fa22a",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:01:30.8681012+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67841f0f-bf19-4d96-b433-a6e1b9440b45",
+                      "Name":  "有機番茄",
+                      "Quantity":  1,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:26:28.2824112+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "313f0192-0dd1-4c5e-95cd-b6f042937dc3",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  2,
+                      "Price":  207,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:40:27.8765344+08:00",
+                      "CompletedAt":  "2025-01-21T15:43:07.0712565+08:00"
+                  },
+                  {
+                      "Id":  "5acc88df-90ce-42bc-bf09-2cd0efb956a7",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:15:19.8809478+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

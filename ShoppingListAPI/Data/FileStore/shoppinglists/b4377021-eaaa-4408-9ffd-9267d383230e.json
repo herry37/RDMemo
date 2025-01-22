@@ -1,0 +1,98 @@
+{
+    "Id":  "b4377021-eaaa-4408-9ffd-9267d383230e",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T08:45:36.8727148+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d74eb671-aeb5-4bc8-a2d8-ee7553f39dcc",
+                      "Name":  "Small Metal Shirt",
+                      "Quantity":  5,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53392a80-b865-4dad-b571-923f14def0ee",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011176Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73a08f4f-6540-476b-bd69-a5512ca23d00",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011212Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cac7268c-cb12-4ebc-8993-8af14bb5219d",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9befd39f-6af9-4f0b-b3ce-8b30368f1027",
+                      "Name":  "Generic Soft Shirt",
+                      "Quantity":  3,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.601128Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3229d8a8-70ce-49ad-84f3-0798d6bafeb3",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3189eebf-6883-47b0-8347-d66c5a0d0038",
+                      "Name":  "Generic Granite Soap",
+                      "Quantity":  2,
+                      "Price":  364,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011363Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf9ca550-837c-4dab-b256-94e8838b4464",
+                      "Name":  "Licensed Wooden Chair",
+                      "Quantity":  2,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011414Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c279eeb9-5ef6-4173-a4ef-0311cf8407e1",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  116,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38a25a9e-1045-4cd2-b150-a989efebbd47",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.6011449Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

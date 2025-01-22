@@ -1,0 +1,62 @@
+{
+    "Id":  "1a900df5-decf-49e7-946f-7c61ee7d5cd2",
+    "Title":  "01/17 零食購物清單",
+    "CreatedAt":  "2025-01-18T19:44:34.3463405+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4ed15a3f-d889-4d56-bdb2-44cdf803c01b",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6021954Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "afd5c1a0-21a7-4854-8400-e4d0a7fb386f",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6021983Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec2d5b41-20bc-4b66-9335-e3b741a0ca17",
+                      "Name":  "Generic Fresh Bacon",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.6022176Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e527b42-5d05-4cca-98e8-a73c643dc363",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6022195Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d641d7c-2da4-4b93-8f39-e162d565c1aa",
+                      "Name":  "Handmade Cotton Towels",
+                      "Quantity":  3,
+                      "Price":  77,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.602225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "436ccaa8-405c-4d51-b9c9-1f557b666c71",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.6022279Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

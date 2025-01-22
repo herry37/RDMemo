@@ -1,0 +1,44 @@
+{
+    "Id":  "cb58c091-66ce-459f-a6df-f726937b27a6",
+    "Title":  "01/21 飲料採買清單",
+    "CreatedAt":  "2025-01-20T13:14:34.9414591+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a42ed1a3-b0d8-44f6-b0ea-cc839a1c4e01",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9446696Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e62fe06-c626-4e31-a902-5b28b87a0894",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9446736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "791c7a07-8b47-4fa8-802a-41d205ba3eb0",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9446755Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ed54857-dd6b-41f7-ad0a-428157299d78",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.944681Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

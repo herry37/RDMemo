@@ -1,0 +1,44 @@
+{
+    "Id":  "f07c7753-f19a-4e9f-9f31-721beef7723e",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T01:53:04.8517377+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bead1d32-556e-4d52-881d-03f98001d01c",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9618699Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11af7009-0214-4ba9-acb8-edeea9fd7290",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9618753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "194fcbb7-313e-4d69-9df1-bb384ccfd69b",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.9618793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6d66a63-7606-415d-9ec1-a0e4d318e08c",
+                      "Name":  "Unbranded Metal Pants",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.9619067Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

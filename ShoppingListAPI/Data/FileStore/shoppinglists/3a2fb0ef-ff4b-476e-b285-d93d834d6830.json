@@ -1,0 +1,35 @@
+{
+    "Id":  "3a2fb0ef-ff4b-476e-b285-d93d834d6830",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T21:08:30.7452725+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a214f16-f056-409b-a670-a2b97b96ada3",
+                      "Name":  "啤酒",
+                      "Quantity":  5,
+                      "Price":  480.710744025412660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:17:48.7699458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab6358e1-8b83-49e1-bbdb-90a8c5ee916a",
+                      "Name":  "筆筒",
+                      "Quantity":  10,
+                      "Price":  142.578641497195740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:25:39.0649976+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "847a1331-32e1-42ef-add9-d7ef0ecb7215",
+                      "Name":  "筆記本",
+                      "Quantity":  3,
+                      "Price":  173.70305840468230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:39:12.1565629+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

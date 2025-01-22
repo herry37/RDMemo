@@ -1,0 +1,44 @@
+{
+    "Id":  "04c8e988-622a-4ae4-93a7-946193815766",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T16:04:50.2556532+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cdab086b-dbad-4614-9db9-0533686aecb0",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:02:46.7121798+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffd031d1-6a85-4918-87f0-150f8329065e",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:47:44.8456549+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a0bd807-412c-45e0-8d3f-57c421abac45",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:16:11.3464694+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7d309b0-fa9f-47ea-a366-18e5cad1903a",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:06:09.60767+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

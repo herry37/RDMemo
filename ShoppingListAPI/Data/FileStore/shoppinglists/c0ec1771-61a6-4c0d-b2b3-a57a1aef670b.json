@@ -1,0 +1,62 @@
+{
+    "Id":  "c0ec1771-61a6-4c0d-b2b3-a57a1aef670b",
+    "Title":  "01/15 飲料採買清單",
+    "CreatedAt":  "2025-01-21T19:14:18.6169049+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5efda95-e953-4947-b240-40a34369f4d6",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0061494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "190a353f-9146-4ad1-b793-6ddf4900467d",
+                      "Name":  "Ergonomic Wooden Cheese",
+                      "Quantity":  2,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.0061891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f9e61b0-c7c4-4336-a600-e4384490bf8e",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0061969Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7dc2bfb5-3131-4f1f-b8c8-b634bf69cc42",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  461,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0062001Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10d8a530-2198-40e8-868b-ee86edd4bf6f",
+                      "Name":  "Incredible Cotton Bike",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0062119Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b132c5e-0d1a-4a82-8903-a3012c7dcf7e",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.0062153Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "763ee5d1-c331-4ba5-974e-4e66f21c39f3",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-21T00:18:44.4612433+08:00",
+    "Items":  [
+                  {
+                      "Id":  "94df28de-7f3a-4e98-aa55-aa1fcf9db33a",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1668181Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b08774f9-f29a-4898-8790-2228d56f20ff",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1668202Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69383728-9e38-4f7a-a846-30351fe930dd",
+                      "Name":  "Sleek Steel Bacon",
+                      "Quantity":  5,
+                      "Price":  309,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1668411Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d296998-b711-4790-a6f1-b2ea3cfb632b",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1668419Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6feacad7-a3b0-4084-8f5b-71f4439330de",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1668427Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "482324f6-c1c0-4099-a92f-5fa5abf19850",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T21:18:35.9008655+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5e7e06e2-3b87-455c-b057-8c0ba0d7ffca",
+                      "Name":  "毛巾",
+                      "Quantity":  5,
+                      "Price":  246.7192381067780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:04:48.3258404+08:00",
+                      "CompletedAt":  "2025-01-17T04:13:18.6361781+08:00"
+                  },
+                  {
+                      "Id":  "0f3f64c6-a614-418d-9a4a-966f5f8cdf7e",
+                      "Name":  "尺",
+                      "Quantity":  2,
+                      "Price":  349.929595001157490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:09:40.1979311+08:00",
+                      "CompletedAt":  "2025-01-19T08:24:14.9011173+08:00"
+                  },
+                  {
+                      "Id":  "dbf09be8-77f0-4868-bd18-9951467a0a83",
+                      "Name":  "杯子",
+                      "Quantity":  10,
+                      "Price":  353.323248220322440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:25:35.0832345+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d8fb5d4-6a93-4b69-ab5c-8be4e4098e32",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  418.392319752652270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T21:58:42.3580237+08:00",
+                      "CompletedAt":  "2025-01-16T07:12:50.9925546+08:00"
+                  },
+                  {
+                      "Id":  "cdaab44a-5232-4657-b6af-509f2b81bea1",
+                      "Name":  "盤子",
+                      "Quantity":  8,
+                      "Price":  224.399758187731130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:22:15.8758345+08:00",
+                      "CompletedAt":  "2025-01-19T09:10:43.718577+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "9f24df80-09e7-43e0-b5b3-92d6f70f4eb7",
+    "Title":  "居家整理 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-21T18:03:05.4959954+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e31727c5-3050-4d9d-8124-1acc16c6b68a",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:45:46.9223437+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a979dbf4-fd1b-496e-87aa-6bd236d3ff01",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:18:58.7393499+08:00",
+                      "CompletedAt":  "2025-01-16T09:10:04.5279262+08:00"
+                  },
+                  {
+                      "Id":  "1cd05a78-282e-467f-9883-53b87284508b",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:14:54.1528356+08:00",
+                      "CompletedAt":  "2025-01-19T20:38:33.5535215+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

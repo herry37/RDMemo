@@ -1,0 +1,35 @@
+{
+    "Id":  "a6e9a3f0-ceeb-496f-8f0d-913841d3f579",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-20T03:01:57.4744325+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b1165648-2003-43a6-90e4-e34d49a34bfd",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3926969Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e748940-7f2e-41e3-92bd-140aa69e762f",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3927017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d462c8d1-c594-49e6-91b5-8c1698fa00a2",
+                      "Name":  "Small Frozen Bacon",
+                      "Quantity":  5,
+                      "Price":  314,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3927323Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

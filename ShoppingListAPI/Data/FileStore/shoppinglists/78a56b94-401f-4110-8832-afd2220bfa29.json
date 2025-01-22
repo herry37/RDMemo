@@ -1,0 +1,80 @@
+{
+    "Id":  "78a56b94-401f-4110-8832-afd2220bfa29",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T09:16:49.8351292+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6fdf4985-396d-4079-8ed1-d65dec6731cd",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8479987Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e28ed2c3-f999-466a-a613-7490881e4050",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  493,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.848005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39bce847-93d8-4714-8358-62c0578faf1b",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8480095Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3670c532-608e-4ee3-b6d4-0180dfc4c4dc",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8480112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20f2813d-d5e9-4001-a303-84141614faec",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.848013Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ed5d3e0-2e32-4a93-aec6-ecb99f7b524e",
+                      "Name":  "Sleek Frozen Pants",
+                      "Quantity":  4,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8480393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e244b1f0-d272-42fd-aad8-e7ef1f5d39ab",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8480417Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43b0f0a5-c0b8-44ba-b267-bd784ddbf8da",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8480434Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

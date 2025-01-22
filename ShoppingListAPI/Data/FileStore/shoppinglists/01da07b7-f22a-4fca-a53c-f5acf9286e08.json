@@ -1,0 +1,80 @@
+{
+    "Id":  "01da07b7-f22a-4fca-a53c-f5acf9286e08",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T19:48:28.1969047+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bd587a03-cd2e-4bd8-a04a-035aa5da522a",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:00:26.4518401+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5daabc5-9416-43b9-9cf0-72fa13c32c40",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:43:21.9949931+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "537730b3-ed19-432d-a04b-1bb8d1e96a36",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  56,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:01:18.8781515+08:00",
+                      "CompletedAt":  "2025-01-18T05:17:08.4778712+08:00"
+                  },
+                  {
+                      "Id":  "3ed1dd7b-aed2-4de6-949b-2b122cd7afb6",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:13:06.2087907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1cdae41a-f443-43da-afc9-a60058f6d0e4",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:30:38.1956426+08:00",
+                      "CompletedAt":  "2025-01-18T07:06:15.7281869+08:00"
+                  },
+                  {
+                      "Id":  "7de0cf4b-36c2-4a25-878c-8daeb0b933d6",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  5,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:01:28.186147+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "266b1b6e-a6c9-4f3a-9a4a-e35f456e906a",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:31:10.1439302+08:00",
+                      "CompletedAt":  "2025-01-17T00:52:51.4196956+08:00"
+                  },
+                  {
+                      "Id":  "12ff6173-9b0b-4d9b-9d88-6f81bd687d75",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:16:54.6316905+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

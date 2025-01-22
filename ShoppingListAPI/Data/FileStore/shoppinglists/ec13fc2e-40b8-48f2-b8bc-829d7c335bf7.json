@@ -1,0 +1,62 @@
+{
+    "Id":  "ec13fc2e-40b8-48f2-b8bc-829d7c335bf7",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-20T05:22:58.1068776+08:00",
+    "Items":  [
+                  {
+                      "Id":  "81c1a135-625e-4f06-9e7d-f7d91e41a26e",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2233587Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f43effe-0313-499b-9151-faa6dede0d87",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2233611Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cedacc38-5f4e-4946-88ab-d4cb75231c50",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.223362Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31e89d9b-3f4f-4505-bc55-dfab95a3776a",
+                      "Name":  "Fantastic Granite Bacon",
+                      "Quantity":  1,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2233843Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd5053c7-7825-477a-997a-2661e7328e68",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.2233854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0afc9af-ec1c-4fbe-8e5c-589f91a8a22a",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.2233873Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

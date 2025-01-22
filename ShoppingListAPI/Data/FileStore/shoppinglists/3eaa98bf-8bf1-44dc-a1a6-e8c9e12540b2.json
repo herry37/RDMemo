@@ -1,0 +1,44 @@
+{
+    "Id":  "3eaa98bf-8bf1-44dc-a1a6-e8c9e12540b2",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-19T19:31:28.5273387+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a9d42fe-ef24-4f63-bd70-f07c6b7ede2b",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7454575Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d8ea081-b121-424e-92b6-6854879f8842",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7454669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0032ef0b-896e-4212-bcc1-95d6877e93fe",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  58,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.7454696Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ac6bdb6-0cfb-497e-b68e-e8e283ff60bb",
+                      "Name":  "Rustic Cotton Pizza",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.7455115Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

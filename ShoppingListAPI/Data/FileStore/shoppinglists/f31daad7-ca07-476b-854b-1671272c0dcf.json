@@ -1,0 +1,35 @@
+{
+    "Id":  "f31daad7-ca07-476b-854b-1671272c0dcf",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T02:14:29.6413167+08:00",
+    "Items":  [
+                  {
+                      "Id":  "14020193-a1c4-4578-bf3f-20d0ac4a2c2e",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:30:32.6759661+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "99e1626f-5c69-4b7b-b8cf-3816cdd6c005",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:34:29.5837678+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "191962e7-253b-4747-98c3-fc71a18ad444",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:38:51.2471189+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

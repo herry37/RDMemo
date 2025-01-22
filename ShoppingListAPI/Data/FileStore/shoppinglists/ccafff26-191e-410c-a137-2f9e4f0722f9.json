@@ -1,0 +1,89 @@
+{
+    "Id":  "ccafff26-191e-410c-a137-2f9e4f0722f9",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T00:49:29.2513395+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a1be9a92-f65b-4d33-921f-42b45e33b926",
+                      "Name":  "Intelligent Wooden Pants",
+                      "Quantity":  4,
+                      "Price":  445,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336135Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0c95d9e-ad52-4860-8bd7-9778474b3c09",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336182Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a29e110e-3972-4895-93c4-2e14c7ccdcc5",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336211Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f02df6a-6be7-4061-a182-870d41a021cc",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  304,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8ef6b2a-ce61-47cd-9a36-16f61e2ce883",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336285Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95aeeb5f-1b0a-4100-a0c4-f34df86f35c7",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336327Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60dc9850-c69c-425e-a6ba-8fe86f2a9881",
+                      "Name":  "Sleek Concrete Ball",
+                      "Quantity":  5,
+                      "Price":  434,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a29bcda6-9093-4905-8ab1-cbab3597b79d",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f73a853-5934-46a8-b203-6752f466af65",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2336476Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

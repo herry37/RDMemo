@@ -1,0 +1,53 @@
+{
+    "Id":  "f57f771f-e20a-4265-bc2d-a2cdac010de5",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T23:00:28.7110448+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4c79b78-3820-42c3-ba84-bb34c84c8ca6",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  403,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5150691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2efcc274-69f3-4ead-8d84-4d4022095963",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5150706Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4cf7620-5ce3-4528-aec2-efaa937019d1",
+                      "Name":  "Awesome Wooden Shoes",
+                      "Quantity":  3,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5150825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83bb4c87-d2a7-49f3-b555-f8d7b2ddf7a8",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5150835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "882dd3ed-721c-4f35-8410-707daa34ca2f",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5150842Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "161be40b-2204-4caa-8fd8-67e11167326e",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T01:39:39.8449088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "058e1061-62b6-4246-8ab0-075ef129eea7",
+                      "Name":  "Intelligent Steel Towels",
+                      "Quantity":  5,
+                      "Price":  147,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.42557Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cded64f-022a-41de-b354-1b7542b2ceea",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  454,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255722Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fba76aa-aa2d-497d-890c-b7d6b1be5c1a",
+                      "Name":  "Small Concrete Salad",
+                      "Quantity":  4,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255782Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8903dce6-c8e9-42ef-a519-3eac986b31cb",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255796Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93c0b37d-5a14-4579-a5fd-65150020d00e",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90f95362-1fa4-451b-aeba-f1e1c750c304",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "423f96c7-0225-4495-860b-bc7982a3037a",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255827Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d706063-cf06-43e8-bdac-5a9fe38cdd15",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  467,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6be8e7a-552c-41d7-b195-cafd29cdb47f",
+                      "Name":  "Handcrafted Frozen Cheese",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255923Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "985ca23a-024a-4b17-ac3f-621cd1b09d7e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4255934Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

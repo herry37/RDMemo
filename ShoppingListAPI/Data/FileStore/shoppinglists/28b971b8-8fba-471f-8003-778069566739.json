@@ -1,0 +1,80 @@
+{
+    "Id":  "28b971b8-8fba-471f-8003-778069566739",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-20T20:32:48.4312554+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95efde01-6ec5-4b81-929f-35b5abda11dc",
+                      "Name":  "豬肉",
+                      "Quantity":  4,
+                      "Price":  63.070927403574150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:30:19.2268599+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d86a14d-a3a3-42ee-a5b7-642bd50772ac",
+                      "Name":  "芳香劑",
+                      "Quantity":  1,
+                      "Price":  155.613454937344870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:14:35.7274844+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63c7c3b9-2a3a-469e-9596-6d6c2a1c745a",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  10,
+                      "Price":  286.057236412609260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:22:24.5455508+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00aa4fda-106e-4145-aedd-b9c67266184f",
+                      "Name":  "雞肉",
+                      "Quantity":  8,
+                      "Price":  62.717082070363480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:26:44.6663758+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2cf60ce-717e-4fe7-877c-7d6baa07b2e7",
+                      "Name":  "果乾",
+                      "Quantity":  4,
+                      "Price":  22.8575099470133540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:13:17.2162666+08:00",
+                      "CompletedAt":  "2025-01-16T11:44:16.383793+08:00"
+                  },
+                  {
+                      "Id":  "46b52052-d4db-429d-98af-84cbd642c6b5",
+                      "Name":  "護手霜",
+                      "Quantity":  8,
+                      "Price":  206.413265707071630,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:57:49.3014103+08:00",
+                      "CompletedAt":  "2025-01-21T10:16:28.360612+08:00"
+                  },
+                  {
+                      "Id":  "c0ea8bd0-1549-40fd-8645-ccb15f322715",
+                      "Name":  "筆",
+                      "Quantity":  4,
+                      "Price":  439.003178632143920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:35:09.1113456+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ced30e6-9039-4cb2-98d0-7b475c04ac70",
+                      "Name":  "化妝品",
+                      "Quantity":  8,
+                      "Price":  384.960983612516980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:54:14.6369602+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

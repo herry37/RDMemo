@@ -1,0 +1,35 @@
+{
+    "Id":  "fb30abf0-2dff-4cb0-8706-534ebc6adc4c",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T07:23:18.0668839+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4457dc53-83fa-4882-8078-f3028a1f3077",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3209441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0697991e-cd7b-4d08-badd-c58f4bc0d86c",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3209481Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "575970eb-3070-4dcf-984d-70055e4ccdb8",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3209496Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

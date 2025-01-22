@@ -1,0 +1,62 @@
+{
+    "Id":  "9102cda7-7830-4c2d-bea0-b8204cad8cfd",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-21T15:43:48.8857599+08:00",
+    "Items":  [
+                  {
+                      "Id":  "41de7b6e-8b85-4aa9-bc7f-df0a78a35851",
+                      "Name":  "當季青菜",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:30:58.6161429+08:00",
+                      "CompletedAt":  "2025-01-17T23:40:56.4875904+08:00"
+                  },
+                  {
+                      "Id":  "75821574-a384-4e12-b981-5188f8d05700",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:41:04.7150185+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6eb314fc-08ff-45b4-b610-f2555981739e",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:05:30.8214103+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83c17483-437c-4f77-809b-a7ca7bbd309e",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  227,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:46:16.0364573+08:00",
+                      "CompletedAt":  "2025-01-20T21:34:33.358745+08:00"
+                  },
+                  {
+                      "Id":  "7f53a910-03d5-4a50-a965-eafd1a8e637b",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:17:16.8643486+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a70cf8c-69c2-49b4-9e43-d013792ae17a",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  287,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:27:10.5138789+08:00",
+                      "CompletedAt":  "2025-01-18T01:20:07.0994232+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

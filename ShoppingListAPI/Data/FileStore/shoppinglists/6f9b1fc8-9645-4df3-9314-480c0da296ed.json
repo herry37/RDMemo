@@ -1,0 +1,35 @@
+{
+    "Id":  "6f9b1fc8-9645-4df3-9314-480c0da296ed",
+    "Title":  "派對用品 - 好市多 (01/20)",
+    "CreatedAt":  "2025-01-16T15:22:25.0195752+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5f8704ed-75b8-41bb-900c-b9703c11259e",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:33:31.3652185+08:00",
+                      "CompletedAt":  "2025-01-21T03:56:06.4265576+08:00"
+                  },
+                  {
+                      "Id":  "3a61727e-f2ab-4d54-8fbd-9e6d595d9c65",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:02:33.2407064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "569cf486-798e-468e-85cd-a42aa99d1634",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:37:54.4869035+08:00",
+                      "CompletedAt":  "2025-01-17T07:11:33.9574768+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "1fd9045b-56f6-4723-bd91-3b4bf5809952",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T13:13:32.5374895+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8f1c89f3-ec12-4ecb-a854-82fabae19adf",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  463,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4556792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef1bc23d-840a-414e-87d6-a8f01c4d4530",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  361,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4556829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4410c5fe-36b5-4b02-a490-9b0d28721327",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4556839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d683c2f-b99e-4833-ab8d-8224b643e014",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4556849Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

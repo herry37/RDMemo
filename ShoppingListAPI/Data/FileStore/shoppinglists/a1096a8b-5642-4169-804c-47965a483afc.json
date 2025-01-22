@@ -1,0 +1,71 @@
+{
+    "Id":  "a1096a8b-5642-4169-804c-47965a483afc",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T22:42:25.6632138+08:00",
+    "Items":  [
+                  {
+                      "Id":  "50d66917-4b7d-407f-accc-62aee64b290e",
+                      "Name":  "Fantastic Rubber Chair",
+                      "Quantity":  1,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.061785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a6b6fd5-927a-4813-9389-b0f7fca86536",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0617902Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e33163e5-d8fe-4ac7-8404-0c4c7454ab46",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  112,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.061792Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba9ecfa2-e7f3-4eaf-aae4-22d63703e9a9",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0617946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7088b25-94e9-4b23-b0e2-364a37a5ba26",
+                      "Name":  "Licensed Steel Mouse",
+                      "Quantity":  3,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0618026Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "735a789b-ba51-4414-b16c-6536bd61eff7",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0618126Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1ef608bb-8e8d-452a-8dfa-76b7f428b325",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0618143Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

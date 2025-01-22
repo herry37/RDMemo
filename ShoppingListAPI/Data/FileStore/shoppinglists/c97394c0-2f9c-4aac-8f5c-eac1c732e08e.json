@@ -1,0 +1,62 @@
+{
+    "Id":  "c97394c0-2f9c-4aac-8f5c-eac1c732e08e",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T00:15:59.7965246+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bc4a4340-b002-4601-b6bd-c3a3a7f1590b",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2515579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58f892a3-1432-40e5-9186-93e549dfaf44",
+                      "Name":  "Licensed Steel Gloves",
+                      "Quantity":  2,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2515748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efe160f0-3c64-4012-9c19-c9ab36b0a67a",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2515775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d20930d-2ff4-4885-8522-0ec946f504e0",
+                      "Name":  "Handcrafted Soft Soap",
+                      "Quantity":  2,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2515815Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2a1d297-b732-4aa1-bae6-564e36577b32",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.251583Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e1e1223-2631-4a95-93aa-d2fea30983ac",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  18,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2515854Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

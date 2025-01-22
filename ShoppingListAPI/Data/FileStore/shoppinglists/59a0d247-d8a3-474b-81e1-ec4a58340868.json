@@ -1,0 +1,53 @@
+{
+    "Id":  "59a0d247-d8a3-474b-81e1-ec4a58340868",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T01:17:38.0374141+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c26dea90-ee05-42b7-9a81-8cdb7026baf7",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  60,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2575168Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e131743-0356-4304-9b19-31ffe32b1409",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2575216Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c3bb650-fa22-4738-8804-947fb421ee2c",
+                      "Name":  "Generic Wooden Computer",
+                      "Quantity":  1,
+                      "Price":  344,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2575486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "680682c4-4255-452b-b263-33ca89fe4b44",
+                      "Name":  "Practical Rubber Table",
+                      "Quantity":  5,
+                      "Price":  365,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2575556Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff38ce28-9ddd-4102-a741-24a7d0d0c4bc",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  14,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2575574Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

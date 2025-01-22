@@ -1,0 +1,80 @@
+{
+    "Id":  "f1f8e843-e8ce-4e1b-adca-dc28e6aac94f",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-16T07:26:58.4563822+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2a4a7793-181e-4675-92d4-d1e81eca69c0",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:09:28.3117244+08:00",
+                      "CompletedAt":  "2025-01-21T03:29:32.2187435+08:00"
+                  },
+                  {
+                      "Id":  "6697b9f2-e9ca-42c4-bcfc-9b6aabd37565",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:02:34.1304541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23064484-69c2-4d3d-9315-bd92a441d3f9",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:51:38.7234839+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "650a6ca1-1ab8-4964-b90d-ddfe33b220d7",
+                      "Name":  "進口蘋果",
+                      "Quantity":  5,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:34:45.462703+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9076fa8-576c-4eb3-bcde-c30278587b96",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:44:02.2829517+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9c6baca-2af0-4641-9140-ad208df26a61",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:36:14.8995085+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "618215ec-0b08-4c54-a0e9-7bc383e4f079",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:58:05.2932583+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80964606-ad27-4fd8-af27-6f8f9581c154",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:03:19.9312198+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

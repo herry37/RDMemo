@@ -1,0 +1,80 @@
+{
+    "Id":  "e7ef1891-060c-42d1-bb7e-5d8e03108850",
+    "Title":  "緊急採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T12:21:58.333965+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4043e77f-943b-42c5-a4f2-6502da81c21b",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:23:47.1621985+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fef1b6d-4c4e-43c9-ba71-725b632925eb",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:09:18.6543563+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "405659c2-143a-43b3-b856-116c54b61825",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:12:59.2534825+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46bd7e76-5061-4d75-ac60-b7440822b0b9",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:23:43.4577078+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97154943-5e39-4e01-ad1e-834fe0e94b9f",
+                      "Name":  "進口蘋果",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:46:46.3631603+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2089a17f-e136-4d7f-a025-dd6305a4eaed",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:51:56.5432244+08:00",
+                      "CompletedAt":  "2025-01-15T23:20:36.6153738+08:00"
+                  },
+                  {
+                      "Id":  "98f1d107-0001-4281-a272-5e7900624992",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  1,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:13:29.5851704+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f333e7b-800b-494e-a4d5-7dece9682637",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  127,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:52:14.6032023+08:00",
+                      "CompletedAt":  "2025-01-17T06:06:26.5985993+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "a49a41d4-d9a1-4b0c-96b1-efe6c62279c6",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-16T04:46:01.090564+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ad72a7e5-0b8b-40e7-a9c6-a26a3e040553",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2958915a-9665-48ae-9e1d-bd47f9c6c78b",
+                      "Name":  "Handcrafted Wooden Towels",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786615Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf0dfd19-a28d-42e2-9a59-51523933883b",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5eeebaae-c2bd-4992-a455-8a6405fe986d",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786691Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f7abb12-2cdc-40cb-8f88-5864ee552121",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786704Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b19f95e-94f2-4d95-8de0-d9658a404672",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  78,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786729Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db0b9cde-f24f-4eb5-8fee-e271150a7c52",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf17a202-1cdf-4c77-8eb5-21d3dd19ecd8",
+                      "Name":  "Refined Granite Gloves",
+                      "Quantity":  2,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786781Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13f94b9f-cfbd-44c5-92e9-bfa8f868680e",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786794Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f9399d0-be69-4df3-95e7-be5276be0193",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8786809Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

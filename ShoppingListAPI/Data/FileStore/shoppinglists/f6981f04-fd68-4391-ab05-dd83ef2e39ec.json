@@ -1,0 +1,35 @@
+{
+    "Id":  "f6981f04-fd68-4391-ab05-dd83ef2e39ec",
+    "Title":  "緊急採買 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-19T19:19:03.6417408+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b0c0006e-2391-4059-a741-65e384328711",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:00:31.7984669+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f101e959-ab06-4371-bd81-6f03a51019fd",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:02:24.6277161+08:00",
+                      "CompletedAt":  "2025-01-15T17:26:17.8250538+08:00"
+                  },
+                  {
+                      "Id":  "cb64ee1f-824b-4dcf-a754-129ebb21f2ab",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:01:13.607064+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

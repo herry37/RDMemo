@@ -1,0 +1,89 @@
+{
+    "Id":  "d293b085-f8ff-47e8-b610-513d87dcbefa",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T12:59:26.8251811+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35b8943f-729e-417f-acff-c320e4fd16f9",
+                      "Name":  "Incredible Steel Bacon",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7983919Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf17091b-92c7-4761-bf38-06d9762fb92b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7983964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a228265-68fe-4048-bd36-db3932ae2637",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7983984Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cfdde539-e035-4520-95bf-6253c07a6ed6",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "462064aa-2716-46bd-ac5e-73faf7441ca7",
+                      "Name":  "Handmade Soft Gloves",
+                      "Quantity":  4,
+                      "Price":  366,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b71bb505-0f33-4134-9bf6-ccb3152f8d36",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984094Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e84ed841-0cdf-4519-9216-82cd71af9e40",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "770e1172-a0e9-4c9e-9dc1-834c65b3f4aa",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984136Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "341f2c79-4eb7-410d-9289-fea864cb5509",
+                      "Name":  "罐頭",
+                      "Quantity":  3,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7984156Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

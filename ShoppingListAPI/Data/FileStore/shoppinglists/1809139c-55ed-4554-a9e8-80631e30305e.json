@@ -1,0 +1,98 @@
+{
+    "Id":  "1809139c-55ed-4554-a9e8-80631e30305e",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T13:16:39.5086499+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f896dccf-4359-4ab1-8e21-3b44a4469ee0",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1879922Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26e8bbc4-892d-4be2-bd79-e7e88e750e7a",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1879938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34d90f14-28ff-4fd6-b0d7-42973c189c7f",
+                      "Name":  "Handmade Granite Keyboard",
+                      "Quantity":  3,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94e36711-478e-4c91-85bd-c5caddda94cd",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880123Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bc28f4e-d2a7-495e-9025-692ffe878151",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64b83bf9-3e69-4585-b40d-de9ffb38e14e",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880215Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bc5da1b-8d52-4766-bdec-f37c014eb84a",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880224Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "546d1ca1-05be-4ec8-8b43-8dcd67d74d52",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d49df1a4-b57a-4c63-bd29-425b72cd89b1",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  470,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45d31c1a-4d6e-4de9-be08-35cf23ef5ce7",
+                      "Name":  "Gorgeous Steel Table",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.1880265Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "58531538-7af7-44e6-a29c-34f73ba60abb",
+    "Title":  "01/17 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T10:01:39.6586986+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3f30b454-cc25-42cd-960d-47baab3580a4",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36d993f6-08af-46ff-8c22-d50ea265c50a",
+                      "Name":  "Fantastic Granite Tuna",
+                      "Quantity":  2,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998523Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1df1ac5-4ff5-4c3e-b430-3d1c048ceca7",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998533Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "522ed5d9-d452-457e-8e6d-cbd13c1ffbb8",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  85,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00522fc2-5375-4f37-998d-ccb2903d1280",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  53,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998555Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86b655ba-b4e1-4064-ac96-5b0c19012542",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.699857Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "655bb9c6-28a8-4856-9f65-5073f79aef3e",
+                      "Name":  "Small Frozen Fish",
+                      "Quantity":  4,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6998591Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

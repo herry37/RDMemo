@@ -1,0 +1,53 @@
+{
+    "Id":  "3f4438e3-8a97-4bfb-b423-a0dec54f4279",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T12:58:30.644533+08:00",
+    "Items":  [
+                  {
+                      "Id":  "88a3f5c0-c63a-4ddf-b844-f9ff3a802122",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0794207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1fe6e2b-5ccb-4d2a-9a07-12ebab4cf545",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  457,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0794281Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3d2b78d-7c83-464f-8b3f-5faa5f6b2686",
+                      "Name":  "Handcrafted Steel Soap",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0794746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01aa70cd-ca60-4a57-aa3a-a49726166868",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0794768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e6a61832-1441-4a9e-95f2-7fc5ec471909",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  331,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0794787Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

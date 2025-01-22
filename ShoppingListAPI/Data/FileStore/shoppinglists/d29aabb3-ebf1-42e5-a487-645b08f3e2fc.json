@@ -1,0 +1,71 @@
+{
+    "Id":  "d29aabb3-ebf1-42e5-a487-645b08f3e2fc",
+    "Title":  "日常補充 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-16T11:54:58.1577668+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9e7ff7fa-63a2-48c1-8a75-ad4a5db27ca3",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:38:21.1419769+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58b5290f-3336-4bdd-b459-88e6f95b6ae2",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:59:14.9091106+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eba6c12c-b8e7-4622-8991-87a20af2e2df",
+                      "Name":  "氣泡水",
+                      "Quantity":  5,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:13:26.3329956+08:00",
+                      "CompletedAt":  "2025-01-19T09:48:56.2873728+08:00"
+                  },
+                  {
+                      "Id":  "f09cd790-bff3-4979-999d-bc3316910f5f",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:27:10.722264+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4ab7608-1019-4b99-83cb-07d18acf79ad",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:33:43.391409+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f32a642-db42-4a1a-99f0-5772f6e799d3",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:03:30.7540665+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e3d4e31-e8bd-4079-927d-edbabcdd5c82",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:06:46.7882394+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

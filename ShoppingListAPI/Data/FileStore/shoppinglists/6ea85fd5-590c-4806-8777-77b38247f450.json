@@ -1,0 +1,80 @@
+{
+    "Id":  "6ea85fd5-590c-4806-8777-77b38247f450",
+    "Title":  "聚會準備 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-19T11:17:58.516785+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b46f5a1b-f5ca-4cb9-94ca-7d96845e7e90",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:01:33.6484593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c089f7a6-90e0-48f3-992c-fa1ec4c34c9f",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  1,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:01:40.5975417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9062e37a-be86-4712-9ffb-cb6b3507c625",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:03:24.1926384+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2bc5880-ee62-4072-864b-9b73bb7261c9",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:54:41.4097755+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e7f1af0-ddb6-42fc-87b7-be7a00832e89",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  4,
+                      "Price":  75,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:35:31.8185298+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f98a279f-cc23-4b04-b1d9-4889bdd45623",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  2,
+                      "Price":  92,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T10:45:50.2144425+08:00",
+                      "CompletedAt":  "2025-01-21T00:28:33.1786478+08:00"
+                  },
+                  {
+                      "Id":  "0d1a7441-cef0-41f6-82aa-92d70711938b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T10:21:25.3154003+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a826e60-9a21-4d0d-8a79-465ca7fffae1",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:42:59.6778347+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

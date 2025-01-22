@@ -1,0 +1,44 @@
+{
+    "Id":  "2301f4c1-2a76-4e56-ac2d-decaa1c02913",
+    "Title":  "每週採購 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-21T04:35:38.4223102+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4967d75d-2b68-425f-84e3-0bbbf154cbef",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:55:03.269151+08:00",
+                      "CompletedAt":  "2025-01-16T14:11:50.9884524+08:00"
+                  },
+                  {
+                      "Id":  "bbf938c1-fdf6-426d-a12e-ef2f4b10b827",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T17:29:27.3078281+08:00",
+                      "CompletedAt":  "2025-01-16T16:39:59.0333388+08:00"
+                  },
+                  {
+                      "Id":  "10bb18cb-d5b9-4edb-9cd1-583c977f6a2c",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  3,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:20:15.953752+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d15b240e-50c0-43b8-840b-722c18a0e62a",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:06:39.4293074+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

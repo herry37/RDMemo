@@ -1,0 +1,71 @@
+{
+    "Id":  "3ef8ab7b-52ae-44f2-bf46-f4f9498acc71",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T22:32:22.6774858+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b948549-a958-40cd-b0a0-9a8ce994c588",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  4,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:57:10.7315534+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25f38d44-622e-4d47-ba38-5dde9d88592b",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T20:26:33.6107749+08:00",
+                      "CompletedAt":  "2025-01-18T06:40:33.1962433+08:00"
+                  },
+                  {
+                      "Id":  "d02b9592-090b-4c4d-889d-aaecccb8395c",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:21:14.4814644+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e3f798b-81a7-4f13-a985-05c79b8555c1",
+                      "Name":  "木質相框",
+                      "Quantity":  3,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:27:17.0209547+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "397a4ada-f5db-4ef5-9885-78d579da2fdf",
+                      "Name":  "黑巧克力",
+                      "Quantity":  4,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:03:38.536816+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0046ca1b-a210-446a-a6e1-dbd5350a7647",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:21:14.0364081+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af570391-f943-464d-9fcd-50ab8c4624de",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  5,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:54:53.4716505+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

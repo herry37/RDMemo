@@ -1,0 +1,44 @@
+{
+    "Id":  "c74397e3-3d03-4c22-b974-cefce1548c4f",
+    "Title":  "露營準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-15T13:22:58.7871542+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7b14509b-b455-434c-a784-8023036fb656",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:15:55.105268+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "98031aa4-84a3-49a1-8375-3da01fd2f50e",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:15:12.3182646+08:00",
+                      "CompletedAt":  "2025-01-16T22:48:28.721017+08:00"
+                  },
+                  {
+                      "Id":  "2d6fa466-2d2b-4cea-a67e-6282a4780349",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  22,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:59:58.4134599+08:00",
+                      "CompletedAt":  "2025-01-18T21:15:04.6568986+08:00"
+                  },
+                  {
+                      "Id":  "ff1fe4d6-9ea6-4e04-959b-bf27929552df",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:53:45.8146929+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

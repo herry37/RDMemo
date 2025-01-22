@@ -1,0 +1,80 @@
+{
+    "Id":  "21e4e439-a89c-454d-8f4d-d5389ed518c3",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-14T22:38:49.2688418+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0b203e7-8140-439a-895b-abd4e37eed1d",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108409Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8675e3fc-ffcd-4190-a43d-bd6234dfccb6",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108468Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4676ac38-dcd5-4f34-8445-1120aaa32e27",
+                      "Name":  "Gorgeous Rubber Cheese",
+                      "Quantity":  2,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108664Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f21d6700-fbf9-4e37-a721-958c034da578",
+                      "Name":  "Awesome Rubber Car",
+                      "Quantity":  4,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108761Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "219fe1ea-5fa7-4e71-98e0-5b98fc50f446",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.910877Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4fec9de-647c-40fe-b0e2-4b800aa9f197",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  308,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108801Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17419b87-e2d2-498f-aa7f-b7176defb526",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  475,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.910881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cdeca545-51a3-4a46-882d-311fca439402",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.9108819Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

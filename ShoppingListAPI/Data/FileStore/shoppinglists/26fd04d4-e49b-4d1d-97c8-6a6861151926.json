@@ -1,0 +1,44 @@
+{
+    "Id":  "26fd04d4-e49b-4d1d-97c8-6a6861151926",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T16:50:10.1448855+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f67951bc-181d-4db1-8874-0c12d83a0d18",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:28:48.3557743+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3f94cda-122e-44cb-8759-3ca6ffd08ce9",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  2,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:57:30.7720132+08:00",
+                      "CompletedAt":  "2025-01-21T16:58:36.1388146+08:00"
+                  },
+                  {
+                      "Id":  "f151aac5-c665-4708-8ca0-78b98ae1e096",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:48:10.2375935+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e30d73c5-3486-435d-a8c0-497b7435b342",
+                      "Name":  "天然海綿",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:54:41.5729605+08:00",
+                      "CompletedAt":  "2025-01-19T21:10:13.5909856+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

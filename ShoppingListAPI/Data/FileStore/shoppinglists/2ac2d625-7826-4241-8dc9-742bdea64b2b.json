@@ -1,0 +1,62 @@
+{
+    "Id":  "2ac2d625-7826-4241-8dc9-742bdea64b2b",
+    "Title":  "日常補充 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T14:57:19.4866097+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eb2cff2d-894f-4594-b6ea-dcce2aa8b187",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:19:26.8334178+08:00",
+                      "CompletedAt":  "2025-01-20T18:20:28.2324751+08:00"
+                  },
+                  {
+                      "Id":  "a347c9bc-92eb-4343-bfa7-90c276fc189f",
+                      "Name":  "進口糖果",
+                      "Quantity":  4,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:53:28.5878289+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8893891-cf6c-4295-be0f-3201d21d1958",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  3,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:10:54.2535635+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b778c6e7-f6a7-48a8-b7b6-9effdf61bae4",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:07:50.0714045+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "342bd1f2-719c-4340-a27e-9a05127ac315",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:03:52.1721104+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7414fcf-d4b4-496b-ad07-37b1a4def910",
+                      "Name":  "進口糖果",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:54:17.2072853+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

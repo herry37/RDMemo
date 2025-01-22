@@ -1,0 +1,35 @@
+{
+    "Id":  "5de4ece0-fa7b-4aa8-85de-860b05e1a8e1",
+    "Title":  "01/17 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T20:26:36.29876+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2bb6e34f-f376-4e87-831a-d3b5540232e9",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  423,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6248326Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c20cf2fa-ea02-4fad-a51a-01f1bf813af0",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6248396Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e08c009-5608-4884-b8b4-39b47ff8fb8a",
+                      "Name":  "Rustic Steel Soap",
+                      "Quantity":  2,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6248648Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

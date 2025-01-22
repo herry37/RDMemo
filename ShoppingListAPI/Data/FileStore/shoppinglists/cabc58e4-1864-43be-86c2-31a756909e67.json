@@ -1,0 +1,80 @@
+{
+    "Id":  "cabc58e4-1864-43be-86c2-31a756909e67",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-19T13:03:52.8372397+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a04abff-1dc4-4ef4-869d-f6bb71495010",
+                      "Name":  "梳子",
+                      "Quantity":  9,
+                      "Price":  85.284074249610520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:52:27.2332418+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eef409c6-c9e0-4266-a5d0-8fb414796f5d",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  79.128672372190480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T07:13:39.5377047+08:00",
+                      "CompletedAt":  "2025-01-19T05:52:24.8574262+08:00"
+                  },
+                  {
+                      "Id":  "7e382ff4-cd58-416a-a78b-65557f0ae8ef",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  105.659830137449480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:02:32.8208381+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88989b8e-faeb-4274-b9d9-1c4aac51eb96",
+                      "Name":  "棉被",
+                      "Quantity":  6,
+                      "Price":  121.482539146659590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:21:07.7075841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eba84855-5447-415e-89db-7f7a85cfac69",
+                      "Name":  "青菜",
+                      "Quantity":  8,
+                      "Price":  486.371318596935580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:45:00.9270812+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7cac5a75-87df-46d0-8e7c-a64723c73d04",
+                      "Name":  "碗",
+                      "Quantity":  9,
+                      "Price":  192.745034352063610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:13:51.3472847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9620668a-f742-43d3-b8fa-d12fa4befed0",
+                      "Name":  "鍋子",
+                      "Quantity":  6,
+                      "Price":  323.3776233640920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:40:43.808677+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49748e46-541a-4191-8132-f70b4e34d41a",
+                      "Name":  "餐具",
+                      "Quantity":  1,
+                      "Price":  478.691269306237740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:49:23.3515872+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

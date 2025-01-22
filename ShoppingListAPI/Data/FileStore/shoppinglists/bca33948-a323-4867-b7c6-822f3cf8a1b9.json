@@ -1,0 +1,80 @@
+{
+    "Id":  "bca33948-a323-4867-b7c6-822f3cf8a1b9",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-20T05:38:05.3991224+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ebb6a4d9-bfec-43dc-a0bb-62a3db108039",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:02:05.0705729+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54b5d420-189d-4e65-8cca-a05bfe0bba7d",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:07:53.4198747+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c273367b-dc8b-4436-a30c-f0d460900a0c",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  228,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:32:34.213954+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a836c48-e7f3-4f44-8ad4-05f68b900526",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:26:55.3909871+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cf93e21-5dc2-4ed9-a70c-9c7c04084472",
+                      "Name":  "透明膠帶",
+                      "Quantity":  1,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:46:59.7272832+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a8ece6f-2528-497b-ba3d-2094d083404f",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T20:39:51.0376071+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49014d76-da2a-41c1-95f4-7799191fd31f",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T18:52:49.9905203+08:00",
+                      "CompletedAt":  "2025-01-22T10:36:53.1453041+08:00"
+                  },
+                  {
+                      "Id":  "cea2c2bd-d547-41a7-90e1-b1432373a461",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:56:31.6639896+08:00",
+                      "CompletedAt":  "2025-01-16T06:00:29.9154783+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

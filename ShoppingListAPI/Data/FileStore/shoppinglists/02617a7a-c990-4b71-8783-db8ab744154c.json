@@ -1,0 +1,62 @@
+{
+    "Id":  "02617a7a-c990-4b71-8783-db8ab744154c",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T17:53:23.4574647+08:00",
+    "Items":  [
+                  {
+                      "Id":  "73d162e5-6e00-48db-b1d7-d43a4ef0e410",
+                      "Name":  "餐巾紙",
+                      "Quantity":  8,
+                      "Price":  95.343686618871940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:53:47.7021028+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23dcc5be-aac2-4415-8a9d-b4397c731213",
+                      "Name":  "礦泉水",
+                      "Quantity":  7,
+                      "Price":  459.541911490654430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:25:50.5377714+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30241250-cb1a-42f6-862d-4a07b16ca491",
+                      "Name":  "電池",
+                      "Quantity":  5,
+                      "Price":  110.054599042990410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T21:22:14.6332472+08:00",
+                      "CompletedAt":  "2025-01-21T01:06:15.087855+08:00"
+                  },
+                  {
+                      "Id":  "69f73b4e-4e67-44c9-b9a7-96f88414e37e",
+                      "Name":  "衣架",
+                      "Quantity":  10,
+                      "Price":  110.245681326990430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:21:15.5748935+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2c48883-5b9b-4c07-8b86-1a1f12a70826",
+                      "Name":  "口香糖",
+                      "Quantity":  6,
+                      "Price":  120.44202835918910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:09:10.0431648+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6b08294-9c68-4525-b178-4d2bc7cd66e2",
+                      "Name":  "鍋子",
+                      "Quantity":  6,
+                      "Price":  53.7543309502437390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:56:24.110162+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

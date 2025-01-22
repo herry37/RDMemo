@@ -1,0 +1,44 @@
+{
+    "Id":  "b2b520b9-8d22-4871-8f49-3af9bb5e4eb4",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-14T21:53:11.7988627+08:00",
+    "Items":  [
+                  {
+                      "Id":  "639e8228-1463-4bbe-9f5d-a65c50fd57ed",
+                      "Name":  "餐具",
+                      "Quantity":  2,
+                      "Price":  97.498141947959120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T16:11:07.8966834+08:00",
+                      "CompletedAt":  "2025-01-18T16:04:52.1475802+08:00"
+                  },
+                  {
+                      "Id":  "cbcaf2d0-f04a-446b-af8b-aa1ba9d62ee7",
+                      "Name":  "資料夾",
+                      "Quantity":  1,
+                      "Price":  495.746347032850540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:25:39.4785056+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12a501e5-f43d-477c-a5b3-c090c866154b",
+                      "Name":  "掃把",
+                      "Quantity":  4,
+                      "Price":  330.880630191969960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:44:52.7985103+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25a6ff01-7aa5-4e6d-a190-4c36e6af6a19",
+                      "Name":  "巧克力",
+                      "Quantity":  5,
+                      "Price":  110.555030236032260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:09:19.6549978+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

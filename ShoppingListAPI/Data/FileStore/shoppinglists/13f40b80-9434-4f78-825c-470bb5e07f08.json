@@ -1,0 +1,35 @@
+{
+    "Id":  "13f40b80-9434-4f78-825c-470bb5e07f08",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T08:46:32.0232046+08:00",
+    "Items":  [
+                  {
+                      "Id":  "272ab9f7-8b63-413b-b2a9-77c5f992afc6",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5281378Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9892a285-662c-4e7c-8659-8c904ed5faef",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.528141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e40bd2f-8f6e-4002-94bf-3675be12e8d3",
+                      "Name":  "Handcrafted Fresh Towels",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5281614Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

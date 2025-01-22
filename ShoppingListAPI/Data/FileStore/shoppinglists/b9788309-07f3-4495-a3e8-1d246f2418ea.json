@@ -1,0 +1,44 @@
+{
+    "Id":  "b9788309-07f3-4495-a3e8-1d246f2418ea",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-21T16:36:31.4458201+08:00",
+    "Items":  [
+                  {
+                      "Id":  "35bddf0b-aa43-45d3-8925-6e196f68d123",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2849034Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3fcfe12c-3f0c-4b46-b616-dbec139307cd",
+                      "Name":  "Incredible Cotton Cheese",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2849333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0422880b-8fa7-4e5b-804a-27ec8c22b552",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2849345Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cccfb62e-1380-4ba8-8ed3-b8d0e9a91e0f",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.2849353Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

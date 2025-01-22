@@ -1,0 +1,53 @@
+{
+    "Id":  "e425b3e9-a5bd-465e-8306-3e063a85b04a",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-21T18:57:06.3257252+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e0514433-7654-404f-addb-6b5c9dab731a",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.774721Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e341a4ab-a7ed-4b05-830d-23f8eb05f972",
+                      "Name":  "Awesome Granite Keyboard",
+                      "Quantity":  5,
+                      "Price":  400,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7747514Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "236cd67f-1643-4573-aa5f-eec59cc8525f",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7747529Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "715cc42c-ee97-45e3-a336-7c41da638ea6",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.7747538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db951886-31b9-49dc-8f30-5b604c33f2b1",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.7747546Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "2d07a7c7-4471-4665-97e7-9197186f3b7c",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T08:54:50.2952503+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e9c3aae-a2bb-4971-b4b3-625a7fe62a8c",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4224432Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87795378-5bff-4acc-8909-1ae5c5ffc6c3",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4224515Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24e7efd5-268c-4a50-8db3-3cd18cf1d2eb",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4224539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "385497ce-fbdf-4c2d-aae6-4fb8ef11b298",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4224564Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

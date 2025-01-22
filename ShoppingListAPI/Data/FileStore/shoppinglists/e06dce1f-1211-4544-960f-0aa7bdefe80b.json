@@ -1,0 +1,80 @@
+{
+    "Id":  "e06dce1f-1211-4544-960f-0aa7bdefe80b",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T04:18:42.1562006+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6011f50-f4ab-4d6c-be74-7f82e549c4f4",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:01:12.7107203+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d604d8f-9f9d-4667-bda9-e5c7b75e45c3",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  2,
+                      "Price":  183,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:21:13.3796542+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f464f47e-d153-4f90-a19a-a894a65bf6b8",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:54:34.1631933+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5e35fdbb-45e8-4379-bd61-70f768d8f38b",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:57:43.7538726+08:00",
+                      "CompletedAt":  "2025-01-21T15:13:03.1148675+08:00"
+                  },
+                  {
+                      "Id":  "bff0b3bd-35ea-4af2-bf82-1f038c08f2c5",
+                      "Name":  "木質相框",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:39:16.2093654+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36f4b76a-2f6f-40e4-8dde-1717c4a0f93f",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:23:44.6021296+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bdc96aa8-f275-4106-8227-c421c1204f18",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:11:27.6691634+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7edc6a1-86c4-4110-9a2f-5bbcfa312ae0",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:28:37.8274556+08:00",
+                      "CompletedAt":  "2025-01-21T09:42:13.824744+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "1dc79761-95e7-4ddc-ab29-3e5e1dea83ad",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-21T12:06:52.2482222+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9965482c-0650-4d21-ad14-e33cc686ad88",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4416433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5daab91a-aef2-4c7d-b1ae-da77ad71b074",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4416634Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6c49dbc-2f62-4788-a7c8-5b5b4ee191cf",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4416654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dce64857-f0db-4456-bafc-12afd40e2df6",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.441667Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f806b6af-9ef9-4369-93b7-291a298b4ae7",
+                      "Name":  "Tasty Steel Keyboard",
+                      "Quantity":  1,
+                      "Price":  19,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.441696Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

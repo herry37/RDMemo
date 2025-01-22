@@ -1,0 +1,80 @@
+{
+    "Id":  "f1f7cb1d-afec-451e-aee4-2d3c7ccc000d",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T12:18:03.9860466+08:00",
+    "Items":  [
+                  {
+                      "Id":  "db6bb36e-295e-4ef0-aa7d-a35d3a2ce59f",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "becb6060-b4bb-4de2-a75b-8ff3361a98bb",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  411,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2919d94-521b-4447-91e1-70f908a750b0",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  79,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243538Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bc0aea3-d603-42a3-bb0f-4f34ef3487dd",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  493,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243548Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "438d0401-934e-4578-8b22-05ea880360b2",
+                      "Name":  "Incredible Steel Chicken",
+                      "Quantity":  3,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243808Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59a72fde-accc-4acf-9686-eef9bb49fd7e",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5d11ebc-1aed-4136-a8cd-51b13547796d",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  389,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243836Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8d4cd6e-6ae1-45f1-8bfc-a7247095f566",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  321,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5243844Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

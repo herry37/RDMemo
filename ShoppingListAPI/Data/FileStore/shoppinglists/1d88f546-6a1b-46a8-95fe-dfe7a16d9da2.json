@@ -1,0 +1,80 @@
+{
+    "Id":  "1d88f546-6a1b-46a8-95fe-dfe7a16d9da2",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-17T09:56:56.6117263+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d881b45c-de65-4326-8c03-8d0e0a23b9d4",
+                      "Name":  "Sleek Plastic Table",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8c5fbfc-b5eb-4d80-b392-ec92a4cd4c0a",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001302Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b24e907-8424-4f57-a1db-400c91a0105d",
+                      "Name":  "Rustic Rubber Bike",
+                      "Quantity":  1,
+                      "Price":  413,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001369Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b112edd-4bd3-457b-88aa-bd9f1cd77bcc",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001388Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "510646e9-e00e-43f7-927b-577975f71e81",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001411Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18360714-d266-4ee2-b746-a5a546909eb9",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001445Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4769fb4b-9ae5-4dd2-89fd-ea5930fb5246",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001459Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "497ba6af-72eb-4a58-bec1-baa8635056d8",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  246,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6001473Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

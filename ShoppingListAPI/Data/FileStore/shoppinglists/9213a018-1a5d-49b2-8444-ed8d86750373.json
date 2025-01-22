@@ -1,0 +1,80 @@
+{
+    "Id":  "9213a018-1a5d-49b2-8444-ed8d86750373",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T01:51:55.2931366+08:00",
+    "Items":  [
+                  {
+                      "Id":  "15cb3f25-9fba-4878-980c-def62a081e5b",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3312056-ea21-4603-801a-4572fc28e33f",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef8b589d-85ed-4b17-816b-93072749ac87",
+                      "Name":  "Refined Plastic Shirt",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.793155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38619b43-6226-49a2-8f11-a048fc50d74d",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45498319-0335-4095-b8e4-d10160771ebf",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03f29e2c-b005-4385-9bba-2e1dbf73840f",
+                      "Name":  "Intelligent Metal Soap",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1ae465d-4806-487f-9386-a995be0c6fb0",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931682Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "164ef1ec-9322-4a00-b431-834ad7eca2ea",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7931698Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

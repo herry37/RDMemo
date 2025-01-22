@@ -1,0 +1,35 @@
+{
+    "Id":  "8809b963-d345-4091-9cd7-a18b741c3d78",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T14:06:59.1885681+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a431bf1d-b680-4e64-9b49-4c2ba71d35be",
+                      "Name":  "保養化妝品",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:08:50.9670417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eac6a5b4-ab4c-4071-b096-dc106d58277c",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:10:41.4679946+08:00",
+                      "CompletedAt":  "2025-01-15T03:23:32.4665325+08:00"
+                  },
+                  {
+                      "Id":  "ba043637-3b1a-4ad2-86fc-9d05e8c272c4",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:35:53.2795897+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

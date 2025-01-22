@@ -1,0 +1,62 @@
+{
+    "Id":  "bfc9a596-4967-42cd-aa78-73e6f0568fee",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T17:19:33.5450267+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f376197-af32-4c54-a3c4-d487ab9f210e",
+                      "Name":  "Licensed Plastic Ball",
+                      "Quantity":  4,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "084617a4-0b9c-4dba-a063-6b39aa877c5c",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  477,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a1e6dfc-5357-45af-92dc-657fe2dbdb28",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  419,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e067390d-da53-4b4f-bbb2-4567a03d5af4",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "859288d5-2914-4463-9f4e-cb760fb7227c",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3960f6a-8209-4e1d-9de4-7605a7e7ac54",
+                      "Name":  "Handcrafted Rubber Salad",
+                      "Quantity":  3,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7705562Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "80570ded-120e-44b1-952a-e7a3ee636843",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T10:41:16.5813868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8387a682-53b6-479f-bb76-45c13f61665c",
+                      "Name":  "Rustic Metal Car",
+                      "Quantity":  2,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4677491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "946f5cf9-5fe8-458e-89eb-4daf8ae5d040",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  316,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.467788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7128f937-d8c9-4731-86db-68c966f9058a",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4677894Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4831a572-62c3-430a-89e2-afa0e1067d93",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  11,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4677917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "799fb26d-b259-439a-9acf-bb45b94142dd",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4677925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10ffdcff-edc5-43dc-bdce-ab39df0c5a2b",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4677964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f30856d-701e-418e-8d74-e30e0087587e",
+                      "Name":  "Gorgeous Rubber Hat",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4678187Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4dceb8f8-22b3-4e10-aee4-e97998658bcf",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.4678201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "879dac94-b2cb-4dcd-9c1e-454114299d2f",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4678209Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24964afa-9cff-42e3-b049-4648beedece0",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.4678223Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

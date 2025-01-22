@@ -1,0 +1,71 @@
+{
+    "Id":  "ddd56891-03e6-4a6b-ba2c-654f1125eb56",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-16T01:06:15.2317319+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5309543e-e937-4c3c-a80d-f9ac70a35728",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:37:53.8871186+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01ecef91-99ef-4b2e-b560-05951b90c1c0",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:32:55.346309+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f64a59f5-6618-4676-9a3e-40dd82c83062",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:44:02.9903497+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39d88b97-e892-4da1-aa6d-a37ed043dbec",
+                      "Name":  "天然肥皂",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:43:30.0983722+08:00",
+                      "CompletedAt":  "2025-01-17T05:21:44.7407747+08:00"
+                  },
+                  {
+                      "Id":  "6eb104df-7be2-47e0-975b-bd143c85c927",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:43:19.4151547+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86a1a108-32c4-4c48-8bae-e7ab5032e891",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:44:27.4140038+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52f12cb3-1a6f-42fe-88d3-9a0845a69683",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:12:44.0189559+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

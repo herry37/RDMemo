@@ -1,0 +1,80 @@
+{
+    "Id":  "663aa235-03ac-4e16-9cd0-91f2e707ceb8",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T19:00:52.4107501+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04b3a36f-6da1-40df-a2be-d15ff82ea745",
+                      "Name":  "Gorgeous Fresh Mouse",
+                      "Quantity":  3,
+                      "Price":  325,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75a6bece-50f7-4ffb-9834-793ae39e964d",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207232Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f3a8600-e3f7-4d17-acc9-67f6e3bc84fd",
+                      "Name":  "Gorgeous Frozen Chips",
+                      "Quantity":  5,
+                      "Price":  431,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf6e6dc7-3869-45c3-b2bb-f0b25e043252",
+                      "Name":  "Intelligent Rubber Tuna",
+                      "Quantity":  3,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acce838f-f13a-4733-9b42-f31f65802baf",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207368Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a494714-2087-475c-a4bd-52eb94534e41",
+                      "Name":  "Incredible Metal Chips",
+                      "Quantity":  1,
+                      "Price":  444,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a213601a-2d51-44f3-938f-0ca87eee0ea7",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  422,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef4dbd31-5d9e-4786-b7a0-50e8419c91bb",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.6207459Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

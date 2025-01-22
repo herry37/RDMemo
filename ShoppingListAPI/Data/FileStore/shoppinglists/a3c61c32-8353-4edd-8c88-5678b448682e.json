@@ -1,0 +1,80 @@
+{
+    "Id":  "a3c61c32-8353-4edd-8c88-5678b448682e",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T14:22:58.3848271+08:00",
+    "Items":  [
+                  {
+                      "Id":  "78f941d8-0054-4bed-9362-437bad2cf560",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574627Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "342ae929-90b4-4ddb-8001-fab94944a5d7",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574661Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f55e44af-9872-48b3-ac16-5371a60af947",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3c85f8e-d0e6-4d49-b8c0-aa59c3bf6698",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574687Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dcf6367e-8cef-4e59-85fb-d9721eaf5ff9",
+                      "Name":  "Awesome Frozen Bacon",
+                      "Quantity":  3,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574866Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44c258e5-f618-4041-b416-0c23b7a9de7f",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  348,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42c6f0a3-23c4-4ec4-b2eb-c6b6fb2abb0f",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  318,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574898Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ee00e34-89da-476a-a96d-ddcee1c87c5e",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0574911Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

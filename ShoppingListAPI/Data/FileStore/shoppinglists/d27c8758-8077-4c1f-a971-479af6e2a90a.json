@@ -1,0 +1,62 @@
+{
+    "Id":  "d27c8758-8077-4c1f-a971-479af6e2a90a",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-19T18:18:48.8693441+08:00",
+    "Items":  [
+                  {
+                      "Id":  "991f40a4-a45e-43a2-b2fd-c7820c4f2166",
+                      "Name":  "蘋果",
+                      "Quantity":  6,
+                      "Price":  160.919721085906850,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:27:53.3770842+08:00",
+                      "CompletedAt":  "2025-01-18T10:03:31.495852+08:00"
+                  },
+                  {
+                      "Id":  "39b9ac5f-633b-4e2e-b6bd-005b46ac5aea",
+                      "Name":  "糖果",
+                      "Quantity":  8,
+                      "Price":  450.741935573903740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:51:55.4002783+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ac2d59d-2a8b-437e-bf34-93a5ffb7d256",
+                      "Name":  "衣架",
+                      "Quantity":  8,
+                      "Price":  458.456148106766310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:40:08.398052+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "184b2b39-f7fd-4282-8bb8-ff69d5f752ea",
+                      "Name":  "海綿",
+                      "Quantity":  9,
+                      "Price":  37.3566868905623930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:16:41.6367383+08:00",
+                      "CompletedAt":  "2025-01-20T21:57:44.0124173+08:00"
+                  },
+                  {
+                      "Id":  "6aa48c74-73d1-4272-b4f0-9333298eb3af",
+                      "Name":  "洋芋片",
+                      "Quantity":  10,
+                      "Price":  133.574006886274840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:18:42.9070211+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0357d9b9-dee6-4fe9-87f8-6a74d443ca08",
+                      "Name":  "除霉劑",
+                      "Quantity":  5,
+                      "Price":  427.385820805720060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:07:52.9571562+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

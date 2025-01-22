@@ -1,0 +1,53 @@
+{
+    "Id":  "f7837194-2cc6-4504-985d-ca5abdce8329",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T19:44:05.372721+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a6ff0123-5b70-44d8-a997-b58f418f13d3",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5309276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f826283-779d-44ed-80dd-723d9da4b07b",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5309311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fcae24d-4e8e-4733-901a-cfa701fb0440",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.530935Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c19cf5aa-2ea5-46a3-bf0f-2cc461abcc09",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5309365Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bedd84f-232d-49dc-a320-65c465ffc58d",
+                      "Name":  "Refined Frozen Salad",
+                      "Quantity":  5,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5309624Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

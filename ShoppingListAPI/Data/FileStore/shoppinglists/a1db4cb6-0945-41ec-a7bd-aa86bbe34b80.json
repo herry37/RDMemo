@@ -1,0 +1,35 @@
+{
+    "Id":  "a1db4cb6-0945-41ec-a7bd-aa86bbe34b80",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-16T11:06:39.933346+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01a86d7e-dd3e-490e-900b-f37c323aa9ca",
+                      "Name":  "果乾",
+                      "Quantity":  10,
+                      "Price":  471.22689138500520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:41:34.7058162+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e81b61a-3ce8-49ac-82f0-3ed50f9612e3",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  114.361260126338110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T12:18:40.6071857+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4cf52c46-61a9-4341-9a9e-5238aeb03613",
+                      "Name":  "掃把",
+                      "Quantity":  5,
+                      "Price":  468.166228220022770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:04:34.3040431+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

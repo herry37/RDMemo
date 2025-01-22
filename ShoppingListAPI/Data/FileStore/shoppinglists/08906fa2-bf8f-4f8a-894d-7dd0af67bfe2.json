@@ -1,0 +1,35 @@
+{
+    "Id":  "08906fa2-bf8f-4f8a-894d-7dd0af67bfe2",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-19T21:00:20.9835725+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06b67857-64bf-4c78-93d1-7d52bc2fab0d",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2808112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b46491ec-b120-407c-b777-908c1450a2be",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2808159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f841ef59-d962-4d4f-915d-89535d9c7425",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2808197Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "b91d09f6-b363-453c-a2e3-99be3309147f",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-19T19:14:02.1574861+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6a7edb1-8915-4dad-a294-b0d1ab4d29fc",
+                      "Name":  "膠帶",
+                      "Quantity":  8,
+                      "Price":  293.18342194396940,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T05:38:16.6748044+08:00",
+                      "CompletedAt":  "2025-01-21T00:30:36.2355186+08:00"
+                  },
+                  {
+                      "Id":  "f1d416da-a038-4c67-aa9b-7b8d44f68157",
+                      "Name":  "拖把",
+                      "Quantity":  2,
+                      "Price":  320.183381522903350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:48:55.3102154+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5ef5aaa-f2f4-4d05-82ac-01f6889dc6e8",
+                      "Name":  "面膜",
+                      "Quantity":  10,
+                      "Price":  455.694606321157970,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:11:32.6112415+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f4c97de-77f0-4922-b589-d8412d93f206",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  391.179204740009830,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:30:43.2425907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a16a7b42-0d5a-4019-bb76-afafef3d9e15",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  221.885268898097830,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T17:56:44.1679322+08:00",
+                      "CompletedAt":  "2025-01-19T22:33:59.3474471+08:00"
+                  },
+                  {
+                      "Id":  "84401e7a-12ba-46c4-9890-b2f430153781",
+                      "Name":  "巧克力",
+                      "Quantity":  7,
+                      "Price":  428.964548756510820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:28:56.5696454+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

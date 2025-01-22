@@ -1,0 +1,80 @@
+{
+    "Id":  "c13e089e-9f5b-443e-92a9-5951845358cb",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T21:46:00.002863+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9cfa4c02-67a6-49c8-afa1-abf6ed201deb",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4435931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "adb20210-d9c3-4b38-815b-3200a36ab9de",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4435994Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f8b907f4-f33a-43a0-b260-e2898cbb58e9",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd984247-a8cd-40e6-bf3c-2de829bc78a9",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436017Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbae49a4-6959-45ca-bf70-2f39e16f4d56",
+                      "Name":  "Ergonomic Metal Cheese",
+                      "Quantity":  2,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436276Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8bcf8bd-4d5e-41a6-bef2-62770d8c5b34",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436312Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64d38218-3032-46dd-943c-68e291785dac",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad1a611b-fed9-41f6-8a84-adc8f78ff876",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4436333Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

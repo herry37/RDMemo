@@ -1,0 +1,62 @@
+{
+    "Id":  "002660a5-1c1f-4bc4-9d2b-5cd3571e3c56",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T16:42:13.6385155+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b08279de-90ee-470e-b373-aa8aabdbeba4",
+                      "Name":  "Licensed Concrete Table",
+                      "Quantity":  4,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.202725Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e617763-d4c3-435a-a986-d41b045a01eb",
+                      "Name":  "Handcrafted Granite Table",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2027351Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b73f3f5a-f5af-425c-bab6-d7f58a2a6562",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  239,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.2027377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "628f9569-57ce-4d18-92f8-8285690f62c2",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2027404Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e9725d8-ec69-42fb-8ea4-50157603629d",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2027424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f83a6bfe-26c6-4caa-bed0-e78a48532b09",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.202746Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

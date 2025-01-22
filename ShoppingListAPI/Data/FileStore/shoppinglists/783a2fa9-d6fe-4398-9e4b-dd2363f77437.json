@@ -1,0 +1,62 @@
+{
+    "Id":  "783a2fa9-d6fe-4398-9e4b-dd2363f77437",
+    "Title":  "01/15 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T09:02:07.6241684+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43ee7090-2c2c-4264-ae30-4f256b0bbffd",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1171045Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "392c3149-9ee1-4761-a2f6-3cf901bf4a15",
+                      "Name":  "Practical Concrete Chicken",
+                      "Quantity":  3,
+                      "Price":  428,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1171796Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e5554b9e-4f70-438d-818a-41c5460cc9b5",
+                      "Name":  "Sleek Concrete Chair",
+                      "Quantity":  5,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1172023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6057c668-2509-4b4d-8597-eea2cdcc5804",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1172037Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d381ff2-e63b-40e8-ace0-822dce5985b1",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.117205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "65c99231-4c10-4c02-8229-254a5297bfcf",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  434,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1172089Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

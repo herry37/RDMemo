@@ -1,0 +1,89 @@
+{
+    "Id":  "a7d394c1-38e4-44bc-ae2c-159d0d7749ee",
+    "Title":  "01/17 個人護理購物清單",
+    "CreatedAt":  "2025-01-20T14:46:12.2476852+08:00",
+    "Items":  [
+                  {
+                      "Id":  "71ae832f-fb31-468f-8ec8-20fee7c6d233",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60dd29c1-4fc8-4f88-9a40-398d3ce87575",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e81302f-7fdb-4864-a3cd-e92c92b4ac30",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  453,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856071Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15962e12-3d58-4615-a636-342a795aa019",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  469,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.985608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "013e7251-f336-403f-a71b-60414c30b8fb",
+                      "Name":  "Awesome Granite Sausages",
+                      "Quantity":  3,
+                      "Price":  357,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856309Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "141aa763-2a0a-4caf-ad1d-e6cba8375d26",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  192,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a1f62a8-a9a5-4c67-90ce-21b5f40d4c5e",
+                      "Name":  "Awesome Plastic Chair",
+                      "Quantity":  3,
+                      "Price":  350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856396Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a8c538b-0142-4bdf-97a0-745c536e4249",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b6e1ed8-094f-4c4e-abad-86b9f269e955",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9856419Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

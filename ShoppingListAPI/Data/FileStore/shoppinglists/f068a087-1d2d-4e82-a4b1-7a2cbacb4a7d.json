@@ -1,0 +1,71 @@
+{
+    "Id":  "f068a087-1d2d-4e82-a4b1-7a2cbacb4a7d",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T18:34:45.4017717+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2387acf6-8cdd-4452-bbb1-6bbcafb0d702",
+                      "Name":  "巧克力",
+                      "Quantity":  7,
+                      "Price":  89.533184396232490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:00:34.5560014+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d87181e7-02f4-4081-836a-4c59cb3c62c9",
+                      "Name":  "筆記本",
+                      "Quantity":  1,
+                      "Price":  154.580441159063840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:19:42.913039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80259f91-9462-41d3-abc8-0427494f310b",
+                      "Name":  "便利貼",
+                      "Quantity":  3,
+                      "Price":  290.30853724783210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:50:26.6377165+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "798ddffb-e5ac-4ea8-a741-38ec407bd9b3",
+                      "Name":  "爆米花",
+                      "Quantity":  5,
+                      "Price":  493.471194278239160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T04:03:28.3164032+08:00",
+                      "CompletedAt":  "2025-01-20T06:31:34.9378466+08:00"
+                  },
+                  {
+                      "Id":  "34b977b8-5c4d-4642-8796-8ebd68b4a2bd",
+                      "Name":  "餐具",
+                      "Quantity":  10,
+                      "Price":  433.172705647306930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T19:43:42.6747714+08:00",
+                      "CompletedAt":  "2025-01-19T04:24:38.1372367+08:00"
+                  },
+                  {
+                      "Id":  "7d691cc4-8520-480d-8f1d-730bc83eea15",
+                      "Name":  "保鮮膜",
+                      "Quantity":  9,
+                      "Price":  13.31251076682576540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:00:20.4813194+08:00",
+                      "CompletedAt":  "2025-01-16T06:32:18.3801934+08:00"
+                  },
+                  {
+                      "Id":  "eb72797d-1da6-4c01-b0da-b8d018726d36",
+                      "Name":  "蛋糕",
+                      "Quantity":  8,
+                      "Price":  421.737285921097710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T23:35:14.2539886+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

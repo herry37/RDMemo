@@ -1,0 +1,53 @@
+{
+    "Id":  "7331c2a2-a2ab-4f7c-94cd-cb136bd07567",
+    "Title":  "每週採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T00:47:13.1186923+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a41c354-9a48-48f2-8930-cb4bc7a0c1e8",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:21:27.3009345+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aeefafeb-e10e-4424-97fc-f63cbd3a811f",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  2,
+                      "Price":  135,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:42:29.6319514+08:00",
+                      "CompletedAt":  "2025-01-18T22:35:32.4294115+08:00"
+                  },
+                  {
+                      "Id":  "90d31982-4ddc-40bd-9dfc-9e24a9cdcdcd",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  2,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T11:30:19.320398+08:00",
+                      "CompletedAt":  "2025-01-16T16:59:49.4222178+08:00"
+                  },
+                  {
+                      "Id":  "90e197e3-3fa6-43e5-af70-2c5ffd4e4a54",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  5,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T13:16:05.7812186+08:00",
+                      "CompletedAt":  "2025-01-21T13:08:03.1664628+08:00"
+                  },
+                  {
+                      "Id":  "5cfa7164-55f9-4a12-afd7-ee62058413ec",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:17:53.6860697+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

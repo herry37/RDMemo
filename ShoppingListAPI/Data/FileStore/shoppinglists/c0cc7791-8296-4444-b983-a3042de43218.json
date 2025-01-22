@@ -1,0 +1,44 @@
+{
+    "Id":  "c0cc7791-8296-4444-b983-a3042de43218",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T06:06:07.0455581+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6a5e623-4499-4c6e-ac3e-7211446c7954",
+                      "Name":  "Unbranded Rubber Bacon",
+                      "Quantity":  1,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.0844108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08ba8fac-7c65-4846-aa4e-976f33262b45",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0844129Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "09ed11fe-80af-458e-9db4-f61303131881",
+                      "Name":  "Rustic Frozen Chips",
+                      "Quantity":  3,
+                      "Price":  367,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0844191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1fb42ced-f0f5-4a4d-84fb-b6c1cd281aa7",
+                      "Name":  "Unbranded Steel Salad",
+                      "Quantity":  3,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0844471Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "7f74c48f-24d9-41d5-9da5-8a53907e6a2d",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T07:43:00.0650577+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca790dde-d284-4d40-89f8-af0c5dc9aa08",
+                      "Name":  "Rustic Concrete Shirt",
+                      "Quantity":  1,
+                      "Price":  375,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0564452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae9b28b1-8c70-4e77-aca1-5713dfb47323",
+                      "Name":  "Awesome Rubber Pizza",
+                      "Quantity":  4,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0564522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6607bd13-79ed-4394-bfa0-d8b14232b7a8",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0564543Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00adf208-3cc3-446e-9189-9ed025fb3eea",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  198,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0564564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fc918f4-6900-464b-be4b-3f99921ecef7",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  396,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.056458Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

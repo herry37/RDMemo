@@ -1,0 +1,98 @@
+{
+    "Id":  "bc021ac2-b9d8-47e5-8eb6-e3ec8d5dead2",
+    "Title":  "01/16 食品採買清單",
+    "CreatedAt":  "2025-01-19T01:52:34.8370013+08:00",
+    "Items":  [
+                  {
+                      "Id":  "73ec1e5d-4d6e-461c-b2e1-ecd043732cf2",
+                      "Name":  "洗髮精",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbba1c6b-a1a5-4468-9fcb-d1e422ae49cc",
+                      "Name":  "Small Wooden Tuna",
+                      "Quantity":  2,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471587Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9747df02-7ad5-487b-ade8-04f9f830abe0",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  382,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "abe295ea-4465-43a6-ae27-7ee6c0c09ec3",
+                      "Name":  "Awesome Fresh Towels",
+                      "Quantity":  3,
+                      "Price":  146,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.647164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07b83762-389b-4fbb-9efb-b5ac6f3e6643",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  366,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471647Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b044a5b-35da-49da-bb91-283184463f6f",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1f8e1f3-61ee-4eee-8104-ab7479cbacf9",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  338,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1b4483a-51b1-477d-94e9-2e6298307f3f",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64f2f214-efbf-4b89-82a7-19a52c89284e",
+                      "Name":  "Rustic Steel Ball",
+                      "Quantity":  4,
+                      "Price":  458,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471722Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c480059-0b90-4f67-b5e1-3c9eb938baf0",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6471888Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

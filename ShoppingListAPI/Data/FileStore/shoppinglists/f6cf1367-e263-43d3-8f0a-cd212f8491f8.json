@@ -1,0 +1,53 @@
+{
+    "Id":  "f6cf1367-e263-43d3-8f0a-cd212f8491f8",
+    "Title":  "緊急採購 - 01/20",
+    "CreatedAt":  "2025-01-15T15:40:39.7097066+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aa2baa0c-fee5-4d60-9c01-031b3d780cb0",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  413.50617422818220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:40:03.1171808+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb257575-b9af-43ac-80e1-c72d07240ead",
+                      "Name":  "便利貼",
+                      "Quantity":  4,
+                      "Price":  130.619945225041080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:11:31.6970718+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "494e423e-3a51-406b-911b-117404efccdf",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  478.654557763286020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:02:35.977267+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccafde8a-f37b-43d2-be7b-55f21b8bfe1b",
+                      "Name":  "置物盒",
+                      "Quantity":  7,
+                      "Price":  412.353595424267620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:11:10.9413639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fc8a75c-17b8-4dc6-9bc3-afd6c3dedb48",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  148.92423702196270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:33:30.1984025+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

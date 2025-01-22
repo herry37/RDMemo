@@ -1,0 +1,62 @@
+{
+    "Id":  "90634c99-8268-48dd-8396-43fcebc33f48",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-18T06:10:46.0866691+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2c3e1eb6-88dc-40da-b8a5-b863ea1648e8",
+                      "Name":  "牛奶",
+                      "Quantity":  6,
+                      "Price":  405.593115132077520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:52:49.226439+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e29ada6-3f4a-4f60-b546-d4dbf876ea4a",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  71.921956407166380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:26:55.5957337+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27bfc93e-c2e6-44fe-823f-795818160e3d",
+                      "Name":  "手套",
+                      "Quantity":  7,
+                      "Price":  295.688204859040480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:24:22.298629+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b12fc1a1-4bed-4a75-9f55-2b26bedd23df",
+                      "Name":  "置物盒",
+                      "Quantity":  10,
+                      "Price":  307.646511492777580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:21:10.7494915+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c54231f5-bae1-428a-ba96-53527c7bb79f",
+                      "Name":  "海綿",
+                      "Quantity":  5,
+                      "Price":  92.903157329375740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:33:48.8103541+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e1cd319-b499-4d8d-af81-2143ff9181e5",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  451.680770809612180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T20:42:50.7895292+08:00",
+                      "CompletedAt":  "2025-01-19T03:23:22.1143838+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

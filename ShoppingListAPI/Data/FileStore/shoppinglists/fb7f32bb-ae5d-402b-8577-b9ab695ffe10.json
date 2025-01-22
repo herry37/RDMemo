@@ -1,0 +1,62 @@
+{
+    "Id":  "fb7f32bb-ae5d-402b-8577-b9ab695ffe10",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-20T04:14:54.4772585+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ae83661d-71b0-46c8-80e1-ac58bb97e79e",
+                      "Name":  "Refined Fresh Car",
+                      "Quantity":  2,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4008204Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "693c061e-1df1-4a7e-8a6c-6d3b511ead8d",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.400824Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8c0f0e1-c821-419c-9e11-91d2a171092f",
+                      "Name":  "Tasty Wooden Computer",
+                      "Quantity":  1,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4008308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c90c9745-b777-45ff-94a1-55d2233d93eb",
+                      "Name":  "Fantastic Cotton Computer",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4008372Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83d720c6-74e7-4cec-95de-caec1451312a",
+                      "Name":  "Handmade Concrete Computer",
+                      "Quantity":  1,
+                      "Price":  415,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.400844Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed326f53-dab1-44c1-92de-339a27cd6c0f",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4008479Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

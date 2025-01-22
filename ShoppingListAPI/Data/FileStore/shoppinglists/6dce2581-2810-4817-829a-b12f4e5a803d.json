@@ -1,0 +1,35 @@
+{
+    "Id":  "6dce2581-2810-4817-829a-b12f4e5a803d",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T08:40:19.5982633+08:00",
+    "Items":  [
+                  {
+                      "Id":  "65f68205-3bd3-423d-bcd1-8a5e0084d381",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2596812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6a61b32-9861-497c-bfd8-2e1d79631cf3",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2596862Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb94ac87-a9fd-4f04-8525-3580a9258c6c",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2596882Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

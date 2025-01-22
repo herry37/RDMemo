@@ -1,0 +1,35 @@
+{
+    "Id":  "0327a7c8-9c50-4fe3-96ea-7d91f50140b3",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T00:43:12.3281748+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0c044186-ed28-48de-8b6f-4d1a96206ce1",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5936003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9515a09f-aaa9-4c6e-8781-5b3ed434e50e",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5936044Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "750e9ae6-4d1f-4ed8-aaad-3805c0caab42",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.593606Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

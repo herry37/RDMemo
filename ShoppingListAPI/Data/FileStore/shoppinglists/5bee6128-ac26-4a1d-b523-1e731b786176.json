@@ -1,0 +1,62 @@
+{
+    "Id":  "5bee6128-ac26-4a1d-b523-1e731b786176",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-16T15:37:16.1358415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4fb257ed-7efc-4384-b0a9-605a7fa7b899",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0608681Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f2a1b05-80e0-4996-9b38-b012b47f01c2",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0608707Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d01f12fc-6ca0-41fc-a566-2daf90bb8514",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0608718Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "810de95b-b2d4-4c5d-8dd2-c7bb94815f73",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0608727Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "960fb0b3-3072-47ac-87f7-be4db812c636",
+                      "Name":  "Refined Frozen Towels",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0609162Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "802a6e48-b232-4b73-a7ff-a15287816af2",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0609278Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

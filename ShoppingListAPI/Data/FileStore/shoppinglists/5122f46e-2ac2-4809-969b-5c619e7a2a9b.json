@@ -1,0 +1,80 @@
+{
+    "Id":  "5122f46e-2ac2-4809-969b-5c619e7a2a9b",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-15T10:56:18.635159+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12c0d6d7-7ae0-4097-a277-1ad7527d0cdc",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.081708Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f96ff5e9-a8f6-46b3-953b-011d313fcafb",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0817114Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e530651b-4ded-4ff8-afbd-b2611843a0b0",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0817143Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e56f7abe-a3ca-4d04-9e4e-7a71c60f1389",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  417,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0817152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d69a5b6-aff3-4226-a157-501f24e89e5c",
+                      "Name":  "Ergonomic Soft Pants",
+                      "Quantity":  3,
+                      "Price":  384,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0818071Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "451491cd-d72f-443b-a4a1-af4401d5c632",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:52.0818111Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35797f52-0885-4c09-8971-7b72934d03f1",
+                      "Name":  "Generic Cotton Salad",
+                      "Quantity":  1,
+                      "Price":  372,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0818199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1767b529-bbb4-4175-8ee6-d3e48d00b33b",
+                      "Name":  "Refined Granite Computer",
+                      "Quantity":  3,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0818262Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

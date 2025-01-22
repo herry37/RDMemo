@@ -1,0 +1,35 @@
+{
+    "Id":  "33c2046b-91dd-4a64-8103-6759e45518f3",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-16T16:14:10.3186273+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37fa0291-65ce-4e81-9088-b6407000280f",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1679829Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d92bb25-1e2c-46b5-bb30-c5e4765cfa66",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  441,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1679895Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42aa4000-632d-4b56-8022-459157d9e590",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  385,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1679929Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

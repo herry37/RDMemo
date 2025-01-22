@@ -1,0 +1,80 @@
+{
+    "Id":  "8d75566f-bfaf-4695-b163-9690c5c2e213",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T11:07:05.893756+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fce88772-e3cb-4b13-b77b-5e9bec152cac",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:39:10.6860714+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "786408f0-12ad-4adf-8f0b-9318f1246717",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:19:34.073307+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8c99900-1b0d-4b44-8bd3-639a2aaa48ee",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:33:46.909664+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d183a209-8736-4311-b15e-d7cbe4a2b9c4",
+                      "Name":  "放山雞",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:04:09.0496059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90330705-79b3-4a35-a9af-d1e49a5df712",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:20:55.0354751+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62783705-0923-4f26-abcf-168ba897f2ab",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:23:50.4590238+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a907decc-604d-44f9-8ea3-fc5a4967449d",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:22.0573503+08:00",
+                      "CompletedAt":  "2025-01-22T01:19:33.213337+08:00"
+                  },
+                  {
+                      "Id":  "dd141d03-77eb-417a-a88c-ab74596e9614",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  265,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:47:55.4629079+08:00",
+                      "CompletedAt":  "2025-01-20T18:11:43.8808817+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

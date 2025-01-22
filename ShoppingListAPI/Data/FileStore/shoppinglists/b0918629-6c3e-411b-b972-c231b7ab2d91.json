@@ -1,0 +1,44 @@
+{
+    "Id":  "b0918629-6c3e-411b-b972-c231b7ab2d91",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-18T22:55:16.25487+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d22ec608-1212-4ab6-9eda-a2d64a911eef",
+                      "Name":  "巧克力",
+                      "Quantity":  8,
+                      "Price":  443.903938141379930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:15:43.4048806+08:00",
+                      "CompletedAt":  "2025-01-22T20:40:35.4318451+08:00"
+                  },
+                  {
+                      "Id":  "8707d3fb-1600-4969-aacc-9d41b1554aad",
+                      "Name":  "衣架",
+                      "Quantity":  9,
+                      "Price":  23.195676223585450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:59:33.521984+08:00",
+                      "CompletedAt":  "2025-01-18T01:35:03.2440904+08:00"
+                  },
+                  {
+                      "Id":  "caeb1ce6-28e9-4873-9b77-d208f99ea81b",
+                      "Name":  "巧克力",
+                      "Quantity":  8,
+                      "Price":  416.702239189276660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:36:57.4162899+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84a1d556-0bb5-4f99-880e-87ed3b99f40d",
+                      "Name":  "礦泉水",
+                      "Quantity":  9,
+                      "Price":  407.425040721252740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:01:45.3977257+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

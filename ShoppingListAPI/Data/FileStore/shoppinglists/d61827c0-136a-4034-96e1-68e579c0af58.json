@@ -1,0 +1,62 @@
+{
+    "Id":  "d61827c0-136a-4034-96e1-68e579c0af58",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T14:13:30.6715815+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4d46d9a2-03fe-4e68-aabb-61a83175b8e9",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6801382Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1137f01-c8d4-4b00-956e-5fd43155a93c",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6801446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5750d54c-648d-4eca-be68-693f30ca2d5a",
+                      "Name":  "Gorgeous Plastic Ball",
+                      "Quantity":  5,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.680188Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4130a2c3-ab34-4e6f-b279-16fb0eac3fc2",
+                      "Name":  "Rustic Rubber Pizza",
+                      "Quantity":  3,
+                      "Price":  120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6802011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd672d6c-8884-45b9-a2ff-8c9134fab12e",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.6802038Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6fc5f42-3f0b-4c64-915f-c292c87a5d48",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  266,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.6802095Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

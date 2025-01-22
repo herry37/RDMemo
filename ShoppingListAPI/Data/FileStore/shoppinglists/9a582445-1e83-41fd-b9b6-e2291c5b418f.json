@@ -1,0 +1,71 @@
+{
+    "Id":  "9a582445-1e83-41fd-b9b6-e2291c5b418f",
+    "Title":  "01/16 零食採買清單",
+    "CreatedAt":  "2025-01-18T05:24:14.9434795+08:00",
+    "Items":  [
+                  {
+                      "Id":  "49e3d397-bcfa-4bd5-a565-7fd6f1b8a3f4",
+                      "Name":  "Tasty Fresh Bacon",
+                      "Quantity":  1,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.565725Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e13ab272-84f2-4de2-afd3-f55507a8fe05",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5657403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a26adc0-751e-4111-8a7f-008088131393",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.565742Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6184fe1-5665-4b2c-8534-42833ce71bbc",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5657435Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f27c68f0-badc-472a-bba9-6bf7896b3f6a",
+                      "Name":  "Refined Soft Cheese",
+                      "Quantity":  2,
+                      "Price":  48,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5657486Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb00c9cd-f6a3-4b11-b490-21f24eef16a1",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5657563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "28fc9d92-8d87-4103-8993-fa7f0bd3c80e",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  144,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5657579Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "1c2fa9ce-ee92-4401-86a6-c8c225a5e6d6",
+    "Title":  "年節採購 - 美聯社 (01/20)",
+    "CreatedAt":  "2025-01-18T15:12:24.1146321+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9ab71f24-eb25-4f76-bb51-0535aeda5455",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:32:23.3164027+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e4ef807-aeb6-4b35-ad1e-2103832331d3",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:22:02.4776103+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9da3f31a-4539-4492-bce8-fac0d9c8466c",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:16:21.9091311+08:00",
+                      "CompletedAt":  "2025-01-18T05:15:39.9497543+08:00"
+                  },
+                  {
+                      "Id":  "0e8997d8-4f44-4717-acf2-116cdb84e348",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T11:31:48.2145415+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d36bc64c-be47-418b-b4da-3e3dc8f6cd7e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:50:08.1484322+08:00",
+                      "CompletedAt":  "2025-01-16T06:11:57.7796619+08:00"
+                  },
+                  {
+                      "Id":  "502a1e51-5bae-4ded-9169-5e5214d9a9af",
+                      "Name":  "當季青菜",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:51:55.4180625+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5261cdac-d300-4546-8c14-a81dc0c26859",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:13:23.7650383+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70dd4372-3d3b-4b8f-a10f-d4d2b4cc93a1",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:47:33.0343193+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

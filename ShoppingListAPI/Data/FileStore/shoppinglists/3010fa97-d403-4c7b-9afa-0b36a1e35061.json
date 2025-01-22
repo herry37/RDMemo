@@ -1,0 +1,53 @@
+{
+    "Id":  "3010fa97-d403-4c7b-9afa-0b36a1e35061",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T00:38:38.3892224+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3bdf5be-7b13-40be-856a-5d37c9e7e4ce",
+                      "Name":  "Practical Concrete Mouse",
+                      "Quantity":  1,
+                      "Price":  301,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5520819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ccb0a83-7251-4f3f-a1ca-b757d6bcb06e",
+                      "Name":  "Ergonomic Granite Soap",
+                      "Quantity":  5,
+                      "Price":  482,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5521124Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c719242-7097-445b-8030-9ed7127e360e",
+                      "Name":  "Generic Plastic Tuna",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5521174Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60f1d574-ad0c-4872-92c7-bbe6efe34fa0",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5521198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86c4bd9d-1258-4458-85c5-5099fe11cf49",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5521209Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

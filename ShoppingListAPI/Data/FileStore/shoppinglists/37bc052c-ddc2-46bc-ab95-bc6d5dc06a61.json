@@ -1,0 +1,53 @@
+{
+    "Id":  "37bc052c-ddc2-46bc-ab95-bc6d5dc06a61",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T14:25:10.393735+08:00",
+    "Items":  [
+                  {
+                      "Id":  "948ad385-5331-4b11-b638-4549a156a2f6",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:47:56.9952496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8891a6cf-916f-446d-89fa-1a00fdb6f991",
+                      "Name":  "美白牙膏",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T12:35:44.6672292+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a09c59b-5446-4e01-9c65-28aa4148cbc1",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T16:41:23.306039+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a7a4ffcc-b347-4d08-b09b-432ecc4e485a",
+                      "Name":  "保濕面膜",
+                      "Quantity":  3,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:31:51.0800269+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95d759f8-585a-468f-8a9a-9cd1a9a77084",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:40:44.9521872+08:00",
+                      "CompletedAt":  "2025-01-20T08:06:54.1777948+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

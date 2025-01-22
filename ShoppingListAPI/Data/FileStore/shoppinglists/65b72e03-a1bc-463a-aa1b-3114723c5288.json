@@ -1,0 +1,62 @@
+{
+    "Id":  "65b72e03-a1bc-463a-aa1b-3114723c5288",
+    "Title":  "露營準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T22:27:04.8571315+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f39d6586-7e45-4304-b661-cab9b9de6b9d",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:51:13.1514641+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de6e2aca-b204-4fd2-85bf-890663916cde",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:04:51.3479155+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad36d1ed-6513-4cc8-80a4-e9e60d8ed800",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:03:19.7250574+08:00",
+                      "CompletedAt":  "2025-01-20T06:11:42.5264985+08:00"
+                  },
+                  {
+                      "Id":  "3ee0eee1-6b59-47c4-b947-b0979700b781",
+                      "Name":  "有機綠茶",
+                      "Quantity":  3,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:10:53.0964255+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c909a434-2922-4ac8-b283-cb7bc79cddf8",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  4,
+                      "Price":  282,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:08:10.4113761+08:00",
+                      "CompletedAt":  "2025-01-17T13:30:16.3944097+08:00"
+                  },
+                  {
+                      "Id":  "211f1efe-967f-416a-b209-41752e8f76dd",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:36:01.3046682+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

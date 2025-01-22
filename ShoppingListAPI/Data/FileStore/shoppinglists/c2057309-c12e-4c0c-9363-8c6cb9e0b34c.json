@@ -1,0 +1,98 @@
+{
+    "Id":  "c2057309-c12e-4c0c-9363-8c6cb9e0b34c",
+    "Title":  "01/16 生鮮購物清單",
+    "CreatedAt":  "2025-01-21T02:24:20.3169935+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b3ccf6a0-2e8d-4475-be36-6be9377d5b7a",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9703973Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f55c7935-7e44-4e48-b655-d0463537af46",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d77d497-8d76-4e1d-b3e3-3d4d0c32b044",
+                      "Name":  "Intelligent Cotton Salad",
+                      "Quantity":  1,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8fdeac1a-8d3b-4288-80c8-24138ebad5d5",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704262Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96a72c16-4c7b-4d13-a93c-41979287b624",
+                      "Name":  "Sleek Concrete Bacon",
+                      "Quantity":  1,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d673d17-88fa-4f5c-b701-d4d930a6bd8a",
+                      "Name":  "Intelligent Plastic Ball",
+                      "Quantity":  1,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704428Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f172b9c8-372f-45e5-99e5-2d480836d35e",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0020f71d-8fd0-4e09-80a0-e501633aa505",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd5e1e6d-de81-410d-a497-13d0e6ff7c19",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704496Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "844becd7-2e80-44dd-b2bb-37899e3b9654",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  64,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9704521Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

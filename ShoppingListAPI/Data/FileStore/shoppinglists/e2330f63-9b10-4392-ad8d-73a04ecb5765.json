@@ -1,0 +1,35 @@
+{
+    "Id":  "e2330f63-9b10-4392-ad8d-73a04ecb5765",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-20T02:27:32.2263722+08:00",
+    "Items":  [
+                  {
+                      "Id":  "68db855b-ef2c-421d-99b9-e702af61f1e9",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  102,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.243385Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea966978-eb0c-4867-b6ec-1f55d67b3bcf",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2433876Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f017d54a-b25c-4d1e-ae15-c0adfd14365b",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2433907Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

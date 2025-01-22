@@ -1,0 +1,80 @@
+{
+    "Id":  "23c4ab3d-2c57-4b9c-aac7-354ba65e3fe7",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T21:38:18.1252905+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6456c44e-365e-4970-98ab-cfbff77c7c5d",
+                      "Name":  "Licensed Concrete Table",
+                      "Quantity":  1,
+                      "Price":  403,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787189Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de3cd82b-212c-4f47-a70d-d6afc5fec3f3",
+                      "Name":  "Handcrafted Soft Cheese",
+                      "Quantity":  5,
+                      "Price":  442,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787245Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b94805a-d219-4c30-8de7-4db2c7c3f664",
+                      "Name":  "Generic Fresh Car",
+                      "Quantity":  2,
+                      "Price":  300,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.578747Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b483da3-fce8-4052-a66b-46007569ad7f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.578749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18190843-6a26-4a12-a074-ea7eec0f5e51",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1a8dacf-c00d-44b8-8a9f-69c89193be9c",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca28d1f5-2ce0-4ab6-b3d1-1ac349d86299",
+                      "Name":  "Intelligent Fresh Pants",
+                      "Quantity":  5,
+                      "Price":  345,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787579Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "375cfb03-a979-4cd4-857b-ad5b22fa248b",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  374,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5787598Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

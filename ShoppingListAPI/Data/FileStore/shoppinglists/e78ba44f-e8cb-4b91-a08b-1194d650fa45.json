@@ -1,0 +1,44 @@
+{
+    "Id":  "e78ba44f-e8cb-4b91-a08b-1194d650fa45",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T07:30:14.1155092+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7c225c03-80c9-472b-a041-7c51d854d154",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6062825Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "866242ae-c24a-4b5d-9d6a-2a1af5fa1029",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  72,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6062855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8c30f1a-69bd-4c26-ab56-a369daef15c9",
+                      "Name":  "Handmade Frozen Bike",
+                      "Quantity":  1,
+                      "Price":  404,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6062972Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b68d523d-9175-4fc1-8e60-370db5492708",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6062982Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

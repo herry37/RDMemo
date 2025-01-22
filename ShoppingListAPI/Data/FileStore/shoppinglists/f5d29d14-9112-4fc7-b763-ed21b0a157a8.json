@@ -1,0 +1,80 @@
+{
+    "Id":  "f5d29d14-9112-4fc7-b763-ed21b0a157a8",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T06:08:59.7973986+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eb7f98da-eaea-4302-ad06-368b8ba849c6",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc160371-ac4a-4c63-8cf0-4d92dc2615e4",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283045Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76e85709-ab35-4d64-92b5-fd670c8fa238",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283085Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f464355-306b-413b-8018-5057e1b149b7",
+                      "Name":  "Awesome Steel Chair",
+                      "Quantity":  1,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b20cd8e-5c39-45c4-9fe6-310c38b2f32c",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.528334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6901f71-cf61-4e73-a548-5bd8bc39134e",
+                      "Name":  "Handcrafted Metal Sausages",
+                      "Quantity":  3,
+                      "Price":  147,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27ec803a-a078-4227-8054-4d5d33dab7b3",
+                      "Name":  "Incredible Granite Car",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283476Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93f4b7f2-8785-4485-9474-b3d2e645ee24",
+                      "Name":  "Rustic Rubber Fish",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.5283524Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

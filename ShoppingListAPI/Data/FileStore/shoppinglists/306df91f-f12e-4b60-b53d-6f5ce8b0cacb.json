@@ -1,0 +1,71 @@
+{
+    "Id":  "306df91f-f12e-4b60-b53d-6f5ce8b0cacb",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T10:08:08.206244+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1819b0d8-0ad9-4e90-9627-ba3b88037d86",
+                      "Name":  "電動牙刷",
+                      "Quantity":  2,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T00:03:48.7438212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50a6d189-7303-40c5-9cfe-ac4dd0988504",
+                      "Name":  "美白牙膏",
+                      "Quantity":  2,
+                      "Price":  28,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:47:56.7198281+08:00",
+                      "CompletedAt":  "2025-01-21T16:11:02.8793379+08:00"
+                  },
+                  {
+                      "Id":  "2a488b2c-6339-443a-badb-59d1450ac51b",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:27:35.5102271+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90eea2ed-e362-49c7-92d9-ba7eca868a3e",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T21:47:11.1670364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95082b10-4866-44c4-88cc-673b7afae4b1",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T10:40:59.6271485+08:00",
+                      "CompletedAt":  "2025-01-19T07:23:24.2441901+08:00"
+                  },
+                  {
+                      "Id":  "9b603739-95b9-48cf-8484-a09ae1c89898",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T02:26:57.7083925+08:00",
+                      "CompletedAt":  "2025-01-16T21:44:10.9998756+08:00"
+                  },
+                  {
+                      "Id":  "8cc5ba71-7fa5-407e-85f0-1288742dde1f",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:58:46.8216262+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

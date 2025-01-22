@@ -1,0 +1,62 @@
+{
+    "Id":  "1e59f167-0f00-4b53-9410-e7f1841e8958",
+    "Title":  "聚會準備 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-17T21:22:55.6248163+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5ac4d2c2-4396-4c51-a3e0-ab0a5d62d505",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:13:06.4747321+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87121994-ee90-4d76-a7d7-f453450d6d41",
+                      "Name":  "保濕面膜",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:10:54.5418401+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b85aa36-c3a4-44fc-b0a3-15ab63f49a02",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  1,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:54:37.0416472+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8125a173-2340-4d7d-bcc6-2972af76180b",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:45:54.7994285+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ddab693-2851-4599-b23a-e58197566c70",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:27:37.8102076+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc7efe80-eb1d-41f3-8a10-94070df7e721",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:46:57.6842442+08:00",
+                      "CompletedAt":  "2025-01-17T07:54:29.9530201+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

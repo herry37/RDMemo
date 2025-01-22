@@ -1,0 +1,44 @@
+{
+    "Id":  "b1b378da-45c2-4e9f-97f8-1b4343d1f022",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T21:45:37.7017661+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c7afc722-e9b0-439c-9861-21306b920b80",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.239826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "401fd73a-ce80-4da9-9d50-5c261c277850",
+                      "Name":  "Handcrafted Steel Fish",
+                      "Quantity":  5,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2398941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fa9d159f-7df5-4f44-9af9-be8d04ccc7e0",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2398962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b0c3cb8-9c32-4869-aaa7-eca17922740c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  215,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2398985Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

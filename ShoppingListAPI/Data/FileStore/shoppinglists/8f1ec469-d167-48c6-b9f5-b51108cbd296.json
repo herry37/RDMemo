@@ -1,0 +1,89 @@
+{
+    "Id":  "8f1ec469-d167-48c6-b9f5-b51108cbd296",
+    "Title":  "01/21 食品採買清單",
+    "CreatedAt":  "2025-01-21T16:37:27.6207588+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cca25d65-b4c9-4170-8946-1e60a325de12",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  287,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897138Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11511e9a-b497-4822-8c09-7422c2bd0064",
+                      "Name":  "Small Steel Ball",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7aa61da-edad-475b-9a82-49293988906c",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897746Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c96818e0-bff8-4bc2-b5cd-a202b18720cb",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe71f721-d034-4f9c-b57b-a64ab799e7f6",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  238,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897784Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5518a50a-ddce-4781-be2e-adfeb2461c62",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "216485e9-5b55-4584-9776-34546b1af8c5",
+                      "Name":  "Rustic Metal Gloves",
+                      "Quantity":  3,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "405ddbea-67d9-4407-b986-b63634850a5b",
+                      "Name":  "Ergonomic Soft Bacon",
+                      "Quantity":  5,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897979Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a3e7e42-9036-4917-8bf3-5e9973dfc2d3",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5897996Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "e37eebdc-7337-4c78-a5b3-f715c9511560",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-20T05:05:08.8563705+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3e031770-bef2-4a47-bead-b2c85bb4afda",
+                      "Name":  "Licensed Wooden Ball",
+                      "Quantity":  4,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8076494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96263176-9f21-4b1d-aa4d-295cda539e4b",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.807656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d8c5865-68eb-4ad4-973a-2e2d5571f19a",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8076576Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e230fd37-638a-4bc2-b1dd-3fc7ca611b9d",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  413,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8076591Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

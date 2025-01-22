@@ -1,0 +1,71 @@
+{
+    "Id":  "bb0d5ed7-1ddf-4bbe-bc96-727261331e80",
+    "Title":  "居家整理 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-16T13:33:01.4081213+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f8f08b0a-50de-42ad-bfcc-4a2205609a48",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  2,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:31:33.1629655+08:00",
+                      "CompletedAt":  "2025-01-17T18:18:20.1899393+08:00"
+                  },
+                  {
+                      "Id":  "61a48378-de49-4ebf-863c-dc8090839d16",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  25,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:50:23.9613643+08:00",
+                      "CompletedAt":  "2025-01-18T06:59:26.242219+08:00"
+                  },
+                  {
+                      "Id":  "f0463aac-9a91-4518-ad65-0e95a6b94929",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:49:07.4218325+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1662a1d-2851-4431-b7d9-69ba57b1d759",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  233,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:19:25.2730881+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59e449fc-2062-4398-9e52-c4c7219bc52f",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:56:58.5838354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c975129-102e-4c50-b98c-2d305f782896",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:10:35.835608+08:00",
+                      "CompletedAt":  "2025-01-19T01:44:27.7694827+08:00"
+                  },
+                  {
+                      "Id":  "4377b58d-6c41-4c07-9386-8e1e0b28f25e",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T12:19:17.1776469+08:00",
+                      "CompletedAt":  "2025-01-19T22:31:16.5389921+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

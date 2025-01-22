@@ -1,0 +1,44 @@
+{
+    "Id":  "c113ad7a-e152-470e-87b6-1764cb69170d",
+    "Title":  "01/20 生鮮購物清單",
+    "CreatedAt":  "2025-01-20T09:31:11.5569686+08:00",
+    "Items":  [
+                  {
+                      "Id":  "37bf01b7-fe05-4340-86d7-a27a1cf9bb1d",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.577821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc2d3053-5fca-4121-84de-d7cf9d1e9c4b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5778269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0df5e32d-0862-489c-9d4b-e43c28f7fff2",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5778284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "942d104c-2c9f-4875-a08d-9cf717eb5b8b",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5778299Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

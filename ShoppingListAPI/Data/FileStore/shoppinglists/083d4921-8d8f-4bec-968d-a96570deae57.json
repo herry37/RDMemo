@@ -1,0 +1,71 @@
+{
+    "Id":  "083d4921-8d8f-4bec-968d-a96570deae57",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T00:13:44.5338517+08:00",
+    "Items":  [
+                  {
+                      "Id":  "71c7b199-eebc-42a5-827e-cef4c7d6e1ba",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  476,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3996578Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c6b8609-7e16-4ac5-929b-1c26bf7db1ce",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3996626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7a9436e0-b68f-4e0f-adbc-8e5ca4e9f513",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  58,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3996648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1bba44d-03ba-419a-8e32-0f7d5a4191ef",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3996679Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a524b64d-fa58-48f6-a44a-4a7c280dab62",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.39967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f68e21d8-25cb-4377-8347-276803b0c63e",
+                      "Name":  "Rustic Wooden Fish",
+                      "Quantity":  1,
+                      "Price":  358,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3996975Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf5d8f27-7dce-4dbf-876a-4ea6bb2a3dc7",
+                      "Name":  "Handmade Concrete Towels",
+                      "Quantity":  2,
+                      "Price":  408,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3997028Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

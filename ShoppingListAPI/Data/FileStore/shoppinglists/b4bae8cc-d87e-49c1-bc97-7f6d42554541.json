@@ -1,0 +1,62 @@
+{
+    "Id":  "b4bae8cc-d87e-49c1-bc97-7f6d42554541",
+    "Title":  "日常補充 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-16T15:03:26.3903016+08:00",
+    "Items":  [
+                  {
+                      "Id":  "28d38f82-a487-425b-8822-3207dd697c4c",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:29:00.9587565+08:00",
+                      "CompletedAt":  "2025-01-17T20:05:40.8985175+08:00"
+                  },
+                  {
+                      "Id":  "9e713866-57dc-4636-8319-0ca00d254c6a",
+                      "Name":  "金屬直尺",
+                      "Quantity":  1,
+                      "Price":  217,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:21:07.7988581+08:00",
+                      "CompletedAt":  "2025-01-18T09:06:17.9129984+08:00"
+                  },
+                  {
+                      "Id":  "e909be4d-82ab-4438-ba29-2db1acc8a982",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  5,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:12:00.6613773+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29354f35-a981-4d53-80bd-97365e4699ef",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T11:31:00.0188214+08:00",
+                      "CompletedAt":  "2025-01-22T01:40:08.21691+08:00"
+                  },
+                  {
+                      "Id":  "576d3e93-5c83-418d-8605-dae092e53577",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:56:56.5334598+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "691798b5-8f23-4997-9b39-674a64273b00",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:31:35.2293196+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "3a386ead-c3fa-4de4-aed5-125e8ba2d696",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T01:28:42.7531385+08:00",
+    "Items":  [
+                  {
+                      "Id":  "45f0f32a-872e-4ef0-90aa-98f301063021",
+                      "Name":  "Small Metal Hat",
+                      "Quantity":  4,
+                      "Price":  389,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8721007Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69f2310c-cd1a-45a1-bd6c-e56ed3e1636c",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8721067Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75f3297b-abf2-48da-9aeb-af835570707c",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  323,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8721083Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b71a60e7-4c2d-42e4-85b5-c391e4ab9291",
+                      "Name":  "Handmade Fresh Towels",
+                      "Quantity":  5,
+                      "Price":  214,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8721188Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

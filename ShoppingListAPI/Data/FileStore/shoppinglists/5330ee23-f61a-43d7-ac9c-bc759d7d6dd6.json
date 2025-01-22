@@ -1,0 +1,71 @@
+{
+    "Id":  "5330ee23-f61a-43d7-ac9c-bc759d7d6dd6",
+    "Title":  "露營準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-16T02:49:39.7457158+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e93e13b0-a1dd-4807-8517-f98ec8fc8090",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:28:40.9316897+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f75c468d-34c0-4e7f-856f-cd3286ee426a",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  253,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:55:25.8722183+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b9ad477-6104-4d05-9708-a5f690f53571",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  4,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:58:15.3386859+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cd4dbd5f-d13a-4574-a690-311ba9003196",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T15:20:58.2265866+08:00",
+                      "CompletedAt":  "2025-01-16T13:31:18.0067044+08:00"
+                  },
+                  {
+                      "Id":  "5559dea3-ed14-498f-a7d9-32956bf4075d",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  1,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:50:23.826354+08:00",
+                      "CompletedAt":  "2025-01-18T20:04:05.0341855+08:00"
+                  },
+                  {
+                      "Id":  "a6716c0c-407e-4896-bf6b-67226a802cde",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:23:20.4456833+08:00",
+                      "CompletedAt":  "2025-01-17T20:47:04.3987941+08:00"
+                  },
+                  {
+                      "Id":  "a8aba6f6-0f3f-485d-9dbf-111988b9ccfd",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:32:46.8732447+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "a2f9e57d-92bc-4972-869c-2630ca2297d5",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-16T09:37:56.3636991+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7e97c6d-4dff-4c23-badc-0e2fccff9462",
+                      "Name":  "Unbranded Wooden Bacon",
+                      "Quantity":  1,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.7264585Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2290a478-a22d-4682-b5c8-12efe2b600cb",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265028Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20b4ea35-e7ad-44df-8f16-603b7e1c0806",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  181,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265046Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31ffd2fd-db0a-4427-a1bf-64b7c82287e5",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1e7993a6-b744-495f-9935-663e9ce9d764",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265096Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bfc3be0-a74a-4630-bbb0-50158b773645",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265127Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e7aec23b-105a-421d-94c2-e6649c719d23",
+                      "Name":  "Small Concrete Towels",
+                      "Quantity":  5,
+                      "Price":  47,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:00.7265257Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

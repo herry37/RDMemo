@@ -1,0 +1,53 @@
+{
+    "Id":  "a3f8025f-5650-4517-939b-0bbad2f4a22a",
+    "Title":  "年節採購 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T20:26:49.7685558+08:00",
+    "Items":  [
+                  {
+                      "Id":  "68fd543a-c687-4e0e-96b5-274888797fc3",
+                      "Name":  "充電電池",
+                      "Quantity":  2,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:28:59.845803+08:00",
+                      "CompletedAt":  "2025-01-18T23:28:57.3815327+08:00"
+                  },
+                  {
+                      "Id":  "6c2360d7-8f33-4f69-a7ac-12aae9072d00",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:31:01.1033917+08:00",
+                      "CompletedAt":  "2025-01-16T05:50:56.4516787+08:00"
+                  },
+                  {
+                      "Id":  "b0655622-a8fd-45a7-9a66-073de5703759",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:37:17.7607538+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a1a0e9cd-9a45-41cb-8eaf-a3896322e832",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:41:08.2959773+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e45aeba9-3079-4272-987b-429933ac8025",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  1,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:43:26.881276+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

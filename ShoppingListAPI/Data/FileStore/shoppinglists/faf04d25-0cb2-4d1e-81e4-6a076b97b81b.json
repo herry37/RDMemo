@@ -1,0 +1,62 @@
+{
+    "Id":  "faf04d25-0cb2-4d1e-81e4-6a076b97b81b",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T20:16:20.8871616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8df90e69-8926-4c5b-96a6-438b9912574d",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:56:17.786415+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eebbbece-860c-452d-a6bf-22674ee390a8",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T23:45:18.4569806+08:00",
+                      "CompletedAt":  "2025-01-16T05:57:49.1751755+08:00"
+                  },
+                  {
+                      "Id":  "a2b98478-c010-4302-80be-9f5070a21f23",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  4,
+                      "Price":  173,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T00:22:25.1439591+08:00",
+                      "CompletedAt":  "2025-01-15T22:07:57.6767873+08:00"
+                  },
+                  {
+                      "Id":  "3564ac5e-df6a-44d9-a2e0-633e5b5f916d",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  5,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:03:50.1124997+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "830ff91a-335a-4f1a-94d2-fa7047251ec1",
+                      "Name":  "清潔手套",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:59:33.5653335+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4cfd0c4-d7e3-4bd5-92e9-0677c3f9ab90",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:49:16.148203+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

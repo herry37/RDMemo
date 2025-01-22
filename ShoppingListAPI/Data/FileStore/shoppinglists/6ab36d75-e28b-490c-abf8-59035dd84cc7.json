@@ -1,0 +1,35 @@
+{
+    "Id":  "6ab36d75-e28b-490c-abf8-59035dd84cc7",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-14T21:31:35.2271758+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5c2817e2-24d3-4a29-b5f8-92342a60671e",
+                      "Name":  "堅果",
+                      "Quantity":  10,
+                      "Price":  218.254031149009370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T18:09:36.9685493+08:00",
+                      "CompletedAt":  "2025-01-19T02:02:10.1391097+08:00"
+                  },
+                  {
+                      "Id":  "b6d67860-eeab-44c8-9ba4-5cdba6034fe9",
+                      "Name":  "青菜",
+                      "Quantity":  1,
+                      "Price":  321.487693860021980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:14:30.5396202+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5afbc775-c084-4d94-9f7d-947825d2e991",
+                      "Name":  "置物盒",
+                      "Quantity":  3,
+                      "Price":  26.0810244842222080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:26:03.4974944+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "80acb9c9-f14d-412a-b414-3ab5a46df2e9",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T17:46:40.4663228+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f2394276-c35a-498e-96cc-11ee814ae544",
+                      "Name":  "洋芋片",
+                      "Quantity":  1,
+                      "Price":  468.804194020535230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:45:10.5179776+08:00",
+                      "CompletedAt":  "2025-01-18T03:24:15.3778539+08:00"
+                  },
+                  {
+                      "Id":  "ce55e815-2dad-4f66-8692-136b02b0c9db",
+                      "Name":  "洗髮精",
+                      "Quantity":  6,
+                      "Price":  160.973640324407390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T17:24:18.8701789+08:00",
+                      "CompletedAt":  "2025-01-16T11:21:18.3017672+08:00"
+                  },
+                  {
+                      "Id":  "bf1d6955-0c17-4b3f-a344-a5d916289b5a",
+                      "Name":  "訂書機",
+                      "Quantity":  6,
+                      "Price":  370.06658388585640,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:43:00.6589339+08:00",
+                      "CompletedAt":  "2025-01-16T09:58:47.8534316+08:00"
+                  },
+                  {
+                      "Id":  "9562c4ca-797d-4b78-a4f5-7d7a2e484167",
+                      "Name":  "可樂",
+                      "Quantity":  6,
+                      "Price":  214.561666732106530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:11:38.9965126+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dfe3e22-bc01-4efa-bb0c-c1e375951679",
+                      "Name":  "清潔劑",
+                      "Quantity":  10,
+                      "Price":  119.515322601730220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:41:43.9132371+08:00",
+                      "CompletedAt":  "2025-01-20T14:40:14.5560421+08:00"
+                  },
+                  {
+                      "Id":  "296a70e0-3da5-4eea-a1ec-30cd5dc1e2a1",
+                      "Name":  "化妝品",
+                      "Quantity":  7,
+                      "Price":  88.496448142144480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:07:45.001286+08:00",
+                      "CompletedAt":  "2025-01-18T19:58:38.1241275+08:00"
+                  },
+                  {
+                      "Id":  "d8fd0a4f-b637-4d9d-93ec-3542bbf1a852",
+                      "Name":  "糖果",
+                      "Quantity":  4,
+                      "Price":  126.41413767179910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:11:21.2097458+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

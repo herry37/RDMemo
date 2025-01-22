@@ -1,0 +1,44 @@
+{
+    "Id":  "d08f8ac8-6300-4d06-8ba4-2f5c48881ac8",
+    "Title":  "01/19 飲料採買清單",
+    "CreatedAt":  "2025-01-19T10:24:14.6422644+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f17435d7-4e83-4b81-a090-e93a22cdd734",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.889802Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5368f50-cd96-487c-9ca7-912c0ad623e3",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8898076Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77e94ef2-798c-4b92-b20b-a7e7a3a5d3bc",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8898092Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "220689b5-1512-4cfa-88a0-1b33881538e0",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.8898114Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

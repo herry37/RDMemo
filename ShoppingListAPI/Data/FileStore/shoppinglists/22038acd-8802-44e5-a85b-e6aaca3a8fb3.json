@@ -1,0 +1,89 @@
+{
+    "Id":  "22038acd-8802-44e5-a85b-e6aaca3a8fb3",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T05:07:42.8177791+08:00",
+    "Items":  [
+                  {
+                      "Id":  "36acddb4-fc74-4206-afba-74de4cb8238e",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.199353Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4dc3de30-0fe4-4962-a8f2-89caf39de28b",
+                      "Name":  "Generic Rubber Computer",
+                      "Quantity":  4,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.199377Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c45dafed-2d76-4a89-962d-55686e252ab6",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1993783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4753867-3430-4faa-a646-a2a31aac4714",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1993795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "994e74dc-8a68-4611-ad45-14a42dda1640",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1993812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9abe26cc-618f-42af-9cee-2ee8419602a9",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.199383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "88fb0ad5-643a-4951-9597-9409d6eded7c",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1993841Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc34ab6f-9f10-4b8f-9cf8-621c0560ed10",
+                      "Name":  "Rustic Fresh Chicken",
+                      "Quantity":  2,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.199391Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23cd712b-700d-42b8-813d-3236b7c5225a",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1993924Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

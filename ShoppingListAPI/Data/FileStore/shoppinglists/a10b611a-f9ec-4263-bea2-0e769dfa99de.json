@@ -1,0 +1,62 @@
+{
+    "Id":  "a10b611a-f9ec-4263-bea2-0e769dfa99de",
+    "Title":  "派對用品 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T05:49:18.9449152+08:00",
+    "Items":  [
+                  {
+                      "Id":  "caa383c4-fad4-4146-b5c6-1f518b3d0d8c",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  4,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:08:19.5414604+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f025105-741e-4185-bf81-cccab83875e9",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:13:29.8248819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "708ecfe9-43d4-4099-8599-c9a8ba2fdcc9",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  1,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:48:26.4092074+08:00",
+                      "CompletedAt":  "2025-01-20T20:14:18.5069106+08:00"
+                  },
+                  {
+                      "Id":  "9b23ec7f-f216-488f-b065-7725f4e57782",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:28:31.8162793+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0e53fce-9528-4132-912d-59f6db85938e",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:15:20.378823+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01963607-78a7-4b9e-82e3-e91b71fde77c",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:05:47.806788+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

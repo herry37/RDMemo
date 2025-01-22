@@ -1,0 +1,53 @@
+{
+    "Id":  "6d3b9815-4589-4182-94e0-8eeb0e63dc21",
+    "Title":  "年節採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T14:48:41.0884716+08:00",
+    "Items":  [
+                  {
+                      "Id":  "85809a22-083f-44af-bddb-d45b8eefb974",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  5,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:58:44.6795699+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8bf7f34-6bd1-4498-b1ad-6c35d8a05edc",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  33,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:30:25.9203146+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8a139fd-7930-469e-9eb2-9337d33e7ccd",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  1,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:17:34.6209028+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0963b80-37cf-4358-aff0-f8cb2d4d31bf",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:39:28.5938876+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "177c71cd-cbda-428c-bd91-79f30720114c",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T09:52:52.7183913+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

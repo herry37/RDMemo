@@ -1,0 +1,80 @@
+{
+    "Id":  "ec711a4a-565a-4f16-a133-c870d60db3a0",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-20T14:22:11.1892431+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0e79bee6-5a97-49de-9c44-633bb9981b5a",
+                      "Name":  "漂白水",
+                      "Quantity":  3,
+                      "Price":  31.9810380295476390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:30:21.106584+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61e30f9d-0e79-41ed-8d3f-04bd4caa8441",
+                      "Name":  "蘋果",
+                      "Quantity":  10,
+                      "Price":  467.38593718476330,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:25:26.1163241+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d0bcba7-534b-4180-82e3-2a59b6a1129f",
+                      "Name":  "電池",
+                      "Quantity":  3,
+                      "Price":  96.947907122782090,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:46:11.3870181+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a16f13b-f0e3-42d7-9c43-d0cbe9ee086f",
+                      "Name":  "化妝品",
+                      "Quantity":  10,
+                      "Price":  132.189560675236740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:09:44.9150955+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "484451bf-631d-41bc-bc8c-6ea445ae2394",
+                      "Name":  "電池",
+                      "Quantity":  6,
+                      "Price":  173.885329241053140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:02:57.5821651+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df43033a-ad97-405c-a696-7885c489164f",
+                      "Name":  "垃圾袋",
+                      "Quantity":  10,
+                      "Price":  340.537000126669910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:40:40.4061806+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "167ca962-c319-4888-b1d2-2f2d36d5e7b6",
+                      "Name":  "餐巾紙",
+                      "Quantity":  10,
+                      "Price":  489.452063926308410,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:25:15.0293947+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c920340a-1046-4a62-8d40-c9985b5efe2a",
+                      "Name":  "清潔劑",
+                      "Quantity":  3,
+                      "Price":  85.584999002444120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T02:17:09.5014716+08:00",
+                      "CompletedAt":  "2025-01-17T00:25:40.396358+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

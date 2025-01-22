@@ -1,0 +1,35 @@
+{
+    "Id":  "835e1ef7-1da4-4bea-ad7c-9a4e9ae0be14",
+    "Title":  "01/15 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T03:19:04.4703859+08:00",
+    "Items":  [
+                  {
+                      "Id":  "569ab4c9-4f90-41e9-8c2a-74c0e67c18f5",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  283,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4834788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0a88890-c613-4493-97fd-1ecc40eadc42",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4834848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12bbed6a-6f04-4da4-8925-86263c85bfa8",
+                      "Name":  "Awesome Frozen Pizza",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4835111Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

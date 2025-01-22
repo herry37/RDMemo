@@ -1,0 +1,80 @@
+{
+    "Id":  "66c31490-93a0-4559-9895-2401484bf16c",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T11:51:09.2927238+08:00",
+    "Items":  [
+                  {
+                      "Id":  "487cc7d6-eaf6-4794-a7fe-59a474adfc6f",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  362,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3845812Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d888eb64-221a-477c-bddb-4d0c862e9ad7",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3845855Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "31a98222-2a3c-4f8c-b006-81a40a536ef7",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3845867Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ae7a04e-04d5-469f-aa9b-7ee2fc1333b1",
+                      "Name":  "Practical Fresh Chair",
+                      "Quantity":  4,
+                      "Price":  152,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3846336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "714f5f6c-7a5d-46b7-8871-ae8c8c95df2f",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3846348Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a788955f-17ff-4e99-a124-c1cb655a67d3",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3846383Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f87d73d-44d4-44e7-b656-22420f0fea67",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  356,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3846393Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61a3c85f-8d5f-4c63-b339-ce30d5b3835f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  431,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3846408Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

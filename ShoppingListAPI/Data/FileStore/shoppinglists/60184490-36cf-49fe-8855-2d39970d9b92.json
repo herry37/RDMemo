@@ -1,0 +1,35 @@
+{
+    "Id":  "60184490-36cf-49fe-8855-2d39970d9b92",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T23:25:38.5855784+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95427943-7a79-4d50-aebd-8a7d1ea40bc0",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8549116Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fac5f8a5-b1b5-470b-bdf3-81093503fd69",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.8549157Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "904bd549-b722-432f-8c69-77d72669ea78",
+                      "Name":  "Generic Metal Shoes",
+                      "Quantity":  1,
+                      "Price":  355,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.854931Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

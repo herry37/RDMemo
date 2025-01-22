@@ -1,0 +1,44 @@
+{
+    "Id":  "4bafc127-2f63-4c16-96f9-30fb5092b954",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-17T20:46:19.6583932+08:00",
+    "Items":  [
+                  {
+                      "Id":  "297e0e41-d36e-4c17-bf11-2ffaf6a03eac",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.038141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "282585c8-b200-4f93-a70e-67a4919b62bb",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0381442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b9c8a9f-af37-4c31-a8d4-d74f17dbe238",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0381452Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66325e9e-46e9-43bb-93c1-72446f320571",
+                      "Name":  "Rustic Soft Shoes",
+                      "Quantity":  2,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0381924Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

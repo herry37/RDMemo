@@ -1,0 +1,80 @@
+{
+    "Id":  "42e07e32-74cc-48d8-b799-26cf6c3a1c1b",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T20:10:40.2537787+08:00",
+    "Items":  [
+                  {
+                      "Id":  "135c14a7-936a-4180-93fd-b62748c4fa10",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b6233d3-c3c7-4fa9-9f57-5bd75e0c6911",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f5b8c83-6b5b-404b-b1ab-bfd1b9d73b1b",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec1cd28a-e034-4e2a-ba84-083abbee045d",
+                      "Name":  "Practical Granite Fish",
+                      "Quantity":  1,
+                      "Price":  304,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.220872Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bee59d2-a5aa-4c1b-814f-326c9a2c4996",
+                      "Name":  "Gorgeous Plastic Car",
+                      "Quantity":  1,
+                      "Price":  399,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cda0b1c7-25e8-4d36-945c-05059e940414",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  491,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d43bf350-7cd3-46d0-8287-83c9c062e307",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208831Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61d8585b-e2e9-4aaf-a6bd-fd502349820b",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2208844Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "b858700d-00af-426d-bfae-9c3f5007beed",
+    "Title":  "露營準備 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-20T14:43:39.5999417+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6270f24d-5751-407d-b72c-5c91bd9c6969",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:50:52.9391878+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "955b9a94-5a91-4dc5-81a5-960b101ced48",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:33:09.215423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03f23eda-1294-42d2-9300-21a261af8fcd",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:18:13.092344+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d3a4c54-f81e-43ee-acd2-0d9ce5b4fe4a",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  5,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:14:53.7152313+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

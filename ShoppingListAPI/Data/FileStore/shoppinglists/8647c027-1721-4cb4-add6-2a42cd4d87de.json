@@ -1,0 +1,35 @@
+{
+    "Id":  "8647c027-1721-4cb4-add6-2a42cd4d87de",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T06:01:04.0986851+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5a0f60c5-45a0-4518-b70c-494fa883a4b9",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  1,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:47:54.6524992+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b545eea-de1f-4662-8819-a0ee60152b3f",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:17:00.2730208+08:00",
+                      "CompletedAt":  "2025-01-15T08:19:16.9912964+08:00"
+                  },
+                  {
+                      "Id":  "8de3c12c-8c5e-420e-bd92-6bb9afcab763",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:56:56.8216089+08:00",
+                      "CompletedAt":  "2025-01-15T13:39:55.0288914+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

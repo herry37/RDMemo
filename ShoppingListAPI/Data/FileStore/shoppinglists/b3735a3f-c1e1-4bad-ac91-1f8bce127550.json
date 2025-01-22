@@ -1,0 +1,35 @@
+{
+    "Id":  "b3735a3f-c1e1-4bad-ac91-1f8bce127550",
+    "Title":  "日常補充 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-21T15:13:45.781737+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e5cea8c3-4250-4b52-8c8b-bd8c76fb4b9f",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:20:55.426863+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc9e9c1d-a16d-4775-bc24-05dc1e5c0434",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:11:08.1971248+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56e94644-c68e-4c02-8f63-aa14633ef0d2",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:19:57.5753109+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

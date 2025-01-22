@@ -1,0 +1,71 @@
+{
+    "Id":  "340a9717-15f1-4586-9074-5e38b30f2f38",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-15T10:26:13.1401224+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d2ad323b-de18-4c3f-989e-15db71dd8395",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  403.532490900733240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:57:20.8932756+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a4c4cd34-9bc6-4581-b7fc-3548ebdd90c3",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  204.847701497320060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:37:18.0706002+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1abea7c9-0da6-4dbc-b9ad-4a38a2fe7dde",
+                      "Name":  "芳香劑",
+                      "Quantity":  1,
+                      "Price":  496.707445612556840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:53:18.8027738+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f8e6ebc-bc59-423a-af72-da2bb8738251",
+                      "Name":  "洗衣精",
+                      "Quantity":  10,
+                      "Price":  341.080733058594960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:24:59.7843034+08:00",
+                      "CompletedAt":  "2025-01-18T22:36:38.3869522+08:00"
+                  },
+                  {
+                      "Id":  "a8357bcb-3a61-4ae9-8e51-5c14ec514d30",
+                      "Name":  "碗",
+                      "Quantity":  1,
+                      "Price":  192.342480147299080,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T12:49:18.9173609+08:00",
+                      "CompletedAt":  "2025-01-19T19:40:08.7964018+08:00"
+                  },
+                  {
+                      "Id":  "0122249c-b79a-4a41-ab48-fcd71dba8f0d",
+                      "Name":  "洋芋片",
+                      "Quantity":  4,
+                      "Price":  312.829627621437350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:34:41.5344037+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4bfd1b0-0a97-4258-9a9b-855e9ba50295",
+                      "Name":  "膠帶",
+                      "Quantity":  5,
+                      "Price":  252.391543192332870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:03:00.0742957+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

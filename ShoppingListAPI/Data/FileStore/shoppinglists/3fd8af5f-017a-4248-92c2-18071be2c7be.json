@@ -1,0 +1,35 @@
+{
+    "Id":  "3fd8af5f-017a-4248-92c2-18071be2c7be",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-15T20:41:58.0602737+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e87f85a0-5ac2-421c-9ccc-3133afe92722",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  17.8526841321904780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:17:44.511621+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea2cae4d-dee5-4cc6-8d11-12f6ae63a767",
+                      "Name":  "筆記本",
+                      "Quantity":  2,
+                      "Price":  163.855814996089570,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:16:47.1886141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eed79467-d4ff-4109-932d-4e08a0d462d0",
+                      "Name":  "衣架",
+                      "Quantity":  2,
+                      "Price":  164.309068376879360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:12:20.6733867+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

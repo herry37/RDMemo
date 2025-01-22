@@ -1,0 +1,44 @@
+{
+    "Id":  "147a05a3-fd04-44a9-8dd1-3d18d1b03fb2",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-20T23:09:09.7251029+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1436ec44-171c-47ba-8e35-4dfe9ab1f00d",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6117002Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e76b5fc-9a17-40ac-bdd4-c3e88097593e",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6117055Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96a022c5-507c-4f3e-9f52-569158d77616",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6117086Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "116e7844-6bac-4ccb-90e5-2d106115dc25",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6117115Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

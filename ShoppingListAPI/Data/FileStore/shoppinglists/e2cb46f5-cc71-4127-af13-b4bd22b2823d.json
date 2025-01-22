@@ -1,0 +1,62 @@
+{
+    "Id":  "e2cb46f5-cc71-4127-af13-b4bd22b2823d",
+    "Title":  "01/21 個人護理採買清單",
+    "CreatedAt":  "2025-01-17T03:30:08.1634673+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f6086371-bce1-48fe-9bc2-97ac6aba119d",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  63,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901071Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "abdb964f-5c27-4a4a-a1fb-2cc1f7b0a082",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcb01c20-253b-4025-8883-49d28c0af40d",
+                      "Name":  "Tasty Fresh Pizza",
+                      "Quantity":  4,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901444Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7396fb96-9e55-4990-9a04-6e739c1b9ddf",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901458Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bef618de-6a3f-40b1-ba21-ba53e412ee6d",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  456,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901467Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30e0c25a-80a9-4f30-8124-78af17ea25ca",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  196,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.0901487Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

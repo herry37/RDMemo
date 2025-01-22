@@ -1,0 +1,62 @@
+{
+    "Id":  "c419dc22-4867-4091-a260-883b50bf9ca9",
+    "Title":  "居家整理 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-15T03:13:47.1551759+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82a8cd18-d33a-4011-8d50-8604805d4dcc",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  2,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:47:48.2181702+08:00",
+                      "CompletedAt":  "2025-01-19T21:03:26.1261205+08:00"
+                  },
+                  {
+                      "Id":  "64dfad2f-27ee-47df-8da3-77fe1be956eb",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:42:43.1985935+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00048831-c4a3-4308-8f83-9f27568ad293",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  4,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:41:43.5813804+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eca0dbe2-78f8-41f2-8d3d-82fe69c531f1",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:24:37.6867288+08:00",
+                      "CompletedAt":  "2025-01-17T10:33:02.4356167+08:00"
+                  },
+                  {
+                      "Id":  "d370f630-936a-4fbe-b55f-e1754d4fa545",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:54:51.8880702+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9236d3c-add6-42c8-96cd-2db2c55f5ec3",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T22:08:08.419748+08:00",
+                      "CompletedAt":  "2025-01-17T15:06:51.4780569+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

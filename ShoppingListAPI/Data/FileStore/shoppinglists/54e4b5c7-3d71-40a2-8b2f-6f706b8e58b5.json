@@ -1,0 +1,35 @@
+{
+    "Id":  "54e4b5c7-3d71-40a2-8b2f-6f706b8e58b5",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-20T23:18:25.1261359+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da470b16-32c3-4a48-8fa8-6ed9ad5fc53b",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  374,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8859395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c00575c7-93ed-427e-ba58-7414934794fe",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8859432Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6af4daa5-60ed-4b64-999c-df55a3d8e588",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  445,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8859449Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

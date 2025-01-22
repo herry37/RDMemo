@@ -1,0 +1,98 @@
+{
+    "Id":  "5de96e25-db8e-4e58-96aa-97fe0e0b3d41",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T12:04:22.8340718+08:00",
+    "Items":  [
+                  {
+                      "Id":  "69b70c50-1c6c-4166-aba7-0f934a4a5061",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4023711b-14e4-445c-aeef-0f6851149e7b",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  479,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120584Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97b6e49e-c27d-4875-bc00-18e9d656894f",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120594Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5234ec12-8f7b-4b60-9f0c-524f1bf21aec",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b9b5b1b-d774-4822-b236-ba1e585646f7",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60310d25-bacf-4cc4-8546-098b63960ffe",
+                      "Name":  "Fantastic Plastic Shirt",
+                      "Quantity":  5,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120803Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5f68124-afe8-4588-bd93-d35ec6421f6a",
+                      "Name":  "Small Granite Pants",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "329c64ad-e3ec-4481-8d61-1becc29b1d98",
+                      "Name":  "Incredible Plastic Car",
+                      "Quantity":  1,
+                      "Price":  329,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e86097a1-2abb-4c6e-97c4-e7145ea72369",
+                      "Name":  "Awesome Cotton Cheese",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120927Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c886b028-35ee-46cc-ac0c-ae15a2243d66",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  478,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.9120938Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

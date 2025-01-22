@@ -1,0 +1,62 @@
+{
+    "Id":  "32339e11-44b9-4370-8501-460a973098d7",
+    "Title":  "早市採買 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-16T20:37:59.5555834+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4c271e6-88fc-422b-adcd-35f37389f2e1",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  79,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T22:45:03.7172475+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d495f434-87df-42ca-be22-59e4cb07a8df",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  45,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:20:55.4001081+08:00",
+                      "CompletedAt":  "2025-01-21T00:09:03.8187496+08:00"
+                  },
+                  {
+                      "Id":  "47ed5ed4-3784-4ab6-bfb3-6943a2e3cf76",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:57:43.049059+08:00",
+                      "CompletedAt":  "2025-01-19T08:05:52.0755943+08:00"
+                  },
+                  {
+                      "Id":  "5bb13d36-5cc3-4fb0-a0e0-1b9ca5e7730d",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T09:45:43.4246089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6562e89-6c09-4b3a-9685-78b5906b0e89",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:26:11.4883917+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eca8d7e6-668d-475a-ab95-5a066fecb0a5",
+                      "Name":  "防滑衣架",
+                      "Quantity":  3,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:22:44.326875+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

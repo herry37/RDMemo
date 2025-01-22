@@ -1,0 +1,71 @@
+{
+    "Id":  "30a7b863-76fc-43df-9a31-1e0ac2e4095c",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T05:31:13.8205213+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9f95526b-1469-4878-b819-c42550e28002",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273251Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "581075cf-2476-44a3-83e9-074790b113e0",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273292Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "55134289-5259-47b7-9b8f-ed0a75430f50",
+                      "Name":  "Handmade Steel Computer",
+                      "Quantity":  1,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273564Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79f5d0bb-993f-4ab8-bb88-26e8a5cc5fe1",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273587Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77744bf1-a022-4827-be93-206217cf7a17",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273599Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10f77d0a-2bf8-4fca-937e-c7fa49586b85",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273628Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "926f3437-677a-47c3-91e9-d7a39f17de38",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  389,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5273639Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "c943304a-7164-4974-88f4-f376b9c70c15",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-15T07:19:22.517813+08:00",
+    "Items":  [
+                  {
+                      "Id":  "01bbf1db-0697-4242-9ab1-dd4072a9e040",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5449235Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad826a57-1f13-4e6b-b416-1034145a5f31",
+                      "Name":  "Incredible Fresh Chicken",
+                      "Quantity":  1,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.544952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9716bdd-0af3-46c2-863c-c95beb90f9fb",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.5449549Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a9158df-d66b-45f4-8ac3-b544ef9817ee",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.5449582Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

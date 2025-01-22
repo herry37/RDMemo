@@ -1,0 +1,71 @@
+{
+    "Id":  "2d3e480a-d539-42be-a16b-0298759cf39c",
+    "Title":  "年節採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-18T04:07:33.9241956+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b57ed3f0-fbab-4f3a-ba87-66ae332d4683",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:22:36.4087166+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96ca9305-dd93-486c-b40d-e3859003a3a5",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T19:44:37.3854905+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45c50d88-b6ff-431e-bced-5fd2a0b6ce69",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  26,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:57:53.2549938+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a219978e-2c9c-4b69-b77e-71606c33c2a4",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  4,
+                      "Price":  280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:12:07.0753259+08:00",
+                      "CompletedAt":  "2025-01-18T06:22:51.7065231+08:00"
+                  },
+                  {
+                      "Id":  "5217d495-f018-416c-8b5e-71c73739c288",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:06:31.3365108+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b07a461e-9b62-46cf-bfca-1d1b3a82a481",
+                      "Name":  "彩色資料夾",
+                      "Quantity":  1,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:51:26.9839279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f773d1b2-9ccd-47e8-87f6-83f871f0a022",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  131,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:40:34.5262775+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

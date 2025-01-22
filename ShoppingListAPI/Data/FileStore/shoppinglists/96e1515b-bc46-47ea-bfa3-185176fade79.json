@@ -1,0 +1,35 @@
+{
+    "Id":  "96e1515b-bc46-47ea-bfa3-185176fade79",
+    "Title":  "01/20 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T22:43:12.6446117+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3ebe4abb-be81-4d48-992b-f23ab3065010",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2460648Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1a75064-0b62-4a9f-b730-3d1dd75b5488",
+                      "Name":  "Sleek Granite Car",
+                      "Quantity":  5,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.2460878Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1aceb8eb-99a4-4792-aa50-d49cd71011bd",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2460895Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

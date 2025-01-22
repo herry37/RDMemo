@@ -1,0 +1,71 @@
+{
+    "Id":  "0fdcf858-11ba-4122-b538-f6823f39d0d7",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T07:19:33.35334+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5041ba1f-d0fa-4959-b2fc-4f994d3efbde",
+                      "Name":  "牛奶",
+                      "Quantity":  6,
+                      "Price":  126.288159829906750,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:28:41.670316+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74babb15-fc85-4e6d-828b-ddbe89a38d15",
+                      "Name":  "掃把",
+                      "Quantity":  9,
+                      "Price":  229.314966727951290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:35:16.8990695+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9857f61c-a807-4727-b747-5c64de81541b",
+                      "Name":  "餐具",
+                      "Quantity":  5,
+                      "Price":  158.528465198909320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:53:16.4017439+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04b53644-1ee9-429e-b8e7-6d75c3b4356e",
+                      "Name":  "礦泉水",
+                      "Quantity":  10,
+                      "Price":  100.21513028481660,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T14:58:21.470863+08:00",
+                      "CompletedAt":  "2025-01-18T21:59:18.6131426+08:00"
+                  },
+                  {
+                      "Id":  "833ce931-4eca-47d4-9b79-df8c1de47f8b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  7,
+                      "Price":  185.471360760630130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:26:06.0058129+08:00",
+                      "CompletedAt":  "2025-01-21T06:06:24.1813793+08:00"
+                  },
+                  {
+                      "Id":  "1f7b1a21-6b1a-4770-b642-da797e00990c",
+                      "Name":  "膠帶",
+                      "Quantity":  7,
+                      "Price":  427.0224349846870,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:41:41.6797424+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d60845f-950d-4433-8307-74c5eb1fb759",
+                      "Name":  "香蕉",
+                      "Quantity":  10,
+                      "Price":  415.236057829466220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:51:40.4874003+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

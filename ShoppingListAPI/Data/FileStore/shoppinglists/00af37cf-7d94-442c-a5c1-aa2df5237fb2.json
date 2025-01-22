@@ -1,0 +1,35 @@
+{
+    "Id":  "00af37cf-7d94-442c-a5c1-aa2df5237fb2",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T18:48:36.9732518+08:00",
+    "Items":  [
+                  {
+                      "Id":  "219956de-160c-4fe2-bda7-48e86ed16a7f",
+                      "Name":  "手套",
+                      "Quantity":  7,
+                      "Price":  266.48441303035040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:44:01.0472616+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "954b28b2-8dc1-4d60-a861-e27c213e283d",
+                      "Name":  "筆",
+                      "Quantity":  3,
+                      "Price":  204.4846567772430,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T21:24:32.1317082+08:00",
+                      "CompletedAt":  "2025-01-22T05:05:24.2726+08:00"
+                  },
+                  {
+                      "Id":  "147d5e0b-7974-4feb-8cea-a6580f98d53d",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  11.32063586220504120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:00:15.1173377+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "407c4099-db12-4807-9ae7-67e47352dd00",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-19T12:09:29.8392719+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b8445a00-ced5-4456-be2f-1df894fde5e8",
+                      "Name":  "茶",
+                      "Quantity":  7,
+                      "Price":  154.780925761792180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:50:34.6074569+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e022170-1e21-4454-ac94-079c058ac181",
+                      "Name":  "漂白水",
+                      "Quantity":  3,
+                      "Price":  302.795171590174890,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:20:26.3636639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "298ffdba-4b14-47af-9710-53a2fb4af150",
+                      "Name":  "芳香劑",
+                      "Quantity":  6,
+                      "Price":  415.80150575974310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:39:27.6787189+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

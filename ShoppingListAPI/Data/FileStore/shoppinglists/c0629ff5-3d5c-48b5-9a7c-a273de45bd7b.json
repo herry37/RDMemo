@@ -1,0 +1,89 @@
+{
+    "Id":  "c0629ff5-3d5c-48b5-9a7c-a273de45bd7b",
+    "Title":  "01/19 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T23:24:58.9724291+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b43ec9a6-7349-4ea3-88cc-e358874542eb",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  360,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f1fec37c-30ac-4d7d-95e0-d67ce044049c",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2e509294-bd91-4dab-b567-0fa43cb8b19f",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.776424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d15fb93f-650c-4295-a78d-f1ee41a0b020",
+                      "Name":  "麵包",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "edd1f3f0-4c3e-4c0f-a641-9e7d8245c072",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5277f05f-0fa2-4978-878c-0611fcae1761",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  65,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.776429Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "923eb8dc-472f-4187-8984-b700ba110859",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  30,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764306Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a83393e8-c55d-4c1b-8efc-cb41cc35824d",
+                      "Name":  "Fantastic Wooden Car",
+                      "Quantity":  2,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764449Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76040446-8a1e-4e01-b771-28742bdff1c3",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7764466Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

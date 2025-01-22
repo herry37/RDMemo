@@ -1,0 +1,62 @@
+{
+    "Id":  "af360b25-052d-4220-aff8-33a2ae641de8",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T02:13:17.1992835+08:00",
+    "Items":  [
+                  {
+                      "Id":  "073c2bb2-6a7f-4410-bb21-0dfa10d769a4",
+                      "Name":  "Handcrafted Granite Sausages",
+                      "Quantity":  2,
+                      "Price":  390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.291644Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fe989cf-ef44-42e3-a341-4c381b050786",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2916477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16799973-db97-47f8-8e91-2b74d0f264de",
+                      "Name":  "Intelligent Soft Computer",
+                      "Quantity":  1,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.2916541Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9727145f-563c-4a39-a585-24cfab41f775",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  409,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.2916551Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ddc8854-c20d-4e85-aa67-ea2b32c9574a",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.291656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "404941ae-7225-4ce9-bc2d-092a332271e0",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.2916582Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "0b92a031-65ce-487a-907d-17b102f77f4c",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T06:47:32.4011652+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3bcbf43c-0025-499f-a986-f013da0f2a00",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  37,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf45c5cc-92bf-438c-a55f-89ca05f2bbb5",
+                      "Name":  "Awesome Rubber Car",
+                      "Quantity":  5,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006444Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "261f1b4d-6e25-4328-be2c-b8f33b717558",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e87fe06d-ad9e-4c20-82e1-7a85271e9d5b",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006472Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1784e71-ac82-43da-8827-a686371866d7",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  477,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006482Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54db0365-cba0-40f0-afbe-88d7889903ac",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006505Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be74c351-0d81-44df-8e23-98e85a27426c",
+                      "Name":  "Gorgeous Fresh Bike",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006729Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00829a46-ef2c-457c-a44c-f750781c6f71",
+                      "Name":  "Intelligent Plastic Car",
+                      "Quantity":  3,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006815Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5916c68b-e231-4054-ba29-f9b22b3115f0",
+                      "Name":  "Rustic Wooden Keyboard",
+                      "Quantity":  1,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.200686Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07fdca21-f81b-4262-a4f2-60496ebd5e50",
+                      "Name":  "Rustic Rubber Fish",
+                      "Quantity":  2,
+                      "Price":  384,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.2006938Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

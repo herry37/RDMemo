@@ -1,0 +1,35 @@
+{
+    "Id":  "79e66ca8-9a70-49b8-8c94-5acc3e4a73dd",
+    "Title":  "早市採買 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-20T23:46:51.0297295+08:00",
+    "Items":  [
+                  {
+                      "Id":  "25527188-ca96-4e92-9168-c58651266a92",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T02:35:45.9853703+08:00",
+                      "CompletedAt":  "2025-01-18T06:04:26.9713876+08:00"
+                  },
+                  {
+                      "Id":  "67322916-57c9-46a9-9e36-3600db721bf3",
+                      "Name":  "保養化妝品",
+                      "Quantity":  1,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:23:01.5507745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "84e6479b-2818-4163-baf1-ba0f7982f8ce",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:56:05.8820176+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

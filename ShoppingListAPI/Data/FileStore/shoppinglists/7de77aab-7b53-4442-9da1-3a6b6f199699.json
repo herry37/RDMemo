@@ -1,0 +1,80 @@
+{
+    "Id":  "7de77aab-7b53-4442-9da1-3a6b6f199699",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T12:51:18.8584452+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6fca438d-0ab3-433a-90e7-8db293d5c121",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  49,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:43:36.3310031+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f113462-0316-4cf5-aa2a-28281cddf5cc",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:52:31.8799512+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8896569-f626-40f1-be03-b71c679cd4b7",
+                      "Name":  "當季青菜",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:48:31.8967197+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0f3bbb5-3970-444f-99c4-8b3623268d93",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  1,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T03:52:51.7173501+08:00",
+                      "CompletedAt":  "2025-01-21T12:15:24.4367215+08:00"
+                  },
+                  {
+                      "Id":  "3fe2f070-db9e-49c5-9ca8-cd4a5ad2b8f0",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T09:19:31.3789168+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb2c36b2-6f5a-4071-8182-1ef5da81bfd0",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  113,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:06:55.539709+08:00",
+                      "CompletedAt":  "2025-01-16T02:32:57.3103436+08:00"
+                  },
+                  {
+                      "Id":  "55f15c8c-f028-405f-ad6f-348e714085ea",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  53,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T09:36:58.6547569+08:00",
+                      "CompletedAt":  "2025-01-17T01:53:09.0453588+08:00"
+                  },
+                  {
+                      "Id":  "b421fe90-fc83-4bf8-ae51-d8da8ca06e3c",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:23:45.3106299+08:00",
+                      "CompletedAt":  "2025-01-19T10:25:59.3348946+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

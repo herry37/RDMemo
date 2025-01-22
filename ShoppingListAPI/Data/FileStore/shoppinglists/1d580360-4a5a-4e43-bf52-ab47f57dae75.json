@@ -1,0 +1,44 @@
+{
+    "Id":  "1d580360-4a5a-4e43-bf52-ab47f57dae75",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-21T09:47:30.0627096+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ce0768f-4626-4290-bfa2-bd8001df0471",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.7490786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c247af6-3fab-4e2d-8ca8-d3f46c9511f1",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  493,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7490854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3914d4f-2f18-4bd1-b4fb-2e10d4d9da04",
+                      "Name":  "Practical Soft Chair",
+                      "Quantity":  4,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7491274Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27151c92-9545-4627-a042-dfd7ac6fef13",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  475,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.7491304Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

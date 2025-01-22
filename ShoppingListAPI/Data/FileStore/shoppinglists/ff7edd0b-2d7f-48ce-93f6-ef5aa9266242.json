@@ -1,0 +1,62 @@
+{
+    "Id":  "ff7edd0b-2d7f-48ce-93f6-ef5aa9266242",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T06:00:10.258597+08:00",
+    "Items":  [
+                  {
+                      "Id":  "50dd589d-c0d3-4754-92e2-ad4312aebeb3",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  400,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2333069Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5488fc85-3e7b-4814-8a92-e6f053c1b8f0",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2333084Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b27ecef-6a6a-4e89-91c9-f9883526cd9b",
+                      "Name":  "Tasty Soft Keyboard",
+                      "Quantity":  4,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.233314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58ce1030-765a-4a35-8ed3-fe97da84cab1",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.233315Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2ee3445-bab1-4621-af66-9c9900a57d06",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  105,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2333158Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b51bb61-478a-4bc2-8b89-011eab8667b2",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  128,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2333171Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

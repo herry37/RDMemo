@@ -1,0 +1,71 @@
+{
+    "Id":  "639805cd-0615-4277-a919-3a2dea3e57da",
+    "Title":  "派對用品 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-15T05:26:04.2273025+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6419e40-6baf-4b30-9b94-056af25c0e62",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:31:58.6446763+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a440dc34-eb8f-4c8c-a41d-3a81ba7985a5",
+                      "Name":  "保濕面膜",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T20:02:27.4908892+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "80e3ac5c-e224-48a8-b4b0-38b4fd4123ae",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:29:59.9376662+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e692d539-befd-446e-b038-fa068dfece5d",
+                      "Name":  "防滑衣架",
+                      "Quantity":  5,
+                      "Price":  174,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:11:04.4918045+08:00",
+                      "CompletedAt":  "2025-01-16T14:08:17.857387+08:00"
+                  },
+                  {
+                      "Id":  "1f7b5229-64db-4810-8ae9-8cda2111c7ee",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:07:00.591484+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "df5fa867-785d-4d96-8fc7-a4cf5e208d23",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  262,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T11:05:36.2349641+08:00",
+                      "CompletedAt":  "2025-01-22T09:27:55.7632286+08:00"
+                  },
+                  {
+                      "Id":  "b47ed693-8df7-4ff7-8795-e8690dc2799b",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  3,
+                      "Price":  159,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:19:07.384842+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

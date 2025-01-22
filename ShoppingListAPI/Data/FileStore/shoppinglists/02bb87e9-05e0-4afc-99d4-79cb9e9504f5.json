@@ -1,0 +1,62 @@
+{
+    "Id":  "02bb87e9-05e0-4afc-99d4-79cb9e9504f5",
+    "Title":  "01/16 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T06:30:02.9166538+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6661ba30-2a08-4ca3-9510-48354b0be6a6",
+                      "Name":  "Sleek Soft Salad",
+                      "Quantity":  5,
+                      "Price":  17,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8522868Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f36a8d3e-eae6-45ec-9665-1cb79b7edfe8",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8522899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "add80655-5104-43d6-b971-993087c0798d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  343,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8522908Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef7338fc-f824-4862-8387-9fb1eea097b4",
+                      "Name":  "果汁",
+                      "Quantity":  1,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8522917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "496205df-bcd1-4756-9ea9-af1cd4bfffbc",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.852293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90fc7457-a13e-4e50-8bb4-0a32650776af",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8522952Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

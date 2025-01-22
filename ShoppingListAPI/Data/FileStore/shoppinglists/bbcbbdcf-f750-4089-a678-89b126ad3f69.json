@@ -1,0 +1,80 @@
+{
+    "Id":  "bbcbbdcf-f750-4089-a678-89b126ad3f69",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-19T14:09:15.5518645+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58618f07-87a0-4453-913e-1f6ea0dedaf9",
+                      "Name":  "環保漂白水",
+                      "Quantity":  3,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:52:54.7013669+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc7b9d10-3d64-4479-8120-5db09125f91e",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:02:17.0891438+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e10a3b02-83f0-43a6-b851-ed033d5d3371",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  275,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:16:19.9062495+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41df4f21-54d1-434d-ba56-f2267d7bf119",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T01:56:40.0732031+08:00",
+                      "CompletedAt":  "2025-01-19T08:30:58.8552882+08:00"
+                  },
+                  {
+                      "Id":  "423cf4f1-ac86-4391-8993-d1bcc275b667",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:37:09.8447727+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "562cf328-f2cc-46a7-a61e-ed532d778d0e",
+                      "Name":  "有機綠茶",
+                      "Quantity":  4,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:46:33.735853+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd4960e8-5d36-4925-95e9-cbf15a4b7689",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  4,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:47:24.2700833+08:00",
+                      "CompletedAt":  "2025-01-18T05:37:26.7165261+08:00"
+                  },
+                  {
+                      "Id":  "d5db73ba-fe75-40ff-8350-c9760dcbbda2",
+                      "Name":  "保濕面膜",
+                      "Quantity":  5,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:36:03.2054967+08:00",
+                      "CompletedAt":  "2025-01-18T18:48:58.4853+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

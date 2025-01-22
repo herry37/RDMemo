@@ -1,0 +1,44 @@
+{
+    "Id":  "d374589d-c2a1-40a6-af4c-19229f783eb7",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T20:12:10.8924631+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f4a9ecae-57c9-46a5-a0ff-b039ca82f81d",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2817359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "893f10c6-49d0-4915-93a6-e08c0e96d6ea",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2817407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ce3b6fa-d787-4a8f-8bce-1b01c2fa17ec",
+                      "Name":  "Tasty Steel Shoes",
+                      "Quantity":  3,
+                      "Price":  59,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2817736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3debe4c6-30eb-40cc-8e01-c37aeb7a2bc8",
+                      "Name":  "Ergonomic Cotton Chair",
+                      "Quantity":  1,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2817789Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

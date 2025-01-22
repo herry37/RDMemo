@@ -1,0 +1,98 @@
+{
+    "Id":  "a1d02492-6aa0-4a4e-b047-994188c76d05",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T01:58:53.3086478+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d0251ec8-b477-4054-af97-2abb474c6793",
+                      "Name":  "零食",
+                      "Quantity":  3,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837099Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa7ef892-d9f7-46b9-96d4-3141f520406a",
+                      "Name":  "Rustic Concrete Sausages",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d01fb23a-e312-41c4-92ea-cc15e5c7e1e9",
+                      "Name":  "Gorgeous Metal Shoes",
+                      "Quantity":  5,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837438Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59d516cb-1466-4d77-802c-92acc46db453",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  471,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837455Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1524e1a7-cda0-4b4e-8ef0-205d2749b045",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  408,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7db06727-6bba-4dc0-9e2d-1f86bf11d24f",
+                      "Name":  "Unbranded Steel Cheese",
+                      "Quantity":  1,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "239f6e4a-7efa-4312-a39c-499b32d6fd3e",
+                      "Name":  "Refined Soft Tuna",
+                      "Quantity":  5,
+                      "Price":  309,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837545Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95fdac2d-8799-4b8a-8a38-5da0455b6501",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837558Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e894e90f-87bc-4547-9768-b93652a5110d",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837567Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2667fc6b-6711-457a-9447-3810ede7bc8c",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.3837577Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

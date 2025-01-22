@@ -1,0 +1,44 @@
+{
+    "Id":  "3a60b0ab-8a60-499a-9b99-719ce267f06f",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T10:42:46.6701447+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2a5dd71c-ed0a-409c-b2e5-4113b844af1f",
+                      "Name":  "漂白水",
+                      "Quantity":  10,
+                      "Price":  425.780777089627040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:19:40.2858509+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e8ddd81-3237-4744-a40c-bce6a6440798",
+                      "Name":  "豆漿",
+                      "Quantity":  2,
+                      "Price":  167.3801209713530,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:49:37.2198765+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a95eb8ec-4aa6-4d19-a16c-7b3176cef1a4",
+                      "Name":  "雞肉",
+                      "Quantity":  6,
+                      "Price":  97.092817820117480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:46:49.6408007+08:00",
+                      "CompletedAt":  "2025-01-20T15:18:39.4713539+08:00"
+                  },
+                  {
+                      "Id":  "352dc46e-9e2d-4adf-a93d-7011d9829a34",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  169.872900364348850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:15:21.2831974+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

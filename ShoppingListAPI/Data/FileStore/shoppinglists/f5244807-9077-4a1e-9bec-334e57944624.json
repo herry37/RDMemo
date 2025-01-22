@@ -1,0 +1,53 @@
+{
+    "Id":  "f5244807-9077-4a1e-9bec-334e57944624",
+    "Title":  "01/19 零食採買清單",
+    "CreatedAt":  "2025-01-19T19:56:14.2008931+08:00",
+    "Items":  [
+                  {
+                      "Id":  "57ae5bd7-2c63-454f-97cb-ae471791758f",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  252,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.250207Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9059463-2084-4268-917f-c61a9f595152",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  147,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2502093Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95bba670-6743-4383-8dd6-27b621041956",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2502102Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7edcc6ab-963c-431e-986f-df5a3d5eb0d9",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2502111Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd5f3dca-522a-4fe9-bb96-a104e2317e67",
+                      "Name":  "Practical Plastic Cheese",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2502222Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

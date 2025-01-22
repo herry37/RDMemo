@@ -1,0 +1,71 @@
+{
+    "Id":  "c8be4424-15fb-4805-ba6f-fa8dd198ce5f",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T23:53:21.9426711+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4bb4d561-1739-4299-9ac3-e084a898931e",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:40:28.9891338+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce6ed92c-ed7c-441a-b9d8-837713d0b501",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  2,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:28:44.5539524+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b39a87d-f531-46fa-9d14-e8a64b7e7085",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  35,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:51:01.4958503+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45730cb3-9ae0-4909-8f85-8de5b8d5c984",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:04:15.5996785+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8831407c-92f1-4a94-a81d-adabe9391cd5",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T20:20:50.2510989+08:00",
+                      "CompletedAt":  "2025-01-21T14:35:17.5533167+08:00"
+                  },
+                  {
+                      "Id":  "981502d2-c4b8-47fc-8d6d-09196747adb5",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:40:26.993459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a71e76c2-21f3-49e8-8b00-ecc024bfc804",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:18:06.4235445+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

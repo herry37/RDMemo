@@ -1,0 +1,71 @@
+{
+    "Id":  "4a3d98cd-935f-4731-a527-5daa83b77acf",
+    "Title":  "每週採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-18T07:34:42.9987606+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1b47e14b-9bc1-4538-a09d-a0174eb7093b",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:38:20.5343317+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ef39134-1444-4f2d-b8a5-873c332a1234",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:33:38.5639264+08:00",
+                      "CompletedAt":  "2025-01-21T22:21:43.287748+08:00"
+                  },
+                  {
+                      "Id":  "73b457ca-993f-495e-b575-35a12d246b57",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T08:08:47.9344112+08:00",
+                      "CompletedAt":  "2025-01-18T23:15:06.3428689+08:00"
+                  },
+                  {
+                      "Id":  "a274de7f-99a7-4da9-9512-81d72980dd1b",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:49:44.356873+08:00",
+                      "CompletedAt":  "2025-01-17T23:51:28.7500224+08:00"
+                  },
+                  {
+                      "Id":  "c6c44965-4678-447d-9f25-7cfc53466f3e",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  102,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:29:34.9675302+08:00",
+                      "CompletedAt":  "2025-01-15T20:24:30.7473787+08:00"
+                  },
+                  {
+                      "Id":  "432fbad3-e8ec-4e78-bafa-9cb95399db22",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:48:00.7722101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77f0a733-84f8-4ed4-9751-5269cd13b4ba",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:09:13.7158917+08:00",
+                      "CompletedAt":  "2025-01-17T02:20:47.4994218+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

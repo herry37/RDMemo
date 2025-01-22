@@ -1,0 +1,35 @@
+{
+    "Id":  "c27fef62-7731-4bf9-9662-b300b44fb517",
+    "Title":  "居家整理 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T04:05:30.7129477+08:00",
+    "Items":  [
+                  {
+                      "Id":  "df7e64b3-25d3-40e1-ab10-20b897e3d5b5",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:38:59.9931848+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68630593-aa10-4dfb-a4c8-e90eb9cbe0c5",
+                      "Name":  "美白牙膏",
+                      "Quantity":  1,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:12:48.486875+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ccf20ebd-a85d-4ee6-8a02-1937d682d7e6",
+                      "Name":  "奶油餅乾",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:44:17.8717739+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

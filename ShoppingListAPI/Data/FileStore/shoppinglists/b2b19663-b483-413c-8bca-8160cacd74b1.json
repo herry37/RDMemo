@@ -1,0 +1,80 @@
+{
+    "Id":  "b2b19663-b483-413c-8bca-8160cacd74b1",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-21T07:35:54.3442147+08:00",
+    "Items":  [
+                  {
+                      "Id":  "aa7cfeb2-1470-4b54-9924-5a97960ca9b3",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1637946Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38a350d3-c8d7-4e8d-841e-c7d409f87c20",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638011Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d999b33-a28a-4103-8412-aafc52943ab9",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638023Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4171a707-f723-4229-9d31-e437270e7881",
+                      "Name":  "Sleek Cotton Keyboard",
+                      "Quantity":  3,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638464Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2039131b-35dd-42bc-8062-bae6af4ff504",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93a05cf6-c9bd-45c8-a0fb-47eaea4e3b3c",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6643b4ac-e1cf-48ba-a300-6bcf662933de",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  451,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eeae7974-22c9-4b33-bf1f-20a6ed148119",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  484,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1638537Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

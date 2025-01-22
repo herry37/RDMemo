@@ -1,0 +1,44 @@
+{
+    "Id":  "5fe8a557-2dec-41ed-8736-0f01e0017d07",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-18T03:58:22.5602484+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d99e9d8f-a58d-41e4-9a67-cfba2381defe",
+                      "Name":  "Gorgeous Plastic Soap",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5199238Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "77b99e0c-df0e-456b-b7e8-96ac7548c975",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5199295Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c6974d40-ae35-4455-a822-74d5d61cb86b",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5199311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be09c528-806b-4aeb-9231-3ee21fc01d59",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  184,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.5199325Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

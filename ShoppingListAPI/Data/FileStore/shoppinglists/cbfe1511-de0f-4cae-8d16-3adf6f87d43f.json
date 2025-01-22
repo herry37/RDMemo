@@ -1,0 +1,44 @@
+{
+    "Id":  "cbfe1511-de0f-4cae-8d16-3adf6f87d43f",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T17:47:40.3415293+08:00",
+    "Items":  [
+                  {
+                      "Id":  "83e02e42-8010-4dbd-b6c0-899b01b04657",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  3,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:34:27.127064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfd2b888-d3e2-4e6b-925e-eec909c16465",
+                      "Name":  "天然果乾",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:56:37.79038+08:00",
+                      "CompletedAt":  "2025-01-17T15:29:58.7902305+08:00"
+                  },
+                  {
+                      "Id":  "1bfea880-246a-4775-940c-0807bb39edc8",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T09:50:33.2680991+08:00",
+                      "CompletedAt":  "2025-01-19T17:04:23.4693964+08:00"
+                  },
+                  {
+                      "Id":  "a9de3dc8-3ec9-4729-97b9-fe69a7165a40",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:19:30.7721802+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "a53f32a6-b737-4baf-869d-ce56a01e519a",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-17T16:03:04.2730753+08:00",
+    "Items":  [
+                  {
+                      "Id":  "53fd1f08-ff66-4ee8-a462-f4a27944c814",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0609765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "30366b97-d969-4796-a668-732c0bb1afbb",
+                      "Name":  "Practical Plastic Bacon",
+                      "Quantity":  1,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.0610079Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50b72610-1f41-465a-b59b-622d937980ff",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  105,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0610091Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bacf6539-64cc-44a3-861e-6f1bafb76a10",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0610108Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4973b05-3719-4783-9439-e20822ee07f9",
+                      "Name":  "Sleek Concrete Pizza",
+                      "Quantity":  2,
+                      "Price":  259,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.0610151Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

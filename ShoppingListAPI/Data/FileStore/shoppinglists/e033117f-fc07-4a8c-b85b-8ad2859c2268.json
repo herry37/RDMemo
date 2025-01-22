@@ -1,0 +1,80 @@
+{
+    "Id":  "e033117f-fc07-4a8c-b85b-8ad2859c2268",
+    "Title":  "01/18 飲料採買清單",
+    "CreatedAt":  "2025-01-15T21:45:09.1039572+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27558588-dc96-4675-8636-43545751efb6",
+                      "Name":  "Practical Cotton Chair",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.406731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7b698ebc-7aba-4dd2-a54a-592c690c5c09",
+                      "Name":  "Practical Concrete Ball",
+                      "Quantity":  1,
+                      "Price":  413,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069117Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2183c04-cca5-4068-b4f4-593ca0e4a3a5",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069136Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0940dbe-886c-4265-8a29-62fc2d85a4db",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  434,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069146Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67c9f6bc-e739-4e9c-8b2d-2543787f21f5",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069155Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdd787b3-b4d6-47d1-9486-750a5a6f6b3a",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  448,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "85c762c2-9810-4b47-9c07-ceba0331cca4",
+                      "Name":  "Intelligent Rubber Hat",
+                      "Quantity":  3,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069239Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37f87383-515b-4db2-bb39-97b93ed1e2d9",
+                      "Name":  "Generic Soft Gloves",
+                      "Quantity":  2,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.4069281Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

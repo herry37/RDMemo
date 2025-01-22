@@ -1,0 +1,53 @@
+{
+    "Id":  "7ecad063-5973-4757-97e7-7586e9325061",
+    "Title":  "派對用品 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-17T23:44:37.5710293+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b7d81136-cf07-4256-b2ea-be3093b7b531",
+                      "Name":  "美白牙膏",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:23:05.1582639+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b35a5e6d-28b9-4927-9a02-9da8b07b89d6",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:39:57.5132721+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3179880f-64f5-4b90-968c-96e78c1c1176",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  98,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:16:28.894683+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25e0b3c7-86ad-4d0e-8b20-acd42d5bdcce",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  1,
+                      "Price":  85,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:46:36.0392529+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f91bb95f-6f2d-4234-8325-907a66afacf1",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  256,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:38:54.4220376+08:00",
+                      "CompletedAt":  "2025-01-16T02:55:23.8556242+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

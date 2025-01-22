@@ -1,0 +1,71 @@
+{
+    "Id":  "ce9faac0-15e2-449a-a7ae-4c00b4ce134f",
+    "Title":  "聚會準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T11:07:34.6060683+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cd13fe49-cdce-4f28-a421-9066ab49c85a",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:28:06.1455408+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "481404e1-7236-4724-8bcd-270c5d160a45",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  152,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T18:25:07.1385369+08:00",
+                      "CompletedAt":  "2025-01-17T05:20:47.6617171+08:00"
+                  },
+                  {
+                      "Id":  "bc6d7b50-ae77-4564-ade4-d63dc04e9c31",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  94,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:21:48.9692274+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec5f9df7-30ee-4533-bb12-0f9169b00477",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  177,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T02:10:49.5972648+08:00",
+                      "CompletedAt":  "2025-01-17T19:56:32.5809445+08:00"
+                  },
+                  {
+                      "Id":  "979ff9ad-54a3-47da-a933-407888773997",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  4,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:58:53.1062533+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fbaa0a8f-537f-4dc4-907c-77a1fe56b09e",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:34:06.2195911+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ff0b37d-531f-4e18-b83c-58821846e83f",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:01:50.2349187+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

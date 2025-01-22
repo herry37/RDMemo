@@ -1,0 +1,89 @@
+{
+    "Id":  "2dec91ab-b013-4ac3-9ab4-4049e56b60ae",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T03:52:17.2253803+08:00",
+    "Items":  [
+                  {
+                      "Id":  "42a9b9ee-6725-409b-a3c9-7b91144058a2",
+                      "Name":  "Small Rubber Cheese",
+                      "Quantity":  1,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9355cda-691c-44a6-89be-2fe9959ee313",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  378,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b0ab529-bc12-4f70-b654-e2184059432a",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  407,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508689Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c62e6955-60c9-4332-8ce1-967a74f7af63",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508699Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f5a81f88-3ba0-4d83-a54c-5e49922c36af",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "433459df-8910-45c3-abe3-81446c7866a4",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  197,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508731Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7e33f18c-a71b-44cf-9a4e-3c5ed985af2f",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508739Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "582d5c8c-720b-4bb7-9923-ef0f3dc78e10",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  439,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508748Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f9d6b5d8-a17d-4120-b0a9-9d6e8b1cdfa8",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.1508759Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

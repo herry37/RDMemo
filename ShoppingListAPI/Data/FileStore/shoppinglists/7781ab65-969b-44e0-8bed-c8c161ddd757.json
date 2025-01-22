@@ -1,0 +1,62 @@
+{
+    "Id":  "7781ab65-969b-44e0-8bed-c8c161ddd757",
+    "Title":  "01/21 日常用品採買清單",
+    "CreatedAt":  "2025-01-18T09:59:18.936728+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29f6f47d-4e3a-4241-aaf2-9ae2e1ddbd4c",
+                      "Name":  "Incredible Fresh Sausages",
+                      "Quantity":  2,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6414939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b7a3ebd3-187d-41a3-a95b-5f1e740170b0",
+                      "Name":  "Practical Cotton Pants",
+                      "Quantity":  1,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6415163Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9cf5863-03ca-4686-99da-f19e0e2fdb72",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6415196Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b372a99-25f9-4d96-829d-bc62d0536d5c",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6415225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a297f5b-4006-40ba-83b4-67dc628a74a4",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  163,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6415255Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bf1e1bb1-91e4-4e61-b0fc-48bb90e2754c",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6415488Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

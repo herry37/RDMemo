@@ -1,0 +1,89 @@
+{
+    "Id":  "88a2916b-33ba-4ba4-93f3-d54693f96751",
+    "Title":  "01/20 零食採買清單",
+    "CreatedAt":  "2025-01-18T18:52:40.3968675+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2035e2fd-578d-4c72-ab26-4132a7e053e0",
+                      "Name":  "Rustic Frozen Computer",
+                      "Quantity":  5,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220275Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2d89f42-8d0f-4cd2-8643-a6a687fd3df1",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220327Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20483cc0-264b-47c1-8058-9d238227777e",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  419,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220338Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd851c62-3b7c-4753-a7ce-e9803791c285",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220347Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "adad694d-c529-4489-8137-c2d6e639ee12",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  465,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220356Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "931a7876-976b-410d-af7f-959f4702c505",
+                      "Name":  "Generic Steel Hat",
+                      "Quantity":  2,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220422Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50ab458c-0b9f-4661-a04f-6bff67f4f9f5",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220431Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2628eedf-d37f-4d01-991c-87c871ba508f",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  468,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.522044Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9602f487-afb9-4c78-b0db-b1669f54ca51",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.5220448Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

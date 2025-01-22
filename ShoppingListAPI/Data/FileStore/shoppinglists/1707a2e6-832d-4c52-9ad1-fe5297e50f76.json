@@ -1,0 +1,80 @@
+{
+    "Id":  "1707a2e6-832d-4c52-9ad1-fe5297e50f76",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T11:10:23.9602194+08:00",
+    "Items":  [
+                  {
+                      "Id":  "271181cc-bb0f-4a1f-8441-96da398049a9",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  433,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.5958944Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "136786aa-5f1b-428e-bb07-c32e607a5fa4",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  10,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959197Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6cb6da93-037b-455c-b618-1778948cc895",
+                      "Name":  "Licensed Frozen Hat",
+                      "Quantity":  5,
+                      "Price":  71,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cb1b1623-fc94-4043-b075-0b2930cabac1",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  10,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959502Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5095320-44d4-4618-8296-c9fa7ef74156",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959527Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da19b950-4302-4998-b583-c02ecba8febe",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a51f87c-1ac2-4836-828e-6d2936888904",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  35,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959606Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00f6ab8b-4277-423f-b0d8-ca9d78db975d",
+                      "Name":  "沐浴乳",
+                      "Quantity":  1,
+                      "Price":  311,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.5959635Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

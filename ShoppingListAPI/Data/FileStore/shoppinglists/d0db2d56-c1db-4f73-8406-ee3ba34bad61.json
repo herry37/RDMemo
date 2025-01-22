@@ -1,0 +1,44 @@
+{
+    "Id":  "d0db2d56-c1db-4f73-8406-ee3ba34bad61",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T21:25:15.780377+08:00",
+    "Items":  [
+                  {
+                      "Id":  "da9e6934-54e8-4743-b83f-33350a3a6a54",
+                      "Name":  "放牧蛋",
+                      "Quantity":  1,
+                      "Price":  204,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:46:34.8245985+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "342a4b58-bc7a-4e9a-93c5-d94d5288afba",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T13:50:22.448137+08:00",
+                      "CompletedAt":  "2025-01-19T10:42:01.9784076+08:00"
+                  },
+                  {
+                      "Id":  "623040bb-4564-49b6-9306-1d69f019c69e",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  95,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:58:51.9215874+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1531f7b7-1c4e-4bed-8183-dbb863de8505",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:42:42.4180009+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "239b24cf-17ff-4cfe-8cf1-924d2b6f4db0",
+    "Title":  "日常補充 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-18T01:56:12.2439088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fb756b9d-e14e-435d-8d42-92eae73e2440",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:37:41.8037745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e841d917-9801-407b-bc05-957168b2f145",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:34:08.9709622+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "153800a0-0f0b-4d2e-9f30-1dad525b60c8",
+                      "Name":  "天然果乾",
+                      "Quantity":  3,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:26:04.5153555+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ef2eacb-5a8b-4be1-92fa-2be2d6931c34",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:14:16.6493299+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b8108cae-3145-418f-a6d5-7d7cbe1f3b24",
+                      "Name":  "環保餐具組",
+                      "Quantity":  2,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:24:40.7975174+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7274bba9-3c6c-4678-a43f-341a1ac9f8da",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  224,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:25:30.6354377+08:00",
+                      "CompletedAt":  "2025-01-22T00:38:45.8714029+08:00"
+                  },
+                  {
+                      "Id":  "4c890d0a-4659-408d-a2f6-4537d5400993",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  4,
+                      "Price":  267,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:23:18.524394+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

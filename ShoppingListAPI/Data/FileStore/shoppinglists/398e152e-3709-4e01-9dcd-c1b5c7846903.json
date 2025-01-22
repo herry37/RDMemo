@@ -1,0 +1,62 @@
+{
+    "Id":  "398e152e-3709-4e01-9dcd-c1b5c7846903",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T05:58:55.7538145+08:00",
+    "Items":  [
+                  {
+                      "Id":  "68c41547-a3d0-4c95-9b54-0e47f8b8ee47",
+                      "Name":  "口香糖",
+                      "Quantity":  6,
+                      "Price":  177.507020301262390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T14:26:50.1509312+08:00",
+                      "CompletedAt":  "2025-01-17T18:07:10.0723644+08:00"
+                  },
+                  {
+                      "Id":  "81190615-5851-4905-b8f1-6dba125b2ff3",
+                      "Name":  "衛生紙",
+                      "Quantity":  6,
+                      "Price":  165.716605222363780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T04:22:10.2632135+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efcf7603-9124-4406-ae1e-04fc2ff52a72",
+                      "Name":  "橡皮擦",
+                      "Quantity":  2,
+                      "Price":  391.753058831949070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:30:47.5170964+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc5dc272-7ab0-49ca-a88d-0b9c08694268",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  310.868312705918930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:42:45.5806927+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d57e541-c27f-48ef-a66e-808bf10731a2",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  421.028469366374650,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T05:52:25.9943294+08:00",
+                      "CompletedAt":  "2025-01-21T05:35:48.9070226+08:00"
+                  },
+                  {
+                      "Id":  "9c640ef8-e1c6-4491-a241-cedab1afe6db",
+                      "Name":  "可樂",
+                      "Quantity":  5,
+                      "Price":  66.724412861961950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:31:56.3680293+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

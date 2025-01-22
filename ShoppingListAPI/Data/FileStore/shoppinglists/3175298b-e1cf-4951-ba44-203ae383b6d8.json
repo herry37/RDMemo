@@ -1,0 +1,44 @@
+{
+    "Id":  "3175298b-e1cf-4951-ba44-203ae383b6d8",
+    "Title":  "01/16 ¹s­¹±Ä¶R²M³æ",
+    "CreatedAt":  "2025-01-20T06:11:23.0085661+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82e5c924-4656-4ab9-aad5-89ee733c095a",
+                      "Name":  "¹s­¹",
+                      "Quantity":  3,
+                      "Price":  498,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2275399Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ed10d70d-c3d1-49c1-a6ab-035015503e9c",
+                      "Name":  "Ergonomic Plastic Bacon",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2275735Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95826aed-c792-4c10-ba8e-1da312252800",
+                      "Name":  "Gorgeous Rubber Tuna",
+                      "Quantity":  2,
+                      "Price":  337,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.2275795Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c4e09e8-3dc8-4842-9250-8d1ad1239427",
+                      "Name":  "Unbranded Rubber Tuna",
+                      "Quantity":  1,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2275843Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

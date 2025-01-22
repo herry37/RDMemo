@@ -1,0 +1,44 @@
+{
+    "Id":  "5422f1d1-e930-4708-bb2c-4938ca49fd79",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-17T02:19:20.5048215+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8547942b-2596-4662-af81-aa5ac9b478e2",
+                      "Name":  "果汁",
+                      "Quantity":  7,
+                      "Price":  330.326883578950080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T00:49:24.8993221+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2485668-a00a-4ab5-9797-f062f43e1a03",
+                      "Name":  "糖果",
+                      "Quantity":  10,
+                      "Price":  290.401772117374950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:49:29.6660303+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fad7e60-a800-4aca-b177-f7d74838db8e",
+                      "Name":  "沐浴乳",
+                      "Quantity":  9,
+                      "Price":  283.603600211658920,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T13:45:42.3686474+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3aa8e22-48c9-45c7-9eaf-cd2db5374c2d",
+                      "Name":  "便利貼",
+                      "Quantity":  3,
+                      "Price":  98.440077375751360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:59:25.4793907+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

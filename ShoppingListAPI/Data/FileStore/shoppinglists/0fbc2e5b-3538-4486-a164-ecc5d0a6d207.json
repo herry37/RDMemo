@@ -1,0 +1,80 @@
+{
+    "Id":  "0fbc2e5b-3538-4486-a164-ecc5d0a6d207",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-16T05:29:59.3462911+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a411e204-7233-4afa-a571-e0183678ce4f",
+                      "Name":  "Refined Frozen Gloves",
+                      "Quantity":  5,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53aafcce-50e0-4825-b4dd-f024301d49d0",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058828Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a66102d-4caa-4f3a-b243-ba7a00028a1d",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  306,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15b70bcd-6c0b-49d2-8157-8888e4de6f37",
+                      "Name":  "Generic Rubber Pants",
+                      "Quantity":  3,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.505889Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fac5dfd1-422f-4e16-b7ab-57a70045b3cd",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058906Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "955fd5eb-1eed-4a67-8d21-137999c508c2",
+                      "Name":  "Tasty Steel Fish",
+                      "Quantity":  3,
+                      "Price":  126,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3874a2bb-d2f5-49c9-ba76-f270d1e53ca7",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058978Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef27cca6-267c-444d-8e52-00a4c3775062",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  378,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.5058988Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

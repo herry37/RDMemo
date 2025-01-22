@@ -1,0 +1,35 @@
+{
+    "Id":  "ebe0f615-4734-4ea7-a30c-456dd7187df6",
+    "Title":  "月底大採購 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-15T02:31:27.7035488+08:00",
+    "Items":  [
+                  {
+                      "Id":  "19310c2c-76e4-4ce0-ae69-58dbb81e9e84",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T03:49:14.7829037+08:00",
+                      "CompletedAt":  "2025-01-18T07:12:12.3203287+08:00"
+                  },
+                  {
+                      "Id":  "9c64be43-2c33-45fc-90f7-bde002f2e4de",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  5,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T19:31:29.4051994+08:00",
+                      "CompletedAt":  "2025-01-21T14:49:51.4030269+08:00"
+                  },
+                  {
+                      "Id":  "cec276a5-dac4-47bd-9ea9-3cb7e95caa50",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:01:49.6779131+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "92853f24-6750-452d-b463-2cbb32928b9c",
+    "Title":  "聚會準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-15T18:38:58.1045754+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1c7e377e-9d2e-4c85-9c00-88771c0208e8",
+                      "Name":  "精品咖啡",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:21:00.2441751+08:00",
+                      "CompletedAt":  "2025-01-16T11:48:54.2301673+08:00"
+                  },
+                  {
+                      "Id":  "6d68eca0-b0be-4a84-9360-ca1efcf6ce9c",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T02:39:13.5061769+08:00",
+                      "CompletedAt":  "2025-01-16T08:16:46.0945363+08:00"
+                  },
+                  {
+                      "Id":  "b32b8254-75fb-47c0-b832-6c3e37f54eb2",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  267,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:40:40.109265+08:00",
+                      "CompletedAt":  "2025-01-16T01:28:39.1789871+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

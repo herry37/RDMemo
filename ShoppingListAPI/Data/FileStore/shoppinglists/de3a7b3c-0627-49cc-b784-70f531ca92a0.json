@@ -1,0 +1,98 @@
+{
+    "Id":  "de3a7b3c-0627-49cc-b784-70f531ca92a0",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T00:28:25.7082986+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a35778b-ba6b-4587-aaf6-b56b78013b56",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713022Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36d1da74-26b3-4fe3-a2fe-aeddfb4da6bf",
+                      "Name":  "Unbranded Steel Car",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713223Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b947384a-da87-4b05-b94e-205bb3c062c7",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713232Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a98a8e22-6349-48ea-84d1-8d4c80fa05f9",
+                      "Name":  "肥皂",
+                      "Quantity":  1,
+                      "Price":  220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713242Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad4e1a85-e229-4c3f-8518-8482c8089c86",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  114,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713258Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eea2256d-a6ff-44c9-863c-fb78d412ab3c",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba48c47b-4b26-4a33-9df0-8ee91a677ef4",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713282Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ab63dde-e469-4152-9b72-abb54c6b6000",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713291Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f2060fd-0cfc-4223-9f41-bb31a34c875a",
+                      "Name":  "垃圾袋",
+                      "Quantity":  4,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713302Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db4df06b-f0bf-44f7-9974-b273b2d97f1e",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  131,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.6713312Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

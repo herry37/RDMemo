@@ -1,0 +1,35 @@
+{
+    "Id":  "7533b537-eeea-470a-8954-bbe7c3376c53",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-19T06:21:30.7056843+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b6ec37a1-08bb-40a2-b31c-de1a4548ade2",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2072607Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1a241ee-c37a-4055-8427-18cdba5caddc",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2072668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fae336b0-8f4c-4a83-a133-c0f5c944d3c1",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.2072685Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

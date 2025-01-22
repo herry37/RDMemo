@@ -1,0 +1,80 @@
+{
+    "Id":  "251296e9-c782-4465-9ac4-85797d0ced93",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T02:20:03.6640723+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72cce8e3-eb23-4e47-b550-b0db7d87eec5",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030305Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6065914d-4700-4447-bfc6-565c445d2b7f",
+                      "Name":  "Tasty Wooden Fish",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f8575a2-0bcd-4191-8b30-23b3bade40be",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c53dc0bf-5124-4567-8d7b-5d7eb2eda64e",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad904c23-46df-47d1-b35d-77523534d20a",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030612Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "449170f2-78a9-44fd-91c4-2edd04f84286",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e196b51-2768-41e9-a55d-b625dc6f74b7",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  339,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a9228d7-a301-4949-a184-0c1f5294dde0",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5030675Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "1c63d188-ce60-4f63-920a-ea9cbdad407c",
+    "Title":  "年節採購 - 家樂福 (01/20)",
+    "CreatedAt":  "2025-01-18T11:53:40.4076495+08:00",
+    "Items":  [
+                  {
+                      "Id":  "06a6a0e9-2c81-484d-a731-7b8b1d012446",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:37:24.0789791+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e904b529-3dfe-4c23-bb1e-81b0b1d6daea",
+                      "Name":  "原木梳子",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:21:47.2831136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f53e4a07-50ec-4fdd-83eb-9aa10a230e76",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:14:25.2225663+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63dca564-f844-4a91-a38c-906127f79b94",
+                      "Name":  "進口蘋果",
+                      "Quantity":  4,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T11:27:22.146158+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

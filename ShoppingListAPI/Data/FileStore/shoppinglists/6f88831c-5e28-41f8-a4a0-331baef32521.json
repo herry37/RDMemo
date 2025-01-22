@@ -1,0 +1,44 @@
+{
+    "Id":  "6f88831c-5e28-41f8-a4a0-331baef32521",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T12:07:48.341088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "59df8021-2523-4355-9771-6ed6f7c4a92f",
+                      "Name":  "鍋子",
+                      "Quantity":  10,
+                      "Price":  352.506581476610460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T22:36:22.3752558+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "16cb6535-3e5f-4768-94ea-bb3deb98ab25",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  279.496407285687260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:47:33.4339955+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e89a9a5d-dccd-4be3-81ab-2dcbc12a11ac",
+                      "Name":  "鍋子",
+                      "Quantity":  8,
+                      "Price":  369.212181602002540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:45:01.3346223+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23339774-187c-427b-9529-aa304a6fe00b",
+                      "Name":  "蘋果",
+                      "Quantity":  10,
+                      "Price":  453.367098539896720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:49:17.1676786+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

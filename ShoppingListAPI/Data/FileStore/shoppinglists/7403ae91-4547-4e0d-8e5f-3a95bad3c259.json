@@ -1,0 +1,53 @@
+{
+    "Id":  "7403ae91-4547-4e0d-8e5f-3a95bad3c259",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-20T10:25:45.1749766+08:00",
+    "Items":  [
+                  {
+                      "Id":  "83094b09-e779-4a24-990f-4b283126952a",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7272516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f27023a6-0312-449e-9af6-46aa5d85fb52",
+                      "Name":  "Fantastic Concrete Chicken",
+                      "Quantity":  1,
+                      "Price":  246,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7272888Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2fe4ad1b-7d34-4998-b55a-4fc2e3417996",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7272899Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2bf29eb-5d9d-4db3-8d63-aabc163076b7",
+                      "Name":  "Handmade Granite Tuna",
+                      "Quantity":  3,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.727294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6471c74f-ebde-452c-b332-9f8765285394",
+                      "Name":  "Intelligent Cotton Computer",
+                      "Quantity":  2,
+                      "Price":  215,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.7272976Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

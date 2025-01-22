@@ -1,0 +1,44 @@
+{
+    "Id":  "e6007b73-1aaf-47e2-b0e0-c383dccc45c5",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T10:33:30.0286857+08:00",
+    "Items":  [
+                  {
+                      "Id":  "43073fb9-36c5-4a0b-99f9-65940c6deabe",
+                      "Name":  "Awesome Soft Tuna",
+                      "Quantity":  3,
+                      "Price":  463,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.6480717Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "11a33ef7-e8fe-44f0-84f6-e25f69b23078",
+                      "Name":  "Rustic Cotton Fish",
+                      "Quantity":  4,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6480809Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ce6b115-e871-40c6-bcce-66c875471fbf",
+                      "Name":  "Sleek Wooden Chair",
+                      "Quantity":  2,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6480881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "357822c0-f556-401f-88b3-ae30ca06686f",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  342,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6481083Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

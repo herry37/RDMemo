@@ -1,0 +1,71 @@
+{
+    "Id":  "1b410aa3-e78b-4dab-a939-9cb9ab4320a7",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-17T20:08:08.3934279+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1b049ce4-cd5f-41dc-a5ec-dd1488e313fa",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  464,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ccf50dd-a8c2-4185-94f5-d6730a267362",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218414Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4951a779-e000-4576-9713-5c2b321bb685",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "addf4232-89fd-4b2b-a650-b1e59fa6f628",
+                      "Name":  "Small Frozen Keyboard",
+                      "Quantity":  1,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218565Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54b310a0-9a4a-4149-b21d-616ecfcd8a42",
+                      "Name":  "Rustic Metal Car",
+                      "Quantity":  1,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a71005e-f4e7-45f6-9ac4-ca197d0ca684",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  433,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47add9b8-935e-4e0f-b260-f89e8d17d18b",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.6218618Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

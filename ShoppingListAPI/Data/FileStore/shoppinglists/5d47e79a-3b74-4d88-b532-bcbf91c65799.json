@@ -1,0 +1,53 @@
+{
+    "Id":  "5d47e79a-3b74-4d88-b532-bcbf91c65799",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T02:36:34.5794117+08:00",
+    "Items":  [
+                  {
+                      "Id":  "147dc90a-a2de-4839-be6d-6c7d74189160",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  391,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8790105Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d89381e7-132d-43f1-982b-c3fa97ddd205",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8790152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c3099f4-66ba-467f-9f05-fd9f1761eba6",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8790171Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "998f3e39-f63e-4a1c-82cb-76ea507494f6",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  418,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.879019Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "979a01d1-d989-4197-923c-66efd18654d4",
+                      "Name":  "Incredible Fresh Cheese",
+                      "Quantity":  1,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8790673Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

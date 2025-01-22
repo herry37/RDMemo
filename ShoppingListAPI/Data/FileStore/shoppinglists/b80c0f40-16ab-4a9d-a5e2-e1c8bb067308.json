@@ -1,0 +1,89 @@
+{
+    "Id":  "b80c0f40-16ab-4a9d-a5e2-e1c8bb067308",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-16T13:24:33.8935153+08:00",
+    "Items":  [
+                  {
+                      "Id":  "42739634-fc4b-4e9f-b516-955bd2c9581a",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  383.700441131556770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:26:14.3858359+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be3ae024-0580-42ce-8a1e-5d91c04e8572",
+                      "Name":  "蛋",
+                      "Quantity":  6,
+                      "Price":  53.1891148251649310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T00:37:33.558143+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ced73750-d998-441d-a2e9-cbb397729812",
+                      "Name":  "可樂",
+                      "Quantity":  7,
+                      "Price":  108.437618390524280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:36:34.6401717+08:00",
+                      "CompletedAt":  "2025-01-22T19:40:56.0822599+08:00"
+                  },
+                  {
+                      "Id":  "82772ec0-d784-4723-99ff-440161a2a671",
+                      "Name":  "泡麵",
+                      "Quantity":  4,
+                      "Price":  421.143858918595810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:15:29.5737123+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef0ff1c9-9091-4f2a-84e7-99c1d58451b9",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  7,
+                      "Price":  259.545832024718390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T01:16:45.0700433+08:00",
+                      "CompletedAt":  "2025-01-21T02:51:12.8508992+08:00"
+                  },
+                  {
+                      "Id":  "ddb766c4-7272-457b-b845-32460f9d4f9b",
+                      "Name":  "餅乾",
+                      "Quantity":  9,
+                      "Price":  99.867440788013980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:09:27.1795895+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e06575a2-f3da-4595-ab6f-f56101c846cb",
+                      "Name":  "杯子",
+                      "Quantity":  7,
+                      "Price":  147.073284701712660,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:47:35.5242969+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2394fce-5e2e-410d-b28f-f5c4a3201f3a",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  270.562788080360640,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T11:01:29.4342162+08:00",
+                      "CompletedAt":  "2025-01-15T15:51:00.7493473+08:00"
+                  },
+                  {
+                      "Id":  "921a8fb7-2154-4761-a562-e316ad099642",
+                      "Name":  "相框",
+                      "Quantity":  10,
+                      "Price":  361.14012811046610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:58:12.4644463+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "6b681b34-16e5-4627-bb07-4ffc19f2c82c",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-21T13:44:39.3391214+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2f976598-08cb-4c6f-bae8-686ffbd12598",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:04:46.9131313+08:00",
+                      "CompletedAt":  "2025-01-16T13:58:12.1956171+08:00"
+                  },
+                  {
+                      "Id":  "eb68dd45-8da5-43de-8000-aa2bf9029f9c",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:16:24.3955334+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ceb205aa-318f-4475-895e-71c5027530ca",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:20:45.388458+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f3aba16-5422-4974-bdfb-ea6c34887929",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  179,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:03:58.4642795+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "945ba153-a828-4ebd-9633-406bbca8d841",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:55:27.7788309+08:00",
+                      "CompletedAt":  "2025-01-20T14:11:55.5146896+08:00"
+                  },
+                  {
+                      "Id":  "9bbe8d09-30a3-478c-84f8-d51b61f0f06f",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  5,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:43:10.4162631+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "848cdc69-24c7-4a12-83f2-a1911680dbc4",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-15T13:37:58.1058953+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7481effa-5fac-40d8-9eb1-2722c9f85ef1",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  8,
+                      "Price":  18.2964978939650920,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:13:27.4475058+08:00",
+                      "CompletedAt":  "2025-01-15T06:56:20.7557947+08:00"
+                  },
+                  {
+                      "Id":  "1507efd7-5608-45eb-bb88-a5f6be6e97a1",
+                      "Name":  "蛋糕",
+                      "Quantity":  10,
+                      "Price":  201.242602911279990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:14:33.1246235+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "547a4ce5-d156-4fe1-8618-48637a17bf8b",
+                      "Name":  "盤子",
+                      "Quantity":  8,
+                      "Price":  433.94185774391010,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:48:47.5955555+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4673926d-f168-4200-816a-10569e8b8209",
+                      "Name":  "口香糖",
+                      "Quantity":  1,
+                      "Price":  232.694113503018290,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:05:02.1813281+08:00",
+                      "CompletedAt":  "2025-01-21T16:07:55.2409783+08:00"
+                  },
+                  {
+                      "Id":  "a6ee2839-1d06-4066-be2d-1e87cd70f717",
+                      "Name":  "置物盒",
+                      "Quantity":  1,
+                      "Price":  345.253736530476120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:30:23.8689021+08:00",
+                      "CompletedAt":  "2025-01-17T04:12:53.1741261+08:00"
+                  },
+                  {
+                      "Id":  "8d6ff968-6ff0-476d-b8dc-3dd0aa9e05f1",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  436.022191544580680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:19:53.7658954+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72d600fd-d0fa-42c6-82a9-f18d1f1ac041",
+                      "Name":  "乳液",
+                      "Quantity":  10,
+                      "Price":  426.859635564826020,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T23:15:30.9861064+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eea464b2-649c-4ab1-a148-24b7c3b6f68a",
+                      "Name":  "衣架",
+                      "Quantity":  1,
+                      "Price":  40.7815589650372720,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:42:37.3004738+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "7f6a9b06-b227-4977-8e56-8d18919ef9d6",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T19:50:55.2771087+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2edd062d-22f1-4639-945f-fd86bd6dff45",
+                      "Name":  "麵條",
+                      "Quantity":  4,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328062Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "02e82681-c7a7-43d9-b418-fabe5a855ad3",
+                      "Name":  "Handmade Fresh Ball",
+                      "Quantity":  2,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328309Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bb84cbb-3e5e-4188-92d3-f633f249d4cf",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  349,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d1e0fbd2-78d4-4e27-8465-836e45519a26",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "669e43dc-b857-4437-83c9-202281d8b4c4",
+                      "Name":  "Licensed Wooden Table",
+                      "Quantity":  4,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328442Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "67596d11-60ab-4476-89e9-aef4f00f63ea",
+                      "Name":  "Fantastic Plastic Fish",
+                      "Quantity":  5,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6328516Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

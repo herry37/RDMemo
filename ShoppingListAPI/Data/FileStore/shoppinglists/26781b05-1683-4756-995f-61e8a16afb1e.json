@@ -1,0 +1,80 @@
+{
+    "Id":  "26781b05-1683-4756-995f-61e8a16afb1e",
+    "Title":  "01/18 飲料購物清單",
+    "CreatedAt":  "2025-01-18T07:31:11.5814448+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7dff4c0c-9eca-4e28-8447-2443c0a7b517",
+                      "Name":  "Gorgeous Metal Salad",
+                      "Quantity":  5,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "913436e5-8f49-4db8-b1ad-d345b6326483",
+                      "Name":  "罐頭",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619346Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fcfe98c3-592b-4428-accd-2a33f48d2d2b",
+                      "Name":  "肉",
+                      "Quantity":  2,
+                      "Price":  436,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619356Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad0dedb4-c826-4473-a6cc-23ad58dde227",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619371Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c549329-d075-487c-9943-6cac2a1a3e47",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  176,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619379Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "267a3f5c-9ef0-4fef-9e9d-39d07fb40c23",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  352,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619397Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2751e1c3-19eb-4695-9d87-f12b75506c0c",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619406Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a3892041-5e9b-4bea-a4a6-8ba9f58ff7e3",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4619418Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

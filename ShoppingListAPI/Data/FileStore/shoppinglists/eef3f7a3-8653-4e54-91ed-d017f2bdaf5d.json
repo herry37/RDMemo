@@ -1,0 +1,35 @@
+{
+    "Id":  "eef3f7a3-8653-4e54-91ed-d017f2bdaf5d",
+    "Title":  "01/15 生鮮採買清單",
+    "CreatedAt":  "2025-01-21T16:36:05.9429827+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f19cf76-3126-46ec-99af-ecde061c2f9d",
+                      "Name":  "餅乾",
+                      "Quantity":  5,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1295198Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f6d4ca0c-da03-46ba-b676-a2eee8f18a46",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1295233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f244d8b8-0764-401c-975c-9432cf58a532",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  305,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1295242Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

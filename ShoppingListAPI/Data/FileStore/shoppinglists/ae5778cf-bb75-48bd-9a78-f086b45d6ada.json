@@ -1,0 +1,35 @@
+{
+    "Id":  "ae5778cf-bb75-48bd-9a78-f086b45d6ada",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-19T10:19:00.4097868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bb505347-ea33-4bdf-9d52-32073949c08b",
+                      "Name":  "豆漿",
+                      "Quantity":  5,
+                      "Price":  473.46020659314950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:42:02.1318704+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ce7366c-0e4a-4c1d-aaf4-a44196e74192",
+                      "Name":  "護手霜",
+                      "Quantity":  4,
+                      "Price":  199.83376802955460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:32:51.4157767+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ec5d7fd-1366-429e-9a6c-2afb990698fd",
+                      "Name":  "礦泉水",
+                      "Quantity":  9,
+                      "Price":  88.749611268884710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:37:56.1425527+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

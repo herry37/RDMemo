@@ -1,0 +1,35 @@
+{
+    "Id":  "d65903fa-7492-4d39-b6c4-64705baf6f03",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T14:48:32.2730814+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8f07b5f1-1cdf-41ca-846c-dd6fc3817157",
+                      "Name":  "Tasty Fresh Ball",
+                      "Quantity":  2,
+                      "Price":  44,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3683692Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64c30537-82c4-4f5e-ab0b-11654476cb5f",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  289,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3683771Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e0986726-b1d6-41c5-b108-9031fa069579",
+                      "Name":  "Fantastic Concrete Bacon",
+                      "Quantity":  3,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3683884Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

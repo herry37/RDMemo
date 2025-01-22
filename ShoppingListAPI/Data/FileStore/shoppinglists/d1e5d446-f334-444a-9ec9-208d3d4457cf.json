@@ -1,0 +1,80 @@
+{
+    "Id":  "d1e5d446-f334-444a-9ec9-208d3d4457cf",
+    "Title":  "月底大採購 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-21T14:09:50.5056969+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2e5cf0b4-9cdc-49dc-aa77-94b277c04283",
+                      "Name":  "充電電池",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:06:46.9765239+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00a27349-4711-4fed-a4fa-0cb71415dd2d",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:29:18.2686523+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "abaea23e-39b1-4ba4-9b10-94ddb1150242",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:29:04.5843901+08:00",
+                      "CompletedAt":  "2025-01-19T18:12:19.6264242+08:00"
+                  },
+                  {
+                      "Id":  "df6376c6-0eff-465c-af5a-b22e47fabb27",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:28:15.3541621+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d02d0e8a-d18f-427e-921d-1913ab163985",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  48,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:57:49.569992+08:00",
+                      "CompletedAt":  "2025-01-21T15:15:19.41208+08:00"
+                  },
+                  {
+                      "Id":  "00fb5260-64f8-4680-aac8-93c553db6a9e",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:59:43.8617226+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cec868ab-2a5a-4198-904b-e71b9c6d2d91",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  4,
+                      "Price":  234,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:43:08.3052014+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "798c4c55-0bd2-4d49-b9b9-5c494e7f27de",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:30:48.9047873+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

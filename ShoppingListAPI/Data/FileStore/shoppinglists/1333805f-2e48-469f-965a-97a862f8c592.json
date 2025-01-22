@@ -1,0 +1,53 @@
+{
+    "Id":  "1333805f-2e48-469f-965a-97a862f8c592",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T09:00:39.2424235+08:00",
+    "Items":  [
+                  {
+                      "Id":  "79672d39-9e5a-4b4d-a9eb-fc00e7013a11",
+                      "Name":  "Awesome Concrete Gloves",
+                      "Quantity":  4,
+                      "Price":  125,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6527289Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6311c2d4-b0fc-4726-a3ec-a2b0a853b037",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6527323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3490d3a0-bd92-4817-b921-17d15ea1c836",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6527342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d9ecfe11-4f6d-49fa-a147-b7b57b7887ad",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6527359Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b702a7a-e871-4ce4-8f28-9bada388436d",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.6527452Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

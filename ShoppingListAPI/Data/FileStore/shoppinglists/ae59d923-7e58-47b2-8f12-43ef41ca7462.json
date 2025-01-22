@@ -1,0 +1,98 @@
+{
+    "Id":  "ae59d923-7e58-47b2-8f12-43ef41ca7462",
+    "Title":  "聚會採購 - 01/20",
+    "CreatedAt":  "2025-01-15T14:37:26.4992243+08:00",
+    "Items":  [
+                  {
+                      "Id":  "274248a9-8c64-4deb-9138-8cc79df24711",
+                      "Name":  "碗",
+                      "Quantity":  9,
+                      "Price":  188.828337511813150,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:27:05.799349+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "095dfcbc-7b05-4e73-bc38-a81bffe94929",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  472.708208020943360,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:13:13.5218212+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c4ecda9-3c8c-403c-89ef-bcb311fed640",
+                      "Name":  "保鮮膜",
+                      "Quantity":  6,
+                      "Price":  176.032080953041310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:45:55.2243512+08:00",
+                      "CompletedAt":  "2025-01-17T04:16:53.093786+08:00"
+                  },
+                  {
+                      "Id":  "e3304199-c028-484d-a25b-f8f8b0915c8b",
+                      "Name":  "筆記本",
+                      "Quantity":  6,
+                      "Price":  41.533002086329450,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:17:35.5236076+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f5a4ff9-4c43-4fd2-a5e3-df5c94a58346",
+                      "Name":  "蘋果",
+                      "Quantity":  8,
+                      "Price":  339.825186629967070,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:09:06.8464449+08:00",
+                      "CompletedAt":  "2025-01-18T21:45:30.7994055+08:00"
+                  },
+                  {
+                      "Id":  "03bda0ef-117e-4032-8524-0876a84e5237",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  311.52342809410080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:45:42.6558686+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f953db0b-99e4-4820-9437-cd440dd09548",
+                      "Name":  "香蕉",
+                      "Quantity":  8,
+                      "Price":  298.892874160113860,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:06:23.416496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f9e4daf-e338-43ad-997b-9c84a0a2f732",
+                      "Name":  "糖果",
+                      "Quantity":  2,
+                      "Price":  237.251125835045760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:30:56.070723+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1686592d-be23-4668-b59d-8c23430d7d51",
+                      "Name":  "雞肉",
+                      "Quantity":  8,
+                      "Price":  253.309763833918320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:43:23.8758893+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fdd2d3ee-9cbe-4780-9aec-dba84d82e65e",
+                      "Name":  "糖果",
+                      "Quantity":  7,
+                      "Price":  290.091127042361390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:04:19.9865334+08:00",
+                      "CompletedAt":  "2025-01-17T09:42:57.1062645+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

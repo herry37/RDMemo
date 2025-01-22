@@ -1,0 +1,62 @@
+{
+    "Id":  "669b0d94-1bab-40bc-915b-c6c84180ae11",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T13:51:02.9824565+08:00",
+    "Items":  [
+                  {
+                      "Id":  "959a0933-72a4-4712-843e-f3d7359b81ef",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  414,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418044Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4f0efd8-41c8-4283-9a3b-5b3f74596893",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  462,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418068Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d54f09c-ecc9-4e04-bbeb-a988a29bfe58",
+                      "Name":  "Incredible Fresh Bacon",
+                      "Quantity":  4,
+                      "Price":  416,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418339Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "100140a7-9d8c-483a-b299-a5fba0880967",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418424Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "193e0781-983b-476b-97a5-9af8af74ddeb",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  358,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418434Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "95163214-3299-4616-bfcf-5e1e55be5d55",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.4418457Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

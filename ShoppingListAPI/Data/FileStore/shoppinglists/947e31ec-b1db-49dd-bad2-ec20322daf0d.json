@@ -1,0 +1,35 @@
+{
+    "Id":  "947e31ec-b1db-49dd-bad2-ec20322daf0d",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-21T02:27:58.5443797+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8df817c8-5aa6-4384-b4e0-864c189d8c64",
+                      "Name":  "Refined Fresh Fish",
+                      "Quantity":  1,
+                      "Price":  25,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.8967144Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd60d9ae-4ce6-4b40-bcf0-29a5d9ff9de9",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8967175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91cc9ff6-7efe-4ae4-8319-d89ce992510b",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.8967192Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "fbb491e4-1e5b-4819-b231-1db283bbb4d5",
+    "Title":  "聚會準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T00:04:09.0728829+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4afde045-3eea-4a1a-bee1-037b5d0ff0e4",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  1,
+                      "Price":  90,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:18:01.2106097+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40d676df-d0b9-4d26-9d2e-bdc7b42fa958",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T18:02:46.352365+08:00",
+                      "CompletedAt":  "2025-01-19T16:04:11.1710399+08:00"
+                  },
+                  {
+                      "Id":  "2f8c7976-0bb8-4719-a8cb-b17979610f5d",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T01:48:46.6200523+08:00",
+                      "CompletedAt":  "2025-01-21T07:14:46.9434974+08:00"
+                  },
+                  {
+                      "Id":  "a478842b-e23e-4d03-b12f-c9a4ad1e74ac",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:25:27.651102+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

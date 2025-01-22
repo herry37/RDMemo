@@ -1,0 +1,35 @@
+{
+    "Id":  "a5c7b0b6-08ee-458b-aacc-f3749f0267b5",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-21T01:51:05.0442186+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74a5532f-ed00-4ebc-9c8e-9fd4395eb7c9",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  381,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2208917Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1dbe2ab6-6076-45b9-8105-a32dba798133",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2208964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a21b91e-aaf0-4079-b1b3-29a27eb07279",
+                      "Name":  "Handcrafted Rubber Bacon",
+                      "Quantity":  2,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2209213Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

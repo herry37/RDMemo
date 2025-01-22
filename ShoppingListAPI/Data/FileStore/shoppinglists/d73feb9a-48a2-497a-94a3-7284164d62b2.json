@@ -1,0 +1,53 @@
+{
+    "Id":  "d73feb9a-48a2-497a-94a3-7284164d62b2",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-16T09:46:52.6394196+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ff18336-5958-4059-b5e7-f5a0436c1ffb",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:34:45.8169214+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0db51454-a433-4883-af93-3710076505a4",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  162,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:22:39.2654962+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38c5a3fc-1f11-47c4-846f-ea478db2b576",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T19:48:03.2268742+08:00",
+                      "CompletedAt":  "2025-01-16T19:13:21.1139019+08:00"
+                  },
+                  {
+                      "Id":  "4381ecf4-b228-46a4-b79c-fe69d64020c8",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  268,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T20:43:18.4422921+08:00",
+                      "CompletedAt":  "2025-01-17T09:13:39.2483415+08:00"
+                  },
+                  {
+                      "Id":  "64a2b261-82d1-46f7-a0ef-da3995ed3eda",
+                      "Name":  "清潔手套",
+                      "Quantity":  5,
+                      "Price":  251,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:13:20.5022432+08:00",
+                      "CompletedAt":  "2025-01-19T12:21:41.0643495+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

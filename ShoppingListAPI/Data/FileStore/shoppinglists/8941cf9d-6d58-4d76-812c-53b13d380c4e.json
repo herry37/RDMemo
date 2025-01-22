@@ -1,0 +1,71 @@
+{
+    "Id":  "8941cf9d-6d58-4d76-812c-53b13d380c4e",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-14T14:40:37.1051038+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c93314d4-3a04-49be-82d5-3dad18a6fa53",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  192.198832458050940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:05:32.545559+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8e2d26f-cb27-40ae-bfc7-a62baf69732c",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  187.664794425146070,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:23:17.7199681+08:00",
+                      "CompletedAt":  "2025-01-18T22:05:35.6914253+08:00"
+                  },
+                  {
+                      "Id":  "456f0117-be9b-4f26-9d6d-87689a457ad3",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  373.820260816508930,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:29:21.0895125+08:00",
+                      "CompletedAt":  "2025-01-19T12:45:16.3768026+08:00"
+                  },
+                  {
+                      "Id":  "c11dc5fe-4d8c-43a8-afd3-2c5120a23ef0",
+                      "Name":  "便利貼",
+                      "Quantity":  6,
+                      "Price":  156.395556622550620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:00:58.0715931+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70dbee36-95e0-4197-ba27-1f60b12f12e2",
+                      "Name":  "護手霜",
+                      "Quantity":  1,
+                      "Price":  226.617184149949940,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:12:32.58097+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "518647af-3cf5-48f6-8a83-a9489cf27919",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  7,
+                      "Price":  304.978046662346250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:36:40.334696+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4d55e9c-0917-4160-ab4e-a006dee33a1e",
+                      "Name":  "咖啡",
+                      "Quantity":  10,
+                      "Price":  300.553150606512710,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:24:10.2788291+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

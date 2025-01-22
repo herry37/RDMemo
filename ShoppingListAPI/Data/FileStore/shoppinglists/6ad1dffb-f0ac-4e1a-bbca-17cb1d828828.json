@@ -1,0 +1,44 @@
+{
+    "Id":  "6ad1dffb-f0ac-4e1a-bbca-17cb1d828828",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-17T01:14:36.8096255+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b50a6ade-c689-4749-b33d-e57e4955544d",
+                      "Name":  "Generic Concrete Mouse",
+                      "Quantity":  3,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7939373Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2a52ad6-0fbe-419e-bdfd-996d60a8c87a",
+                      "Name":  "罐頭",
+                      "Quantity":  1,
+                      "Price":  17,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7939392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d53ae7a5-d7c5-436a-9a4d-65df65779d24",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7939402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d3e616e-8e54-49dd-bf78-fdf6af3ffa5d",
+                      "Name":  "Intelligent Cotton Shoes",
+                      "Quantity":  3,
+                      "Price":  406,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.7939457Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

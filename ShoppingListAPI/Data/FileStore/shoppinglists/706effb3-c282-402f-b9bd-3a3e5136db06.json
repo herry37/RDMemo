@@ -1,0 +1,35 @@
+{
+    "Id":  "706effb3-c282-402f-b9bd-3a3e5136db06",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T16:24:40.8256002+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6f98f815-ee9c-494a-b3f7-f71457f19a80",
+                      "Name":  "面膜",
+                      "Quantity":  10,
+                      "Price":  298.977778940292960,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:02:12.7420278+08:00",
+                      "CompletedAt":  "2025-01-18T04:21:01.9869894+08:00"
+                  },
+                  {
+                      "Id":  "6a45538e-a6fe-4e76-b20a-4c0244bffb36",
+                      "Name":  "洗衣精",
+                      "Quantity":  10,
+                      "Price":  309.665805608917230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T08:33:58.8238932+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc156f1a-ab63-4175-93cb-e35fe590e4cc",
+                      "Name":  "剪刀",
+                      "Quantity":  3,
+                      "Price":  295.578528274632950,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:35:45.0838301+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

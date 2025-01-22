@@ -1,0 +1,35 @@
+{
+    "Id":  "f7a36729-8661-4a4c-9479-66cabac09c58",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-15T23:02:26.7364511+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0b3acbd7-3441-4c29-a6b4-7e4d45304a7b",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2367775Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce74adc5-91df-48d3-99ad-f642a35c3413",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2367819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47688312-fda0-449f-b874-0f80f84b8b8b",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  328,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.2368166Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

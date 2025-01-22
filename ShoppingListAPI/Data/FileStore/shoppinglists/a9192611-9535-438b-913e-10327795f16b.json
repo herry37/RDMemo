@@ -1,0 +1,53 @@
+{
+    "Id":  "a9192611-9535-438b-913e-10327795f16b",
+    "Title":  "01/18 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T00:43:42.6345352+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d8728c37-9883-488c-9d4b-fb4499755a17",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5443441Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "811bd108-57da-492c-86a8-b273ed0de96e",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5443494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db1283b7-776e-4b76-8d20-5da9e8422e62",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  472,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5443516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fba9a36c-706d-4095-af80-3a80941c72f9",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5443539Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "27baeae4-51e3-40f8-8d6f-3ee37c6e094f",
+                      "Name":  "Handcrafted Wooden Mouse",
+                      "Quantity":  4,
+                      "Price":  494,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5443782Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

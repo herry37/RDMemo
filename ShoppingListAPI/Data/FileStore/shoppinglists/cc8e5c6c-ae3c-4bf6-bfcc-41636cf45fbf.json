@@ -1,0 +1,62 @@
+{
+    "Id":  "cc8e5c6c-ae3c-4bf6-bfcc-41636cf45fbf",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-18T15:35:10.0364123+08:00",
+    "Items":  [
+                  {
+                      "Id":  "55b5af60-a003-4355-bea0-93406bdcb3e0",
+                      "Name":  "Gorgeous Rubber Shoes",
+                      "Quantity":  2,
+                      "Price":  295,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "65d57239-72e3-4e22-8a5a-29116d9899e0",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790102Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "418c7c80-b50c-4895-b012-4c95e105fa48",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790112Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63479f8a-36e8-426d-b884-0942eeb61017",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  127,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790122Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4740db18-24c6-444a-b2ae-3c45b14a2d01",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  389,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790132Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9211a203-6199-4598-98cd-b9965026da1a",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  429,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.4790156Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

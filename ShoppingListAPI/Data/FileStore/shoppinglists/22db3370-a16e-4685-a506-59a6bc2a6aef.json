@@ -1,0 +1,35 @@
+{
+    "Id":  "22db3370-a16e-4685-a506-59a6bc2a6aef",
+    "Title":  "01/17 清潔用品採買清單",
+    "CreatedAt":  "2025-01-15T01:10:06.6849955+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f7650078-42cc-4991-8f99-7917f702e605",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  330,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7382656Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ddb41e92-1223-4a45-9c9f-306d4bd6a0d3",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7382767Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b52467dd-ec3f-43d6-8f04-6a806db0c600",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7382795Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "bfbf6d93-e575-43d0-a1bb-105523ef770e",
+    "Title":  "年節採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T19:57:52.9397519+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2e04f484-c59b-46ae-9cf2-ea5dfcebd01e",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  3,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:24:33.4852307+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "070fcee1-f61c-449c-96cd-3d2aefbb2cc1",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:00:58.7262876+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "756d1e51-be61-4ee5-a8a0-e2d7b691cab0",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:27:57.2806252+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

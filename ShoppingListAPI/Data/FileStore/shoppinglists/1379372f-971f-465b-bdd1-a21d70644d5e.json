@@ -1,0 +1,62 @@
+{
+    "Id":  "1379372f-971f-465b-bdd1-a21d70644d5e",
+    "Title":  "日常補充 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-18T23:34:25.6702641+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9118ec7e-7b58-4014-b47b-37dcd20bdea6",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  263,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T04:37:42.2481195+08:00",
+                      "CompletedAt":  "2025-01-16T11:02:26.0580629+08:00"
+                  },
+                  {
+                      "Id":  "932f2f83-369d-4fc7-941e-634f7731a8f6",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  84,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:40:18.3746675+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d22cfff-3b2d-47cf-8836-09e546c01c39",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  3,
+                      "Price":  163,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:48:34.3256078+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b0679f5-20e1-44f0-96b3-060f26372925",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:33:09.6311987+08:00",
+                      "CompletedAt":  "2025-01-19T11:17:57.4881453+08:00"
+                  },
+                  {
+                      "Id":  "4dad6064-0774-4052-9f7c-0f594b3f29b1",
+                      "Name":  "運動飲料",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:21:50.4213315+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "967c8c80-c68e-4264-8fde-a7b1ecaae159",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:59:58.3207065+08:00",
+                      "CompletedAt":  "2025-01-19T20:49:47.9295869+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

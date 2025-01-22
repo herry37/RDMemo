@@ -1,0 +1,35 @@
+{
+    "Id":  "e151969d-b072-43e3-a386-ee96d9b8cfcb",
+    "Title":  "居家整理 - 愛買 (01/20)",
+    "CreatedAt":  "2025-01-19T15:38:40.3800756+08:00",
+    "Items":  [
+                  {
+                      "Id":  "60eee6a6-357b-455b-a524-19f9121b4d93",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:07:52.5066008+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0c17bb0f-e8ab-47bc-a5de-7d787d1710d5",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T18:48:24.7665213+08:00",
+                      "CompletedAt":  "2025-01-20T04:34:03.777624+08:00"
+                  },
+                  {
+                      "Id":  "2428e851-17a4-45c8-9612-9035ce2c9476",
+                      "Name":  "保養化妝品",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T04:36:49.5513276+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "ce630da1-4d2c-443b-90ad-32c6ccf6bc5c",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-19T09:26:00.5429255+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2aebe016-ec0e-4722-b8d4-7895bf3f9978",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  151,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:45:05.5711574+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d165dd7-98cb-4432-8b5c-8282aaa65743",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:01:39.8605105+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2dc0c80a-7009-44d6-a05c-9e90e320fc2a",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:13:41.6849177+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d75edea1-bde9-426a-8def-4ff334132bf9",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T04:48:12.890622+08:00",
+                      "CompletedAt":  "2025-01-17T12:01:48.1691326+08:00"
+                  },
+                  {
+                      "Id":  "4b64ea4a-4c0d-4b85-b4e4-02c2d86302c7",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T20:18:49.1713097+08:00",
+                      "CompletedAt":  "2025-01-19T07:15:34.7040045+08:00"
+                  },
+                  {
+                      "Id":  "66388d89-4302-4f83-91a7-c752c8ea38da",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T01:40:17.2593546+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caa44d6c-73df-4312-be2d-6288fff99e12",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:55:53.7027781+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "7f510fe1-1781-425d-8e67-b1f8ed2f0210",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T16:27:53.4956372+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12a31070-6fd8-4362-896c-190f2f221f72",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6191723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6928f069-97cc-4e2f-b95b-446eefd0b9ff",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  336,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.6191782Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01d9203e-a8eb-4b64-b444-519da77d485c",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.6191798Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91c7c78f-bd20-4e38-b22b-6393cb9b4807",
+                      "Name":  "Refined Fresh Sausages",
+                      "Quantity":  4,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6191999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab171649-81d7-4ee7-9507-a30741d25d31",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192014Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cd66765-5e15-4897-8fc2-4432673dd40b",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  382,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "117166af-dcbc-4459-a446-56db7569a033",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  356,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192068Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4e1916c7-dce4-448d-b617-fdb71f5490d9",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192084Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "547c3cb7-89dd-4c97-a72b-0d80c31ade3d",
+                      "Name":  "Tasty Cotton Pizza",
+                      "Quantity":  5,
+                      "Price":  345,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192141Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b08eae88-d459-409b-93a6-06fb012b4c0d",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6192169Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

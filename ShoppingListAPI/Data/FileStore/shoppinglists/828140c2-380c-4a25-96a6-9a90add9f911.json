@@ -1,0 +1,71 @@
+{
+    "Id":  "828140c2-380c-4a25-96a6-9a90add9f911",
+    "Title":  "派對用品 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-20T05:24:08.1712727+08:00",
+    "Items":  [
+                  {
+                      "Id":  "76acf923-1720-49b0-ab08-c7867f4aab07",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  191,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T05:20:19.1403843+08:00",
+                      "CompletedAt":  "2025-01-16T18:20:15.8369141+08:00"
+                  },
+                  {
+                      "Id":  "e4b45521-d410-4302-a1ad-ffed0c466cd8",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:08:05.4937428+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b43c9bc0-ad47-44a2-bbdf-afa99bbb8d30",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:48:30.2299108+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "825f555c-6fa1-45ee-9d56-e9bc1939fa3d",
+                      "Name":  "金屬直尺",
+                      "Quantity":  5,
+                      "Price":  173,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:58:21.5055931+08:00",
+                      "CompletedAt":  "2025-01-20T02:08:54.7591944+08:00"
+                  },
+                  {
+                      "Id":  "048a074f-7fe3-4639-817f-19d3c5183118",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  173,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:03:04.5461434+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6d9128e-072e-4647-af4f-111b1fd7f2e2",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:15:14.4805357+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc90c3da-cc5c-4b8c-b9b6-218810f9081b",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:51:43.6232852+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

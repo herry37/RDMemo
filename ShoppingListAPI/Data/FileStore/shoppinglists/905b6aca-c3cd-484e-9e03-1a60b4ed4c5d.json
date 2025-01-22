@@ -1,0 +1,53 @@
+{
+    "Id":  "905b6aca-c3cd-484e-9e03-1a60b4ed4c5d",
+    "Title":  "01/18 清潔用品購物清單",
+    "CreatedAt":  "2025-01-14T21:19:09.9771315+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c1b89bb3-dc4e-4ae3-a3c8-e1fe830e64bc",
+                      "Name":  "Ergonomic Metal Fish",
+                      "Quantity":  1,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3933115Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2d7699d6-4437-4139-9e99-b06430da2a18",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  200,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3933199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc853c2c-37bc-49d3-a78d-83d3b025122e",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3933228Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "711091dd-2c7a-445d-96f9-7a9372d1572c",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  371,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.3933254Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eed8c6c7-c4e1-4e2e-87fe-c2c470b3acce",
+                      "Name":  "礦泉水",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.3933282Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

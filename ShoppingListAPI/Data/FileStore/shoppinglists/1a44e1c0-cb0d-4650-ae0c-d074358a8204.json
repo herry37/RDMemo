@@ -1,0 +1,89 @@
+{
+    "Id":  "1a44e1c0-cb0d-4650-ae0c-d074358a8204",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-16T13:37:38.9438843+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4bd41044-d23c-42db-9297-661f5198cc0b",
+                      "Name":  "抹布",
+                      "Quantity":  2,
+                      "Price":  355.860634880688480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:10:14.6025538+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a1e8040-3201-44c8-b753-c73dbad8fa00",
+                      "Name":  "相框",
+                      "Quantity":  1,
+                      "Price":  375.130516114941780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T10:00:53.5120028+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba63040d-9732-4022-9a47-4d6a20de17c2",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  216.46812833336550,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:37:30.2847956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b794e128-c27c-41b8-aa56-a432fc8b0188",
+                      "Name":  "訂書機",
+                      "Quantity":  2,
+                      "Price":  10.57538827366366430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:39:17.6724119+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e71b6bc0-0f07-489f-9441-d0ee67e21e92",
+                      "Name":  "牛奶",
+                      "Quantity":  10,
+                      "Price":  128.722381835695610,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:34:39.4978539+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6322d181-37a1-4f84-9561-8d08f3424335",
+                      "Name":  "洋芋片",
+                      "Quantity":  3,
+                      "Price":  117.769236276361660,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T05:30:57.4531998+08:00",
+                      "CompletedAt":  "2025-01-18T04:33:40.1726461+08:00"
+                  },
+                  {
+                      "Id":  "c5243a0a-f378-4612-88f6-8cd8306a7318",
+                      "Name":  "掃把",
+                      "Quantity":  7,
+                      "Price":  403.887651184165110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:47:49.0362077+08:00",
+                      "CompletedAt":  "2025-01-21T04:49:54.9753351+08:00"
+                  },
+                  {
+                      "Id":  "7f38a3a5-7519-4f97-ae3b-cd3af1c7b5b2",
+                      "Name":  "糖果",
+                      "Quantity":  1,
+                      "Price":  125.221779341430510,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:03:10.7312479+08:00",
+                      "CompletedAt":  "2025-01-21T09:27:14.2486624+08:00"
+                  },
+                  {
+                      "Id":  "0612d96f-5646-457c-89dd-bbdb5e1e060c",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  70.819570230841240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:00:32.147774+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

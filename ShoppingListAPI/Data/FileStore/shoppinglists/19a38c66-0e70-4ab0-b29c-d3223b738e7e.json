@@ -1,0 +1,89 @@
+{
+    "Id":  "19a38c66-0e70-4ab0-b29c-d3223b738e7e",
+    "Title":  "01/20 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T10:47:06.7349941+08:00",
+    "Items":  [
+                  {
+                      "Id":  "872078d1-3096-42c1-bbde-f4c49027bbc3",
+                      "Name":  "Tasty Frozen Chicken",
+                      "Quantity":  3,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231856Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7dec3bf-5b86-4e23-9210-3647ec1fe83b",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231896Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59f44192-daab-414a-b84c-60b015c4952c",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  368,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231911Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d1b0ac4-a390-4e81-aaa2-2cb6eade2e88",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  107,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.523193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cc86652-7971-406c-ad7f-2603b435e734",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  20,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231945Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4bd3fc5c-3ba9-456e-bd3b-78f76a427f18",
+                      "Name":  "水果",
+                      "Quantity":  1,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8126117-cbd1-4d24-b5e1-00980468b215",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  381,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5231986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96429ba2-4d2d-4de9-9623-ba9dfcd45e2d",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  495,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5232003Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71647104-784c-4463-bbc5-a7736115da19",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5232017Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

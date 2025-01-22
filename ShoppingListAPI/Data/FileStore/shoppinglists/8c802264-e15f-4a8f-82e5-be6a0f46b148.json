@@ -1,0 +1,71 @@
+{
+    "Id":  "8c802264-e15f-4a8f-82e5-be6a0f46b148",
+    "Title":  "緊急採買 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-16T13:39:26.8971572+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8f37fa80-c3d1-426c-a620-9e7c89533416",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  4,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:43:55.8879745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73ce6b80-d103-4b37-b4f5-4fd28078bb8c",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:13:31.3742283+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07fac83c-9d95-4bdc-88b5-b206b81ff2e3",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  139,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T13:35:40.976735+08:00",
+                      "CompletedAt":  "2025-01-20T04:53:17.2032932+08:00"
+                  },
+                  {
+                      "Id":  "5b866130-2425-474a-83c2-47d46a809740",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  3,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:54:17.8528841+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bacd41e1-c2bd-48c1-8807-916d89374381",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  2,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:11:03.658168+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8320d182-5522-4f68-a32c-1028cbf8b656",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  50,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T03:16:40.5918028+08:00",
+                      "CompletedAt":  "2025-01-16T11:41:01.9987968+08:00"
+                  },
+                  {
+                      "Id":  "d23964c7-48df-4ea1-9cf1-a7d063138963",
+                      "Name":  "有機綠茶",
+                      "Quantity":  1,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:17:15.838487+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

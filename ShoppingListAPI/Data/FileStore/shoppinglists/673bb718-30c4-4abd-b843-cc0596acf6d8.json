@@ -1,0 +1,80 @@
+{
+    "Id":  "673bb718-30c4-4abd-b843-cc0596acf6d8",
+    "Title":  "01/17 飲料購物清單",
+    "CreatedAt":  "2025-01-17T10:50:26.9577185+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d46aa22f-133a-4f4d-9483-b5ad4e006648",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  317,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.358563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1e0dfeb-6f0d-4393-aff7-37c09c124dc7",
+                      "Name":  "牛奶",
+                      "Quantity":  1,
+                      "Price":  306,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3585677Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a777c03-0c28-496c-be3e-d007926cf492",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3585693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ce3eccd-754e-4185-98c4-37f092a2fefa",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  209,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.3585712Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a1d0335-fd9c-4037-9e1f-15201a4486b2",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3585723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cd868c9-a797-49d7-aea8-3c23cbd293e6",
+                      "Name":  "Rustic Wooden Bacon",
+                      "Quantity":  5,
+                      "Price":  380,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3585986Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81b39e45-7a3b-4436-b26a-5604f132a8b2",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  30,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3586Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0876652-3512-45a9-a6d7-c8c49e92b3d8",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.3586022Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

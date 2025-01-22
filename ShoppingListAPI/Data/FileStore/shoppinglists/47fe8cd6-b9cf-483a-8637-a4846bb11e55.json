@@ -1,0 +1,35 @@
+{
+    "Id":  "47fe8cd6-b9cf-483a-8637-a4846bb11e55",
+    "Title":  "01/20 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T14:25:11.0935585+08:00",
+    "Items":  [
+                  {
+                      "Id":  "07d5ceff-0e3a-4204-8b13-ba5ab2217945",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0516006Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "240e605a-419f-497a-b556-6b75ed0e6fd4",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:27.0516274Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be7887e8-9a05-407b-8870-4edd4bc34691",
+                      "Name":  "Licensed Plastic Car",
+                      "Quantity":  4,
+                      "Price":  276,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:27.0516531Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

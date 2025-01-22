@@ -1,0 +1,35 @@
+{
+    "Id":  "f402ba78-ef99-4a12-acd5-7767a10aaee2",
+    "Title":  "年節採購 - 便利商店 (01/21)",
+    "CreatedAt":  "2025-01-21T10:46:07.8734541+08:00",
+    "Items":  [
+                  {
+                      "Id":  "fa769187-cce6-4d0f-bb58-a6aa9db5e27d",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T15:46:27.5022409+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "248470bd-68a5-4f9b-a105-f2224a8d4dfe",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:47:24.7956327+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59668ad0-d87a-4267-893c-64d847d90d22",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:50:34.0321835+08:00",
+                      "CompletedAt":  "2025-01-17T09:38:18.3506425+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

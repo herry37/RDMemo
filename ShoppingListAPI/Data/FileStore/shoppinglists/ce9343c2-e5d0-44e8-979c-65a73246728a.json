@@ -1,0 +1,35 @@
+{
+    "Id":  "ce9343c2-e5d0-44e8-979c-65a73246728a",
+    "Title":  "年節採購 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-18T03:50:16.8581228+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ddd49abe-ce65-4fba-9400-d60fa4ad1b4f",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:47:56.0682401+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8aee9651-d6aa-4dee-a86d-f14e88d3d073",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  1,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:48:21.569111+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4d5d24d-f178-4491-b031-76f638baa94c",
+                      "Name":  "陶瓷餐碗",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:00:30.8121405+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

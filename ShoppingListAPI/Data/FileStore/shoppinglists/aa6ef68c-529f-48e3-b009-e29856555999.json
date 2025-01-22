@@ -1,0 +1,35 @@
+{
+    "Id":  "aa6ef68c-529f-48e3-b009-e29856555999",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-15T20:46:22.9713117+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f13f201f-2ac5-42dc-9690-04dbd34d2a76",
+                      "Name":  "Gorgeous Fresh Mouse",
+                      "Quantity":  4,
+                      "Price":  157,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7617839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caef5d2e-ba7a-4fd5-98fd-c48da83e5f2a",
+                      "Name":  "Gorgeous Metal Pizza",
+                      "Quantity":  2,
+                      "Price":  321,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.761848Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f55bfa8c-4e14-4fba-b5c3-44f2734d3ab8",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  138,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.7618559Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "1a6e8b3e-610e-4756-bb83-a67bcad4a3fa",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T14:11:58.740525+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a874fa2-28ce-465f-855a-b6c95e54e9e3",
+                      "Name":  "Tasty Steel Gloves",
+                      "Quantity":  1,
+                      "Price":  468,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1825354Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19c42872-b7dd-4f75-a202-6677fffbe0a0",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  394,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1825392Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d965ca3e-ecab-4073-9429-471ecb83eb43",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  339,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1825403Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

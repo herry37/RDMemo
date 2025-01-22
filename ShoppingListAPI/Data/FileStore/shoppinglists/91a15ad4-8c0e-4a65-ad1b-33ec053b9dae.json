@@ -1,0 +1,62 @@
+{
+    "Id":  "91a15ad4-8c0e-4a65-ad1b-33ec053b9dae",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-15T12:33:34.5427553+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2daeb7b7-13f4-4c5d-8c30-15e779eb348c",
+                      "Name":  "Small Frozen Computer",
+                      "Quantity":  4,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.308466Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d005828a-9e38-448a-a407-c1ab9a02c7cf",
+                      "Name":  "Incredible Rubber Table",
+                      "Quantity":  3,
+                      "Price":  314,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3084773Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "898d2750-27fc-417b-b942-edf1217d398b",
+                      "Name":  "Intelligent Metal Chicken",
+                      "Quantity":  2,
+                      "Price":  190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.3086109Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c095a4f-64a8-44dc-9247-2041d828eb58",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  458,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3086152Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f828c47d-6a25-4f9a-b636-80d027196f24",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  12,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3086164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "548d3e46-b9a1-411f-8e6a-8087c92fabdd",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.3086223Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

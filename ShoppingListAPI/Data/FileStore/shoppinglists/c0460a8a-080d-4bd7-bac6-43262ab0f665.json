@@ -1,0 +1,35 @@
+{
+    "Id":  "c0460a8a-080d-4bd7-bac6-43262ab0f665",
+    "Title":  "月底大採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T14:23:49.4390652+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5947a7b0-b1c5-45fd-b81a-944555d01b84",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  1,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:46:27.5084344+08:00",
+                      "CompletedAt":  "2025-01-18T13:41:05.4929216+08:00"
+                  },
+                  {
+                      "Id":  "70bd741a-34f4-494f-a041-39ead9c13b46",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:11:54.4404505+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1df99d3e-90fc-4e34-8e6a-412922110c4e",
+                      "Name":  "天然肥皂",
+                      "Quantity":  2,
+                      "Price":  258,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:06:57.5750407+08:00",
+                      "CompletedAt":  "2025-01-21T21:04:41.8104711+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

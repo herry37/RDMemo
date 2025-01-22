@@ -1,0 +1,98 @@
+{
+    "Id":  "8ada9360-1a1b-4a16-af36-2c3622d74215",
+    "Title":  "01/21 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T11:12:37.3303979+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a10048c0-f6b1-4743-bf97-e50b01b79059",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "790d47ee-9374-4031-b24d-6b7a76abb8a6",
+                      "Name":  "Fantastic Concrete Keyboard",
+                      "Quantity":  4,
+                      "Price":  323,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056626Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7fcab136-0f76-459d-bbc9-8faa6342262f",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9180767a-7c9a-4c83-bd2d-a89810b7cbb4",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  377,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056643Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2923342b-64e5-4b13-84ae-e42c1d093165",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056653Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "100816f8-c95d-481b-8aeb-856bdf42e9db",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056666Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46f0f7ee-f459-4660-80f9-9d816315ed66",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  370,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056689Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bcfe89c7-1dc6-4b6d-9785-c2a0ec2c7828",
+                      "Name":  "Generic Steel Fish",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.205671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51c6a317-1f77-43bd-aaad-7e6bca7a4296",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  51,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056718Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb0ba9bb-8531-4047-aac2-848d98889284",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  127,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.2056729Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

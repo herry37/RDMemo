@@ -1,0 +1,35 @@
+{
+    "Id":  "9a83455f-e801-446c-83a9-2354e4d04e6a",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T23:59:49.0734076+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a3817ac1-422c-4219-b4b7-f89e450b8dfd",
+                      "Name":  "洗衣粉",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0210659Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "275a3c07-8752-4e20-86b8-697ca7b4adbc",
+                      "Name":  "Handcrafted Frozen Hat",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0210906Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71742bf1-511a-4993-b51c-3806781c8a64",
+                      "Name":  "Generic Steel Tuna",
+                      "Quantity":  5,
+                      "Price":  451,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:52.0211235Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "ca39ae77-7fd6-44c7-93ce-75a7e9fb9046",
+    "Title":  "日常補充 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-21T02:09:35.2536885+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3a0b90a4-cb81-4c2b-ae5f-7e6d65b0f9ad",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  2,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:25:05.9270658+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3a67b79-81b5-4efe-86e7-0e59f2e0243b",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:17:06.9217792+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7567e67f-9584-40de-8659-cc95a0740d07",
+                      "Name":  "天然海綿",
+                      "Quantity":  4,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:13:03.8970034+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ae86b1a-5a1d-4f55-8a4a-0ffc14671788",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:34:12.954469+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94d54e23-5125-4126-9b1f-84008071b733",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  2,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:39:44.4516058+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19eb9606-33a2-4b38-8b49-8534b41f9ebd",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  269,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:08:30.8828463+08:00",
+                      "CompletedAt":  "2025-01-17T09:27:16.9302247+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

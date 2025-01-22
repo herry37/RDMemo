@@ -1,0 +1,35 @@
+{
+    "Id":  "204249d1-3e84-4c28-b737-7cc3280c1533",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-17T08:54:37.798334+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d852f96f-0108-4c82-a51e-add0ae73684e",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  50,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7823448Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79568b32-69db-4a40-be0a-24a6d64c2ede",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7823492Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78fe1197-fc2e-4ecb-b518-e6878d6b9be5",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.7823524Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

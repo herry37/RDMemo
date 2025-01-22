@@ -1,0 +1,44 @@
+{
+    "Id":  "14907781-41f9-4ad5-b6c5-2f06eb2df9a6",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T01:04:02.3518285+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6c6e88db-5ef7-4805-a137-f9c3151048c1",
+                      "Name":  "Awesome Steel Bacon",
+                      "Quantity":  3,
+                      "Price":  271,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4602188Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3eba3d82-3539-447a-8d5f-752e49a3cfb1",
+                      "Name":  "沐浴乳",
+                      "Quantity":  2,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4602201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbe89723-161b-4c79-b02d-c682e184420f",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.4602279Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c73a339f-03b5-4d5b-814d-02de27aa594a",
+                      "Name":  "Tasty Plastic Bacon",
+                      "Quantity":  3,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.46023Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

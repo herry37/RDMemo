@@ -1,0 +1,80 @@
+{
+    "Id":  "8194857a-22fc-43a1-8960-4b4bc4466d01",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T13:30:22.6400527+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0ab686db-b01f-41dc-9fe1-1f47fa062850",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  132,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152474Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab88ad92-e746-4555-9d5d-c8de2f936f5f",
+                      "Name":  "Tasty Metal Towels",
+                      "Quantity":  3,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef260438-dc5f-4f91-96d4-d538d0b05e55",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152814Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dfd29c03-bb72-4024-952a-c0e1c9893f80",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  302,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152842Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a635f1d0-3b10-4faa-81fd-7b8dc54f5954",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  421,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd7b5b1d-904f-474a-9a1e-f77a97619b19",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152916Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44a322e2-3921-4618-aeec-faacc1e5bdb0",
+                      "Name":  "米",
+                      "Quantity":  4,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152942Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41f73b82-9779-42e3-ae42-e395ab9b858f",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7152964Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

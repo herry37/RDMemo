@@ -1,0 +1,35 @@
+{
+    "Id":  "08442dc1-01e4-4951-81a5-8077f0447934",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-14T16:19:46.7959307+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2bcb73c6-7b60-4873-af3d-3f5a3eb2c08e",
+                      "Name":  "洗衣精",
+                      "Quantity":  10,
+                      "Price":  414.792710995309350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:39:06.2699689+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f266d39-b6e0-4f38-bbe5-73fe996737f6",
+                      "Name":  "檯燈",
+                      "Quantity":  7,
+                      "Price":  14.84136468078347420,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T16:57:57.5225028+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "894b9214-8eaf-4da3-9ed2-c1d9f0aea4a9",
+                      "Name":  "汽水",
+                      "Quantity":  1,
+                      "Price":  118.815027876931740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:51:23.3799277+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

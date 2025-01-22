@@ -1,0 +1,53 @@
+{
+    "Id":  "a56ade36-fbd2-4b0b-9a34-9e96c470b955",
+    "Title":  "年節採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-15T23:41:50.6843454+08:00",
+    "Items":  [
+                  {
+                      "Id":  "832f1264-106c-4403-b07e-9fff93be635e",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  4,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:43:59.4566484+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00e1916b-bb93-422a-aa15-5ae6789a23d6",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  22,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:40:19.3813031+08:00",
+                      "CompletedAt":  "2025-01-18T21:04:08.9692308+08:00"
+                  },
+                  {
+                      "Id":  "f1bda4b4-7f83-4460-91cf-c429a1dd4663",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:08:38.3440428+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25d70ce4-844e-474b-a343-be189e1b8d50",
+                      "Name":  "日本泡麵",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:41:03.007868+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2343ad4d-1d8e-452a-9720-fa68e4787da5",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  278,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:20:24.1521351+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

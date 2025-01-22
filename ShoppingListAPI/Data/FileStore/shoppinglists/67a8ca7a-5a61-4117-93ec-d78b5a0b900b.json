@@ -1,0 +1,80 @@
+{
+    "Id":  "67a8ca7a-5a61-4117-93ec-d78b5a0b900b",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-21T10:36:23.4186164+08:00",
+    "Items":  [
+                  {
+                      "Id":  "026802fc-1a74-4811-9948-049dec71321c",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  46,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8322799Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d93e8521-bfc1-4d58-8ea9-c46a3d005ae9",
+                      "Name":  "Ergonomic Soft Fish",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.832309Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9515d92b-566d-4e0a-a4e8-4d21cb7730bc",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.832311Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "baa62d45-502f-4f89-9262-d7c1e22a2d14",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8323475Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4c7f5b3-06fb-407b-a228-81e83a14170f",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  109,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8323508Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1e2e10d-0f5b-4c56-ade5-f29507dedbc1",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  232,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8323552Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "24a0f5f0-a7eb-4d97-9b3a-150a39374fd4",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  29,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.8323569Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9439872f-47fc-413a-8255-6ddf42becb09",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.8323594Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

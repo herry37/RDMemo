@@ -1,0 +1,44 @@
+{
+    "Id":  "766fa6c0-fffe-4435-87cb-e7c8ee82ad2b",
+    "Title":  "01/20 生鮮採買清單",
+    "CreatedAt":  "2025-01-20T08:16:42.5172612+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8b0505ed-4b16-4736-8e39-d02f7c732111",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0096165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef8be88f-18a1-4ac6-966e-18776572d843",
+                      "Name":  "Handcrafted Soft Pants",
+                      "Quantity":  4,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0096885Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "58b6d468-be1b-47cc-8df0-13f420477c63",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.0096915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "39fd845c-a29a-4745-81fb-9004c049be67",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  104,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.0096942Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

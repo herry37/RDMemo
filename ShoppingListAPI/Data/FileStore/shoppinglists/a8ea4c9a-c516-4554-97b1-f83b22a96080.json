@@ -1,0 +1,62 @@
+{
+    "Id":  "a8ea4c9a-c516-4554-97b1-f83b22a96080",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-19T13:29:13.9921114+08:00",
+    "Items":  [
+                  {
+                      "Id":  "596636a6-e80e-45c7-af1b-c36185b39425",
+                      "Name":  "清潔劑",
+                      "Quantity":  9,
+                      "Price":  480.898489127077620,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:37:52.0215434+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "476dcec7-d787-49a1-a297-d90e58487193",
+                      "Name":  "清潔劑",
+                      "Quantity":  10,
+                      "Price":  216.896613645995560,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:11:56.9543297+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a0350ed7-6c8e-4af7-bdae-b0215b0a128a",
+                      "Name":  "芳香劑",
+                      "Quantity":  6,
+                      "Price":  201.333318664388320,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:37:45.6214009+08:00",
+                      "CompletedAt":  "2025-01-22T02:47:39.5513634+08:00"
+                  },
+                  {
+                      "Id":  "75294a70-5118-4029-b0c6-616fcd88355f",
+                      "Name":  "梳子",
+                      "Quantity":  5,
+                      "Price":  80.885826885580350,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:20:36.5548948+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90e90185-d47b-4f96-8852-5b186ca0b185",
+                      "Name":  "可樂",
+                      "Quantity":  6,
+                      "Price":  221.679358684663590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:01:30.7712101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "940c7e29-b1a7-4e1e-b103-48460ccc533d",
+                      "Name":  "防曬乳",
+                      "Quantity":  8,
+                      "Price":  51.4796863417964790,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:53:17.1080754+08:00",
+                      "CompletedAt":  "2025-01-16T07:34:19.4312407+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

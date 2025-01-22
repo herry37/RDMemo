@@ -1,0 +1,80 @@
+{
+    "Id":  "92894438-ef21-44af-a9d1-61d0608ee2b4",
+    "Title":  "緊急採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-21T17:22:46.3950966+08:00",
+    "Items":  [
+                  {
+                      "Id":  "640ccb9c-5ccb-467d-9a94-bea7dbcb06cc",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  187,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:49:33.2837907+08:00",
+                      "CompletedAt":  "2025-01-16T16:42:15.6930284+08:00"
+                  },
+                  {
+                      "Id":  "0085497b-e307-4ba9-aa59-79f7acc7545c",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  2,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:51:07.0526785+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d528042-1392-45f1-b275-236f0c0dd966",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:09:38.1430272+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a796e93-a35d-40d3-87e1-e0306c60f651",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:16:50.7381819+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "44602dc5-4d72-4f0d-9571-f17c422f775e",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  2,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:37:57.7061298+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f759b15-e79b-4a90-8626-292f366ab817",
+                      "Name":  "天然海綿",
+                      "Quantity":  1,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:32:21.6724219+08:00",
+                      "CompletedAt":  "2025-01-20T04:47:10.9803827+08:00"
+                  },
+                  {
+                      "Id":  "5be1406b-cdd9-4b6a-913d-c3eaaca26666",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T14:55:08.1578045+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "03e96313-d266-4789-831c-e198058a15b6",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  108,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:32:09.4411566+08:00",
+                      "CompletedAt":  "2025-01-17T21:05:59.3086384+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

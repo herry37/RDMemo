@@ -1,0 +1,53 @@
+{
+    "Id":  "42783323-eaa4-426c-94d2-b07c4929768d",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T23:58:25.6527434+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c9c17336-d6d4-4b41-b607-54d5b5085152",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3992175Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2caa81f3-12af-4672-a36f-b18afdb4bba7",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  317,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3992187Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "126eb0ef-579e-4423-aad0-fb1464cfbd29",
+                      "Name":  "Intelligent Granite Salad",
+                      "Quantity":  3,
+                      "Price":  355,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.399229Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "600b87ab-7520-450d-a2d7-65f192dbab19",
+                      "Name":  "Licensed Steel Table",
+                      "Quantity":  5,
+                      "Price":  211,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.3992316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6acfd680-2082-4f0d-be7b-c15abbc48b22",
+                      "Name":  "鹽",
+                      "Quantity":  5,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.3992323Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "977640ff-354f-466b-a12f-018a417aa0f4",
+    "Title":  "01/16 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T05:15:26.6955014+08:00",
+    "Items":  [
+                  {
+                      "Id":  "29e4c23a-1396-418b-b376-71a35c843ef1",
+                      "Name":  "垃圾袋",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2464949Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf2638ad-cfe5-4f57-8bec-fa0d58824541",
+                      "Name":  "Handmade Soft Keyboard",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2465261Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffcf9a83-5aa1-417a-8609-35aab7e6504e",
+                      "Name":  "Intelligent Concrete Car",
+                      "Quantity":  2,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2465336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "faf298f1-c7c5-41f9-9962-8e8445bb29fd",
+                      "Name":  "洗衣粉",
+                      "Quantity":  2,
+                      "Price":  392,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.2465356Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "62527b1a-d0be-4d50-b8c2-4cd0bf9a0996",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.2465368Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

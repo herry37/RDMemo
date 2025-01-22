@@ -1,0 +1,35 @@
+{
+    "Id":  "63ba210b-4750-40e8-8853-4ac7feaf525d",
+    "Title":  "01/21 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T11:33:25.1568174+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6bfd6962-5639-4416-865e-f5cd93a944a2",
+                      "Name":  "牙膏",
+                      "Quantity":  1,
+                      "Price":  444,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4069494Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b80a355-11b3-43bf-8a38-6393c07207b5",
+                      "Name":  "Gorgeous Fresh Tuna",
+                      "Quantity":  3,
+                      "Price":  307,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4069693Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "374150c6-8ac9-4237-b075-38503c99439c",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.406973Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

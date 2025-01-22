@@ -1,0 +1,62 @@
+{
+    "Id":  "6b1b1114-db9f-445b-aa42-cde3743f5eb4",
+    "Title":  "01/19 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T12:25:01.2484731+08:00",
+    "Items":  [
+                  {
+                      "Id":  "23d14841-b313-4ff7-83da-a1d473850db5",
+                      "Name":  "Small Soft Gloves",
+                      "Quantity":  1,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114493Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "478589ee-1ac5-4456-8256-f79f6d842796",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114532Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "819dd232-ff72-4b4a-93a2-81032b117d5f",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  106,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114542Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d8a045ac-a5e1-44d1-89b2-9da600a4186a",
+                      "Name":  "Intelligent Soft Cheese",
+                      "Quantity":  3,
+                      "Price":  319,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114602Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a30a4b4-f24e-414f-8aad-f98d936d9084",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  315,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd729ba1-d3e6-4bf7-b9d2-be6bee0514e9",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  204,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9114639Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

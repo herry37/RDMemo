@@ -1,0 +1,53 @@
+{
+    "Id":  "aff4c816-7710-4ade-b892-b4d0f0243097",
+    "Title":  "聚會準備 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T02:30:23.8040419+08:00",
+    "Items":  [
+                  {
+                      "Id":  "5a1ddfdd-cf5c-4dff-937c-0ab87950439b",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  3,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:59:48.9532665+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7125ffd7-4ddf-469b-8bd2-69f3afc7c431",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:17:12.3099933+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dae8013-32d8-4e9c-8672-2d8858450085",
+                      "Name":  "透明膠帶",
+                      "Quantity":  4,
+                      "Price":  25,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T11:47:36.5414218+08:00",
+                      "CompletedAt":  "2025-01-20T11:03:32.5942771+08:00"
+                  },
+                  {
+                      "Id":  "983b8ca8-69ad-4622-9bda-6bce763583c3",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  201,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:16:38.5947557+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d48fba9-70d3-4d3a-9b65-37bd7c5eef62",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:16.8523293+08:00",
+                      "CompletedAt":  "2025-01-22T04:44:10.0158859+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

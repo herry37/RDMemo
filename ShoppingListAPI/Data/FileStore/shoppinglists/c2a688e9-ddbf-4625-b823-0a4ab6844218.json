@@ -1,0 +1,62 @@
+{
+    "Id":  "c2a688e9-ddbf-4625-b823-0a4ab6844218",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T19:01:58.0328312+08:00",
+    "Items":  [
+                  {
+                      "Id":  "204d534f-a137-4f8c-8bd7-4b05a341cad7",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3274939Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d8c217f-4276-4b26-9949-01202840499e",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  433,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3275009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29c201f9-c996-4a22-8e9a-b1f2eb33ed33",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  417,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3275025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "505dbcf6-acf7-4df7-af27-4c327a4a33b5",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  311,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.3275039Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ed8a782-f144-4d2e-aa09-4c84fe5b1d10",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  307,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3275053Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "76c9d424-ec67-470a-89cf-4866719b05f8",
+                      "Name":  "Handcrafted Cotton Soap",
+                      "Quantity":  3,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.3275372Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

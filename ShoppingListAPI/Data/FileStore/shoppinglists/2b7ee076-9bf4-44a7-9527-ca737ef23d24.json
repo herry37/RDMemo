@@ -1,0 +1,80 @@
+{
+    "Id":  "2b7ee076-9bf4-44a7-9527-ca737ef23d24",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-16T06:29:45.9082011+08:00",
+    "Items":  [
+                  {
+                      "Id":  "38a99d54-f906-45d2-8464-b1da381cc8fd",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  31,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:53:23.0355948+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "547324db-8bfb-4260-a1d0-d2b075cb6033",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  3,
+                      "Price":  48,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:54:21.3645285+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a69175e-803b-4b79-88a7-5312ec976655",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:31:11.266565+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd10b913-f673-4308-afa0-067006a27889",
+                      "Name":  "環保漂白水",
+                      "Quantity":  2,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:42:55.2770685+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d02c9f12-fca4-4222-862e-718c0310b96a",
+                      "Name":  "氣泡水",
+                      "Quantity":  1,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T13:05:28.0594495+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "26abca4c-57e5-4168-8ffb-014a695c77f8",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  4,
+                      "Price":  208,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:32:44.4731086+08:00",
+                      "CompletedAt":  "2025-01-17T06:23:53.4465112+08:00"
+                  },
+                  {
+                      "Id":  "0a07119a-c261-44f4-90ee-c8e81e95013e",
+                      "Name":  "進口蘋果",
+                      "Quantity":  2,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T00:06:44.4008718+08:00",
+                      "CompletedAt":  "2025-01-19T08:55:09.4441124+08:00"
+                  },
+                  {
+                      "Id":  "456f71b8-52b2-4d34-baf9-ef5a072bbbf9",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  5,
+                      "Price":  157,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:39:49.015003+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

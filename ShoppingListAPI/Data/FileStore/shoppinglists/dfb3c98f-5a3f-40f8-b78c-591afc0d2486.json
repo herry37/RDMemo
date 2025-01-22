@@ -1,0 +1,62 @@
+{
+    "Id":  "dfb3c98f-5a3f-40f8-b78c-591afc0d2486",
+    "Title":  "派對用品 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-21T13:49:41.2774385+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d719e06c-8853-40e6-a42e-2511df5ab554",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  2,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:06:46.4939594+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3562b74f-201c-4071-80df-b8c9186fff5d",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  100,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:25:20.3025717+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "153b2c97-055f-4cb0-a500-4c668e1cdde8",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  1,
+                      "Price":  160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:28:46.0550328+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e955d2e-aff8-4c2d-aa9c-cfac02b4d7ed",
+                      "Name":  "自動訂書機",
+                      "Quantity":  3,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T09:32:27.7819017+08:00",
+                      "CompletedAt":  "2025-01-15T14:07:47.8320805+08:00"
+                  },
+                  {
+                      "Id":  "3d7d6955-ccb6-4756-aa2e-083ee42a7493",
+                      "Name":  "LED檯燈",
+                      "Quantity":  1,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:37:18.6039258+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "94054b5a-3418-4f00-82c4-62087c6c5c24",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:26:19.6765525+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

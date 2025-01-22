@@ -1,0 +1,53 @@
+{
+    "Id":  "4d4748f1-0305-40ea-a045-17473cf85f8e",
+    "Title":  "01/15 食品購物清單",
+    "CreatedAt":  "2025-01-20T02:28:53.4902184+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e421a2f6-1d95-40fd-a828-5f7d73dd2092",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6890933Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eaecf8c2-7e91-4e46-aac0-4414b9e5ee09",
+                      "Name":  "餅乾",
+                      "Quantity":  1,
+                      "Price":  72,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6890955Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a61d438e-85e0-41e9-b35b-fe69d35453a9",
+                      "Name":  "Rustic Frozen Salad",
+                      "Quantity":  5,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6891147Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c8c5299e-ca78-4c30-92ef-34936ea03e5f",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6891156Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "507cf01e-388e-4de8-a4c0-4449b77e86dd",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6891163Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

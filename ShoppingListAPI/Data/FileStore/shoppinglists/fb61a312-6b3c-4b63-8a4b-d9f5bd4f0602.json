@@ -1,0 +1,98 @@
+{
+    "Id":  "fb61a312-6b3c-4b63-8a4b-d9f5bd4f0602",
+    "Title":  "每週採購清單 - 01/21",
+    "CreatedAt":  "2025-01-15T17:59:10.4167367+08:00",
+    "Items":  [
+                  {
+                      "Id":  "023cb8c4-a0a3-4438-ba20-d25f312b4fed",
+                      "Name":  "香蕉",
+                      "Quantity":  7,
+                      "Price":  155.934516769639150,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T12:58:06.723497+08:00",
+                      "CompletedAt":  "2025-01-15T17:38:13.1457531+08:00"
+                  },
+                  {
+                      "Id":  "563b3830-fcf5-4d24-b68f-57cdbf8cb085",
+                      "Name":  "餐具",
+                      "Quantity":  2,
+                      "Price":  122.810827960261130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:10:47.0835873+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "caac88b6-0761-440c-b31f-a540456bb85f",
+                      "Name":  "果汁",
+                      "Quantity":  9,
+                      "Price":  319.209711363537740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:34:39.5495664+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4ac7962-a93e-43ff-a281-56f780d57ac0",
+                      "Name":  "電池",
+                      "Quantity":  3,
+                      "Price":  160.064047858208960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:18:41.9526325+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "15c7a311-4576-47b7-8e59-aa59e3304943",
+                      "Name":  "相框",
+                      "Quantity":  7,
+                      "Price":  303.722650768458310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:38:06.8319509+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c7490720-fce8-4ad1-b9df-bc7610ce538d",
+                      "Name":  "巧克力",
+                      "Quantity":  6,
+                      "Price":  128.772014871192830,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T14:08:37.8790708+08:00",
+                      "CompletedAt":  "2025-01-16T06:02:56.4088405+08:00"
+                  },
+                  {
+                      "Id":  "e147550a-4c5a-41bc-8bb3-661a7f0727a4",
+                      "Name":  "茶",
+                      "Quantity":  10,
+                      "Price":  37.2969771550208040,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:50:18.7934031+08:00",
+                      "CompletedAt":  "2025-01-21T01:46:09.632603+08:00"
+                  },
+                  {
+                      "Id":  "f13db239-2066-4fa9-9192-82ca12dac5d5",
+                      "Name":  "海綿",
+                      "Quantity":  3,
+                      "Price":  165.823479515026260,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:29:28.0376806+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c1b545b-92a1-49f6-ab41-00fdd6782485",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  44.2909344523286660,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T15:33:50.3121511+08:00",
+                      "CompletedAt":  "2025-01-22T02:05:17.2642714+08:00"
+                  },
+                  {
+                      "Id":  "24afb2e9-440f-41c9-b3b1-d4183d2bb71d",
+                      "Name":  "牙刷",
+                      "Quantity":  6,
+                      "Price":  189.679540760057520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T02:38:47.195005+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

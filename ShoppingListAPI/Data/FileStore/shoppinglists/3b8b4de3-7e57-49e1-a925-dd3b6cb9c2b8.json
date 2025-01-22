@@ -1,0 +1,44 @@
+{
+    "Id":  "3b8b4de3-7e57-49e1-a925-dd3b6cb9c2b8",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T07:59:25.2431963+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6cd142c2-5e1a-41d4-80b5-4d69c0c10f78",
+                      "Name":  "果汁",
+                      "Quantity":  8,
+                      "Price":  319.709662724547540,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T19:05:10.8947054+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c9f5e5f-c82a-4c77-9508-13d19a527b96",
+                      "Name":  "汽水",
+                      "Quantity":  8,
+                      "Price":  452.507971101975030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T13:16:04.8194656+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4bec295-e659-46fe-8385-ab3c0f9cd2d0",
+                      "Name":  "鍋子",
+                      "Quantity":  1,
+                      "Price":  486.526849842320410,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T13:54:39.7130597+08:00",
+                      "CompletedAt":  "2025-01-20T19:43:51.443883+08:00"
+                  },
+                  {
+                      "Id":  "0b62c3a5-d108-4b62-9a0b-f384275a1d01",
+                      "Name":  "電池",
+                      "Quantity":  9,
+                      "Price":  57.5070828746037090,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:46:40.2057816+08:00",
+                      "CompletedAt":  "2025-01-18T08:19:22.6126376+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

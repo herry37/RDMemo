@@ -1,0 +1,62 @@
+{
+    "Id":  "543ed915-7dca-4cc0-8226-4fa9499b8eb0",
+    "Title":  "派對用品 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-18T13:52:26.8577299+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c3e5cbbb-0f49-4655-ad4a-1246cb798aa9",
+                      "Name":  "造型便利貼",
+                      "Quantity":  4,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:43:21.0887416+08:00",
+                      "CompletedAt":  "2025-01-18T19:57:18.0108386+08:00"
+                  },
+                  {
+                      "Id":  "20171185-d82a-4371-a911-957b8b8586aa",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T18:34:09.7658143+08:00",
+                      "CompletedAt":  "2025-01-16T08:59:52.0558894+08:00"
+                  },
+                  {
+                      "Id":  "b42286af-5cbc-4f80-89f0-b5d628e3352a",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T09:00:20.8055569+08:00",
+                      "CompletedAt":  "2025-01-18T03:09:50.5219137+08:00"
+                  },
+                  {
+                      "Id":  "c0eaa188-8e33-420f-8587-39caf64a0642",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  4,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:36:51.0013835+08:00",
+                      "CompletedAt":  "2025-01-16T06:56:23.5279899+08:00"
+                  },
+                  {
+                      "Id":  "b2cb3add-d4d0-4c4d-9116-129180e2b910",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:54:25.0833089+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72c04e50-6a6c-4f16-8e24-359d88ac4acc",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  184,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T21:01:26.7930563+08:00",
+                      "CompletedAt":  "2025-01-15T00:32:24.7141981+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

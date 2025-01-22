@@ -1,0 +1,44 @@
+{
+    "Id":  "a97562cc-85da-472d-8dc6-4f51964cb249",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-15T03:04:23.1461358+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f9e6bd0c-b355-42bf-8771-a62feb75d2aa",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:24:46.5800776+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4646acbd-3d25-43d8-bc75-058f35df25ea",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:24:15.1985406+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f02b6bc-4175-4d39-8234-097a95a7e665",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:17:50.1763173+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8cce131-7fd7-4535-983c-8e63d8784561",
+                      "Name":  "進口糖果",
+                      "Quantity":  2,
+                      "Price":  146,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T22:03:33.6297933+08:00",
+                      "CompletedAt":  "2025-01-20T20:29:55.2304228+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

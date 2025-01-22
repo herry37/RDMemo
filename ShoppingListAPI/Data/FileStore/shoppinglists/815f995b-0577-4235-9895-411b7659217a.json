@@ -1,0 +1,62 @@
+{
+    "Id":  "815f995b-0577-4235-9895-411b7659217a",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T02:48:30.8518231+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c86b0b0e-f4a3-4e45-b926-18fed51a69eb",
+                      "Name":  "魚",
+                      "Quantity":  4,
+                      "Price":  455,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.738193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b9ab0af4-2a2a-4740-b756-edd382cc7219",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.738199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b5b1fd0e-20af-46ac-8843-cc0dd3dd8d87",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  23,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7382005Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e82174b-3252-41f8-8915-6e8843a6a7f3",
+                      "Name":  "Refined Metal Salad",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7382308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f56fbcb2-f4fa-4b22-8761-40544bd54fa5",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  127,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.7382323Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb81145f-4ad6-4c60-a590-7f50743be697",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  252,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.7382369Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

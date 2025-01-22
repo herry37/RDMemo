@@ -1,0 +1,62 @@
+{
+    "Id":  "2ed06f48-9037-48d1-ad4d-15b3df0a55a5",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-17T13:37:09.4330818+08:00",
+    "Items":  [
+                  {
+                      "Id":  "bfdf2dad-74dc-4c42-b743-6d555a721ecf",
+                      "Name":  "衛生紙",
+                      "Quantity":  9,
+                      "Price":  445.267813251817630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:34:21.8771343+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5b14d28b-3783-4aa7-9dc7-a19a00202f65",
+                      "Name":  "乳液",
+                      "Quantity":  1,
+                      "Price":  196.681069806017780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:03:25.1243267+08:00",
+                      "CompletedAt":  "2025-01-18T07:28:45.2427215+08:00"
+                  },
+                  {
+                      "Id":  "1d7bad74-d711-4921-988d-4961779a3c26",
+                      "Name":  "掃把",
+                      "Quantity":  5,
+                      "Price":  369.305195777821440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:18:58.8874843+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bb9aab11-d15e-4878-8396-33a0233ddcee",
+                      "Name":  "電池",
+                      "Quantity":  1,
+                      "Price":  474.077146466733520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:17:05.8930305+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "899b8999-fdd0-4ff2-bfc4-063aa268d52c",
+                      "Name":  "防曬乳",
+                      "Quantity":  6,
+                      "Price":  383.97391600555770,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T07:32:28.411802+08:00",
+                      "CompletedAt":  "2025-01-16T15:20:07.897546+08:00"
+                  },
+                  {
+                      "Id":  "85cfdabe-0f97-4491-a3f1-67dcf34badb1",
+                      "Name":  "筆記本",
+                      "Quantity":  4,
+                      "Price":  387.111395363400320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:50:54.023015+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

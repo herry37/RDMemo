@@ -1,0 +1,53 @@
+{
+    "Id":  "66c47e3e-5adb-4119-97fe-5f09d565d969",
+    "Title":  "01/17 食品採買清單",
+    "CreatedAt":  "2025-01-21T17:43:21.4560405+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04a1afc5-01f2-40b4-a087-d6d29bf2a4d3",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  234,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.119446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd12213b-ccb4-4467-80c5-2da47fd240af",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1194503Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2fd858e-580c-482a-b17a-ab2fcb89a126",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  488,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:45.1194531Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c30e982-6c3f-4031-8b6b-f01148b116a2",
+                      "Name":  "Fantastic Soft Towels",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1194835Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bafa945d-15e5-4dc4-9d71-460c2ba5bd2d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  66,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.1194846Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

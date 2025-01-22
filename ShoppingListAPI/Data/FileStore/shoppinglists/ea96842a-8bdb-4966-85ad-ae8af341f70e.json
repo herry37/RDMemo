@@ -1,0 +1,44 @@
+{
+    "Id":  "ea96842a-8bdb-4966-85ad-ae8af341f70e",
+    "Title":  "居家整理 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-16T21:08:48.2935316+08:00",
+    "Items":  [
+                  {
+                      "Id":  "71923b8a-c795-426a-8194-4bcf49c5a505",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:07:55.4789438+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dec0e8e4-2b2b-4967-ad81-0ed74684918d",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  133,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T14:12:29.3074573+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29a019b0-5e88-4e0e-8f9d-7c4b21291b5f",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T08:42:46.4229195+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "36bf4eac-b9bb-4996-8e29-9f0e38ae539e",
+                      "Name":  "木質相框",
+                      "Quantity":  3,
+                      "Price":  223,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:39:53.4970983+08:00",
+                      "CompletedAt":  "2025-01-16T14:30:32.7258209+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

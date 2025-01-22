@@ -1,0 +1,89 @@
+{
+    "Id":  "6fc5662c-7a90-45f4-bcf7-dbdf224dd7dc",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-20T04:38:26.1330253+08:00",
+    "Items":  [
+                  {
+                      "Id":  "921c7cfb-182b-43eb-978b-af020c8ad2a3",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1070968Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "770ee89e-e2e9-4c23-99c6-bbd7c055617e",
+                      "Name":  "Gorgeous Granite Chips",
+                      "Quantity":  5,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071274Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7edbc53d-14fb-4412-8360-43d947ee602c",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47d16096-515f-4a23-9972-ffbd401fc72c",
+                      "Name":  "Rustic Granite Mouse",
+                      "Quantity":  1,
+                      "Price":  164,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071352Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "68aa6d80-8fbf-4855-9ef4-6cbe41e55481",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  484,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071362Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "13d96720-1d8a-4865-aa8d-8cd277efffe9",
+                      "Name":  "Unbranded Cotton Soap",
+                      "Quantity":  3,
+                      "Price":  235,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47aab98c-1d83-4d97-88ec-8e801bc4bce2",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  61,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071446Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d4443d09-17e4-4f4e-85f0-da300090aad7",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  489,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071456Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "60f0f1a7-83b2-49c0-861d-ed104748ecc6",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.1071466Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

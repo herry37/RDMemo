@@ -1,0 +1,53 @@
+{
+    "Id":  "4448750c-6091-4de2-924c-2de0cd84b468",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T17:13:10.4946672+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ffb3697f-d054-40e8-8180-fddb5d848e42",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5172881Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa95d839-632d-44cc-94c0-a7689d225591",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5173158Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61fd0840-0017-46f1-9fa5-ca24bf704ac3",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  58,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5173188Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37359a31-0c16-4e31-8c98-7dcc4156bf61",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.5173199Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "71547003-36c4-4d54-83e9-178eadfdc52d",
+                      "Name":  "Awesome Metal Table",
+                      "Quantity":  1,
+                      "Price":  500,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.517485Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

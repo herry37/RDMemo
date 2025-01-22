@@ -1,0 +1,71 @@
+{
+    "Id":  "525236d6-7381-4537-a21f-244988e6dded",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-20T05:10:35.7188697+08:00",
+    "Items":  [
+                  {
+                      "Id":  "341ccdff-3d25-4d02-ab09-9f2c2cf21ae4",
+                      "Name":  "巧克力",
+                      "Quantity":  9,
+                      "Price":  490.897235453736780,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T01:19:02.0429822+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2930004-5176-4cda-b8bc-b3fe2cd91407",
+                      "Name":  "刮鬍刀",
+                      "Quantity":  8,
+                      "Price":  72.434090962902120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T20:14:34.3333516+08:00",
+                      "CompletedAt":  "2025-01-15T23:45:11.5867909+08:00"
+                  },
+                  {
+                      "Id":  "3d39a347-9252-41b0-acd9-47e2f2f82766",
+                      "Name":  "抹布",
+                      "Quantity":  7,
+                      "Price":  352.402496470735820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:33:39.9552652+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0b03db4a-ce16-479d-9a8e-57a579a0c3e7",
+                      "Name":  "面紙",
+                      "Quantity":  2,
+                      "Price":  234.425707852131310,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T19:11:27.0232459+08:00",
+                      "CompletedAt":  "2025-01-18T04:35:25.4938018+08:00"
+                  },
+                  {
+                      "Id":  "6c78133a-1886-4996-a66e-3196d1d2dcaf",
+                      "Name":  "手套",
+                      "Quantity":  6,
+                      "Price":  71.113264255783180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:53:09.6066886+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "363e730f-4633-47c2-a6f2-73af03bf59f3",
+                      "Name":  "化妝品",
+                      "Quantity":  2,
+                      "Price":  239.818433739265140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:05:54.2059691+08:00",
+                      "CompletedAt":  "2025-01-20T05:23:45.7134869+08:00"
+                  },
+                  {
+                      "Id":  "d7baf2f9-de23-425b-a6b0-fc9e497bff9b",
+                      "Name":  "啤酒",
+                      "Quantity":  9,
+                      "Price":  74.748528585020070,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:09:18.844162+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

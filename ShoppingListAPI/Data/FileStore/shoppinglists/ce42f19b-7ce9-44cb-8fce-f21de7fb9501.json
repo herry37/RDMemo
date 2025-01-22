@@ -1,0 +1,35 @@
+{
+    "Id":  "ce42f19b-7ce9-44cb-8fce-f21de7fb9501",
+    "Title":  "每週採購 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-18T20:08:03.7153043+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ef01103a-201e-4f72-a453-03e1c39570f8",
+                      "Name":  "氣泡水",
+                      "Quantity":  4,
+                      "Price":  49,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T08:17:13.004969+08:00",
+                      "CompletedAt":  "2025-01-21T23:57:02.1148408+08:00"
+                  },
+                  {
+                      "Id":  "01721460-04c7-486a-b5ac-60f5cefc00bd",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  1,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:21:15.0788096+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f42739b-acd5-4095-954b-cd83eb4c0c1f",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:49:31.4614359+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

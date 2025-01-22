@@ -1,0 +1,89 @@
+{
+    "Id":  "26a3d788-f2e6-4bbe-a475-eca1a0894643",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-17T18:33:01.7180185+08:00",
+    "Items":  [
+                  {
+                      "Id":  "52c852e8-2193-49a8-ac8f-888b10c96cf3",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9552668Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "911a18f2-bd81-4c09-a9f4-c46faec59a34",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9552728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "416f0540-9a53-423a-95e9-c189a95e68a2",
+                      "Name":  "香蕉",
+                      "Quantity":  4,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9552745Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b34e26d2-146a-4f94-898a-b849a716fb61",
+                      "Name":  "Generic Frozen Gloves",
+                      "Quantity":  4,
+                      "Price":  346,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.9553082Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7aae94bf-554e-47e6-9b15-3cd5cf7ab850",
+                      "Name":  "飲料",
+                      "Quantity":  4,
+                      "Price":  320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9553106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48616d46-26b4-4cc1-be67-b9db2ea61b7a",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9553191Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db6b1577-2889-49c6-880c-07154e15616b",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.955326Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7d28b59b-e038-4cfe-85b8-cb3c94eec0f1",
+                      "Name":  "Awesome Metal Chicken",
+                      "Quantity":  4,
+                      "Price":  202,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9553346Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "20afffaa-35f4-4a03-96cd-602b53253643",
+                      "Name":  "Rustic Fresh Shirt",
+                      "Quantity":  1,
+                      "Price":  405,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.9553386Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

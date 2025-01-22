@@ -1,0 +1,44 @@
+{
+    "Id":  "0a6f3b83-6860-44db-a7be-1dc54f1c1364",
+    "Title":  "01/16 飲料購物清單",
+    "CreatedAt":  "2025-01-19T19:16:33.8262176+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3de6a64-2324-420d-b927-7ac24cba20c3",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.785157Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00a6e1ff-f3aa-4d09-a6f6-d7259daf74d1",
+                      "Name":  "Fantastic Fresh Tuna",
+                      "Quantity":  4,
+                      "Price":  255,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7851714Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9705b1f-d8d5-4554-9d02-302c9ba384b1",
+                      "Name":  "Tasty Frozen Ball",
+                      "Quantity":  5,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7851745Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9dc0cd4-cbba-4075-a159-5d8fe5c32b1e",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7851754Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

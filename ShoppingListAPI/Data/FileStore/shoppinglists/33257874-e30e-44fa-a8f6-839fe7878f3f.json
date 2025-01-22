@@ -1,0 +1,35 @@
+{
+    "Id":  "33257874-e30e-44fa-a8f6-839fe7878f3f",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-18T16:26:24.5950484+08:00",
+    "Items":  [
+                  {
+                      "Id":  "98480f19-5f16-4b55-8a6e-25a2d7c6d2b6",
+                      "Name":  "筆記本",
+                      "Quantity":  1,
+                      "Price":  144.637491380736680,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:02:19.9731154+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73d67faa-5b87-4037-ae37-89d5dab5ead4",
+                      "Name":  "芳香劑",
+                      "Quantity":  4,
+                      "Price":  482.532946328527770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:07:42.4169586+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e69fc3a-24d3-4eee-894c-2924db50d76a",
+                      "Name":  "乳液",
+                      "Quantity":  7,
+                      "Price":  176.469744214292960,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:38:46.5161235+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

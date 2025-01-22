@@ -1,0 +1,89 @@
+{
+    "Id":  "c9319aa2-fdd8-4872-8149-bf03be1d35a5",
+    "Title":  "01/18 生鮮購物清單",
+    "CreatedAt":  "2025-01-15T17:33:54.1043415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6acd3b26-9873-4e07-9dfe-85b51078f676",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b979b914-cbda-4709-a0b9-341043e8e798",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "59706627-c6bb-4553-accc-e97ff7313acc",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  22,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716796Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ce76405-14f6-4108-a4f6-d176964b0acb",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  39,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716805Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d5b3cef9-72ae-46e0-9133-fc497c4f0e9e",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716817Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0a05e589-eec3-4609-99a2-699e4ecc20f4",
+                      "Name":  "Practical Concrete Towels",
+                      "Quantity":  2,
+                      "Price":  133,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:53.5716999Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56dbdd54-51cf-4618-b23b-80783150ad29",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5717007Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d1a9866-ea02-41d8-988a-cd4b72c6c072",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  333,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5717016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0e8206c0-92c4-4618-9903-e40bc3ba62de",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:53.5717029Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

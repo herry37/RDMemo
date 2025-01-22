@@ -1,0 +1,35 @@
+{
+    "Id":  "05d8ce0f-30b9-4953-ae73-17c8556f9d68",
+    "Title":  "01/20 零食購物清單",
+    "CreatedAt":  "2025-01-21T02:25:26.302107+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ad15aa25-c205-41cf-a17a-dd846ac52c7f",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  120,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.268366Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a31d552-26fe-4927-acb3-5fed93905f99",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2683705Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "18bec55e-ea71-4cf2-b8c4-5ba24b0f9d49",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.2683715Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

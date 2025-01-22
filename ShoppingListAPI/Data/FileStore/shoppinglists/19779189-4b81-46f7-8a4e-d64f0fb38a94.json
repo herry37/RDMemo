@@ -1,0 +1,71 @@
+{
+    "Id":  "19779189-4b81-46f7-8a4e-d64f0fb38a94",
+    "Title":  "早市採買 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-17T11:54:07.9705098+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d027699c-1826-4223-85f1-81b8e3226e3a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  63,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T09:22:33.0988443+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29881522-942f-421f-bedf-3aa5fe21b947",
+                      "Name":  "多功能置物盒",
+                      "Quantity":  2,
+                      "Price":  195,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T06:30:33.72804+08:00",
+                      "CompletedAt":  "2025-01-19T05:19:52.9115278+08:00"
+                  },
+                  {
+                      "Id":  "686cde44-58be-4355-a35c-455ccdadc97c",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T20:48:14.0929963+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c38dc782-d616-4c6b-9d06-3113642a3295",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  287,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:51:22.6329172+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ff9bb471-20cc-47e1-8deb-b800e68479dc",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  2,
+                      "Price":  261,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T22:56:52.4929648+08:00",
+                      "CompletedAt":  "2025-01-20T04:36:42.5643236+08:00"
+                  },
+                  {
+                      "Id":  "a516ac6d-bc01-4373-b5c9-213a446b1391",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  197,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:02:55.1477239+08:00",
+                      "CompletedAt":  "2025-01-19T01:33:16.5483848+08:00"
+                  },
+                  {
+                      "Id":  "dd24b405-2c4c-4621-ab5a-7af95de31a9e",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T20:57:57.4916137+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

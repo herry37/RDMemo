@@ -1,0 +1,35 @@
+{
+    "Id":  "46ad54a9-0b15-4747-a528-3de2de81acac",
+    "Title":  "派對用品 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-21T05:26:06.6614546+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8938ec71-78b5-405c-8b5b-4c24f9421199",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  4,
+                      "Price":  37,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T02:29:48.434425+08:00",
+                      "CompletedAt":  "2025-01-15T08:10:53.5718+08:00"
+                  },
+                  {
+                      "Id":  "001047dc-6ce4-47fb-b09c-22b49e5d8dae",
+                      "Name":  "木質相框",
+                      "Quantity":  2,
+                      "Price":  46,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:44:32.8566955+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d52d6c64-2704-4710-9535-cd1cf7f490d0",
+                      "Name":  "自動訂書機",
+                      "Quantity":  5,
+                      "Price":  99,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:39:47.8493701+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

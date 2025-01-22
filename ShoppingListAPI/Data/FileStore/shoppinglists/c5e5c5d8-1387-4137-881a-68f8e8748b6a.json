@@ -1,0 +1,98 @@
+{
+    "Id":  "c5e5c5d8-1387-4137-881a-68f8e8748b6a",
+    "Title":  "01/15 個人護理購物清單",
+    "CreatedAt":  "2025-01-15T09:03:02.4459074+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c65a4be5-fc96-401d-85da-4aff9f63a3bd",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  158,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894244Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6c45ada6-c09f-4977-a2ea-a330ac82ea26",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  324,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.289432Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34a35806-96ac-4997-bc54-e99b0fa2cef0",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.289433Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5682fff3-4d4a-46fb-99a9-279c22df094b",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  448,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894342Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d17621f-dd6f-4546-8404-ef8a0fd25b75",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894355Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "139aa99d-a874-493c-afdc-d29b6113ee7d",
+                      "Name":  "Incredible Frozen Soap",
+                      "Quantity":  1,
+                      "Price":  43,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "23c6eeb1-3cf6-4003-bbc8-816224b1a001",
+                      "Name":  "Refined Rubber Fish",
+                      "Quantity":  2,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894728Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5482e586-1d51-4128-84aa-62fa38df73f6",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  96,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894738Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "892c2053-30f1-41ad-8b2e-1e683b3362ec",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  408,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "daa0397e-33ce-42bf-8869-71609099ba90",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  25,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2894772Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

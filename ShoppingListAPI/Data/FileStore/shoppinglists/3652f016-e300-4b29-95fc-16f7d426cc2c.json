@@ -1,0 +1,89 @@
+{
+    "Id":  "3652f016-e300-4b29-95fc-16f7d426cc2c",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-17T20:02:28.7359368+08:00",
+    "Items":  [
+                  {
+                      "Id":  "95f6745f-56cd-4e45-9baf-c4ae665a489e",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  189,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6750791Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f82786f8-1ea6-4181-bdb3-bff28d03fe6f",
+                      "Name":  "Tasty Frozen Hat",
+                      "Quantity":  2,
+                      "Price":  123,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6750952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b2d5d240-07a5-426b-918d-1e6dad1fd9d8",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6750962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ae63b81f-517b-4280-ab07-803549e03a4d",
+                      "Name":  "垃圾袋",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6750971Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "582616a4-516a-4139-a431-b21d2275214c",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.675098Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e06b42db-90cb-4c91-a732-e39e917b3c13",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6751024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "891ba214-20c8-4dca-b863-981970c695ce",
+                      "Name":  "Small Plastic Towels",
+                      "Quantity":  5,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6751049Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89acfdde-6043-4845-8d25-0091d20d1854",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  20,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6751059Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "136e9ea6-7216-4934-8f19-3df67b6f942a",
+                      "Name":  "Small Rubber Table",
+                      "Quantity":  1,
+                      "Price":  415,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6751081Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

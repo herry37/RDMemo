@@ -1,0 +1,71 @@
+{
+    "Id":  "bd28af53-2851-4e4d-89a0-ad3ad6fbab27",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T11:11:03.5620741+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2102b517-3e88-4cdb-b78c-ee19a35526aa",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:29:17.9028947+08:00",
+                      "CompletedAt":  "2025-01-17T03:02:46.5041756+08:00"
+                  },
+                  {
+                      "Id":  "e4479b2c-254e-49d0-9a10-cd1639940269",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:48:13.3637054+08:00",
+                      "CompletedAt":  "2025-01-21T02:28:04.6694039+08:00"
+                  },
+                  {
+                      "Id":  "5b353872-7942-4985-8bd8-638178bddd82",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  3,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:59:10.3929589+08:00",
+                      "CompletedAt":  "2025-01-15T11:32:29.9138621+08:00"
+                  },
+                  {
+                      "Id":  "b30bf6c2-3810-4acf-9fb4-24d89bf28973",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:28:27.7447046+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce291757-3e4c-4969-ab6d-758d6b0f3c21",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  283,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:29:08.0229719+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "25a5c591-f0ed-4169-a981-6cded8c60523",
+                      "Name":  "進口糖果",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T05:09:58.8063477+08:00",
+                      "CompletedAt":  "2025-01-18T12:53:49.9705397+08:00"
+                  },
+                  {
+                      "Id":  "cd0a33cd-9bf0-4f4a-a3f0-1dd6621c0965",
+                      "Name":  "運動飲料",
+                      "Quantity":  1,
+                      "Price":  237,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T01:39:05.2229063+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

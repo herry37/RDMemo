@@ -1,0 +1,62 @@
+{
+    "Id":  "e828b144-375e-4b99-b97c-180ba2d6b3c5",
+    "Title":  "01/19 生鮮購物清單",
+    "CreatedAt":  "2025-01-21T13:12:01.2544209+08:00",
+    "Items":  [
+                  {
+                      "Id":  "63e04dce-cbd2-48fe-95c5-2d8069c4ccb7",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.978925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "87f8c50b-5383-4aa4-bf9d-5bce5bd861f8",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  181,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9789294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5d321ba3-01a8-432d-8ac7-e4d8c5559c11",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9789314Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9075144b-debe-4382-a062-920a19491418",
+                      "Name":  "飲料",
+                      "Quantity":  1,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9789334Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9968b481-5bbf-4ef3-a19a-28b2d4db858e",
+                      "Name":  "Practical Granite Pants",
+                      "Quantity":  5,
+                      "Price":  383,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9789605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2f704fba-c2cc-4d6c-a907-9a47d997c52d",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  484,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9789639Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

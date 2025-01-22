@@ -1,0 +1,62 @@
+{
+    "Id":  "37d1b2ee-9aac-4a70-b2eb-dd4a16b75f26",
+    "Title":  "早市採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-15T14:42:45.2136266+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1dcc1676-b56f-4b1f-8f57-872faf927436",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  222,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T18:11:32.6864156+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f02cec9c-ee7a-452e-bd37-873616cda30e",
+                      "Name":  "電動牙刷",
+                      "Quantity":  3,
+                      "Price":  275,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:50:51.0432657+08:00",
+                      "CompletedAt":  "2025-01-18T08:37:45.8645841+08:00"
+                  },
+                  {
+                      "Id":  "84dd4c5d-072c-42d7-82c3-04a89b2e46ee",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  3,
+                      "Price":  151,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:26:08.319679+08:00",
+                      "CompletedAt":  "2025-01-18T23:32:37.1380536+08:00"
+                  },
+                  {
+                      "Id":  "f3400c56-bb61-4555-84bc-b5100c43e801",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  2,
+                      "Price":  55,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:05:42.0873537+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c5bed918-aace-4fa9-af73-652f17d24afb",
+                      "Name":  "綜合堅果",
+                      "Quantity":  4,
+                      "Price":  225,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T06:20:51.1818496+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a07b488e-1f24-4ae9-95a3-f8e05728d1a9",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:34:42.1045888+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

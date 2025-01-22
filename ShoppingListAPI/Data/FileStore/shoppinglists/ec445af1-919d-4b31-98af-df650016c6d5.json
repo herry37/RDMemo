@@ -1,0 +1,62 @@
+{
+    "Id":  "ec445af1-919d-4b31-98af-df650016c6d5",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-15T19:16:11.3727845+08:00",
+    "Items":  [
+                  {
+                      "Id":  "888d1342-eafd-4295-a8e3-93e58067b9ee",
+                      "Name":  "巧克力",
+                      "Quantity":  7,
+                      "Price":  112.955477221778930,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:04:22.9043573+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9de8dfb3-23dd-41a3-8f3a-33e779bd48d3",
+                      "Name":  "毛巾",
+                      "Quantity":  9,
+                      "Price":  124.028335525419630,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T04:34:21.923565+08:00",
+                      "CompletedAt":  "2025-01-19T08:49:49.482004+08:00"
+                  },
+                  {
+                      "Id":  "e210d989-22b7-455f-b73f-9e5a604fd556",
+                      "Name":  "洗衣精",
+                      "Quantity":  10,
+                      "Price":  366.634537281248380,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T07:24:26.6226432+08:00",
+                      "CompletedAt":  "2025-01-21T14:02:19.5529448+08:00"
+                  },
+                  {
+                      "Id":  "e2773d6c-7556-455c-ae0c-65cae8c04f51",
+                      "Name":  "橡皮擦",
+                      "Quantity":  2,
+                      "Price":  15.3322303806843190,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:02:17.6645314+08:00",
+                      "CompletedAt":  "2025-01-21T11:39:33.6295884+08:00"
+                  },
+                  {
+                      "Id":  "af123a5c-e419-4041-864e-c7e4b4369b43",
+                      "Name":  "漂白水",
+                      "Quantity":  4,
+                      "Price":  449.438230874671910,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:36:50.3583537+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "549c903e-a975-4740-9199-84e3f2accc38",
+                      "Name":  "口香糖",
+                      "Quantity":  10,
+                      "Price":  283.552663466610080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:35:06.5279979+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

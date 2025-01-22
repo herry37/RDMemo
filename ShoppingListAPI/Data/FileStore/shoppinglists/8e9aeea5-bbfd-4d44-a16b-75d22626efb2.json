@@ -1,0 +1,71 @@
+{
+    "Id":  "8e9aeea5-bbfd-4d44-a16b-75d22626efb2",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-17T00:48:50.0152524+08:00",
+    "Items":  [
+                  {
+                      "Id":  "03fc6821-e608-4a68-9276-3b26a1bfd8d0",
+                      "Name":  "當季青菜",
+                      "Quantity":  1,
+                      "Price":  134,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:52:36.3165465+08:00",
+                      "CompletedAt":  "2025-01-19T10:07:42.2347834+08:00"
+                  },
+                  {
+                      "Id":  "0b9101e4-dce1-48d4-b3e2-b4530ca1b1a5",
+                      "Name":  "保濕乳液",
+                      "Quantity":  5,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:36:28.5955136+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "600e23a3-d419-4459-89aa-a7b53ca04c3a",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  198,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:11:52.9499292+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "75db7ee2-5225-4860-8d61-0841e14d1c8f",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:08:47.646375+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "19b9987d-0803-4f61-9697-9fe58745639f",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T22:23:07.1367157+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "177fc129-d6e2-4dd4-b014-65ba57991de8",
+                      "Name":  "透明膠帶",
+                      "Quantity":  5,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:32:41.0729397+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8925aace-1cfd-48bb-baf6-393daa6fac01",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T11:18:53.259922+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "bc520ff3-9ac1-47d9-9c4e-e723e05e832f",
+    "Title":  "01/15 飲料購物清單",
+    "CreatedAt":  "2025-01-19T08:42:48.199508+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a6afee1-564f-47af-bf80-21c86f58fb91",
+                      "Name":  "Sleek Granite Sausages",
+                      "Quantity":  4,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402571Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7b0c788-70c3-42bc-a780-a9a5b38c7987",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  474,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402603Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d73e8b21-e90c-4f06-b148-8afa567aff18",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  444,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402613Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22bfd27f-ee4a-489a-8e02-acaf2937e4a3",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  278,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402622Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1f11025a-bb4f-4026-a732-45b841734123",
+                      "Name":  "果汁",
+                      "Quantity":  2,
+                      "Price":  289,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402636Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a49f4eaf-1683-41be-a10a-3d44e98528af",
+                      "Name":  "Sleek Rubber Table",
+                      "Quantity":  1,
+                      "Price":  350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402715Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bfe24f89-e9dc-40db-a6ce-e5bf0d3ee633",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  214,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402724Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "63247b0f-f05b-4b25-a7d5-35c51ef25a68",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  334,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9402733Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

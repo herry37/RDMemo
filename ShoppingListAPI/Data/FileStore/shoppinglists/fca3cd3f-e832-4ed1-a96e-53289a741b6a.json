@@ -1,0 +1,62 @@
+{
+    "Id":  "fca3cd3f-e832-4ed1-a96e-53289a741b6a",
+    "Title":  "派對用品 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-20T01:58:39.5731981+08:00",
+    "Items":  [
+                  {
+                      "Id":  "361fd5d6-3358-4f6f-92cf-4a54ff1fbd54",
+                      "Name":  "純棉毛巾",
+                      "Quantity":  2,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:53:35.2488275+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "79b052e8-37fe-449a-8cf9-33b6db2f2618",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T16:06:00.4101811+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1391c5cb-5426-418d-ada1-3792ef558222",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T19:10:05.7332083+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "52407566-311c-4509-aae5-a65dc18e6098",
+                      "Name":  "有機綠茶",
+                      "Quantity":  5,
+                      "Price":  121,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T17:47:42.6191894+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2792a60e-a257-4ba0-8197-7aa358c43dd0",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  197,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:37:24.2304555+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2a1d953d-e48b-4f2d-9575-80a8671d0dac",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  1,
+                      "Price":  281,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:46:28.2541741+08:00",
+                      "CompletedAt":  "2025-01-17T06:26:52.5207786+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

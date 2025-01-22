@@ -1,0 +1,53 @@
+{
+    "Id":  "4639f2f9-004c-4eb0-984d-8111034d5266",
+    "Title":  "早市採買 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-20T11:23:41.044035+08:00",
+    "Items":  [
+                  {
+                      "Id":  "56c3084b-d9d4-4f3b-a6fb-5547cab66c5e",
+                      "Name":  "放山雞",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:31:43.5458178+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "acb72e03-cdc3-4b06-9bea-f688478b91bb",
+                      "Name":  "清潔手套",
+                      "Quantity":  2,
+                      "Price":  136,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:42:29.4551611+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1bce58b3-90a3-4dc8-9972-a7a71c2baf55",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  161,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:31:25.8383161+08:00",
+                      "CompletedAt":  "2025-01-19T12:45:24.4961345+08:00"
+                  },
+                  {
+                      "Id":  "919664d8-5e75-441b-b48e-5e08f0a65d5e",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  3,
+                      "Price":  21,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:01:04.4731489+08:00",
+                      "CompletedAt":  "2025-01-19T19:41:17.177385+08:00"
+                  },
+                  {
+                      "Id":  "4d612828-e85c-46d5-a8dd-793f5c81bb41",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:25:45.0283683+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

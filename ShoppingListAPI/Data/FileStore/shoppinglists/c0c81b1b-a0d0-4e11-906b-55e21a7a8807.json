@@ -1,0 +1,62 @@
+{
+    "Id":  "c0c81b1b-a0d0-4e11-906b-55e21a7a8807",
+    "Title":  "01/20 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T01:07:07.0327261+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9129d3b2-3d91-4919-ae8b-7271a543a8ef",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9104967Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ecf8853f-0b20-4e0b-86f0-994d3542c7fe",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  15,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9104995Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6309be37-12dc-4b94-a4b0-a6951a9550e2",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  357,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:56.9105024Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d41404f1-679e-405e-9c61-03cce7453476",
+                      "Name":  "Licensed Granite Ball",
+                      "Quantity":  2,
+                      "Price":  128,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9105177Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6f20ed6-9973-4c61-9a42-14ca44f2598b",
+                      "Name":  "Rustic Fresh Mouse",
+                      "Quantity":  1,
+                      "Price":  326,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9105227Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "874f3d34-e89f-4b35-b774-e107ca9e6e8b",
+                      "Name":  "零食",
+                      "Quantity":  2,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:56.9105251Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

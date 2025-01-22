@@ -1,0 +1,62 @@
+{
+    "Id":  "1b2c4636-b2e7-42cf-99dd-34a83d80cca4",
+    "Title":  "早市採買 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T00:38:19.9776961+08:00",
+    "Items":  [
+                  {
+                      "Id":  "650afbf4-d753-45c2-98be-daab502e0e4e",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  255,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T16:03:25.3536838+08:00",
+                      "CompletedAt":  "2025-01-21T09:12:37.203672+08:00"
+                  },
+                  {
+                      "Id":  "bbab3b73-24d1-4fed-acb3-7ed8afc83b9d",
+                      "Name":  "放牧蛋",
+                      "Quantity":  4,
+                      "Price":  262,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T18:08:08.4962125+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f7f8830-976b-4771-99d9-de2f5b96dc01",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  5,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T17:56:16.7769625+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c2293004-94b9-4174-b0c6-2fba1ef96b5d",
+                      "Name":  "天然肥皂",
+                      "Quantity":  3,
+                      "Price":  297,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:23:23.5534738+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2155154d-c5a4-4e25-afa4-564b6117b793",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  2,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:06:54.7777073+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2d3b039-ddd9-416e-96f6-7cf35680ad4c",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  5,
+                      "Price":  256,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:36:29.1608515+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

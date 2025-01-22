@@ -1,0 +1,98 @@
+{
+    "Id":  "45cbf5d0-3a3e-4c8d-a601-6d391676bd4e",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-19T19:17:02.8096798+08:00",
+    "Items":  [
+                  {
+                      "Id":  "31e18727-eacb-4db0-b7ff-0dbe56ea64c2",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165437Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ae29c19-6b85-49d7-82ea-0050c0841d20",
+                      "Name":  "糖",
+                      "Quantity":  2,
+                      "Price":  353,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165477Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "efc885a0-975c-4539-8dee-50616b2bcd92",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  355,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165497Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f01bd4f-5c7e-4a49-9863-12b984919651",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  206,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165516Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69655cc4-b127-43c2-9ae2-5970e4c5a469",
+                      "Name":  "蔬菜",
+                      "Quantity":  1,
+                      "Price":  54,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.916554Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ad22cab-64b6-4d01-8324-75918219c620",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  388,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165574Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07f5f9b8-3e41-4483-a296-100171afdd61",
+                      "Name":  "麵條",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165592Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d884bd1a-89c3-48bb-bd18-e437706ccd13",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  274,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165609Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8197c680-3478-4d05-8a6e-82103d00d719",
+                      "Name":  "Practical Granite Gloves",
+                      "Quantity":  3,
+                      "Price":  62,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb707c21-902c-4b23-bda2-db27ca111656",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:56.9165986Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

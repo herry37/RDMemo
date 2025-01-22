@@ -1,0 +1,44 @@
+{
+    "Id":  "0b5bec42-7fc3-4de7-a4d3-443e151c7571",
+    "Title":  "01/21 生鮮採買清單",
+    "CreatedAt":  "2025-01-18T03:48:05.4080644+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a7b14f59-2d53-43bb-b27e-70ae93711115",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3622869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66e291be-aae5-4783-92b3-910a737fc0ec",
+                      "Name":  "Fantastic Soft Shoes",
+                      "Quantity":  1,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.36232Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22201c2a-f7c9-40dc-9d25-5fcaca00b311",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  183,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:26:51.3623219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec8f1099-b1dc-4f20-9ba9-9280f9e96889",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:26:51.3623238Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

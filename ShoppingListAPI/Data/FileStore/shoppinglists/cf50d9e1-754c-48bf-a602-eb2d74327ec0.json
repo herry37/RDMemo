@@ -1,0 +1,71 @@
+{
+    "Id":  "cf50d9e1-754c-48bf-a602-eb2d74327ec0",
+    "Title":  "01/20 日常用品購物清單",
+    "CreatedAt":  "2025-01-20T10:03:37.436382+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c682bbde-c9af-4726-9fb2-0b3661ab4160",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  268,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931734Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6c0512b-5693-49ad-b0e4-12856cc6a2fe",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  392,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931766Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cc559954-95da-44b1-8d51-a0eaaf6e99ef",
+                      "Name":  "Fantastic Steel Gloves",
+                      "Quantity":  2,
+                      "Price":  442,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931915Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b952779-3c8b-480a-8c39-6fcfdf6d9978",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  341,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931924Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5beaee3c-7088-492b-b8b4-bf579d5496e8",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  334,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931932Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6e194954-1e53-4301-880b-b1b80ee136b8",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931952Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8686ad92-6535-4986-978b-9243a8a78b90",
+                      "Name":  "Incredible Plastic Tuna",
+                      "Quantity":  4,
+                      "Price":  203,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7931974Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

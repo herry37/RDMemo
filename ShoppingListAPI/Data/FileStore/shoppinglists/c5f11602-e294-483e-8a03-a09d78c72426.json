@@ -1,0 +1,44 @@
+{
+    "Id":  "c5f11602-e294-483e-8a03-a09d78c72426",
+    "Title":  "每週採購清單 - 01/20",
+    "CreatedAt":  "2025-01-19T05:23:12.1433112+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ca8781f2-5c57-4278-8d1d-fd8c678489cb",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  418.956193677556280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:25:35.2098274+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fc6730f4-a142-447c-85b6-ee4209af0d77",
+                      "Name":  "蘋果",
+                      "Quantity":  7,
+                      "Price":  342.27148794434070,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:58:24.2824673+08:00",
+                      "CompletedAt":  "2025-01-17T07:29:55.2363474+08:00"
+                  },
+                  {
+                      "Id":  "f597a142-77a7-4fee-ba15-aa14872973ad",
+                      "Name":  "漂白水",
+                      "Quantity":  10,
+                      "Price":  379.477000041248190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:22:08.7148735+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f0a3d6d-8fb1-4ef7-89fc-4dbdf0e68151",
+                      "Name":  "防曬乳",
+                      "Quantity":  1,
+                      "Price":  475.594048707465650,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:25:51.0457264+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

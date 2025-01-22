@@ -1,0 +1,80 @@
+{
+    "Id":  "e122ed6c-a74c-4165-bb86-e7bb3e308a21",
+    "Title":  "聚會準備 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T20:18:59.4600192+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7ac52055-5c24-4e70-9607-4bf1e3e2779c",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  1,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:18:23.0693018+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0dbf5c9-d5e2-40a9-a4f0-b5a61efcbd95",
+                      "Name":  "氣泡水",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T10:25:46.2639539+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "beca8d65-4777-413b-a1e2-2f4f0da73d15",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:34:15.4459916+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "46958ca2-aff5-4c04-b5ba-c89982a1d838",
+                      "Name":  "氣泡水",
+                      "Quantity":  3,
+                      "Price":  282,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:21:12.6233105+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c84d33a-ee4f-4724-af50-0adc219adf78",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T06:21:23.7745352+08:00",
+                      "CompletedAt":  "2025-01-18T04:03:21.5963323+08:00"
+                  },
+                  {
+                      "Id":  "f63d4d3a-b3a7-4b05-a51b-6df754e7ea62",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  1,
+                      "Price":  55,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T02:22:11.7667926+08:00",
+                      "CompletedAt":  "2025-01-20T10:50:50.5678325+08:00"
+                  },
+                  {
+                      "Id":  "9f75a20b-5544-4385-a277-a6c25035844f",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T18:55:52.3678289+08:00",
+                      "CompletedAt":  "2025-01-21T12:17:28.7200554+08:00"
+                  },
+                  {
+                      "Id":  "3ade2c41-5793-4816-b7ca-c1f403141daf",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  52,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:42:57.1038436+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

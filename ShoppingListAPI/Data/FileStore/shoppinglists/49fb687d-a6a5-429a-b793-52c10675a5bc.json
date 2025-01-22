@@ -1,0 +1,71 @@
+{
+    "Id":  "49fb687d-a6a5-429a-b793-52c10675a5bc",
+    "Title":  "每週採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-17T12:23:19.2489357+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0e2dd3d9-4d56-46a3-a061-be4aaa493c20",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  5,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T21:11:08.2943124+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a5b31df-9c5a-4ce9-b09a-3225b9f11660",
+                      "Name":  "靜電掃把",
+                      "Quantity":  4,
+                      "Price":  236,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T04:11:19.2984661+08:00",
+                      "CompletedAt":  "2025-01-21T13:40:10.230279+08:00"
+                  },
+                  {
+                      "Id":  "ca13e342-6676-49a6-9e15-c0fa7c761d21",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T06:43:05.0639806+08:00",
+                      "CompletedAt":  "2025-01-17T04:46:42.1057026+08:00"
+                  },
+                  {
+                      "Id":  "0a2f55bd-11d5-42a0-b706-fb4a3cc97267",
+                      "Name":  "運動飲料",
+                      "Quantity":  4,
+                      "Price":  26,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T10:03:48.4666777+08:00",
+                      "CompletedAt":  "2025-01-19T15:32:19.0917+08:00"
+                  },
+                  {
+                      "Id":  "388b50b0-b6e4-42da-a45d-8ceba99c1cd7",
+                      "Name":  "進口可樂",
+                      "Quantity":  3,
+                      "Price":  274,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T21:35:05.5597035+08:00",
+                      "CompletedAt":  "2025-01-18T04:01:34.6808259+08:00"
+                  },
+                  {
+                      "Id":  "604bffd7-98ea-4f04-abf9-7eded726b7d3",
+                      "Name":  "運動飲料",
+                      "Quantity":  2,
+                      "Price":  276,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:05:46.5226146+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0510ef6c-6777-46b7-b9ec-b7ab429f68c2",
+                      "Name":  "放山雞",
+                      "Quantity":  1,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T05:36:57.8729072+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

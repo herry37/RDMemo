@@ -1,0 +1,35 @@
+{
+    "Id":  "05d5da02-aef2-4fe6-8d4f-784575456ad2",
+    "Title":  "01/17 清潔用品購物清單",
+    "CreatedAt":  "2025-01-18T19:12:12.6007655+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82ab5a33-ada8-4868-bf91-4ec40fa16687",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  488,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.9496864Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ad84baa-ad4f-4ff6-bde4-2bd4e6cf8419",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  259,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9496905Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b1be52fa-5f37-49fe-958c-7d14a67c2a32",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.9496918Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

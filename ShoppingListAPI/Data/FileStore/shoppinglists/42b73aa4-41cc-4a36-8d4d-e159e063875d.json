@@ -1,0 +1,71 @@
+{
+    "Id":  "42b73aa4-41cc-4a36-8d4d-e159e063875d",
+    "Title":  "露營準備 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-18T12:34:07.5866298+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e7223eb7-42f8-4bb9-9926-f9183a83bed8",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  4,
+                      "Price":  169,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T08:46:30.9347823+08:00",
+                      "CompletedAt":  "2025-01-16T23:13:32.3530262+08:00"
+                  },
+                  {
+                      "Id":  "b99edab5-496c-448a-b989-749f27cad0fa",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  2,
+                      "Price":  293,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:55:41.8285375+08:00",
+                      "CompletedAt":  "2025-01-21T21:48:58.426612+08:00"
+                  },
+                  {
+                      "Id":  "af395f36-423b-4850-9878-84005c533b48",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:25:13.6114925+08:00",
+                      "CompletedAt":  "2025-01-18T12:07:57.1277988+08:00"
+                  },
+                  {
+                      "Id":  "488eb632-bfdc-4920-a444-67503a01ce07",
+                      "Name":  "天然海綿",
+                      "Quantity":  5,
+                      "Price":  288,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T07:53:02.7272194+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab185806-881c-4f4d-8c65-3052087f4525",
+                      "Name":  "精品咖啡",
+                      "Quantity":  1,
+                      "Price":  220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:36:30.5228182+08:00",
+                      "CompletedAt":  "2025-01-17T07:41:46.9345557+08:00"
+                  },
+                  {
+                      "Id":  "99e68525-20d8-4631-843c-f316d88b97de",
+                      "Name":  "原木梳子",
+                      "Quantity":  1,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:11:00.6499516+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04215a97-886b-42d4-b402-ec748ac2c003",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  119,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:28:32.9291437+08:00",
+                      "CompletedAt":  "2025-01-21T11:16:15.1768844+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "32f80eb3-ed6f-40cd-aa14-d64f4cd5a601",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T02:13:47.1075318+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c0a0063f-a38e-421b-a8d5-09a884150a6d",
+                      "Name":  "置物盒",
+                      "Quantity":  8,
+                      "Price":  163.784280634088370,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:38:39.2265633+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d2807456-8313-4c1a-a010-dca35a4305c1",
+                      "Name":  "資料夾",
+                      "Quantity":  10,
+                      "Price":  321.935297771872740,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T20:48:37.6157282+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "78d91f36-cff5-4856-9616-c202abfd0094",
+                      "Name":  "杯子",
+                      "Quantity":  9,
+                      "Price":  140.974278031155580,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T05:31:24.8856854+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c49c0702-35a9-419c-b83d-94dff98872bb",
+                      "Name":  "鍋子",
+                      "Quantity":  5,
+                      "Price":  460.086127482128340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T03:11:49.3653782+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81963740-4b22-42ad-bd0d-ca3de02af192",
+                      "Name":  "餐具",
+                      "Quantity":  5,
+                      "Price":  299.779940546702690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:59:26.9511483+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "083460f8-005a-4b1c-971b-8c509ba27aa3",
+                      "Name":  "筆記本",
+                      "Quantity":  10,
+                      "Price":  454.268736808220520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:33:35.8438833+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

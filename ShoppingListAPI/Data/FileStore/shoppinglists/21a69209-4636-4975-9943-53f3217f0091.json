@@ -1,0 +1,71 @@
+{
+    "Id":  "21a69209-4636-4975-9943-53f3217f0091",
+    "Title":  "聚會準備 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-20T04:07:12.8194046+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2894df11-7a68-4ac1-9361-b7795d6413c0",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T13:35:11.4602795+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "61d4f3b1-7148-4c17-a108-e96bd9b923a6",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:29:01.6263302+08:00",
+                      "CompletedAt":  "2025-01-15T06:52:30.4209019+08:00"
+                  },
+                  {
+                      "Id":  "6999da43-9dc3-451f-8b5f-0e7eb2e4461b",
+                      "Name":  "保養化妝品",
+                      "Quantity":  3,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:01:31.6850563+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be11bfcc-c19e-41fb-a861-e10987b7445f",
+                      "Name":  "焦糖爆米花",
+                      "Quantity":  4,
+                      "Price":  43,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:22:28.736776+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a2cafe80-6361-44cf-8277-53472b19eb8f",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  5,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:42:15.3335261+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3516c590-36c5-495d-a471-7d981043133b",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  1,
+                      "Price":  116,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T04:29:24.7779745+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db3afb6a-7fe1-41ec-b089-7af5421f229d",
+                      "Name":  "濃縮洗碗精",
+                      "Quantity":  4,
+                      "Price":  155,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:41:41.5736937+08:00",
+                      "CompletedAt":  "2025-01-17T16:50:03.0172603+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

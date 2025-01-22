@@ -1,0 +1,80 @@
+{
+    "Id":  "c63a4e3f-bb70-4661-89d6-905f4d412c9c",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T17:01:19.3595488+08:00",
+    "Items":  [
+                  {
+                      "Id":  "70c88a1a-93f7-4f9b-9d45-1107adc96a25",
+                      "Name":  "餅乾",
+                      "Quantity":  3,
+                      "Price":  45,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3316701Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6ca9dab4-a44d-4de3-b824-01833766d837",
+                      "Name":  "鹽",
+                      "Quantity":  1,
+                      "Price":  86,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.331674Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3c7ba003-549f-4fb6-9fab-c582df9c23e6",
+                      "Name":  "Generic Wooden Towels",
+                      "Quantity":  2,
+                      "Price":  313,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317179Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a8cd6752-908f-43cf-aaaf-c7c4db80a6ad",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fb662e29-5342-4d5a-8c6b-439d4f35e440",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  209,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317205Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91bd4ee5-5408-4d82-99ac-49e897f311c0",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  21,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317236Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "100f56d0-046e-4e51-a897-5dda224013a6",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  432,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317249Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4b42dfe8-2fe8-4e35-be16-a484260281fd",
+                      "Name":  "Awesome Granite Sausages",
+                      "Quantity":  3,
+                      "Price":  446,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3317421Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

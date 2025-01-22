@@ -1,0 +1,80 @@
+{
+    "Id":  "e33329b9-88b4-4691-ade3-e649d5934102",
+    "Title":  "聚會準備 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-19T05:31:50.8104209+08:00",
+    "Items":  [
+                  {
+                      "Id":  "72137a9f-578a-4ff5-b581-fd996b070d0f",
+                      "Name":  "自動訂書機",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T00:21:17.8370926+08:00",
+                      "CompletedAt":  "2025-01-21T06:48:42.6748325+08:00"
+                  },
+                  {
+                      "Id":  "6f911984-7810-4d81-a625-74d701ad2f21",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  2,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T00:08:57.2647877+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22aec643-d996-43a3-9721-b8081ceaf9cc",
+                      "Name":  "LED檯燈",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T03:02:34.3650322+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f902679-23cd-47c6-8309-b8d4a84d9202",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  96,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T08:00:35.9466101+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "225c62b8-af9d-43a6-8873-b91a83a9e763",
+                      "Name":  "靜電掃把",
+                      "Quantity":  2,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T23:21:52.7268692+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da2e3a3a-323f-4700-bb7e-5fc54be89ea3",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:54:40.9470134+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a73e8b69-f595-4bbe-8ec4-6abbb570ffa1",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T09:15:25.763705+08:00",
+                      "CompletedAt":  "2025-01-22T07:03:50.8779942+08:00"
+                  },
+                  {
+                      "Id":  "15dba5ac-d67f-4891-a10d-94293bb446f2",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  1,
+                      "Price":  113,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:18:15.3537684+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

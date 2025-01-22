@@ -1,0 +1,35 @@
+{
+    "Id":  "d1b15968-96be-44a9-81f5-5f4739ac462a",
+    "Title":  "01/18 生鮮採買清單",
+    "CreatedAt":  "2025-01-17T03:46:50.6696977+08:00",
+    "Items":  [
+                  {
+                      "Id":  "eb2072ae-ad29-4a88-b09f-e2524dc176ee",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  469,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2131279Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3a6cd71-eeaa-4f2c-82fc-1aea09b95554",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  438,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.2131336Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ca08490-8387-470e-b38f-d9ac62a2e641",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:45.213135Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

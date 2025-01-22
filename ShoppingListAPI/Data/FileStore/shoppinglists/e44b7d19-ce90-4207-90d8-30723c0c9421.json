@@ -1,0 +1,35 @@
+{
+    "Id":  "e44b7d19-ce90-4207-90d8-30723c0c9421",
+    "Title":  "01/17 生鮮採買清單",
+    "CreatedAt":  "2025-01-19T23:38:36.2281097+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2b80897d-e021-4dc8-829e-e33a157f474b",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  343,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:20.6678248Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "af02da7e-2767-43f2-9239-ecd595323da0",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  384,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6678294Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7bf309dd-4d3c-4003-9acd-8ffcaf5f8892",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  248,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:20.6678307Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

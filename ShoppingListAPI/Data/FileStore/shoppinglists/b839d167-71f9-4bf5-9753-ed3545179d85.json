@@ -1,0 +1,62 @@
+{
+    "Id":  "b839d167-71f9-4bf5-9753-ed3545179d85",
+    "Title":  "01/18 日常用品採買清單",
+    "CreatedAt":  "2025-01-19T19:21:54.4477485+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f00ea321-a907-4944-9d61-73ac985d3516",
+                      "Name":  "麵包",
+                      "Quantity":  5,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4959224Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0042abaa-dd36-4e3f-a80c-e744b5f814d4",
+                      "Name":  "Incredible Granite Table",
+                      "Quantity":  1,
+                      "Price":  231,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4959759Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be40d6ce-45b8-4f91-9268-59d711cab02d",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4960009Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6fcc16a8-acf9-4114-99e5-ff3cd6b08fab",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  148,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4960035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a70a74e3-a86a-4d05-a66c-5c247c3d2cd8",
+                      "Name":  "Tasty Cotton Chips",
+                      "Quantity":  2,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.4960118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "012db9f2-3aee-47fc-a43f-508c4284353e",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  283,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.4960157Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

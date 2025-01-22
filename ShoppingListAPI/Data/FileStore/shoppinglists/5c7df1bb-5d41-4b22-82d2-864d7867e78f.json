@@ -1,0 +1,98 @@
+{
+    "Id":  "5c7df1bb-5d41-4b22-82d2-864d7867e78f",
+    "Title":  "01/20 食品購物清單",
+    "CreatedAt":  "2025-01-20T09:10:37.1602618+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ba44050f-011e-436c-bc2b-1a9f7032f0a5",
+                      "Name":  "咖啡",
+                      "Quantity":  1,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8236974Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6d13acd9-098c-4607-9fca-dcaeddeb3d56",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.823701Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "adbd04ab-0228-4f38-ab9a-56b17bc70372",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  114,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da3ddd66-b061-4cb3-951f-0e918fe4bb42",
+                      "Name":  "Small Soft Sausages",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237464Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f433c05-2dc9-4c55-bd44-3b3b8b682cd2",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  438,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237491Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b3772ebb-1d46-481e-bd90-63c754b57074",
+                      "Name":  "Gorgeous Soft Keyboard",
+                      "Quantity":  5,
+                      "Price":  443,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237563Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48292764-185d-491e-9f25-6ee13a45c738",
+                      "Name":  "醬油",
+                      "Quantity":  1,
+                      "Price":  338,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237573Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "956a5adc-c6af-47fc-981a-ce89bfe5fb7f",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  373,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237581Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a41213e7-6807-40a5-ae9c-c43b27770693",
+                      "Name":  "Gorgeous Cotton Soap",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237619Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "864e0afc-1c4d-42f8-a054-1b49cf36bac7",
+                      "Name":  "垃圾袋",
+                      "Quantity":  3,
+                      "Price":  443,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.8237631Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

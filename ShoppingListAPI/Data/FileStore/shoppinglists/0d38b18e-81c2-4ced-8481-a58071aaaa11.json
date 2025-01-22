@@ -1,0 +1,35 @@
+{
+    "Id":  "0d38b18e-81c2-4ced-8481-a58071aaaa11",
+    "Title":  "每週採購 - 便利商店 (01/20)",
+    "CreatedAt":  "2025-01-17T16:41:33.6845392+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9872875e-2189-455f-ba85-14883c42c6e9",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:43:00.7309311+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c1b50bd2-b591-4681-91e8-9a765b738bbc",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T08:26:13.1372292+08:00",
+                      "CompletedAt":  "2025-01-17T16:59:25.7964495+08:00"
+                  },
+                  {
+                      "Id":  "11248c99-ea14-4d7b-9074-4805b6e72f75",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  2,
+                      "Price":  112,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:21:42.3827351+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "dd8599d9-df91-410b-add9-84de3db68ebe",
+    "Title":  "01/18 個人護理採買清單",
+    "CreatedAt":  "2025-01-18T17:12:35.9573854+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c9b37cf0-deb5-4a29-8438-3f7e8099aa9c",
+                      "Name":  "鹽",
+                      "Quantity":  3,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2873976Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "83d8a1c0-47e8-4db7-a764-9c93956a8fb4",
+                      "Name":  "咖啡",
+                      "Quantity":  3,
+                      "Price":  465,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2874004Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5138ea73-b192-4a1a-ac12-7975cdcb8a44",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  327,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.287402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e683f155-78d9-4f84-8592-ed21b5c88fc0",
+                      "Name":  "礦泉水",
+                      "Quantity":  2,
+                      "Price":  422,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2874036Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf9c9e1f-49ba-4164-a8d3-7af4d6aa1b2d",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  314,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2874056Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

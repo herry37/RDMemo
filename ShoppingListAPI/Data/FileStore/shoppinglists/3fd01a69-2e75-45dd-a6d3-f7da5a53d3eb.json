@@ -1,0 +1,62 @@
+{
+    "Id":  "3fd01a69-2e75-45dd-a6d3-f7da5a53d3eb",
+    "Title":  "居家整理 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-21T14:58:02.6442169+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ecd3762d-12e0-4e67-b13d-965bf87237f6",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  3,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T05:28:47.0406141+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c03c559-6e74-4578-8ac7-f9a6f8c1be2c",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  4,
+                      "Price":  24,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T13:54:51.8129591+08:00",
+                      "CompletedAt":  "2025-01-21T03:20:40.9810491+08:00"
+                  },
+                  {
+                      "Id":  "f520d732-b9fe-4401-b209-c603b0d16388",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  5,
+                      "Price":  82,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T20:16:25.8773912+08:00",
+                      "CompletedAt":  "2025-01-18T00:45:12.8809065+08:00"
+                  },
+                  {
+                      "Id":  "7050ead3-4884-493d-ad19-e465e6845bbe",
+                      "Name":  "保養化妝品",
+                      "Quantity":  5,
+                      "Price":  153,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T08:41:40.6208352+08:00",
+                      "CompletedAt":  "2025-01-19T18:40:58.8151762+08:00"
+                  },
+                  {
+                      "Id":  "0629c6f2-c7e6-4fc8-a338-f710cf3b5c83",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  247,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:49:25.8381465+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56bc7294-6e6d-46fd-b40e-8bb6ff7069bb",
+                      "Name":  "骨瓷盤子",
+                      "Quantity":  5,
+                      "Price":  81,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T19:51:43.2594202+08:00",
+                      "CompletedAt":  "2025-01-19T04:24:34.4271726+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

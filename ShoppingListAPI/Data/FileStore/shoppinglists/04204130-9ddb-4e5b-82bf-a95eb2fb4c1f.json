@@ -1,0 +1,53 @@
+{
+    "Id":  "04204130-9ddb-4e5b-82bf-a95eb2fb4c1f",
+    "Title":  "每週採購 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-20T12:04:29.9963689+08:00",
+    "Items":  [
+                  {
+                      "Id":  "27a43d31-de32-4e32-b436-9cefcaf7bfa4",
+                      "Name":  "清潔手套",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T08:36:21.6314847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "37a63fd4-aa65-47fa-9271-e15829b7fbe4",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  281,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T13:02:30.3441531+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5faf149-778f-4a75-aa05-48ea5e08ad22",
+                      "Name":  "電動牙刷",
+                      "Quantity":  4,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T11:07:25.1665707+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f99dff91-e89b-4485-9ea4-da0d2d8232d0",
+                      "Name":  "海鹽洋芋片",
+                      "Quantity":  1,
+                      "Price":  54,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T21:22:11.2526008+08:00",
+                      "CompletedAt":  "2025-01-17T08:06:46.3958453+08:00"
+                  },
+                  {
+                      "Id":  "460ca5ba-939e-4285-ad84-87a982584cac",
+                      "Name":  "造型便利貼",
+                      "Quantity":  1,
+                      "Price":  68,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:09:38.7174101+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

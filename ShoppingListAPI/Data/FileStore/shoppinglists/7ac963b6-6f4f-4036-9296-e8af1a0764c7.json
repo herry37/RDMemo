@@ -1,0 +1,89 @@
+{
+    "Id":  "7ac963b6-6f4f-4036-9296-e8af1a0764c7",
+    "Title":  "01/17 日常用品採買清單",
+    "CreatedAt":  "2025-01-20T08:51:00.5246521+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9545be7b-d196-4e9f-a32d-5f24f0abceb7",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  205,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2593903Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9840224-4af5-4fcb-bb84-eddc07ce6ea1",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  273,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2593941Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f33876a3-f725-4850-bd79-857b6e823f01",
+                      "Name":  "蘋果",
+                      "Quantity":  3,
+                      "Price":  86,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.259395Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "faa4e3cf-9d7f-42c0-8f00-7a8f967a033e",
+                      "Name":  "牙膏",
+                      "Quantity":  4,
+                      "Price":  271,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2593966Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "50eafcce-e960-4ddd-a292-69b61092fee2",
+                      "Name":  "水果",
+                      "Quantity":  4,
+                      "Price":  447,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2594016Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f2512f9c-79a9-4313-bf42-f3329b0a9efd",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  82,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2594042Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9b052668-355d-4036-8f1d-f1e04144aade",
+                      "Name":  "Generic Fresh Computer",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2594246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72ed1ef0-63ce-48f4-8a87-760f804f5342",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  499,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.2594259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8cecff2c-0ee7-4050-8369-3947085d7dea",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.2594267Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

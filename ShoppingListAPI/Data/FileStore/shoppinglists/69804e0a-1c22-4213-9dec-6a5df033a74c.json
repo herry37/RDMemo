@@ -1,0 +1,35 @@
+{
+    "Id":  "69804e0a-1c22-4213-9dec-6a5df033a74c",
+    "Title":  "01/19 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T08:43:54.7834045+08:00",
+    "Items":  [
+                  {
+                      "Id":  "271ec181-b8a5-4f1f-a31c-afce2b8ac9cf",
+                      "Name":  "醬油",
+                      "Quantity":  3,
+                      "Price":  389,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5614602Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f569c882-fe0e-4e7e-9c22-ea4d75c27f45",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  353,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.5614623Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "14599e38-aae3-4a59-ba39-55072a9246ce",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.5614631Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

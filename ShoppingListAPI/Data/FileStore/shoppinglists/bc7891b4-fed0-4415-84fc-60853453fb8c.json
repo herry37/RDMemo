@@ -1,0 +1,80 @@
+{
+    "Id":  "bc7891b4-fed0-4415-84fc-60853453fb8c",
+    "Title":  "露營準備 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-21T16:49:21.3540405+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a6378a00-c3f4-4803-9474-7c67fe04ed3b",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:34:48.0362751+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9aed794b-3549-4847-b70e-db09f0ac4e3f",
+                      "Name":  "放牧蛋",
+                      "Quantity":  5,
+                      "Price":  200,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T16:51:08.8790641+08:00",
+                      "CompletedAt":  "2025-01-19T18:04:59.3794883+08:00"
+                  },
+                  {
+                      "Id":  "70bc5084-b41c-4b72-a5af-59a24ee8b5d0",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:28:38.0132983+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a09bcb43-b9e9-400e-b467-be7393eb82e6",
+                      "Name":  "環保餐具組",
+                      "Quantity":  5,
+                      "Price":  69,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:12:41.1850741+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56586f14-df91-4235-aaf7-349dfc682577",
+                      "Name":  "保濕面膜",
+                      "Quantity":  2,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T02:07:54.3451646+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cda3ff4a-350b-4c41-b0f3-e5c7cf04d633",
+                      "Name":  "強效除霉劑",
+                      "Quantity":  3,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T00:49:48.9659709+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "29335f72-014d-40c3-9daf-dc10558f582e",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  3,
+                      "Price":  222,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:13:26.693828+08:00",
+                      "CompletedAt":  "2025-01-17T12:35:59.8741038+08:00"
+                  },
+                  {
+                      "Id":  "119b3b84-9605-4e51-9b4a-3a445816f87e",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  5,
+                      "Price":  210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T22:59:02.2032793+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

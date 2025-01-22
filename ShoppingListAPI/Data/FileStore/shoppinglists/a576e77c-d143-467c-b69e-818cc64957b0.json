@@ -1,0 +1,35 @@
+{
+    "Id":  "a576e77c-d143-467c-b69e-818cc64957b0",
+    "Title":  "日常補充 - 夜市 (01/21)",
+    "CreatedAt":  "2025-01-17T00:28:51.4036415+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e3a7de59-66e6-43d1-ba13-ec8de1912be3",
+                      "Name":  "放山雞",
+                      "Quantity":  5,
+                      "Price":  249,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T04:07:15.808931+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17a3a865-99e5-47b8-9472-345a7c135c1a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:22:42.9829426+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0b4f1f5-2312-484d-9d80-7eafd440ff7f",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T01:24:00.7126404+08:00",
+                      "CompletedAt":  "2025-01-19T16:28:00.4768028+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "1bb82ad5-ac6f-4169-9572-5406a9baa355",
+    "Title":  "01/21 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T19:27:07.3948603+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e187d52d-2b3c-4603-89f0-bf6e790f16de",
+                      "Name":  "Generic Cotton Shirt",
+                      "Quantity":  2,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7652293Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a4bbae8-3b04-4174-8c6b-c1b57dca4263",
+                      "Name":  "麵包",
+                      "Quantity":  3,
+                      "Price":  371,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.7652308Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c556aeb-695f-4abb-bb17-ea23f44fcb77",
+                      "Name":  "Refined Rubber Chicken",
+                      "Quantity":  3,
+                      "Price":  67,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.765233Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ca6bb15-7620-4f50-8d8f-9b0f7ecf8e03",
+                      "Name":  "洗衣粉",
+                      "Quantity":  1,
+                      "Price":  294,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.765234Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be9aa3c1-42d0-4708-8a25-5aee596ab953",
+                      "Name":  "Fantastic Soft Car",
+                      "Quantity":  2,
+                      "Price":  409,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7652362Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

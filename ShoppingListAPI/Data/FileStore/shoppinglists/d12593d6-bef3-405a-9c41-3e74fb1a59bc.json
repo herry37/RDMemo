@@ -1,0 +1,44 @@
+{
+    "Id":  "d12593d6-bef3-405a-9c41-3e74fb1a59bc",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-21T18:18:14.306932+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f0550649-6d86-4e2d-92d1-b3ff665a2111",
+                      "Name":  "Ergonomic Fresh Gloves",
+                      "Quantity":  5,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0909522Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a61244f-70d0-4350-a203-d6628d48dae6",
+                      "Name":  "Awesome Plastic Fish",
+                      "Quantity":  2,
+                      "Price":  47,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0909588Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6417df30-17b6-435e-956f-a34e7b2dd908",
+                      "Name":  "香蕉",
+                      "Quantity":  2,
+                      "Price":  335,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.090962Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0f628e0a-0640-42de-aa18-4d9c82e28aa1",
+                      "Name":  "鹽",
+                      "Quantity":  2,
+                      "Price":  142,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:36:01.0909631Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

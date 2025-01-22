@@ -1,0 +1,89 @@
+{
+    "Id":  "a8de1440-1bc6-42d8-a83b-79983bf748f8",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-18T01:58:23.8143196+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a4fdc67a-c10b-42b8-9c07-8f79750a7d48",
+                      "Name":  "拖把",
+                      "Quantity":  9,
+                      "Price":  238.561803157561720,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T00:59:52.838716+08:00",
+                      "CompletedAt":  "2025-01-18T18:55:17.1760719+08:00"
+                  },
+                  {
+                      "Id":  "82f3a9cd-e93b-4f22-9581-005f2d7b9ced",
+                      "Name":  "牙刷",
+                      "Quantity":  5,
+                      "Price":  423.506784636914080,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T03:05:38.6074491+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d693401-8fad-476e-879d-953bd1643391",
+                      "Name":  "胡蘿蔔",
+                      "Quantity":  3,
+                      "Price":  152.494067642658060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:39:22.2315602+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2470c7ad-1ae1-440e-8c55-e35a3563aa94",
+                      "Name":  "橡皮擦",
+                      "Quantity":  6,
+                      "Price":  227.211970832414180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T02:39:50.6905148+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47f49cea-aad1-4613-943b-3feb5bf99fc1",
+                      "Name":  "芳香劑",
+                      "Quantity":  7,
+                      "Price":  81.579088488402390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T05:44:19.5438768+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "734c0875-fdc2-4e83-abb1-26e8e934bec1",
+                      "Name":  "保鮮膜",
+                      "Quantity":  1,
+                      "Price":  288.222513768721060,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T21:22:20.4453593+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "583e5562-221e-4383-9fb3-1ab6f7232d9f",
+                      "Name":  "膠帶",
+                      "Quantity":  8,
+                      "Price":  125.862622883675850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T18:06:34.6097996+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "48108653-c39d-40e9-9294-cc6242231201",
+                      "Name":  "訂書機",
+                      "Quantity":  2,
+                      "Price":  499.623167892907160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:59:36.7478688+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "866520a4-497a-4bb9-93e0-cc79749fad0d",
+                      "Name":  "可樂",
+                      "Quantity":  10,
+                      "Price":  249.531536500781910,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T00:29:24.2172295+08:00",
+                      "CompletedAt":  "2025-01-21T07:54:24.3068688+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

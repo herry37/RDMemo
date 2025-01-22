@@ -1,0 +1,80 @@
+{
+    "Id":  "37d38fdd-ed6d-41c6-88cb-385f6d06e15b",
+    "Title":  "緊急採買 - 傳統市場 (01/21)",
+    "CreatedAt":  "2025-01-19T13:26:53.2189155+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cf5e9620-a9db-4e12-9baf-7de5eb21d108",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  2,
+                      "Price":  227,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:11:46.3564341+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c6c1d2d-75e0-4e7d-a82b-7c94ae919d6b",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  5,
+                      "Price":  272,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:55:24.9319059+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "728cffa6-ad99-4b9c-bd74-16648df680d6",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  115,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:50:07.8590844+08:00",
+                      "CompletedAt":  "2025-01-16T11:46:19.2665225+08:00"
+                  },
+                  {
+                      "Id":  "84860993-b978-482b-bd0a-e3c6a9b3ae2d",
+                      "Name":  "精品咖啡",
+                      "Quantity":  2,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:22:41.0353418+08:00",
+                      "CompletedAt":  "2025-01-17T05:47:54.4077007+08:00"
+                  },
+                  {
+                      "Id":  "c42d3f71-fe06-421d-bcd7-551f583342dd",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T02:45:28.3127303+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "000a6fdd-4ece-46ad-964f-9b9080023793",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  4,
+                      "Price":  27,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T12:55:25.6382716+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "54c4bcd4-f998-4b22-92df-5f7d080a8345",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  5,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:57:45.5504427+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a28a4a6b-c1fd-4ca7-9cdc-b81f2c35220d",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  74,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T12:42:03.5458133+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

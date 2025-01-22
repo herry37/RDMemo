@@ -1,0 +1,53 @@
+{
+    "Id":  "efe6b2ca-1e88-4721-a0c0-2594ab41f998",
+    "Title":  "01/19 飲料購物清單",
+    "CreatedAt":  "2025-01-19T11:32:25.6922173+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0fbbaba9-ef25-46e7-86aa-55eeb3265a7d",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  89,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6962361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d01ebac-2fc5-4467-9716-a7feea06bb00",
+                      "Name":  "Handmade Concrete Chips",
+                      "Quantity":  2,
+                      "Price":  376,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6962535Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8e3b9bb-6938-44d2-a5ef-e4f852a2f57c",
+                      "Name":  "麵條",
+                      "Quantity":  1,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6962547Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5abe1ff2-df1d-424a-9646-c88cdd3b7861",
+                      "Name":  "Handmade Granite Computer",
+                      "Quantity":  4,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6962572Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b001d272-52f2-4a80-8480-d583af3d6705",
+                      "Name":  "牙膏",
+                      "Quantity":  3,
+                      "Price":  332,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6962581Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

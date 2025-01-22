@@ -1,0 +1,44 @@
+{
+    "Id":  "bece53f1-c80b-4936-93c1-fdb7d0be9051",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-17T10:03:14.2848016+08:00",
+    "Items":  [
+                  {
+                      "Id":  "74591695-fb1f-47af-a394-1e9c72faa80d",
+                      "Name":  "運動飲料",
+                      "Quantity":  9,
+                      "Price":  314.00332863721030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:31:33.0494393+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c00bfc88-fafe-4f14-bc43-38a69d62482b",
+                      "Name":  "番茄",
+                      "Quantity":  10,
+                      "Price":  91.641025982331480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:39:33.1896073+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a1a3045-dbbe-4564-84fe-14eff8131196",
+                      "Name":  "魚",
+                      "Quantity":  1,
+                      "Price":  151.322647337405450,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T17:35:11.2585306+08:00",
+                      "CompletedAt":  "2025-01-19T01:04:21.879088+08:00"
+                  },
+                  {
+                      "Id":  "7f328c14-3089-4591-9c82-4eb3d3139d55",
+                      "Name":  "果乾",
+                      "Quantity":  10,
+                      "Price":  21.0316737322885170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:54:21.7863454+08:00",
+                      "CompletedAt":  "2025-01-17T02:11:47.1076893+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

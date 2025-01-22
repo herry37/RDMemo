@@ -1,0 +1,35 @@
+{
+    "Id":  "ca2093c0-b7f0-43c0-a890-d49564df9114",
+    "Title":  "年節採購 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-15T15:29:36.7811545+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9b4e60a0-fd69-47ba-ad84-507c39aae1ea",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  4,
+                      "Price":  141,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T11:26:13.0391759+08:00",
+                      "CompletedAt":  "2025-01-18T19:52:45.8142401+08:00"
+                  },
+                  {
+                      "Id":  "0b9e7f69-3986-4789-91c7-cbeb6d17855b",
+                      "Name":  "造型便利貼",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T05:55:37.1793441+08:00",
+                      "CompletedAt":  "2025-01-16T23:12:24.3415756+08:00"
+                  },
+                  {
+                      "Id":  "4efb25f2-431f-4173-89b9-d7f686e7a4b7",
+                      "Name":  "中性筆組",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T00:20:20.3809424+08:00",
+                      "CompletedAt":  "2025-01-16T17:31:41.7744912+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

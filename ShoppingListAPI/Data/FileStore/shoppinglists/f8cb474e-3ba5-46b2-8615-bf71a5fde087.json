@@ -1,0 +1,44 @@
+{
+    "Id":  "f8cb474e-3ba5-46b2-8615-bf71a5fde087",
+    "Title":  "01/16 日常用品採買清單",
+    "CreatedAt":  "2025-01-15T06:02:04.9866699+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9bd2e6ab-b891-4ed7-ab3b-5e4b43af3909",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  118,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5863682Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f915b23-6dde-42ca-95d3-b4f64668d36f",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  299,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.5863777Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93ce87c2-431f-468a-ba55-051b7bc0b6c1",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  237,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.5863788Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0ac0b60e-6fb5-47bb-8522-695ea51295a9",
+                      "Name":  "Refined Wooden Chicken",
+                      "Quantity":  4,
+                      "Price":  263,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.586405Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

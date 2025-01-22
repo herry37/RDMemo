@@ -1,0 +1,35 @@
+{
+    "Id":  "31b34e69-63d2-4da2-8941-0ca4b863b3b3",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T11:21:02.6734082+08:00",
+    "Items":  [
+                  {
+                      "Id":  "670ca8c6-1502-4b82-bff3-c916b6f48b18",
+                      "Name":  "置物盒",
+                      "Quantity":  9,
+                      "Price":  403.307434764794340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:09:22.7107622+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "936f36f1-b606-4fbc-99d2-774c34834506",
+                      "Name":  "肥皂",
+                      "Quantity":  5,
+                      "Price":  165.926104976325880,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T07:03:22.3129128+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "81d82291-ac43-4fc2-8e85-705e40a5f2af",
+                      "Name":  "碗",
+                      "Quantity":  3,
+                      "Price":  237.357485173222460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T11:27:18.116096+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

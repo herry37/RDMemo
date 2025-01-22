@@ -1,0 +1,98 @@
+{
+    "Id":  "b414e51c-bef2-4d3d-85ee-11dd2d2511f0",
+    "Title":  "01/17 食品購物清單",
+    "CreatedAt":  "2025-01-20T00:02:59.2147007+08:00",
+    "Items":  [
+                  {
+                      "Id":  "3ff89922-e264-49d8-be80-9eeabbdb522a",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  27,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204071Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db08a701-824f-4912-8be0-d3399cf9d472",
+                      "Name":  "沐浴乳",
+                      "Quantity":  4,
+                      "Price":  189,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.820418Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f49c2ac0-3b98-40f2-af00-4004a4da39fe",
+                      "Name":  "麵條",
+                      "Quantity":  2,
+                      "Price":  73,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204193Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "201d434d-be3d-4d26-8297-544dd873c6d3",
+                      "Name":  "Generic Soft Computer",
+                      "Quantity":  1,
+                      "Price":  464,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204559Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d84dbe1f-4c72-44ec-919e-70734798a28b",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204578Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3b25794-6fc8-4368-8425-b9eae7953771",
+                      "Name":  "Small Concrete Shoes",
+                      "Quantity":  2,
+                      "Price":  432,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204663Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3a2254f-25a2-4594-8cbe-e1cfef172e7f",
+                      "Name":  "Refined Wooden Computer",
+                      "Quantity":  3,
+                      "Price":  385,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204724Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b6b515a1-e042-4ed2-b0fb-0f2907e2fc61",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204736Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "212bbd62-48bd-42fb-8f89-39084cc4cef3",
+                      "Name":  "香蕉",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8204751Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "da7d3177-a64e-4004-9912-e2c20b3676eb",
+                      "Name":  "洗髮精",
+                      "Quantity":  5,
+                      "Price":  172,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.820477Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

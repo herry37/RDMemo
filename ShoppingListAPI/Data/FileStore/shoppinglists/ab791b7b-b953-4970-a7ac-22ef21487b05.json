@@ -1,0 +1,71 @@
+{
+    "Id":  "ab791b7b-b953-4970-a7ac-22ef21487b05",
+    "Title":  "居家整理 - 傳統市場 (01/20)",
+    "CreatedAt":  "2025-01-17T20:18:57.81584+08:00",
+    "Items":  [
+                  {
+                      "Id":  "86e2ea19-8220-4959-ba41-a27d14b2eae0",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  107,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T11:16:56.7879364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "05e27d53-bed1-45d8-8ac4-f7966d32a1d5",
+                      "Name":  "台灣豬肉",
+                      "Quantity":  4,
+                      "Price":  41,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T04:45:25.395306+08:00",
+                      "CompletedAt":  "2025-01-20T19:22:32.5035146+08:00"
+                  },
+                  {
+                      "Id":  "41b38540-73d7-4732-831c-d55c96e11a6f",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  3,
+                      "Price":  221,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T00:48:18.4524459+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4f74348c-bb96-483c-92c7-65caf8721486",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T15:01:11.5165971+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "836bebc6-3563-4839-98d6-7327d6b223c3",
+                      "Name":  "造型便利貼",
+                      "Quantity":  3,
+                      "Price":  80,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T02:18:38.3596151+08:00",
+                      "CompletedAt":  "2025-01-19T11:02:42.3191773+08:00"
+                  },
+                  {
+                      "Id":  "f2819201-f3e3-4b90-829f-3872759dda3f",
+                      "Name":  "超細纖維抹布",
+                      "Quantity":  5,
+                      "Price":  72,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:28:04.3236539+08:00",
+                      "CompletedAt":  "2025-01-16T13:07:49.8229446+08:00"
+                  },
+                  {
+                      "Id":  "571d9e07-1199-4003-8d1e-0307fa7eb79b",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  4,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T19:58:02.5180321+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

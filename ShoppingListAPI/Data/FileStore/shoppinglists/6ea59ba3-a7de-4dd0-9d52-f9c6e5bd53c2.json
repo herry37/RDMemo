@@ -1,0 +1,44 @@
+{
+    "Id":  "6ea59ba3-a7de-4dd0-9d52-f9c6e5bd53c2",
+    "Title":  "01/15 日常用品購物清單",
+    "CreatedAt":  "2025-01-15T15:40:31.9131976+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a3fc1795-cbe7-476e-810f-ae76b2d0631e",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  326,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8294832Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f849ba61-1dae-45f5-9362-3f0c052b8655",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  10,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8294883Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a853441c-d72c-4ac2-a22b-48ef6a612854",
+                      "Name":  "Ergonomic Rubber Tuna",
+                      "Quantity":  1,
+                      "Price":  236,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:50:51.8295159Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "01b944ea-ae02-40c4-b33e-86629c4c9c08",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  390,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:50:51.8295295Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

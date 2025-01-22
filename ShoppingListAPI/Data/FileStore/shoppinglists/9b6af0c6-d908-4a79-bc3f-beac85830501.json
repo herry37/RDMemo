@@ -1,0 +1,44 @@
+{
+    "Id":  "9b6af0c6-d908-4a79-bc3f-beac85830501",
+    "Title":  "每週採購 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-20T22:04:24.5585357+08:00",
+    "Items":  [
+                  {
+                      "Id":  "6ff7f962-ceda-4f02-87b6-5044fa8883f3",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:46:05.4821347+08:00",
+                      "CompletedAt":  "2025-01-16T00:40:51.407+08:00"
+                  },
+                  {
+                      "Id":  "f5baa25f-2b55-4532-b928-e16a2c0c11e2",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  5,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:31:37.1601632+08:00",
+                      "CompletedAt":  "2025-01-17T20:51:36.8384458+08:00"
+                  },
+                  {
+                      "Id":  "7a4d4be6-eeb4-4358-9cda-cefaa8efbfe3",
+                      "Name":  "環保餐具組",
+                      "Quantity":  3,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:41:52.5220764+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef732c26-73cf-477a-9516-3ba7eadf3694",
+                      "Name":  "進口糖果",
+                      "Quantity":  1,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T00:45:17.4293122+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

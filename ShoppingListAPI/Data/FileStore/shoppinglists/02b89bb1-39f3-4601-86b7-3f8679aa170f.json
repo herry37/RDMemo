@@ -1,0 +1,53 @@
+{
+    "Id":  "02b89bb1-39f3-4601-86b7-3f8679aa170f",
+    "Title":  "01/18 零食購物清單",
+    "CreatedAt":  "2025-01-17T01:19:09.5734674+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c733a2c2-6c52-4366-9571-bf5ba1135780",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4721269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7546f438-435c-4f4f-aae1-d61557e1e3cb",
+                      "Name":  "Rustic Soft Keyboard",
+                      "Quantity":  2,
+                      "Price":  459,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:19:39.4721786Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b586ae91-540b-434f-9957-6859d7d51dec",
+                      "Name":  "蘋果",
+                      "Quantity":  5,
+                      "Price":  187,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4721811Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a5c74c91-73fb-4929-a530-5781b1e53c50",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4721839Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "650941fe-baeb-4540-8224-a34ddfcac833",
+                      "Name":  "Rustic Cotton Hat",
+                      "Quantity":  4,
+                      "Price":  13,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:19:39.4721963Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

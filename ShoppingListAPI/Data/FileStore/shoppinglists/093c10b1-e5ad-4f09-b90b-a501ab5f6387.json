@@ -1,0 +1,71 @@
+{
+    "Id":  "093c10b1-e5ad-4f09-b90b-a501ab5f6387",
+    "Title":  "日常補充 - 全聯 (01/20)",
+    "CreatedAt":  "2025-01-15T10:52:43.8631659+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc39592b-aa68-4cc3-a6b2-2cb5800d7f39",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  92,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T07:31:54.9781751+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49d5552b-7321-45f2-b96d-a1a2f7d473a9",
+                      "Name":  "充電電池",
+                      "Quantity":  3,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T06:05:05.132935+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0fe85ff7-966d-4db0-b2b8-a048346d48e5",
+                      "Name":  "保濕乳液",
+                      "Quantity":  4,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T23:10:12.9521803+08:00",
+                      "CompletedAt":  "2025-01-17T05:05:29.3519816+08:00"
+                  },
+                  {
+                      "Id":  "5e6d61b7-2461-47e1-b500-2ff084187400",
+                      "Name":  "原木梳子",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:28:36.635749+08:00",
+                      "CompletedAt":  "2025-01-18T08:37:07.4446732+08:00"
+                  },
+                  {
+                      "Id":  "4291e907-8438-4786-9842-c3bb188832dc",
+                      "Name":  "黑巧克力",
+                      "Quantity":  1,
+                      "Price":  230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T07:47:52.4297483+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ee08f335-d591-4998-9af9-89e64e4bd2cc",
+                      "Name":  "防曬隔離乳",
+                      "Quantity":  3,
+                      "Price":  64,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T04:29:12.7109706+08:00",
+                      "CompletedAt":  "2025-01-15T14:31:10.9365288+08:00"
+                  },
+                  {
+                      "Id":  "72b5f2b0-e2cd-462c-be84-1b0ba3f05a33",
+                      "Name":  "進口可樂",
+                      "Quantity":  4,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T15:39:59.087302+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

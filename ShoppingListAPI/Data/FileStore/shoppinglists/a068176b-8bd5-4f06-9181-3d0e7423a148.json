@@ -1,0 +1,80 @@
+{
+    "Id":  "a068176b-8bd5-4f06-9181-3d0e7423a148",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-21T07:09:54.4671341+08:00",
+    "Items":  [
+                  {
+                      "Id":  "58ec8d55-c0b6-437c-85c9-49dc7d5b2387",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8489528Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3b8f90f6-2ef6-42f1-b42c-fde8abe6dada",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  286,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:07:30.8489597Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2697709b-b7cc-4a87-8a25-3caeca389228",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.848961Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8aa620d8-72db-45d9-8450-e9082219e3ba",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  261,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8489621Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d4ee5bb-28cd-495c-91c9-e2b05c93d4a2",
+                      "Name":  "Licensed Rubber Table",
+                      "Quantity":  4,
+                      "Price":  269,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8490165Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3bf1f6b2-b5e8-438c-b149-b7af057bf483",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8490214Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97b0c9b4-0650-4829-8ed9-130a52f80a15",
+                      "Name":  "衛生紙",
+                      "Quantity":  3,
+                      "Price":  155,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8490225Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ea0d3058-c0d5-4d10-aafd-e52da014a716",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  206,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:07:30.8490236Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

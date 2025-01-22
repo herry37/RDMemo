@@ -1,0 +1,35 @@
+{
+    "Id":  "e01ceb29-323b-42dc-b491-3bcd506ed144",
+    "Title":  "露營準備 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-17T03:02:31.7828088+08:00",
+    "Items":  [
+                  {
+                      "Id":  "dc90b4a1-b813-4fe5-811e-c66270b5a957",
+                      "Name":  "乾濕兩用拖把",
+                      "Quantity":  1,
+                      "Price":  287,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T07:13:19.1941544+08:00",
+                      "CompletedAt":  "2025-01-17T20:37:53.2997962+08:00"
+                  },
+                  {
+                      "Id":  "f6945aac-b497-4358-83b7-fabaad51b3d2",
+                      "Name":  "電動牙刷",
+                      "Quantity":  5,
+                      "Price":  248,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T18:52:01.0715354+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "69c6d44f-9fa3-4fbc-a7f4-16de4bebb5d4",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  2,
+                      "Price":  199,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T22:39:26.5081768+08:00",
+                      "CompletedAt":  "2025-01-21T18:15:16.9337973+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "0d36d5b9-f7c0-4bac-accc-b82369abf655",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-16T04:47:08.5051815+08:00",
+    "Items":  [
+                  {
+                      "Id":  "029f6b78-1e03-4930-ad14-403a2c3f2c15",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5078589Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "827bfeec-1efc-4d55-9e2f-bf3628cb0a88",
+                      "Name":  "茶",
+                      "Quantity":  5,
+                      "Price":  365,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.5078638Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8a345aa5-a885-43d2-b235-8a93ee61b426",
+                      "Name":  "蛋",
+                      "Quantity":  1,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5078652Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad779290-baf5-4549-bfe0-eed163d3a018",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  172,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5078669Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad9537d1-9782-4112-b668-6c5afc259443",
+                      "Name":  "Rustic Rubber Ball",
+                      "Quantity":  5,
+                      "Price":  377,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.507906Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

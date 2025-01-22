@@ -1,0 +1,89 @@
+{
+    "Id":  "8021b645-5989-4114-9925-e55b937659db",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T15:42:43.7042859+08:00",
+    "Items":  [
+                  {
+                      "Id":  "1a0d851b-b066-4bcd-ba0b-4eb79c531d32",
+                      "Name":  "梳子",
+                      "Quantity":  3,
+                      "Price":  352.646473351601160,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:19:24.7853574+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "300183cf-1dc1-4bce-aab2-916ee157e16a",
+                      "Name":  "筆筒",
+                      "Quantity":  2,
+                      "Price":  140.05251558384120,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:51:19.4814946+08:00",
+                      "CompletedAt":  "2025-01-16T13:07:09.1400633+08:00"
+                  },
+                  {
+                      "Id":  "2236b3c8-f2ad-41d8-beb2-ff29af57d561",
+                      "Name":  "資料夾",
+                      "Quantity":  8,
+                      "Price":  18.6942460759706440,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:40:18.3649578+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd7b2b77-6a5e-4fc1-9d1c-a1708be18103",
+                      "Name":  "資料夾",
+                      "Quantity":  2,
+                      "Price":  103.199816724453250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T03:15:07.5549715+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f49f74c5-5499-4480-829e-47ad5364e761",
+                      "Name":  "礦泉水",
+                      "Quantity":  10,
+                      "Price":  232.017388213071290,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:46:06.6163417+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "04bbb9be-8d71-42b7-8d23-71a15ae550dc",
+                      "Name":  "爆米花",
+                      "Quantity":  9,
+                      "Price":  341.652378687331310,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:38:40.0528072+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b6fc391-d4f8-4c47-8b94-d11ddcea575f",
+                      "Name":  "洗衣精",
+                      "Quantity":  5,
+                      "Price":  137.719261610649030,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T15:08:56.0998653+08:00",
+                      "CompletedAt":  "2025-01-16T23:16:13.2708044+08:00"
+                  },
+                  {
+                      "Id":  "8b040c97-92d0-433a-a7fc-e56044a9f222",
+                      "Name":  "洗衣精",
+                      "Quantity":  9,
+                      "Price":  12.75968146209347760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T23:50:58.3527327+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1619db01-07e4-4de0-8c0b-354133f1372c",
+                      "Name":  "置物盒",
+                      "Quantity":  1,
+                      "Price":  301.28524644785230,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:14:22.9609431+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,71 @@
+{
+    "Id":  "62c4b63c-38ba-4a4b-b101-948ae95dd142",
+    "Title":  "01/20 個人護理購物清單",
+    "CreatedAt":  "2025-01-18T05:40:03.7810887+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ac6c007c-373b-4987-96cc-9576888659b6",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  264,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4642333Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e3162ce3-cce5-4d77-968e-1fabbbbf7aa7",
+                      "Name":  "米",
+                      "Quantity":  1,
+                      "Price":  340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.464243Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd33c3a1-65f2-4c7a-964f-568471d2f60b",
+                      "Name":  "礦泉水",
+                      "Quantity":  1,
+                      "Price":  498,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.4642447Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cafedf62-3837-4f93-b868-4807476967fa",
+                      "Name":  "洗衣粉",
+                      "Quantity":  5,
+                      "Price":  139,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.464246Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "12a2c521-5cd1-4146-ad36-5817cdd421c6",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  300,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4642676Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4a50a9c2-ed5e-4fbb-95a0-f88f70b9a1df",
+                      "Name":  "肉",
+                      "Quantity":  4,
+                      "Price":  149,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.464273Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "35d09751-e1a0-4e13-a5c4-729e0470dc9d",
+                      "Name":  "米",
+                      "Quantity":  3,
+                      "Price":  292,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.4642743Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,98 @@
+{
+    "Id":  "0ec4c315-da3a-49bc-85bb-1162602aaa6f",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-14T22:48:29.4846039+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b64f5dc9-56a3-4881-be8e-4f0345c4f11e",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  19.1044310007939820,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T10:10:37.1022082+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0bfd2c82-9d59-4a38-90d7-eb000f21a937",
+                      "Name":  "沐浴乳",
+                      "Quantity":  3,
+                      "Price":  271.695736834262780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T06:29:38.5176955+08:00",
+                      "CompletedAt":  "2025-01-21T05:17:29.967264+08:00"
+                  },
+                  {
+                      "Id":  "697bf9db-7fb4-44a0-be9a-7aec1d5b8824",
+                      "Name":  "訂書機",
+                      "Quantity":  4,
+                      "Price":  319.478163148480270,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T03:19:00.3256825+08:00",
+                      "CompletedAt":  "2025-01-21T02:05:17.3935417+08:00"
+                  },
+                  {
+                      "Id":  "d146346a-01de-4d94-8dc9-85fc4879d7ec",
+                      "Name":  "魚",
+                      "Quantity":  2,
+                      "Price":  175.010899758611690,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T16:56:14.529094+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2eddd7bd-1cc4-47bb-a08d-b35a7733b57f",
+                      "Name":  "牛奶",
+                      "Quantity":  7,
+                      "Price":  492.317445542226840,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:07:33.4599588+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e1662b7d-c8c3-4371-89fb-cad3d872b62f",
+                      "Name":  "筆記本",
+                      "Quantity":  7,
+                      "Price":  320.769017007501220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T01:43:24.1869507+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8e887a1f-80ee-49b6-a94d-deacf10498a2",
+                      "Name":  "漂白水",
+                      "Quantity":  9,
+                      "Price":  487.640282253766730,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T01:48:02.2506852+08:00",
+                      "CompletedAt":  "2025-01-17T22:54:35.8151623+08:00"
+                  },
+                  {
+                      "Id":  "bcd1c828-bbde-4e27-9db4-343fea638090",
+                      "Name":  "海綿",
+                      "Quantity":  2,
+                      "Price":  26.1734459107824050,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:21:09.8208907+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c0c81c23-e2da-49ac-89c3-1a9a7b3c41e0",
+                      "Name":  "防曬乳",
+                      "Quantity":  7,
+                      "Price":  415.437426904401850,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:32:19.3499537+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1632c5d4-dcf5-4d34-86b2-41ecc6c3f9be",
+                      "Name":  "衣架",
+                      "Quantity":  5,
+                      "Price":  318.441897551851490,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T16:22:20.0458722+08:00",
+                      "CompletedAt":  "2025-01-14T20:59:01.8087947+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

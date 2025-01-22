@@ -1,0 +1,44 @@
+{
+    "Id":  "6f400fd0-6ef4-4e86-badc-4a7847353edb",
+    "Title":  "01/16 零食購物清單",
+    "CreatedAt":  "2025-01-15T19:42:08.0488916+08:00",
+    "Items":  [
+                  {
+                      "Id":  "378f452b-660e-4577-8f78-522850313e75",
+                      "Name":  "魚",
+                      "Quantity":  5,
+                      "Price":  434,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5298858Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7f394220-51a4-4341-b5d7-79950554fb3c",
+                      "Name":  "蔬菜",
+                      "Quantity":  3,
+                      "Price":  31,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5298908Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2b1bca02-5777-455d-98d5-acb1925f22a0",
+                      "Name":  "Handmade Fresh Towels",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5299349Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07c69c01-ffbe-4de9-80ff-056ca371ad6f",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  441,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5299362Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

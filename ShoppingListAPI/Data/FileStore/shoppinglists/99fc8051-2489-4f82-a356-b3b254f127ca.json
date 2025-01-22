@@ -1,0 +1,71 @@
+{
+    "Id":  "99fc8051-2489-4f82-a356-b3b254f127ca",
+    "Title":  "01/15 清潔用品採買清單",
+    "CreatedAt":  "2025-01-19T15:54:53.9661888+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8086280f-3aca-4fc7-9c31-1eb0785226fa",
+                      "Name":  "調味料",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497465Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7448b6d4-7936-4b64-a40e-50748f19cd98",
+                      "Name":  "洗衣粉",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497476Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "101df081-d41e-417d-894f-44439c3ea4fa",
+                      "Name":  "衛生紙",
+                      "Quantity":  5,
+                      "Price":  170,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b3eb28b-3767-4455-b4a3-88e04d53342e",
+                      "Name":  "Handcrafted Soft Bike",
+                      "Quantity":  4,
+                      "Price":  402,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497556Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "74099566-c7f3-44d5-b8c0-7d4a7850c223",
+                      "Name":  "Small Plastic Chicken",
+                      "Quantity":  1,
+                      "Price":  239,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497582Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6538d85d-253f-448b-8960-f2cf60a9ef14",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  425,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497594Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "322eee33-94a2-4812-be82-c93f6b121ca1",
+                      "Name":  "蛋",
+                      "Quantity":  5,
+                      "Price":  143,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4497601Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

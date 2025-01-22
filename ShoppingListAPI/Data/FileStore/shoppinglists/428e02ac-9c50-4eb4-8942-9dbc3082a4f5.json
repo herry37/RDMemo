@@ -1,0 +1,71 @@
+{
+    "Id":  "428e02ac-9c50-4eb4-8942-9dbc3082a4f5",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T12:09:43.0717079+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f0602a8e-2718-421d-ba64-da9c6ac15830",
+                      "Name":  "筆記本",
+                      "Quantity":  9,
+                      "Price":  161.005445070499040,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:16:07.7463945+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad4ada9e-b454-4fbc-951d-9ea09c27b376",
+                      "Name":  "魚",
+                      "Quantity":  10,
+                      "Price":  380.119003769172770,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:09:29.0479423+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9ccdf853-b36a-467a-90de-748d0e948180",
+                      "Name":  "牙刷",
+                      "Quantity":  8,
+                      "Price":  16.7036149539935030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:30:41.8401923+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42a8dae0-03ff-4276-959f-0614e8ad671a",
+                      "Name":  "餐具",
+                      "Quantity":  7,
+                      "Price":  450.928743458385980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:21:55.3144324+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "07e1fbee-134f-43d5-ac65-5166fb9008ea",
+                      "Name":  "雞肉",
+                      "Quantity":  9,
+                      "Price":  466.291395230212990,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:21:16.1586664+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9715748b-a431-4935-8883-ab859936afbf",
+                      "Name":  "漂白水",
+                      "Quantity":  1,
+                      "Price":  214.321473410692190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:42:37.9116956+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5f2e09b2-423e-4214-b931-f1d9e166ff0b",
+                      "Name":  "毛巾",
+                      "Quantity":  1,
+                      "Price":  100.360388580139510,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:47:52.6299473+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

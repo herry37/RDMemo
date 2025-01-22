@@ -1,0 +1,71 @@
+{
+    "Id":  "87c99053-759c-44fa-984c-a2178736094b",
+    "Title":  "聚會準備 - 美聯社 (01/21)",
+    "CreatedAt":  "2025-01-19T12:10:08.5681277+08:00",
+    "Items":  [
+                  {
+                      "Id":  "329a147a-779d-4231-b619-150bb56c4212",
+                      "Name":  "滋潤護手霜",
+                      "Quantity":  1,
+                      "Price":  245,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T02:05:23.1079625+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eb1dec5d-dc21-4484-89f7-a43001b39c5c",
+                      "Name":  "環保餐巾紙",
+                      "Quantity":  5,
+                      "Price":  258,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T19:30:15.2752943+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ab3756e1-5466-4c5a-bc6e-883ffded99ea",
+                      "Name":  "充電電池",
+                      "Quantity":  4,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:56:13.5812651+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1a6e807a-c1f8-4935-a444-edb6d8d84150",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  218,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T09:26:53.8493238+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2602c77-1e73-46b3-8954-16c2db63637d",
+                      "Name":  "天然肥皂",
+                      "Quantity":  4,
+                      "Price":  257,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T10:15:33.7114396+08:00",
+                      "CompletedAt":  "2025-01-16T23:43:36.6899814+08:00"
+                  },
+                  {
+                      "Id":  "b9ed1bc5-10c1-45f5-a7c7-48162f18b714",
+                      "Name":  "放山雞",
+                      "Quantity":  4,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T18:10:54.917075+08:00",
+                      "CompletedAt":  "2025-01-14T22:00:19.652744+08:00"
+                  },
+                  {
+                      "Id":  "c3ee4bce-9511-4b67-a4cf-ee45baec737d",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  208,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T15:52:00.0439125+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

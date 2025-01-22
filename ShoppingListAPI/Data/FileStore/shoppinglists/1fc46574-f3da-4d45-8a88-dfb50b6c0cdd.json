@@ -1,0 +1,62 @@
+{
+    "Id":  "1fc46574-f3da-4d45-8a88-dfb50b6c0cdd",
+    "Title":  "月底大採購 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-20T09:39:56.9943513+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9851270d-df21-4e13-b616-891290fb6a49",
+                      "Name":  "充電電池",
+                      "Quantity":  5,
+                      "Price":  80,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T10:37:36.2219167+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f30614e2-891f-45fb-b333-2659bff8719a",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  4,
+                      "Price":  253,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T05:34:21.9074229+08:00",
+                      "CompletedAt":  "2025-01-15T18:01:46.1218895+08:00"
+                  },
+                  {
+                      "Id":  "42439e4d-e5d1-46f5-b790-103cfe7b1c12",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  3,
+                      "Price":  52,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T11:30:59.3250196+08:00",
+                      "CompletedAt":  "2025-01-18T08:36:46.9148468+08:00"
+                  },
+                  {
+                      "Id":  "0923bce1-52be-4d1d-af28-fca3f757dcc3",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  4,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:32:43.1390274+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91ca9073-20c6-4f5f-8264-5ea35911f750",
+                      "Name":  "精裝筆記本",
+                      "Quantity":  4,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T09:59:18.075918+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5a4d5af5-4395-4597-91ed-db5c99f3c49f",
+                      "Name":  "自動訂書機",
+                      "Quantity":  2,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T14:26:19.1723722+08:00",
+                      "CompletedAt":  "2025-01-20T18:46:22.2637816+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "16edbf5e-b11d-4c0d-a712-8142c29c4ea1",
+    "Title":  "露營準備 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-15T03:50:36.914846+08:00",
+    "Items":  [
+                  {
+                      "Id":  "82e04013-e932-4a9f-bd68-a7bd6bd15373",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  2,
+                      "Price":  213,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T23:52:21.3695813+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d63fbf09-3811-4f7f-b136-31e03fc56472",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  1,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:38:13.6138949+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "21b6bedb-6ba5-43d7-a2c0-be25997df760",
+                      "Name":  "有機番茄",
+                      "Quantity":  1,
+                      "Price":  61,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:02:38.4702082+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cbce1d92-fee4-4299-9b98-fa6065e1cf35",
+                      "Name":  "靜電掃把",
+                      "Quantity":  3,
+                      "Price":  141,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:59:02.644099+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

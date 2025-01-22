@@ -1,0 +1,44 @@
+{
+    "Id":  "bcf8ecb5-8fe4-4399-bcd5-8eae46f0a2ca",
+    "Title":  "早市採買 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-20T13:14:34.7746622+08:00",
+    "Items":  [
+                  {
+                      "Id":  "81e46cef-ae33-4f3d-b028-dfaa2dc7fa9c",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  1,
+                      "Price":  270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T22:37:38.2457148+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97e81fba-ca48-4ac4-90c3-9815202eb5b3",
+                      "Name":  "靜電掃把",
+                      "Quantity":  5,
+                      "Price":  124,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:11:42.5060283+08:00",
+                      "CompletedAt":  "2025-01-22T08:21:29.2062591+08:00"
+                  },
+                  {
+                      "Id":  "37fee13f-3368-460f-aa70-3cbf450f0df5",
+                      "Name":  "自動訂書機",
+                      "Quantity":  4,
+                      "Price":  28,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T05:45:12.6507252+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba607216-fec0-498a-b070-c5560affb7a8",
+                      "Name":  "不鏽鋼剪刀",
+                      "Quantity":  1,
+                      "Price":  293,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T04:08:55.9091987+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,35 @@
+{
+    "Id":  "3d8cd48d-2af7-431b-b9dc-f97f3e9755ff",
+    "Title":  "01/15 食品採買清單",
+    "CreatedAt":  "2025-01-20T01:22:27.7925404+08:00",
+    "Items":  [
+                  {
+                      "Id":  "cd0abd62-cfd3-4e75-9157-bc3ca61aec48",
+                      "Name":  "Rustic Concrete Shirt",
+                      "Quantity":  4,
+                      "Price":  493,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.974284Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8d92e685-e70a-43b8-b18d-68f60a423160",
+                      "Name":  "果汁",
+                      "Quantity":  3,
+                      "Price":  16,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.9742896Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f4f8be35-c8a4-46e6-80ac-cb7803ae0cdc",
+                      "Name":  "肥皂",
+                      "Quantity":  3,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.9742924Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "c246e460-dfc3-4606-8ebe-71e6d952bb39",
+    "Title":  "派對用品 - 好市多 (01/21)",
+    "CreatedAt":  "2025-01-17T19:56:07.5870568+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8132c293-1e49-40a8-a81c-ee7886e14b43",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  33,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T17:24:55.0573763+08:00",
+                      "CompletedAt":  "2025-01-19T02:45:43.2894436+08:00"
+                  },
+                  {
+                      "Id":  "a7ab1e9f-aaff-49cc-90cb-6deb79fd0f57",
+                      "Name":  "LED檯燈",
+                      "Quantity":  2,
+                      "Price":  56,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:36:38.5557762+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "34833a9b-ae5a-47f1-8431-19f4a05782a5",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  254,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T06:48:59.2886231+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3dc0125a-afbd-4f02-8da5-d4b1ad249fc4",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  3,
+                      "Price":  216,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T14:06:13.6709238+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9584b91f-d99b-40cf-ac77-3916d0094e1c",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  4,
+                      "Price":  71,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:04:15.354442+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5ff619fa-8da7-4d8e-9224-93f672fda2a9",
+                      "Name":  "有機胡蘿蔔",
+                      "Quantity":  2,
+                      "Price":  110,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:22:40.7628038+08:00",
+                      "CompletedAt":  "2025-01-15T19:29:13.4393827+08:00"
+                  },
+                  {
+                      "Id":  "41bdb8f2-4949-4da5-be72-eaf1812872e1",
+                      "Name":  "有機綠茶",
+                      "Quantity":  2,
+                      "Price":  193,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T06:35:17.0756701+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e8bba07b-5c14-4b08-9d98-c5a47e107417",
+                      "Name":  "雙層玻璃杯",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T10:58:37.5321454+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

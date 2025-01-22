@@ -1,0 +1,44 @@
+{
+    "Id":  "1873ac44-9473-434b-b7a2-787e172fd68e",
+    "Title":  "月底大採購 - 01/20",
+    "CreatedAt":  "2025-01-15T17:28:21.9133385+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a934f8e5-fe3f-4680-af1d-9df114ee9830",
+                      "Name":  "保鮮膜",
+                      "Quantity":  8,
+                      "Price":  365.846313626920480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T01:29:23.4235964+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a239d4c3-1110-4cfe-8385-15b7c8d8faeb",
+                      "Name":  "便利貼",
+                      "Quantity":  4,
+                      "Price":  79.710752824815760,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T12:11:02.1782419+08:00",
+                      "CompletedAt":  "2025-01-18T09:12:24.608741+08:00"
+                  },
+                  {
+                      "Id":  "972fbc53-a204-4a84-bd2f-41db54d3260a",
+                      "Name":  "化妝品",
+                      "Quantity":  9,
+                      "Price":  179.719481269396590,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T05:17:23.0835524+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "96a6574f-77b8-40c2-bbf8-58856d1ead87",
+                      "Name":  "啤酒",
+                      "Quantity":  4,
+                      "Price":  318.272671321848170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:58:30.4123325+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "3322f95b-b383-4443-b7d1-d68983b286a6",
+    "Title":  "01/19 清潔用品採買清單",
+    "CreatedAt":  "2025-01-21T05:02:33.9264899+08:00",
+    "Items":  [
+                  {
+                      "Id":  "05a7b5ce-1c71-4935-b4b1-9784f8c76fbf",
+                      "Name":  "咖啡",
+                      "Quantity":  2,
+                      "Price":  142,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0994723Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8bff86a1-325a-403d-ac74-1d404adda758",
+                      "Name":  "礦泉水",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0994749Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41c2d03e-5d21-43cf-86cd-7694e734baea",
+                      "Name":  "Refined Plastic Keyboard",
+                      "Quantity":  5,
+                      "Price":  202,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0994964Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "42ac88bc-74c6-466f-a6c2-e4170112426b",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  498,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0994982Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a319d330-6c79-43a6-9746-6d850f2ec723",
+                      "Name":  "Practical Plastic Cheese",
+                      "Quantity":  2,
+                      "Price":  178,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0995046Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

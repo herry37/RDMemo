@@ -1,0 +1,53 @@
+{
+    "Id":  "8e61e06d-1e55-4f4e-b5cb-bdc2f16bdef2",
+    "Title":  "聚會準備 - 夜市 (01/20)",
+    "CreatedAt":  "2025-01-15T06:18:01.8902023+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8a5be4cc-a216-42df-8b6d-ac4cd7603b37",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  1,
+                      "Price":  101,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T10:46:59.9585726+08:00",
+                      "CompletedAt":  "2025-01-15T14:18:10.3746229+08:00"
+                  },
+                  {
+                      "Id":  "ccf601b7-534e-460a-b4ff-7d5fb9e607f9",
+                      "Name":  "進口可樂",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T22:27:08.1757262+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9cacc207-a651-4605-8de4-0ef695a92dfb",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  1,
+                      "Price":  137,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T21:14:29.8580985+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e794a48-7b97-4842-8983-f8512a81144a",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  57,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T14:32:29.7926962+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "536187d4-4462-4642-bfe2-1af8480c3cf9",
+                      "Name":  "無糖口香糖",
+                      "Quantity":  4,
+                      "Price":  118,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T19:56:22.4366963+08:00",
+                      "CompletedAt":  "2025-01-20T18:37:40.5964531+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

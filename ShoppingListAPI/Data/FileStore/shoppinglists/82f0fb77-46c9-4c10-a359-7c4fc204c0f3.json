@@ -1,0 +1,98 @@
+{
+    "Id":  "82f0fb77-46c9-4c10-a359-7c4fc204c0f3",
+    "Title":  "01/16 個人護理採買清單",
+    "CreatedAt":  "2025-01-21T12:21:10.4244571+08:00",
+    "Items":  [
+                  {
+                      "Id":  "9dfe134f-624c-4849-abb3-e2fd0b69698c",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.371783Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "535589bd-a61a-485f-a32d-b5730b7a0269",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  318,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3717869Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "526efbef-9d7e-408f-865d-3992b029f37f",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3717908Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "49d65017-3dd7-4c71-bdd1-b10b69743664",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  371,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3717918Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93fca4e6-27fb-4087-b2bb-e3b415473d3e",
+                      "Name":  "蛋",
+                      "Quantity":  3,
+                      "Price":  298,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3717931Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac339208-b524-40d5-bacd-900e0c6c90f5",
+                      "Name":  "Ergonomic Rubber Table",
+                      "Quantity":  1,
+                      "Price":  476,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3718186Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "104a8c1e-4944-4a67-923c-222f943c37c1",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  23,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3718197Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ced76e92-4558-4808-9841-cefe07a74b2a",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:09:08.3718206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "64f7bc05-3cb6-4ea4-a8c4-7006695aac99",
+                      "Name":  "衛生紙",
+                      "Quantity":  4,
+                      "Price":  376,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3718219Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8f37a5ca-af5a-4a34-9a14-5ef740f14170",
+                      "Name":  "糖",
+                      "Quantity":  4,
+                      "Price":  238,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:09:08.3718235Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

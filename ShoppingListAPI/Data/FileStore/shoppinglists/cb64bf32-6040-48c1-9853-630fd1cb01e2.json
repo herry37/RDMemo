@@ -1,0 +1,80 @@
+{
+    "Id":  "cb64bf32-6040-48c1-9853-630fd1cb01e2",
+    "Title":  "露營準備 - 家樂福 (01/21)",
+    "CreatedAt":  "2025-01-15T01:46:27.3269709+08:00",
+    "Items":  [
+                  {
+                      "Id":  "04d2e243-22cb-41bf-a8cb-f9ae914fd607",
+                      "Name":  "美白牙膏",
+                      "Quantity":  5,
+                      "Price":  39,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T18:48:00.0972818+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a9848177-9ed7-44c0-ad90-5a745e8cb460",
+                      "Name":  "鮮榨果汁",
+                      "Quantity":  1,
+                      "Price":  97,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:37:31.1823794+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6b96f9f2-1219-49d2-a51c-bcd7497b4358",
+                      "Name":  "清潔手套",
+                      "Quantity":  1,
+                      "Price":  122,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T10:21:33.0347837+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d99f4816-b5c6-43b6-8b63-6ecc30a0eab1",
+                      "Name":  "天然肥皂",
+                      "Quantity":  5,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T19:26:34.0260364+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bd241d0d-cb9f-458a-9ead-64d17edffa91",
+                      "Name":  "保濕乳液",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T17:10:39.8337982+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "263bdc19-4008-4791-b442-cfd500faeaa1",
+                      "Name":  "食品級保鮮膜",
+                      "Quantity":  1,
+                      "Price":  115,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T19:43:39.0336313+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9899bde4-2af7-419b-bdba-a84c45c920e1",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  147,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:39:14.3173566+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d83d8ade-fd08-488a-83e7-0d24858fdab5",
+                      "Name":  "綜合堅果",
+                      "Quantity":  4,
+                      "Price":  285,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T17:47:41.846933+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

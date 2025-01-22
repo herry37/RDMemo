@@ -1,0 +1,44 @@
+{
+    "Id":  "6a14ad9c-eeaa-44a9-8dd1-fcd624a28602",
+    "Title":  "01/21 清潔用品購物清單",
+    "CreatedAt":  "2025-01-16T23:49:42.6217813+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0cf58191-d9b4-4486-99c2-8e17b7685c17",
+                      "Name":  "Incredible Steel Table",
+                      "Quantity":  2,
+                      "Price":  89,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0614357Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d2df2e8-b283-4514-ad7f-9eb857a0c843",
+                      "Name":  "麵條",
+                      "Quantity":  5,
+                      "Price":  286,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0614394Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cc4e6d5-ccb3-402f-97be-9c867bc2fc35",
+                      "Name":  "米",
+                      "Quantity":  5,
+                      "Price":  424,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.0614405Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "932a56d8-35e4-409a-9dc7-501afdf7f0f2",
+                      "Name":  "Awesome Rubber Shoes",
+                      "Quantity":  5,
+                      "Price":  243,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.0614548Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "aacbdf4b-96ae-437d-90e6-169e9aec7bb0",
+    "Title":  "月底大採購 - 01/21",
+    "CreatedAt":  "2025-01-18T13:09:57.192937+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ccdae702-9601-4bd9-aa59-dffa59397736",
+                      "Name":  "芳香劑",
+                      "Quantity":  5,
+                      "Price":  246.823728634734780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:00:06.7131644+08:00",
+                      "CompletedAt":  "2025-01-20T02:51:59.8579022+08:00"
+                  },
+                  {
+                      "Id":  "e669cd9e-612d-4b4b-90b8-dbe18fd3f5e0",
+                      "Name":  "爆米花",
+                      "Quantity":  4,
+                      "Price":  315.784254328750470,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:55:32.2855303+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "47f5dd84-10a7-4903-8ba7-f7fbec5493e9",
+                      "Name":  "糖果",
+                      "Quantity":  1,
+                      "Price":  218.455144548887320,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T14:13:20.8004296+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "86f0d4ca-7153-4379-b0c5-cbec83d81f3d",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  217.478951185014250,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T03:55:49.4053346+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ac46317f-598c-47f0-8e76-70db2f002046",
+                      "Name":  "豆漿",
+                      "Quantity":  2,
+                      "Price":  162.730432121666770,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T12:55:52.4653297+08:00",
+                      "CompletedAt":  "2025-01-16T04:58:50.2485066+08:00"
+                  },
+                  {
+                      "Id":  "5b71da1e-e37d-435b-afdd-13f92b359deb",
+                      "Name":  "便利貼",
+                      "Quantity":  10,
+                      "Price":  391.253126666603030,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:37:36.4909329+08:00",
+                      "CompletedAt":  "2025-01-21T21:29:00.0396286+08:00"
+                  },
+                  {
+                      "Id":  "84b3ea09-e5b9-4e39-a45c-6108788be066",
+                      "Name":  "番茄",
+                      "Quantity":  2,
+                      "Price":  441.949931416441480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T04:11:36.927781+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5aaa5d48-9df0-4c2c-8519-e55f5bf39fe5",
+                      "Name":  "筆記本",
+                      "Quantity":  3,
+                      "Price":  318.773245841301220,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:06:12.3899067+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,44 @@
+{
+    "Id":  "ff569f86-8764-4eb4-bdef-5206f4a29260",
+    "Title":  "聚會採購 - 01/21",
+    "CreatedAt":  "2025-01-20T13:42:25.2921681+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2bae0806-6f1b-4aab-9b47-a41ca74781c1",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  49.4068077456875780,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T23:39:29.6037698+08:00",
+                      "CompletedAt":  "2025-01-16T22:38:19.3455258+08:00"
+                  },
+                  {
+                      "Id":  "511de17a-1b19-4a7e-ac28-20e8b7b7a7ab",
+                      "Name":  "巧克力",
+                      "Quantity":  6,
+                      "Price":  36.1556467408908280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T07:32:23.3166936+08:00",
+                      "CompletedAt":  "2025-01-21T16:56:54.6595591+08:00"
+                  },
+                  {
+                      "Id":  "c379ea19-ee58-4517-a4e3-aa18b582a426",
+                      "Name":  "筆記本",
+                      "Quantity":  6,
+                      "Price":  33.0543150887550760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T16:25:17.094866+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "db112ced-d79d-4495-8dea-c062e2b3e620",
+                      "Name":  "牛奶",
+                      "Quantity":  9,
+                      "Price":  337.039214358647280,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T05:19:36.3485708+08:00",
+                      "CompletedAt":  "2025-01-21T18:38:38.0591983+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

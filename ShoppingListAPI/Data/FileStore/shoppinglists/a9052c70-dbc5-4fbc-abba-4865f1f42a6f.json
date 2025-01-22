@@ -1,0 +1,62 @@
+{
+    "Id":  "a9052c70-dbc5-4fbc-abba-4865f1f42a6f",
+    "Title":  "01/21 零食採買清單",
+    "CreatedAt":  "2025-01-20T03:28:48.3352223+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8039eae8-0c7c-43c5-8c90-cf997469ea73",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  188,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:49:26.555507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "97ff26d4-17fb-4896-a9c9-edddbcae803c",
+                      "Name":  "肥皂",
+                      "Quantity":  2,
+                      "Price":  322,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5555106Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fe270788-20a8-4c24-bc73-4fcc08316035",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  480,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5555118Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c9e1119e-a680-4d3b-98d4-83499d0835f0",
+                      "Name":  "Licensed Steel Bacon",
+                      "Quantity":  4,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5555381Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "462cf7b8-cfb6-496f-bdf3-872683fe6b9f",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  51,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5555402Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6a0d60de-7897-484f-a31e-ef2baf1b1736",
+                      "Name":  "礦泉水",
+                      "Quantity":  5,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:49:26.5555431Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

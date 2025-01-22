@@ -1,0 +1,80 @@
+{
+    "Id":  "4ffbee2e-f405-4cbe-8c15-0ba8df9e639c",
+    "Title":  "01/15 飲料採買清單",
+    "CreatedAt":  "2025-01-15T09:15:12.2022965+08:00",
+    "Items":  [
+                  {
+                      "Id":  "964bda69-b830-4fb2-a681-47b500853565",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  460,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778679Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e4bacab6-214a-48c4-928a-d76395163db8",
+                      "Name":  "Small Steel Computer",
+                      "Quantity":  2,
+                      "Price":  404,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778785Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3afb563c-cf81-45ec-8ae4-ea461414e3b7",
+                      "Name":  "魚",
+                      "Quantity":  3,
+                      "Price":  190,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e2b788d1-1739-4d55-9b8d-d4891cd1e08b",
+                      "Name":  "Ergonomic Wooden Chicken",
+                      "Quantity":  4,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778826Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6bf59025-6a24-4548-8565-3714df22f702",
+                      "Name":  "洗髮精",
+                      "Quantity":  2,
+                      "Price":  169,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778833Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10e69b55-2c5c-428c-8479-664213150ca8",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  88,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778846Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b4b3830a-7e27-4e6c-88e7-fe46a4ad8e12",
+                      "Name":  "香蕉",
+                      "Quantity":  3,
+                      "Price":  347,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778854Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc567df8-623f-489d-b195-6b79ecf398e5",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.7778863Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

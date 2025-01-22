@@ -1,0 +1,89 @@
+{
+    "Id":  "fe72b15e-340c-4e70-b6d8-863c9dc6e74e",
+    "Title":  "01/17 日常用品購物清單",
+    "CreatedAt":  "2025-01-18T17:51:55.1550741+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d1b51a66-bdcc-4304-ab59-e25c9161c32c",
+                      "Name":  "Handcrafted Frozen Bike",
+                      "Quantity":  4,
+                      "Price":  336,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1490984Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9e2b3736-32ef-4e01-9faf-bc6e8fbd3862",
+                      "Name":  "糖",
+                      "Quantity":  5,
+                      "Price":  437,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491025Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3916ca4-9593-4747-9215-85b3f8d05508",
+                      "Name":  "飲料",
+                      "Quantity":  5,
+                      "Price":  301,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491035Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "fd8fe157-fd04-4308-9464-7f775cf123aa",
+                      "Name":  "Sleek Granite Chips",
+                      "Quantity":  2,
+                      "Price":  188,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.14913Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f0344757-cfb8-454e-8f4f-a30776202554",
+                      "Name":  "洗髮精",
+                      "Quantity":  3,
+                      "Price":  241,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491313Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4ec77b9e-c1f7-4598-a251-cbb3424f9733",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  499,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491346Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5c65df52-0f48-48ed-acce-966a72511dcf",
+                      "Name":  "鹽",
+                      "Quantity":  4,
+                      "Price":  134,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491353Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dc1259ab-26d8-4e56-8f57-67a8998281db",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  167,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491361Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d0e7615b-7987-4669-883b-016ad04b6da2",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  216,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.1491369Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

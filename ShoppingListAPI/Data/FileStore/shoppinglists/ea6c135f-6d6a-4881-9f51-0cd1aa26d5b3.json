@@ -1,0 +1,53 @@
+{
+    "Id":  "ea6c135f-6d6a-4881-9f51-0cd1aa26d5b3",
+    "Title":  "月底大採購 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-17T03:54:34.4694207+08:00",
+    "Items":  [
+                  {
+                      "Id":  "f8c55064-52d5-40d3-a663-a21d2292cc28",
+                      "Name":  "原木梳子",
+                      "Quantity":  5,
+                      "Price":  180,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T11:34:08.0165425+08:00",
+                      "CompletedAt":  "2025-01-20T18:39:41.2533989+08:00"
+                  },
+                  {
+                      "Id":  "aa111d1a-e189-4ed8-8f37-fec74c200a64",
+                      "Name":  "可擦橡皮擦",
+                      "Quantity":  4,
+                      "Price":  193,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T12:35:35.9684488+08:00",
+                      "CompletedAt":  "2025-01-16T02:44:06.5135307+08:00"
+                  },
+                  {
+                      "Id":  "3b7ce816-86c6-4f73-ab3f-d0c0c1dcc196",
+                      "Name":  "環保餐具組",
+                      "Quantity":  1,
+                      "Price":  213,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T15:54:33.9547099+08:00",
+                      "CompletedAt":  "2025-01-20T14:01:20.0056522+08:00"
+                  },
+                  {
+                      "Id":  "2ddb28fd-fb5a-48cd-9b8d-0e742b804ead",
+                      "Name":  "進口蘋果",
+                      "Quantity":  1,
+                      "Price":  74,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T23:18:34.3905416+08:00",
+                      "CompletedAt":  "2025-01-18T02:48:01.3577918+08:00"
+                  },
+                  {
+                      "Id":  "81b2e5ed-5448-4c6a-bb76-2c2a1d12b2f0",
+                      "Name":  "氣泡水",
+                      "Quantity":  2,
+                      "Price":  186,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T08:09:24.5004982+08:00",
+                      "CompletedAt":  "2025-01-21T06:02:19.5946525+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

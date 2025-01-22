@@ -1,0 +1,53 @@
+{
+    "Id":  "345cb9d9-10da-4952-b021-23c2551ade71",
+    "Title":  "日常補充 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-16T06:44:21.5759723+08:00",
+    "Items":  [
+                  {
+                      "Id":  "e33d0106-7f8c-4161-b141-465e5ca47208",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  44,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:00:13.7478478+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a55d30ef-ebc5-4112-b34c-8bee2f671a07",
+                      "Name":  "LED檯燈",
+                      "Quantity":  5,
+                      "Price":  272,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T15:53:52.2536582+08:00",
+                      "CompletedAt":  "2025-01-19T03:52:03.3636901+08:00"
+                  },
+                  {
+                      "Id":  "df02951f-6916-4622-9f21-5f24b49478f8",
+                      "Name":  "保濕乳液",
+                      "Quantity":  2,
+                      "Price":  70,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T00:06:43.6785406+08:00",
+                      "CompletedAt":  "2025-01-17T17:05:58.192161+08:00"
+                  },
+                  {
+                      "Id":  "61f27dd3-0c30-4b9e-90a3-d0b59ab3cc04",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  3,
+                      "Price":  254,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T21:10:46.1990189+08:00",
+                      "CompletedAt":  "2025-01-17T11:16:22.9840957+08:00"
+                  },
+                  {
+                      "Id":  "e7f95661-d418-4b1c-a040-fe816097b42d",
+                      "Name":  "保濕乳液",
+                      "Quantity":  3,
+                      "Price":  34,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T09:06:53.2360659+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

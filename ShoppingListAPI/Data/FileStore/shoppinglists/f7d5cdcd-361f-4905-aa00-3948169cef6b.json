@@ -1,0 +1,35 @@
+{
+    "Id":  "f7d5cdcd-361f-4905-aa00-3948169cef6b",
+    "Title":  "01/18 食品購物清單",
+    "CreatedAt":  "2025-01-16T08:35:18.1156333+08:00",
+    "Items":  [
+                  {
+                      "Id":  "decfaf2f-e7e3-4e97-8c26-6ed254ecf582",
+                      "Name":  "沐浴乳",
+                      "Quantity":  5,
+                      "Price":  108,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1856585Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3a61bab9-91e0-48ae-8d9f-09c8c024abf1",
+                      "Name":  "Awesome Steel Table",
+                      "Quantity":  3,
+                      "Price":  87,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:11.1857101Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ad0f7d26-a197-4617-a880-542a1b25df3e",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  99,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:31:11.1857117Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

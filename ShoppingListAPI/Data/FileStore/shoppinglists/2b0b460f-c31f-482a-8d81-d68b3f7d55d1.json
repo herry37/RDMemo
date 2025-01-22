@@ -1,0 +1,44 @@
+{
+    "Id":  "2b0b460f-c31f-482a-8d81-d68b3f7d55d1",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-17T08:26:17.7600525+08:00",
+    "Items":  [
+                  {
+                      "Id":  "2623ba29-51cd-4da1-a84c-a9322e23ecb9",
+                      "Name":  "Refined Rubber Fish",
+                      "Quantity":  1,
+                      "Price":  225,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:26:57.1743012Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7c28cd11-8002-4f89-869a-a610ad71ae30",
+                      "Name":  "蛋",
+                      "Quantity":  2,
+                      "Price":  453,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1743063Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53e471d7-dd55-4b71-a21d-afd16df74a78",
+                      "Name":  "牛奶",
+                      "Quantity":  3,
+                      "Price":  280,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1743073Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "51ce6147-1972-42b4-900e-b83bcb5e5314",
+                      "Name":  "果汁",
+                      "Quantity":  4,
+                      "Price":  362,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:26:57.1743084Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

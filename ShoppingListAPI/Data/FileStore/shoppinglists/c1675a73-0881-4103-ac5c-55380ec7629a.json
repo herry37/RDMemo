@@ -1,0 +1,71 @@
+{
+    "Id":  "c1675a73-0881-4103-ac5c-55380ec7629a",
+    "Title":  "緊急採買 - 愛買 (01/21)",
+    "CreatedAt":  "2025-01-20T05:24:09.2240111+08:00",
+    "Items":  [
+                  {
+                      "Id":  "39eaca8a-8606-400f-af02-4156775c3f28",
+                      "Name":  "放山雞",
+                      "Quantity":  2,
+                      "Price":  145,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T14:02:03.013186+08:00",
+                      "CompletedAt":  "2025-01-20T06:13:25.4558822+08:00"
+                  },
+                  {
+                      "Id":  "d39f8f86-0a3e-4cff-b2cc-e19079b84fd8",
+                      "Name":  "國產馬鈴薯",
+                      "Quantity":  5,
+                      "Price":  136,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-16T07:42:07.7410171+08:00",
+                      "CompletedAt":  "2025-01-17T00:34:20.7537716+08:00"
+                  },
+                  {
+                      "Id":  "f49cdd9d-e7a9-4932-a1be-45c070367a4c",
+                      "Name":  "手工蛋糕",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T16:33:06.4468135+08:00",
+                      "CompletedAt":  "2025-01-19T12:58:37.8933639+08:00"
+                  },
+                  {
+                      "Id":  "a1c31489-88cf-4f96-9477-504242cffefb",
+                      "Name":  "進口可樂",
+                      "Quantity":  2,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T10:19:05.0062333+08:00",
+                      "CompletedAt":  "2025-01-18T06:26:57.1306971+08:00"
+                  },
+                  {
+                      "Id":  "b5776533-39e0-4b35-83a8-e67eaa45b850",
+                      "Name":  "抗菌棉被",
+                      "Quantity":  4,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:09:31.4626181+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c681f647-25d0-45d3-abca-e041deab3350",
+                      "Name":  "柔軟面紙",
+                      "Quantity":  1,
+                      "Price":  226,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T07:56:58.4721883+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a6360d7c-b2f4-454c-ad9a-66afc2b30ea4",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T18:54:01.7656194+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

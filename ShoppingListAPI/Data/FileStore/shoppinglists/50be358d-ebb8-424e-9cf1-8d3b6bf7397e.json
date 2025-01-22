@@ -1,0 +1,71 @@
+{
+    "Id":  "50be358d-ebb8-424e-9cf1-8d3b6bf7397e",
+    "Title":  "01/17 零食採買清單",
+    "CreatedAt":  "2025-01-18T23:54:28.8227328+08:00",
+    "Items":  [
+                  {
+                      "Id":  "4f80da58-a304-4f3c-bb60-e6c8b5b605ed",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  306,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107269Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8b93c670-0ac0-45e8-b6c7-f8dafe51b10e",
+                      "Name":  "Sleek Metal Bacon",
+                      "Quantity":  4,
+                      "Price":  249,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107484Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b28306d3-6fbf-464e-8769-e110af0fba94",
+                      "Name":  "Handmade Rubber Salad",
+                      "Quantity":  5,
+                      "Price":  401,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107541Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "66602454-3bd3-41c7-b7ff-f243af7d3baf",
+                      "Name":  "Small Rubber Ball",
+                      "Quantity":  2,
+                      "Price":  194,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107595Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ce9416e4-9683-40d2-9b2b-2f6d470deca8",
+                      "Name":  "茶",
+                      "Quantity":  3,
+                      "Price":  488,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107618Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4d3ecd5d-65c3-4bb3-8a4c-e6f35a4fb46a",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  257,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.410765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c3e19c86-021c-46e4-8d83-033d5622617a",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  91,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.4107665Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

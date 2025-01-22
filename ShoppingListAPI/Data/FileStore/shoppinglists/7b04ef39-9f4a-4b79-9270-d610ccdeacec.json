@@ -1,0 +1,35 @@
+{
+    "Id":  "7b04ef39-9f4a-4b79-9270-d610ccdeacec",
+    "Title":  "01/18 食品採買清單",
+    "CreatedAt":  "2025-01-20T03:43:24.3460616+08:00",
+    "Items":  [
+                  {
+                      "Id":  "8bac4448-d5e0-47b2-9cac-3b6334c6924d",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  452,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5495874Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "43eda40a-afa4-44ea-98f3-03c7fe37d3fe",
+                      "Name":  "醬油",
+                      "Quantity":  2,
+                      "Price":  394,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.5495925Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "314e71a9-7a4c-4104-a143-5ea467f45bad",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  98,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.5495941Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}

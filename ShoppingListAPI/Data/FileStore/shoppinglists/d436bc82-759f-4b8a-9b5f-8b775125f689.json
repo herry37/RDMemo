@@ -1,0 +1,80 @@
+{
+    "Id":  "d436bc82-759f-4b8a-9b5f-8b775125f689",
+    "Title":  "露營準備 - 大潤發 (01/20)",
+    "CreatedAt":  "2025-01-16T01:42:23.9279102+08:00",
+    "Items":  [
+                  {
+                      "Id":  "509e1c61-6513-415e-8233-1c2c840a1963",
+                      "Name":  "濃縮洗衣精",
+                      "Quantity":  3,
+                      "Price":  178,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T04:29:41.081847+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0bb501af-ddb8-44a8-9376-6c6149a5b0ff",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  3,
+                      "Price":  284,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T08:28:24.649264+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "551f6e49-e49c-4bb3-843c-b322719981eb",
+                      "Name":  "多功能筆筒",
+                      "Quantity":  2,
+                      "Price":  29,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:16:54.0550314+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3f3e7d7c-acce-4b02-a11c-eb1b2a35c182",
+                      "Name":  "環保漂白水",
+                      "Quantity":  4,
+                      "Price":  217,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T07:05:43.7372676+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b05f146c-553d-432a-ab80-3747280263a2",
+                      "Name":  "環保垃圾袋",
+                      "Quantity":  1,
+                      "Price":  81,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:58:22.9489668+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ec8735f7-8478-4912-a25c-cbae624e7777",
+                      "Name":  "有機番茄",
+                      "Quantity":  5,
+                      "Price":  140,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:21:09.4006526+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3e71faa6-9c8c-4109-b483-a468850752bd",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T02:18:52.3497825+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "688a8a13-4b72-4b0e-b412-685082253ed2",
+                      "Name":  "五刀片刮鬍刀",
+                      "Quantity":  4,
+                      "Price":  130,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T09:52:33.7888874+08:00",
+                      "CompletedAt":  "2025-01-20T14:53:42.8882109+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

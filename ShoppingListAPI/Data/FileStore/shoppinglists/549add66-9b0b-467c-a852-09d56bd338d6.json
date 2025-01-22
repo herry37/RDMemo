@@ -1,0 +1,71 @@
+{
+    "Id":  "549add66-9b0b-467c-a852-09d56bd338d6",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-14T17:39:33.0594093+08:00",
+    "Items":  [
+                  {
+                      "Id":  "377c67a9-a9e2-4e6d-8b1f-0a1a082ae59d",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  375.077461716653490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T23:50:22.7517542+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "318bc48a-f259-4f19-a7ad-d6c95037ddff",
+                      "Name":  "碗",
+                      "Quantity":  8,
+                      "Price":  97.217799329624810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T17:20:44.5268665+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "beeca2b6-5f32-4962-ba91-24a56c321a4f",
+                      "Name":  "牛奶",
+                      "Quantity":  2,
+                      "Price":  150.639013760880810,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T06:01:52.1498279+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "506593f3-3a6f-450b-ba23-3925171f3b72",
+                      "Name":  "便利貼",
+                      "Quantity":  10,
+                      "Price":  430.18695848811220,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:16:05.7358934+08:00",
+                      "CompletedAt":  "2025-01-21T17:58:26.1906471+08:00"
+                  },
+                  {
+                      "Id":  "7cb41194-29db-4bf9-89d2-32c62b09b01a",
+                      "Name":  "護手霜",
+                      "Quantity":  4,
+                      "Price":  392.720908996722520,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T02:43:25.8898812+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d817d13-07f1-4797-8729-15cc279a8996",
+                      "Name":  "棉被",
+                      "Quantity":  8,
+                      "Price":  281.232667850770430,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T12:50:27.7986515+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "838dd08a-ed09-4dbe-9bca-eaec41d95811",
+                      "Name":  "芳香劑",
+                      "Quantity":  10,
+                      "Price":  313.299861373928160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T06:58:39.1269464+08:00",
+                      "CompletedAt":  "2025-01-16T02:16:36.2686308+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,62 @@
+{
+    "Id":  "46fa9d14-69ef-4b9b-b76c-38d3b1fb0201",
+    "Title":  "01/19 零食購物清單",
+    "CreatedAt":  "2025-01-19T06:23:25.5681534+08:00",
+    "Items":  [
+                  {
+                      "Id":  "25f66c97-5b37-4452-b059-117cff2e7fed",
+                      "Name":  "Rustic Plastic Bacon",
+                      "Quantity":  5,
+                      "Price":  412,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877288Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "799ae5e8-277b-469a-9465-66e69ffe1793",
+                      "Name":  "Tasty Concrete Pizza",
+                      "Quantity":  4,
+                      "Price":  164,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877316Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "a72023eb-3a8a-4e3f-9434-ac4904429161",
+                      "Name":  "蔬菜",
+                      "Quantity":  4,
+                      "Price":  91,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877325Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "41f8589f-76e2-4fbf-af7a-0308ff3f55d3",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  266,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877335Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b4ea0e6-e3bf-4a35-9553-65c57e428485",
+                      "Name":  "糖",
+                      "Quantity":  1,
+                      "Price":  359,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877343Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ba05b766-45d9-4e1a-9a27-9f4a8fe01e59",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  354,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T19:08:14.4877355Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

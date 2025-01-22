@@ -1,0 +1,71 @@
+{
+    "Id":  "548aa9b7-0cd5-48b3-8361-4897cf062f13",
+    "Title":  "日常用品補充 - 01/20",
+    "CreatedAt":  "2025-01-18T03:34:39.2375862+08:00",
+    "Items":  [
+                  {
+                      "Id":  "168868c7-a4e4-457c-ac7b-79305dd34b53",
+                      "Name":  "蛋",
+                      "Quantity":  6,
+                      "Price":  59.577856380858540,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T10:27:27.6355561+08:00",
+                      "CompletedAt":  "2025-01-21T22:10:38.4255652+08:00"
+                  },
+                  {
+                      "Id":  "ca115a26-7b18-4f4b-b8d6-418d6d4cc4b6",
+                      "Name":  "魚",
+                      "Quantity":  9,
+                      "Price":  132.286526512203270,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T03:28:10.9142687+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef6eac00-dcf2-4867-8747-8348118c99d8",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  377.225095716168760,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T14:37:00.7717851+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9d7f4c3e-e76c-421e-a8ca-70e73a0676f7",
+                      "Name":  "面膜",
+                      "Quantity":  4,
+                      "Price":  413.391315108670210,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T16:06:53.7659563+08:00",
+                      "CompletedAt":  "2025-01-17T08:14:01.8661405+08:00"
+                  },
+                  {
+                      "Id":  "30182de1-680a-40fe-8c98-65578545466b",
+                      "Name":  "梳子",
+                      "Quantity":  2,
+                      "Price":  129.875495098912980,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T03:13:55.0862289+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "eabdcfb7-922e-4871-a384-d3a6ae268e48",
+                      "Name":  "面紙",
+                      "Quantity":  9,
+                      "Price":  332.671770641362170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T13:17:40.5305928+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f38368e-2db6-4ae5-a283-77cd311fe275",
+                      "Name":  "毛巾",
+                      "Quantity":  7,
+                      "Price":  161.527551990166030,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T03:28:07.1920575+08:00",
+                      "CompletedAt":  "2025-01-20T20:07:07.7794717+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

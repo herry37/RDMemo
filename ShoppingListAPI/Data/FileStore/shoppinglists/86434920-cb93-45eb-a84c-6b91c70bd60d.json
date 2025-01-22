@@ -1,0 +1,71 @@
+{
+    "Id":  "86434920-cb93-45eb-a84c-6b91c70bd60d",
+    "Title":  "緊急採買 - 大潤發 (01/21)",
+    "CreatedAt":  "2025-01-20T07:57:24.7708053+08:00",
+    "Items":  [
+                  {
+                      "Id":  "92094f7d-bd2d-430e-83d2-700b9ce7f290",
+                      "Name":  "天然海綿",
+                      "Quantity":  2,
+                      "Price":  124,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T12:15:21.7024104+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d7f7c9eb-43a8-447d-9f5c-c526747f9b6b",
+                      "Name":  "日本泡麵",
+                      "Quantity":  3,
+                      "Price":  104,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T01:38:22.9778247+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "753074b5-ec96-4130-bdbf-2b3fad82aa0b",
+                      "Name":  "有機鮮奶",
+                      "Quantity":  2,
+                      "Price":  154,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T17:29:53.7933325+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc8f2154-125f-4797-9816-46a623cd9148",
+                      "Name":  "無糖豆漿",
+                      "Quantity":  3,
+                      "Price":  251,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T07:18:09.3624561+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "10766de9-afaa-4f86-9605-1235577351ed",
+                      "Name":  "金屬直尺",
+                      "Quantity":  4,
+                      "Price":  138,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T05:10:05.1217734+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "962c4121-6dff-458d-b9de-644e9ad4d240",
+                      "Name":  "新鮮鮭魚",
+                      "Quantity":  3,
+                      "Price":  230,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T12:40:03.8187982+08:00",
+                      "CompletedAt":  "2025-01-21T02:21:25.3200568+08:00"
+                  },
+                  {
+                      "Id":  "c3663f52-0fca-4e48-8e09-55fcc57ef70e",
+                      "Name":  "不沾鍋具",
+                      "Quantity":  2,
+                      "Price":  212,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T11:05:42.1842107+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,80 @@
+{
+    "Id":  "658b8bef-1aba-4baf-aaee-182d54dac804",
+    "Title":  "早市採買 - 頂好 (01/21)",
+    "CreatedAt":  "2025-01-17T13:42:40.5885671+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a7cef230-8d31-47bf-bb47-dfdb4438542d",
+                      "Name":  "天然沐浴乳",
+                      "Quantity":  5,
+                      "Price":  296,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T16:42:18.7743019+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9a423d8a-067d-4d7e-8aff-1c83b0f620bc",
+                      "Name":  "美白牙膏",
+                      "Quantity":  2,
+                      "Price":  36,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T20:25:00.6878363+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4c4d4d57-fae3-4aad-a58a-252e397a865f",
+                      "Name":  "當季青菜",
+                      "Quantity":  2,
+                      "Price":  244,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T22:47:21.5546854+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "00e9ae29-7007-419b-8ec7-9bc6d1ee9ba6",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  5,
+                      "Price":  246,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T18:39:42.7137471+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ef7151d0-0139-4be5-9f9e-cf0ca6646bb5",
+                      "Name":  "環保漂白水",
+                      "Quantity":  5,
+                      "Price":  244,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-20T23:47:07.323407+08:00",
+                      "CompletedAt":  "2025-01-21T11:44:25.2973263+08:00"
+                  },
+                  {
+                      "Id":  "e18b425b-5689-45c8-b202-3ed7eb8b8811",
+                      "Name":  "木質相框",
+                      "Quantity":  1,
+                      "Price":  229,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:53:53.5059828+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f3832f80-e65b-423a-8031-af09cc026ac3",
+                      "Name":  "天然礦泉水",
+                      "Quantity":  5,
+                      "Price":  226,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-14T19:55:32.6666364+08:00",
+                      "CompletedAt":  "2025-01-15T06:43:55.9496382+08:00"
+                  },
+                  {
+                      "Id":  "e4e89022-4a66-4cdf-a206-8164eb41a39f",
+                      "Name":  "精釀啤酒",
+                      "Quantity":  1,
+                      "Price":  148,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T13:57:41.2789899+08:00",
+                      "CompletedAt":  "2025-01-18T09:19:18.8142601+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

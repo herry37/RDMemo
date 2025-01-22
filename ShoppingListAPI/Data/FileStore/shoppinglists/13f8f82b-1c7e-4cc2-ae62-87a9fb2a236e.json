@@ -1,0 +1,35 @@
+{
+    "Id":  "13f8f82b-1c7e-4cc2-ae62-87a9fb2a236e",
+    "Title":  "01/19 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T02:38:29.2492784+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ade2cfdf-e120-476d-b7ee-df3e87a866a3",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  24,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.6868507Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "de41d2c2-d67f-44a1-b471-2716f51497a7",
+                      "Name":  "零食",
+                      "Quantity":  1,
+                      "Price":  224,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.686853Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3793ece7-d104-4ac5-b68c-0102a571240b",
+                      "Name":  "牛奶",
+                      "Quantity":  5,
+                      "Price":  126,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.686857Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

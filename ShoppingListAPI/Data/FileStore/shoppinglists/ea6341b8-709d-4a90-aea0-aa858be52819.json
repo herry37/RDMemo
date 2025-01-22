@@ -1,0 +1,35 @@
+{
+    "Id":  "ea6341b8-709d-4a90-aea0-aa858be52819",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-16T01:33:10.5340453+08:00",
+    "Items":  [
+                  {
+                      "Id":  "d780512f-9809-4be1-8bb7-18ff8bb8b28a",
+                      "Name":  "茶",
+                      "Quantity":  2,
+                      "Price":  340,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.6569608Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "313d1db8-43e1-4ee6-baef-95dc06910134",
+                      "Name":  "罐頭",
+                      "Quantity":  2,
+                      "Price":  277,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T17:17:29.656963Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "90928c2b-85e7-4ba2-a113-cd1a37c734ad",
+                      "Name":  "蛋",
+                      "Quantity":  4,
+                      "Price":  129,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T17:17:29.656964Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

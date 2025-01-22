@@ -1,0 +1,62 @@
+{
+    "Id":  "09e12f4e-0bbc-4946-9ee3-0abff215e837",
+    "Title":  "01/17 個人護理採買清單",
+    "CreatedAt":  "2025-01-19T07:14:50.5384509+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0a69283c-a38d-46e2-a0cc-5ffca8f1070f",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  393,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0748113Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1d7fea19-0960-4fdf-9700-94a9c9a0f2e8",
+                      "Name":  "麵包",
+                      "Quantity":  1,
+                      "Price":  457,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.074819Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d23e04f4-96ca-4959-8111-2327979f54b5",
+                      "Name":  "米",
+                      "Quantity":  2,
+                      "Price":  103,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0748206Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "bc0d5dc4-abff-48c6-8825-7ccf31a2d87d",
+                      "Name":  "肉",
+                      "Quantity":  1,
+                      "Price":  185,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.074822Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "601d7b6d-7bf3-40ac-86ec-b58ba0381c23",
+                      "Name":  "垃圾袋",
+                      "Quantity":  2,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0748236Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "91c4339b-36e8-4cad-86b7-4def689285ab",
+                      "Name":  "Small Granite Bike",
+                      "Quantity":  4,
+                      "Price":  156,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:37.0748504Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/17"
+}

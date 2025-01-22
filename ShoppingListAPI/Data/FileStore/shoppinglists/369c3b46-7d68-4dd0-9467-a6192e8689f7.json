@@ -1,0 +1,53 @@
+{
+    "Id":  "369c3b46-7d68-4dd0-9467-a6192e8689f7",
+    "Title":  "居家整理 - 頂好 (01/20)",
+    "CreatedAt":  "2025-01-17T23:20:13.1233994+08:00",
+    "Items":  [
+                  {
+                      "Id":  "12c2270d-6adc-4f59-b07d-982cd5a227d3",
+                      "Name":  "中性筆組",
+                      "Quantity":  5,
+                      "Price":  260,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T07:34:33.850139+08:00",
+                      "CompletedAt":  "2025-01-20T05:35:22.8561063+08:00"
+                  },
+                  {
+                      "Id":  "b75d81dc-935b-408b-bc6e-f91ae2f2c272",
+                      "Name":  "綜合堅果",
+                      "Quantity":  2,
+                      "Price":  182,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T08:21:59.8101884+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b0fabb1f-7c00-41a5-a0f9-69c3b6f52fed",
+                      "Name":  "抽取式衛生紙",
+                      "Quantity":  2,
+                      "Price":  160,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T13:39:30.7022199+08:00",
+                      "CompletedAt":  "2025-01-16T04:49:50.1810575+08:00"
+                  },
+                  {
+                      "Id":  "d9bc022d-8710-413d-9f0e-3a8d6902ae13",
+                      "Name":  "有機洗髮精",
+                      "Quantity":  3,
+                      "Price":  165,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-14T21:20:01.8477042+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "08fee3aa-ff9a-403d-877b-f04f42c49c6f",
+                      "Name":  "中性筆組",
+                      "Quantity":  2,
+                      "Price":  130,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:56:38.8772937+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

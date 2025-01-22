@@ -1,0 +1,44 @@
+{
+    "Id":  "061314b5-3cb7-44e3-bf51-9d939a6fccfc",
+    "Title":  "01/19 食品購物清單",
+    "CreatedAt":  "2025-01-16T18:59:06.2751369+08:00",
+    "Items":  [
+                  {
+                      "Id":  "b1a82190-df01-4580-8f54-504efe632d99",
+                      "Name":  "咖啡",
+                      "Quantity":  5,
+                      "Price":  492,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9454718Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "70cf053e-5fac-41cf-9c2a-95257ece02ce",
+                      "Name":  "麵包",
+                      "Quantity":  4,
+                      "Price":  93,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.9454774Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "567cec60-0a43-4525-bba0-be272539faf8",
+                      "Name":  "醬油",
+                      "Quantity":  4,
+                      "Price":  233,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9454793Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "5882de82-ef8f-4cd4-a647-d864c289e10a",
+                      "Name":  "肥皂",
+                      "Quantity":  4,
+                      "Price":  147,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.9454853Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/19"
+}

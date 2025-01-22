@@ -1,0 +1,53 @@
+{
+    "Id":  "34a2d037-dd1b-4167-9dad-747f3a69cf69",
+    "Title":  "每週採購 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-18T18:45:59.3887194+08:00",
+    "Items":  [
+                  {
+                      "Id":  "73149150-eaf7-4f40-8b22-8dec3481a95a",
+                      "Name":  "進口可樂",
+                      "Quantity":  5,
+                      "Price":  84,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-15T03:06:23.2458513+08:00",
+                      "CompletedAt":  "2025-01-15T09:09:10.8930616+08:00"
+                  },
+                  {
+                      "Id":  "d7dc21c1-6ad3-465e-971e-fab3d8c3484e",
+                      "Name":  "日本泡麵",
+                      "Quantity":  1,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-18T09:15:49.9751722+08:00",
+                      "CompletedAt":  "2025-01-19T05:26:39.4193981+08:00"
+                  },
+                  {
+                      "Id":  "fa6f5ad5-d416-42e4-acfb-a92af8c4a3b9",
+                      "Name":  "香甜香蕉",
+                      "Quantity":  4,
+                      "Price":  76,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:27:11.1706178+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "40003e12-9481-46d4-9621-e350bb5c6113",
+                      "Name":  "綜合堅果",
+                      "Quantity":  3,
+                      "Price":  119,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T15:37:13.4547265+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be755b7f-dbb6-4339-bcec-9124e6927868",
+                      "Name":  "保養化妝品",
+                      "Quantity":  4,
+                      "Price":  199,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T12:37:08.4518623+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

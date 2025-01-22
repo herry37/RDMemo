@@ -1,0 +1,80 @@
+{
+    "Id":  "d6a38c21-f6ad-483b-8c15-b57b35f3e137",
+    "Title":  "01/15 個人護理採買清單",
+    "CreatedAt":  "2025-01-15T03:15:19.1433142+08:00",
+    "Items":  [
+                  {
+                      "Id":  "90d6b783-5a06-4a8c-8549-bb4a4bb4e523",
+                      "Name":  "調味料",
+                      "Quantity":  5,
+                      "Price":  41,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281612Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ffb86eda-d008-492c-8076-9d320172d297",
+                      "Name":  "衛生紙",
+                      "Quantity":  1,
+                      "Price":  133,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281658Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6ad5cc3-318b-42fb-ab07-b366dbe06b20",
+                      "Name":  "肉",
+                      "Quantity":  3,
+                      "Price":  315,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281698Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "aa18af09-083a-4432-b82d-93870fd9422c",
+                      "Name":  "餅乾",
+                      "Quantity":  4,
+                      "Price":  42,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281711Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "45123a04-ead9-4eef-85fe-b7d90046aa8d",
+                      "Name":  "牙膏",
+                      "Quantity":  5,
+                      "Price":  441,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281722Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e637b1f2-25cf-4462-b0f7-63a03b92ff2f",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  490,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281752Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3d58514e-dc86-4363-9f4d-555ce3cca667",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  284,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T13:16:36.7281768Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c409b079-e94f-41fd-b328-86a6054d99ae",
+                      "Name":  "Rustic Rubber Car",
+                      "Quantity":  2,
+                      "Price":  265,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T13:16:36.7282056Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

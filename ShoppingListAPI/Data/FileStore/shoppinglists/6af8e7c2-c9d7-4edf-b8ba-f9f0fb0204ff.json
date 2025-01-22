@@ -1,0 +1,44 @@
+{
+    "Id":  "6af8e7c2-c9d7-4edf-b8ba-f9f0fb0204ff",
+    "Title":  "01/15 清潔用品購物清單",
+    "CreatedAt":  "2025-01-19T10:10:44.6063868+08:00",
+    "Items":  [
+                  {
+                      "Id":  "ea05b89c-b07f-42fb-bd3f-575b4186ea0a",
+                      "Name":  "餅乾",
+                      "Quantity":  2,
+                      "Price":  445,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8929192Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8ebde234-a3ce-4048-8d26-fb92f694ab3c",
+                      "Name":  "牙膏",
+                      "Quantity":  2,
+                      "Price":  480,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T15:17:44.8929237Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "72b25857-ffc6-4abe-bf70-754522db8fd2",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  110,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.8929257Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "73d8769b-1452-432d-8665-b38e1eefc4d6",
+                      "Name":  "水果",
+                      "Quantity":  5,
+                      "Price":  351,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T15:17:44.892928Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

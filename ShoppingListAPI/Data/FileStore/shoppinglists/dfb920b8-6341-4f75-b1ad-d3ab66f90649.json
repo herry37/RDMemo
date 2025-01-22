@@ -1,0 +1,80 @@
+{
+    "Id":  "dfb920b8-6341-4f75-b1ad-d3ab66f90649",
+    "Title":  "01/15 零食採買清單",
+    "CreatedAt":  "2025-01-19T08:40:08.5584714+08:00",
+    "Items":  [
+                  {
+                      "Id":  "19b49159-2f7c-485e-8ede-a5b40a20799b",
+                      "Name":  "咖啡",
+                      "Quantity":  4,
+                      "Price":  177,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319337Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3270a8b3-37d9-4e5d-8e4c-310cafb096ac",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  168,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319382Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "22e7fb98-baca-47e6-b03f-0ad5c72c81af",
+                      "Name":  "蘋果",
+                      "Quantity":  4,
+                      "Price":  363,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319407Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "cf645efc-f7e6-4e18-a7b6-da94cd6bdff5",
+                      "Name":  "罐頭",
+                      "Quantity":  5,
+                      "Price":  240,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319439Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "57618d5e-c5b7-4234-970c-56c8ee05ef2d",
+                      "Name":  "Ergonomic Cotton Fish",
+                      "Quantity":  2,
+                      "Price":  241,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319654Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c91aa389-9b08-42bb-b858-3c8b5aba61d1",
+                      "Name":  "零食",
+                      "Quantity":  5,
+                      "Price":  145,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319694Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "9c01eccc-76b0-49a5-b32b-a0284ee2a3f0",
+                      "Name":  "Practical Plastic Hat",
+                      "Quantity":  3,
+                      "Price":  40,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5319765Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "ca66622b-d29c-46c1-88cb-843e049f0a68",
+                      "Name":  "糖",
+                      "Quantity":  3,
+                      "Price":  408,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.53198Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/15"
+}

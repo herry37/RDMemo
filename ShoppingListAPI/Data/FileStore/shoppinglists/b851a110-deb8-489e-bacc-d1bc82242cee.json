@@ -1,0 +1,89 @@
+{
+    "Id":  "b851a110-deb8-489e-bacc-d1bc82242cee",
+    "Title":  "01/20 食品採買清單",
+    "CreatedAt":  "2025-01-15T21:23:03.2867191+08:00",
+    "Items":  [
+                  {
+                      "Id":  "0cdced4f-3306-4f69-8996-b31aabc97d4d",
+                      "Name":  "飲料",
+                      "Quantity":  3,
+                      "Price":  211,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2160605Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "4fc9f4e4-3fad-425d-ba74-b906c1b27b7e",
+                      "Name":  "果汁",
+                      "Quantity":  5,
+                      "Price":  175,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2160635Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d6df7ef3-814f-451f-b509-d5ad648e2b03",
+                      "Name":  "水果",
+                      "Quantity":  3,
+                      "Price":  291,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2160662Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0872fd1c-c670-4222-8be1-44736094ac95",
+                      "Name":  "水果",
+                      "Quantity":  2,
+                      "Price":  352,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2160671Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "17489c0b-2978-4e59-b495-6e0c92f39685",
+                      "Name":  "肉",
+                      "Quantity":  5,
+                      "Price":  83,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T16:55:10.2160682Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "634c40a5-8a96-4723-9184-99d995145b4f",
+                      "Name":  "Gorgeous Soft Cheese",
+                      "Quantity":  5,
+                      "Price":  171,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2161213Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8c2caab6-1795-4b06-8c87-28b67c277219",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  340,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2161231Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "56a7003a-6d81-42b4-8bf1-ab81f8272e10",
+                      "Name":  "調味料",
+                      "Quantity":  2,
+                      "Price":  483,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.2161241Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "c4ca1832-7226-44a0-9fdb-02bccccf7976",
+                      "Name":  "Licensed Wooden Shoes",
+                      "Quantity":  4,
+                      "Price":  312,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T16:55:10.216131Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

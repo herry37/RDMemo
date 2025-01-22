@@ -1,0 +1,35 @@
+{
+    "Id":  "bf590f8a-c638-4900-a1ca-7c88483f756b",
+    "Title":  "派對用品 - 全聯 (01/21)",
+    "CreatedAt":  "2025-01-19T07:25:35.2076383+08:00",
+    "Items":  [
+                  {
+                      "Id":  "00754305-0f98-4fc2-a862-df0ce9ca3035",
+                      "Name":  "綜合堅果",
+                      "Quantity":  1,
+                      "Price":  195,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T16:16:57.3349218+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1b5c81d5-7195-4930-9192-ce97ceef7fe1",
+                      "Name":  "廚房清潔劑",
+                      "Quantity":  1,
+                      "Price":  207,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-15T13:52:18.4922249+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "402364ad-b401-4c04-af03-1b15682fb837",
+                      "Name":  "天然芳香劑",
+                      "Quantity":  4,
+                      "Price":  291,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T22:19:09.8501979+08:00",
+                      "CompletedAt":  "2025-01-18T20:54:53.6257513+08:00"
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

@@ -1,0 +1,53 @@
+{
+    "Id":  "a587628a-80b1-4bde-bb3a-fb79dc99f576",
+    "Title":  "01/16 食品購物清單",
+    "CreatedAt":  "2025-01-19T02:34:32.6791819+08:00",
+    "Items":  [
+                  {
+                      "Id":  "7ebb7b90-dbfb-4487-885d-5d4035bf036c",
+                      "Name":  "醬油",
+                      "Quantity":  5,
+                      "Price":  60,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9240753Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "b210a086-def4-47fc-91e2-2d395075c493",
+                      "Name":  "Incredible Metal Bacon",
+                      "Quantity":  4,
+                      "Price":  428,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9241133Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c65a71d-322f-4484-aea4-5438681921c6",
+                      "Name":  "衛生紙",
+                      "Quantity":  2,
+                      "Price":  395,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9241145Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "be69a1ad-d51f-41ce-9be2-4e3eded6657a",
+                      "Name":  "茶",
+                      "Quantity":  4,
+                      "Price":  279,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9241164Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6aba724e-6d55-4f4c-b387-7245aa5e92da",
+                      "Name":  "牛奶",
+                      "Quantity":  4,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:31:10.9241173Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/16"
+}

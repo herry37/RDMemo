@@ -1,0 +1,89 @@
+{
+    "Id":  "81382e03-542d-41e0-b565-cbf1908e7226",
+    "Title":  "日常用品補充 - 01/21",
+    "CreatedAt":  "2025-01-20T03:25:10.9692452+08:00",
+    "Items":  [
+                  {
+                      "Id":  "c6517e57-0715-4e8e-aeaf-fe483443c740",
+                      "Name":  "馬鈴薯",
+                      "Quantity":  7,
+                      "Price":  446.085820181016390,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T20:54:40.7525433+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "f275aebb-830c-4bd0-a5fc-e637fed70eaf",
+                      "Name":  "衛生紙",
+                      "Quantity":  8,
+                      "Price":  243.762615676956170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-19T06:16:10.8629625+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "1c946c3b-6794-4077-a998-f8fea86ff187",
+                      "Name":  "筆記本",
+                      "Quantity":  7,
+                      "Price":  416.95416571777030,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T14:37:46.8480318+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "6f237fb8-d4b1-4cd9-b592-7fd5d873a38c",
+                      "Name":  "汽水",
+                      "Quantity":  5,
+                      "Price":  308.69210945966350,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-19T23:03:45.6995773+08:00",
+                      "CompletedAt":  "2025-01-21T11:12:50.6967588+08:00"
+                  },
+                  {
+                      "Id":  "02cb9c34-007f-4b47-9ec8-bd6ae4ac1b12",
+                      "Name":  "面膜",
+                      "Quantity":  6,
+                      "Price":  126.650129085028210,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-17T08:33:45.4601257+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "3ccb9525-6671-4939-a940-5a0552b79e7f",
+                      "Name":  "鍋子",
+                      "Quantity":  4,
+                      "Price":  367.767279158149630,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-16T21:26:32.8478813+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "0d18d948-d548-4813-beb2-9507efb33b33",
+                      "Name":  "雞肉",
+                      "Quantity":  5,
+                      "Price":  453.238191137861070,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-17T12:23:58.227093+08:00",
+                      "CompletedAt":  "2025-01-18T16:17:48.138208+08:00"
+                  },
+                  {
+                      "Id":  "c14f3339-2abe-4fe6-ba0d-b71625399c4c",
+                      "Name":  "防曬乳",
+                      "Quantity":  9,
+                      "Price":  226.766749583507550,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-20T23:37:38.439116+08:00",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "38b6e1a7-9196-4db7-925c-0a68f98da52e",
+                      "Name":  "訂書機",
+                      "Quantity":  5,
+                      "Price":  307.44133142288670,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-18T15:51:10.2498709+08:00",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/21"
+}

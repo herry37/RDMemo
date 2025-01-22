@@ -1,0 +1,80 @@
+{
+    "Id":  "50671c62-56b3-4dc4-b49b-13f72c713154",
+    "Title":  "01/20 飲料採買清單",
+    "CreatedAt":  "2025-01-15T11:48:42.1577103+08:00",
+    "Items":  [
+                  {
+                      "Id":  "a68a8a45-f171-49ae-b470-bd3b04136851",
+                      "Name":  "蘋果",
+                      "Quantity":  2,
+                      "Price":  117,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.553384Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "93fec6d7-1ebe-4b1f-82b9-59471dd22c19",
+                      "Name":  "零食",
+                      "Quantity":  4,
+                      "Price":  153,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5533891Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d21dd9b7-4993-4706-90c0-6df04e2a5039",
+                      "Name":  "洗髮精",
+                      "Quantity":  1,
+                      "Price":  479,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5533938Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "7ab2340c-f87c-46f5-9a97-5c167701229c",
+                      "Name":  "飲料",
+                      "Quantity":  2,
+                      "Price":  175,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5533965Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "82a7784a-0642-4dbe-bc7d-4ff4eb432231",
+                      "Name":  "茶",
+                      "Quantity":  1,
+                      "Price":  383,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5533991Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "982611a7-721e-4f19-adf4-d3d970461853",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  397,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.553403Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "d586bb74-db9f-47ef-ba86-3f9c0a7e5556",
+                      "Name":  "Sleek Wooden Car",
+                      "Quantity":  1,
+                      "Price":  32,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T12:53:59.5534281Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "53f2c796-66a7-4551-b962-5e53bea08e62",
+                      "Name":  "香蕉",
+                      "Quantity":  5,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T12:53:59.5534307Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/20"
+}

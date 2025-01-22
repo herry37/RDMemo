@@ -1,0 +1,71 @@
+{
+    "Id":  "489497f5-96c1-4bb2-8115-bd19fe8c237d",
+    "Title":  "01/18 個人護理購物清單",
+    "CreatedAt":  "2025-01-19T15:15:36.0713232+08:00",
+    "Items":  [
+                  {
+                      "Id":  "233ad202-8243-49c8-92cf-68b9ec4b323c",
+                      "Name":  "蔬菜",
+                      "Quantity":  2,
+                      "Price":  219,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6159821Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "89de4192-263a-4b3f-a5fa-708510c7a552",
+                      "Name":  "蔬菜",
+                      "Quantity":  5,
+                      "Price":  166,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6159875Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "2cbb607c-3506-4a1c-bbb6-0e616665dc16",
+                      "Name":  "Handcrafted Granite Chicken",
+                      "Quantity":  3,
+                      "Price":  486,
+                      "IsCompleted":  true,
+                      "CreatedAt":  "2025-01-21T14:13:41.6160185Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "8238841a-81e5-4a70-a90d-00819330c354",
+                      "Name":  "蘋果",
+                      "Quantity":  1,
+                      "Price":  243,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6160201Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "e9fb899e-d560-41f2-9991-725304ffb868",
+                      "Name":  "Small Metal Computer",
+                      "Quantity":  3,
+                      "Price":  174,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6160259Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "273dd088-55db-4fe1-bc38-084e2f6122d8",
+                      "Name":  "調味料",
+                      "Quantity":  1,
+                      "Price":  170,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6160297Z",
+                      "CompletedAt":  null
+                  },
+                  {
+                      "Id":  "dd8211f9-9c17-4194-9950-d36204652d83",
+                      "Name":  "調味料",
+                      "Quantity":  3,
+                      "Price":  327,
+                      "IsCompleted":  false,
+                      "CreatedAt":  "2025-01-21T14:13:41.6160318Z",
+                      "CompletedAt":  null
+                  }
+              ],
+    "BuyData":  "2024-01/18"
+}
