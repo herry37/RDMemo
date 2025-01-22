@@ -6,11 +6,19 @@ using ShoppingListAPI.Services.WebSocket;
 using ShoppingListAPI.Utils;
 using System.Net.WebSockets;
 using System.Threading.RateLimiting;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // 添加服務
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+        options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
+        options.JsonSerializerOptions.WriteIndented = true;
+    });
 builder.Services.AddEndpointsApiExplorer();
 
 // 添加速率限制
@@ -47,17 +55,69 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+// 確保資料目錄存在
+var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
+Directory.CreateDirectory(dataDirectory);
+Console.WriteLine($"資料目錄：{dataDirectory}");
+
+// 在開發環境中生成測試資料
+if (app.Environment.IsDevelopment())
+{
+    try 
+    {
+        using var scope = app.Services.CreateScope();
+        var services = scope.ServiceProvider;
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        var fileDbService = services.GetRequiredService<IFileDbService>();
+        
+        // 檢查是否已有資料
+        logger.LogInformation("開始檢查現有資料");
+        var existingLists = await fileDbService.GetAllAsync();
+        logger.LogInformation($"找到 {existingLists.Count} 筆現有的購物清單");
+        
+        if (existingLists.Count == 0)
+        {
+            logger.LogInformation("沒有找到現有的購物清單，開始生成測試資料");
+            var dataGenerator = services.GetRequiredService<DataGenerator>();
+            await dataGenerator.GenerateTestDataAsync(10);
+            logger.LogInformation("測試資料生成完成");
+
+            // 再次檢查資料
+            existingLists = await fileDbService.GetAllAsync();
+            logger.LogInformation($"重新檢查：現在有 {existingLists.Count} 筆購物清單");
+        }
+        else
+        {
+            logger.LogInformation($"已找到 {existingLists.Count} 筆現有的購物清單，跳過測試資料生成");
+        }
+    }
+    catch (Exception ex)
+    {
+        var services = app.Services.GetService<ILogger<Program>>();
+        services?.LogError(ex, "生成測試資料時發生錯誤");
+    }
+}
+
+// 配置中介軟體順序
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
+}
+
+// 啟用CORS - 必須在其他中介軟體之前
+app.UseCors();
+
 // 啟用速率限制
 app.UseRateLimiter();
-
-// 啟用CORS
-app.UseCors();
 
 // 配置 WebSocket
 var webSocketOptions = new WebSocketOptions
 {
     KeepAliveInterval = TimeSpan.FromMinutes(2)
 };
+
+// 確保在 UseRouting 之後，但在 UseEndpoints 之前配置 WebSocket
+app.UseRouting();
 app.UseWebSockets(webSocketOptions);
 
 // WebSocket 端點
@@ -75,47 +135,19 @@ app.Map("/ws", async context =>
 });
 
 // 配置靜態檔案
-var staticFileOptions = new StaticFileOptions
-{
-    ServeUnknownFileTypes = true,
-    DefaultContentType = "application/octet-stream"
-};
-
-// 啟用預設檔案（如 index.html）
 app.UseDefaultFiles();
-
-// 啟用靜態檔案服務
-app.UseStaticFiles(staticFileOptions);
+app.UseStaticFiles();
 
 // API路由
-app.MapControllers();
-
-// 將所有未匹配的路由導向index.html
-app.MapFallbackToFile("index.html");
-
-if (app.Environment.IsDevelopment())
+app.UseEndpoints(endpoints =>
 {
-    // 暫時註解掉測試資料生成
-    /*
-    // 生成測試資料
-    using var scope = app.Services.CreateScope();
-    var dataGenerator = scope.ServiceProvider.GetRequiredService<DataGenerator>();
-    try
-    {
-        await dataGenerator.GenerateTestDataAsync(200);
-        Console.WriteLine("成功生成200筆測試資料");
-    }
-    catch (Exception ex)
-    {
-        var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "生成測試資料時發生錯誤");
-    }
-    */
-}
+    endpoints.MapControllers();
+    endpoints.MapFallbackToFile("index.html");
+});
 
 Console.WriteLine("\n應用程式已啟動:");
-Console.WriteLine("前端網站: http://localhost:5001");
-Console.WriteLine("API位址: http://localhost:5001/api/ShoppingList");
-Console.WriteLine("WebSocket位址: ws://localhost:5001/ws");
+Console.WriteLine($"前端網站: http://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}");
+Console.WriteLine($"API位址: http://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}/api/shoppinglists");
+Console.WriteLine($"WebSocket位址: ws://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}/ws");
 
 app.Run();

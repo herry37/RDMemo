@@ -12,6 +12,7 @@ public class FileDbService : IFileDbService
     private readonly IMemoryCache _cache;
     private const string CacheKeyPrefix = "ShoppingList_";
     private static readonly TimeSpan CacheDuration = TimeSpan.FromMinutes(5);
+    private static readonly SemaphoreSlim _semaphore = new SemaphoreSlim(1, 1);
 
     public FileDbService(
         IWebHostEnvironment env,
@@ -23,9 +24,24 @@ public class FileDbService : IFileDbService
         _cache = cache;
         _jsonOptions = new JsonSerializerOptions { WriteIndented = true };
         
-        if (!Directory.Exists(_baseDirectory))
+        // 初始化資料目錄
+        InitializeDataDirectory().GetAwaiter().GetResult();
+    }
+
+    private async Task InitializeDataDirectory()
+    {
+        await _semaphore.WaitAsync();
+        try
         {
-            Directory.CreateDirectory(_baseDirectory);
+            if (!Directory.Exists(_baseDirectory))
+            {
+                _logger.LogInformation($"建立資料目錄：{_baseDirectory}");
+                Directory.CreateDirectory(_baseDirectory);
+            }
+        }
+        finally
+        {
+            _semaphore.Release();
         }
     }
 
@@ -42,14 +58,15 @@ public class FileDbService : IFileDbService
             return cachedList!;
         }
 
-        var path = GetFilePath(id);
-        if (!File.Exists(path))
-        {
-            throw new KeyNotFoundException($"找不到ID為 {id} 的購物清單");
-        }
-
+        await _semaphore.WaitAsync();
         try
         {
+            var path = GetFilePath(id);
+            if (!File.Exists(path))
+            {
+                throw new KeyNotFoundException($"找不到ID為 {id} 的購物清單");
+            }
+
             var json = await File.ReadAllTextAsync(path);
             var list = JsonSerializer.Deserialize<ShoppingList>(json, _jsonOptions);
 
@@ -65,6 +82,69 @@ public class FileDbService : IFileDbService
         {
             _logger.LogError(ex, "讀取購物清單時發生錯誤");
             throw;
+        }
+        finally
+        {
+            _semaphore.Release();
+        }
+    }
+
+    public async Task<List<ShoppingList>> GetAllAsync()
+    {
+        var lists = new List<ShoppingList>();
+        await _semaphore.WaitAsync();
+        try
+        {
+            _logger.LogInformation($"開始讀取購物清單，目錄：{_baseDirectory}");
+            
+            if (!Directory.Exists(_baseDirectory))
+            {
+                _logger.LogWarning($"目錄不存在，建立新目錄：{_baseDirectory}");
+                Directory.CreateDirectory(_baseDirectory);
+                return lists;
+            }
+
+            var files = Directory.GetFiles(_baseDirectory, "*.json");
+            _logger.LogInformation($"找到 {files.Length} 個購物清單檔案");
+
+            foreach (var file in files)
+            {
+                try
+                {
+                    _logger.LogInformation($"讀取檔案：{Path.GetFileName(file)}");
+                    var json = await File.ReadAllTextAsync(file);
+                    var list = JsonSerializer.Deserialize<ShoppingList>(json, _jsonOptions);
+                    
+                    if (list != null)
+                    {
+                        lists.Add(list);
+                        var cacheKey = $"{CacheKeyPrefix}{list.Id}";
+                        _cache.Set(cacheKey, list, CacheDuration);
+                        _logger.LogInformation($"成功讀取購物清單：{list.Title}");
+                    }
+                    else
+                    {
+                        _logger.LogWarning($"檔案 {Path.GetFileName(file)} 解析後為空");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    _logger.LogError(ex, $"讀取檔案 {Path.GetFileName(file)} 時發生錯誤");
+                    continue;
+                }
+            }
+            
+            _logger.LogInformation($"成功讀取 {lists.Count} 個購物清單");
+            return lists;
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "讀取所有購物清單時發生錯誤");
+            throw;
+        }
+        finally
+        {
+            _semaphore.Release();
         }
     }
 
@@ -109,9 +189,10 @@ public class FileDbService : IFileDbService
             throw new ArgumentNullException(nameof(list));
         }
 
-        var path = GetFilePath(list.Id);
+        await _semaphore.WaitAsync();
         try
         {
+            var path = GetFilePath(list.Id);
             var json = JsonSerializer.Serialize(list, _jsonOptions);
             await File.WriteAllTextAsync(path, json);
 
@@ -125,6 +206,24 @@ public class FileDbService : IFileDbService
             _logger.LogError(ex, "保存購物清單時發生錯誤");
             throw;
         }
+        finally
+        {
+            _semaphore.Release();
+        }
+    }
+
+    public async Task<ShoppingList> UpdateShoppingListAsync(ShoppingList list)
+    {
+        var lists = await GetAllAsync();
+        var index = lists.FindIndex(x => x.Id == list.Id);
+        if (index == -1)
+        {
+            throw new KeyNotFoundException($"找不到ID為 {list.Id} 的購物清單");
+        }
+
+        lists[index] = list;
+        await SaveListsToFileAsync(lists);
+        return list;
     }
 
     public async Task<ShoppingList> AddItemToListAsync(string listId, ShoppingItem item)
@@ -164,13 +263,14 @@ public class FileDbService : IFileDbService
     public async Task DeleteShoppingListAsync(string id)
     {
         var path = GetFilePath(id);
-        if (!File.Exists(path))
-        {
-            throw new KeyNotFoundException($"找不到ID為 {id} 的購物清單");
-        }
-
+        await _semaphore.WaitAsync();
         try
         {
+            if (!File.Exists(path))
+            {
+                throw new KeyNotFoundException($"找不到ID為 {id} 的購物清單");
+            }
+
             File.Delete(path);
             var cacheKey = $"{CacheKeyPrefix}{id}";
             _cache.Remove(cacheKey);
@@ -180,29 +280,9 @@ public class FileDbService : IFileDbService
             _logger.LogError(ex, "刪除購物清單時發生錯誤");
             throw;
         }
-    }
-
-    public async Task<List<ShoppingList>> GetAllAsync()
-    {
-        var lists = new List<ShoppingList>();
-        try
+        finally
         {
-            var files = Directory.GetFiles(_baseDirectory, "*.json");
-            foreach (var file in files)
-            {
-                var json = await File.ReadAllTextAsync(file);
-                var list = JsonSerializer.Deserialize<ShoppingList>(json, _jsonOptions);
-                if (list != null)
-                {
-                    lists.Add(list);
-                }
-            }
-            return lists;
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "讀取所有購物清單時發生錯誤");
-            throw;
+            _semaphore.Release();
         }
     }
 
@@ -217,6 +297,75 @@ public class FileDbService : IFileDbService
         {
             _logger.LogError(ex, $"刪除ID為 {id} 的購物清單時發生錯誤");
             return false;
+        }
+    }
+
+    public async Task<int> BatchDeleteAsync(int year, int month)
+    {
+        await _semaphore.WaitAsync();
+        try
+        {
+            _logger.LogInformation($"開始批量刪除 {year}年{month}月 的購物清單");
+            
+            var lists = await GetAllAsync();
+            var listsToDelete = lists.Where(l => 
+                l.BuyDate?.Year == year && 
+                l.BuyDate?.Month == month).ToList();
+
+            _logger.LogInformation($"找到 {listsToDelete.Count} 筆符合條件的購物清單");
+
+            foreach (var list in listsToDelete)
+            {
+                try
+                {
+                    var path = GetFilePath(list.Id);
+                    if (File.Exists(path))
+                    {
+                        File.Delete(path);
+                        var cacheKey = $"{CacheKeyPrefix}{list.Id}";
+                        _cache.Remove(cacheKey);
+                        _logger.LogInformation($"成功刪除購物清單：{list.Title}");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    _logger.LogError(ex, $"刪除購物清單 {list.Id} 時發生錯誤");
+                }
+            }
+
+            return listsToDelete.Count;
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, $"批量刪除 {year}年{month}月 的購物清單時發生錯誤");
+            throw;
+        }
+        finally
+        {
+            _semaphore.Release();
+        }
+    }
+
+    private async Task SaveListsToFileAsync(List<ShoppingList> lists)
+    {
+        await _semaphore.WaitAsync();
+        try
+        {
+            foreach (var list in lists)
+            {
+                var path = GetFilePath(list.Id);
+                var json = JsonSerializer.Serialize(list, _jsonOptions);
+                await File.WriteAllTextAsync(path, json);
+            }
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "保存購物清單列表時發生錯誤");
+            throw;
+        }
+        finally
+        {
+            _semaphore.Release();
         }
     }
 

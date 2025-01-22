@@ -1,0 +1,53 @@
+{
+  "Id": "87e7cfc6-2e49-47ee-9dba-3a36dc84d562",
+  "Title": "01/20 \u751F\u9BAE\u63A1\u8CB7\u6E05\u55AE",
+  "BuyDate": "2024-05-16T19:47:04.0320035",
+  "CreatedAt": "2025-01-18T20:18:45.5413142+08:00",
+  "Items": [
+    {
+      "Id": "ff1851e4-431b-43c0-9a1f-288748bafbae",
+      "Name": "\u725B\u5976",
+      "Quantity": 2,
+      "Price": 493,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.325306Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "42eac08e-f4d2-4229-8c4a-8a457bb3e31e",
+      "Name": "\u6D17\u8863\u7C89",
+      "Quantity": 3,
+      "Price": 412,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.3253085Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "5897a6f2-2df0-40c3-b7dd-a45cf43ec318",
+      "Name": "\u860B\u679C",
+      "Quantity": 3,
+      "Price": 280,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.32531Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "e0cfbb6a-c21a-4f61-b263-5a13d0ad0692",
+      "Name": "Generic Granite Towels",
+      "Quantity": 5,
+      "Price": 218,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.3253257Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "c3f409a5-ce02-4d25-aff6-8cb0aa7a4857",
+      "Name": "\u885B\u751F\u7D19",
+      "Quantity": 5,
+      "Price": 39,
+      "IsCompleted": true,
+      "CreatedAt": "2025-01-22T09:01:33.3253268Z",
+      "CompletedAt": null
+    }
+  ]
+}

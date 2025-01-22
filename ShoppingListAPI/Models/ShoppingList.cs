@@ -10,7 +10,8 @@ public class ShoppingList
     [StringLength(100, MinimumLength = 1)]
     public string Title { get; set; } = string.Empty;
     
-    public string BuyData { get; set; } // 購買日期
+    [DataType(DataType.Date)]
+    public DateTime? BuyDate { get; set; } // 購買日期
     
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     

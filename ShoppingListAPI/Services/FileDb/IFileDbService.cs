@@ -13,4 +13,6 @@ public interface IFileDbService
     Task DeleteShoppingListAsync(string id);
     Task<List<ShoppingList>> GetAllAsync();
     Task<bool> DeleteAsync(string id);
+    Task<int> BatchDeleteAsync(int year, int month);
+    Task<ShoppingList> UpdateShoppingListAsync(ShoppingList list);
 }

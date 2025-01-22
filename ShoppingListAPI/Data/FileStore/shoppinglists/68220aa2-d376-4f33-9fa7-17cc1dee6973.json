@@ -1,0 +1,53 @@
+{
+  "Id": "68220aa2-d376-4f33-9fa7-17cc1dee6973",
+  "Title": "01/15 \u98DF\u54C1\u63A1\u8CB7\u6E05\u55AE",
+  "BuyDate": "2025-01-09T20:49:52.748527",
+  "CreatedAt": "2025-01-21T13:18:38.4762435+08:00",
+  "Items": [
+    {
+      "Id": "931a20b8-86f3-4b71-8b52-841b08ddcc91",
+      "Name": "\u7CD6",
+      "Quantity": 3,
+      "Price": 300,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.2617646Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "9321a920-4b1c-46eb-9cbb-f2530ae3d785",
+      "Name": "\u7259\u818F",
+      "Quantity": 2,
+      "Price": 289,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.2617916Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "1fb02298-886b-4348-8f2b-80520eebdf9f",
+      "Name": "\u9EB5\u689D",
+      "Quantity": 4,
+      "Price": 266,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.261793Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "9e4ded1b-c937-4e46-a76d-4aa7b10f0220",
+      "Name": "Awesome Wooden Ball",
+      "Quantity": 2,
+      "Price": 103,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.2621193Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "78e767d3-8280-4fcf-96a8-63c2bae3b759",
+      "Name": "\u725B\u5976",
+      "Quantity": 1,
+      "Price": 107,
+      "IsCompleted": true,
+      "CreatedAt": "2025-01-22T09:01:33.2621203Z",
+      "CompletedAt": null
+    }
+  ]
+}

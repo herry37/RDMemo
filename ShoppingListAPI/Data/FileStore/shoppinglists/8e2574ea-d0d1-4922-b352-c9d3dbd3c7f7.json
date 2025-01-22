@@ -1,0 +1,53 @@
+{
+  "Id": "8e2574ea-d0d1-4922-b352-c9d3dbd3c7f7",
+  "Title": "01/21 \u751F\u9BAE\u8CFC\u7269\u6E05\u55AE",
+  "BuyDate": "2024-05-20T22:03:24.6774683",
+  "CreatedAt": "2025-01-22T09:09:41.3966514+08:00",
+  "Items": [
+    {
+      "Id": "b304d742-0737-426b-8b4b-6b437e348856",
+      "Name": "\u6C90\u6D74\u4E73",
+      "Quantity": 5,
+      "Price": 241,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.3151915Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "8612d470-2d11-40fb-8c50-ae1128eb5f9a",
+      "Name": "Rustic Soft Mouse",
+      "Quantity": 2,
+      "Price": 429,
+      "IsCompleted": true,
+      "CreatedAt": "2025-01-22T09:01:33.3152116Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "b9683b3c-2a2b-4d7b-8ba1-bb36fd2f0bdc",
+      "Name": "\u96F6\u98DF",
+      "Quantity": 1,
+      "Price": 491,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.3152125Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "60b3d610-7c17-4329-88ef-966d668e2900",
+      "Name": "\u6C34\u679C",
+      "Quantity": 1,
+      "Price": 11,
+      "IsCompleted": false,
+      "CreatedAt": "2025-01-22T09:01:33.3152134Z",
+      "CompletedAt": null
+    },
+    {
+      "Id": "a7246e50-76a5-47f9-b9b1-35e37da3f8fc",
+      "Name": "\u725B\u5976",
+      "Quantity": 2,
+      "Price": 454,
+      "IsCompleted": true,
+      "CreatedAt": "2025-01-22T09:01:33.3152142Z",
+      "CompletedAt": null
+    }
+  ]
+}

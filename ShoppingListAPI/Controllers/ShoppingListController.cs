@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.RateLimiting;
 using ShoppingListAPI.Models;
 using ShoppingListAPI.Services.FileDb;
 using ShoppingListAPI.Services.WebSocket;
+using System.Text.Json;
 
 namespace ShoppingListAPI.Controllers;
 
@@ -35,11 +36,31 @@ public class ShoppingListController : ControllerBase
     {
         try
         {
-            if (page < 1) return BadRequest("頁碼必須大於0");
-            if (pageSize < 1 || pageSize > 100) return BadRequest("每頁筆數必須在1到100之間");
+            _logger.LogInformation($"開始取得購物清單，頁碼：{page}，每頁筆數：{pageSize}");
+            
+            if (page < 1) 
+            {
+                _logger.LogWarning($"無效的頁碼：{page}");
+                return BadRequest("頁碼必須大於0");
+            }
+            
+            if (pageSize < 1 || pageSize > 100) 
+            {
+                _logger.LogWarning($"無效的每頁筆數：{pageSize}");
+                return BadRequest("每頁筆數必須在1到100之間");
+            }
 
-            var lists = await _fileDbService.GetAllShoppingListsAsync(page, pageSize);
-            return Ok(lists);
+            var lists = await _fileDbService.GetAllAsync();
+            _logger.LogInformation($"成功取得 {lists.Count} 個購物清單");
+
+            // 分頁
+            var pagedLists = lists
+                .OrderByDescending(x => x.CreatedAt)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            return Ok(pagedLists);
         }
         catch (Exception ex)
         {
@@ -137,9 +158,9 @@ public class ShoppingListController : ControllerBase
     }
 
     /// <summary>
-    /// 切換項目完成狀態
+    /// 切換購物項目的完成狀態
     /// </summary>
-    [HttpPut("{listId}/items/{itemId}/toggle")]
+    [HttpPost("{listId}/items/{itemId}/toggle")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -147,9 +168,24 @@ public class ShoppingListController : ControllerBase
     {
         try
         {
-            var updatedList = await _fileDbService.ToggleItemAsync(listId, itemId);
-            await _webSocketHandler.BroadcastShoppingListUpdate(updatedList);
-            return Ok(updatedList);
+            _logger.LogInformation($"切換購物項目狀態：清單ID={listId}，項目ID={itemId}");
+            
+            if (string.IsNullOrEmpty(listId) || string.IsNullOrEmpty(itemId))
+            {
+                return BadRequest("清單ID和項目ID不能為空");
+            }
+
+            var list = await _fileDbService.ToggleItemAsync(listId, itemId);
+            
+            // 通知所有連接的客戶端
+            var message = new
+            {
+                Type = "ItemToggled",
+                Data = new { ListId = listId, ItemId = itemId, List = list }
+            };
+            await _webSocketHandler.BroadcastAsync(JsonSerializer.Serialize(message));
+
+            return Ok(list);
         }
         catch (KeyNotFoundException)
         {
@@ -157,8 +193,8 @@ public class ShoppingListController : ControllerBase
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "切換項目狀態時發生錯誤");
-            return StatusCode(500, "切換項目狀態時發生錯誤");
+            _logger.LogError(ex, "切換購物項目狀態時發生錯誤");
+            return StatusCode(500, "切換購物項目狀態時發生錯誤");
         }
     }
 
@@ -188,32 +224,20 @@ public class ShoppingListController : ControllerBase
         }
     }
 
-    public class BulkDeleteRequest
-    {
-        public string StartDate { get; set; }
-        public string EndDate { get; set; }
-    }
-
     /// <summary>
     /// 批量刪除購物清單
     /// </summary>
-    [HttpDelete("bulk-delete")]
-    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [HttpDelete("bulk")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult> BulkDelete([FromBody] BulkDeleteRequest request)
+    public async Task<IActionResult> BulkDelete([FromQuery] DateTime startDate, [FromQuery] DateTime endDate)
     {
         try
         {
-            if (!DateTime.TryParse(request.StartDate, out var startDate) || 
-                !DateTime.TryParse(request.EndDate, out var endDate))
-            {
-                return BadRequest("日期格式無效");
-            }
-
             if (startDate > endDate)
             {
-                return BadRequest("開始日期不能晚於結束日期");
+                return BadRequest("開始日期不能大於結束日期");
             }
 
             // 取得所有清單
@@ -221,9 +245,9 @@ public class ShoppingListController : ControllerBase
             
             // 過濾出要刪除的清單
             var listsToDelete = lists.Where(list => 
-                DateTime.TryParse(list.BuyData, out var buyDate) && 
-                buyDate >= startDate && 
-                buyDate <= endDate
+                list.BuyDate.HasValue && 
+                list.BuyDate.Value.Date >= startDate.Date && 
+                list.BuyDate.Value.Date <= endDate.Date
             ).ToList();
 
             // 批量刪除
@@ -233,12 +257,143 @@ public class ShoppingListController : ControllerBase
                 await _webSocketHandler.BroadcastMessage(JsonSerializer.Serialize(new { type = "shoppinglist_delete", data = list.Id }));
             }
 
-            return NoContent();
+            return Ok(new { message = $"成功刪除 {listsToDelete.Count} 個購物清單" });
         }
         catch (Exception ex)
         {
             _logger.LogError(ex, "批量刪除購物清單時發生錯誤");
             return StatusCode(500, "批量刪除購物清單時發生錯誤");
+        }
+    }
+
+    /// <summary>
+    /// 批量刪除指定年月的購物清單
+    /// </summary>
+    [HttpDelete("batch")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    public async Task<ActionResult<BatchDeleteResult>> BatchDelete([FromBody] BatchDeleteModel model)
+    {
+        try
+        {
+            _logger.LogInformation($"開始批量刪除 {model.Year}年{model.Month}月 的購物清單");
+            
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var count = await _fileDbService.BatchDeleteAsync(model.Year, model.Month);
+            
+            // 通知所有連接的客戶端
+            var message = new
+            {
+                Type = "BatchDelete",
+                Data = new { Year = model.Year, Month = model.Month, Count = count }
+            };
+            await _webSocketHandler.BroadcastAsync(JsonSerializer.Serialize(message));
+
+            return Ok(new BatchDeleteResult 
+            { 
+                DeletedCount = count,
+                Message = $"成功刪除 {count} 筆購物清單"
+            });
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "批量刪除購物清單時發生錯誤");
+            return StatusCode(500, "批量刪除購物清單時發生錯誤");
+        }
+    }
+
+    /// <summary>
+    /// 搜尋購物清單
+    /// </summary>
+    [HttpGet("search")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    public async Task<ActionResult<List<ShoppingList>>> Search(
+        [FromQuery] DateTime? startDate,
+        [FromQuery] DateTime? endDate,
+        [FromQuery] string? title)
+    {
+        try
+        {
+            var lists = await _fileDbService.GetAllAsync();
+
+            // 根據條件篩選
+            var query = lists.AsQueryable();
+
+            if (startDate.HasValue)
+            {
+                query = query.Where(x => x.BuyDate >= startDate.Value.Date);
+            }
+
+            if (endDate.HasValue)
+            {
+                query = query.Where(x => x.BuyDate <= endDate.Value.Date);
+            }
+
+            if (!string.IsNullOrWhiteSpace(title))
+            {
+                query = query.Where(x => x.Title.Contains(title, StringComparison.OrdinalIgnoreCase));
+            }
+
+            // 依購買日期排序
+            var result = query
+                .OrderByDescending(x => x.BuyDate)
+                .ToList();
+
+            return Ok(result);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "搜尋購物清單時發生錯誤");
+            return StatusCode(500, "搜尋購物清單時發生錯誤");
+        }
+    }
+
+    /// <summary>
+    /// 更新購物清單
+    /// </summary>
+    [HttpPut("{id}")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    public async Task<IActionResult> Update(string id, [FromBody] ShoppingListUpdateRequest request)
+    {
+        try
+        {
+            if (string.IsNullOrEmpty(id))
+            {
+                return BadRequest("ID不能為空");
+            }
+
+            var list = await _fileDbService.GetShoppingListAsync(id);
+            list.Items = request.Items;
+
+            await _fileDbService.UpdateShoppingListAsync(list);
+
+            // 通知其他客戶端
+            await _webSocketHandler.BroadcastMessage(new WebSocketMessage
+            {
+                Type = "ListUpdated",
+                Data = JsonSerializer.Serialize(list)
+            });
+
+            return Ok();
+        }
+        catch (KeyNotFoundException)
+        {
+            return NotFound();
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "更新購物清單時發生錯誤");
+            return StatusCode(500, "更新購物清單時發生錯誤");
         }
     }
 }

@@ -35,17 +35,33 @@ public class DataGenerator
         {
             _logger.LogInformation($"開始生成 {count} 筆測試資料");
 
+            // 設定日期範圍：從 2024 年 1 月 1 日到現在
+            var startDate = new DateTime(2024, 1, 1);
+            var endDate = DateTime.Now;
+            _logger.LogInformation($"日期範圍：{startDate:yyyy-MM-dd} 到 {endDate:yyyy-MM-dd}");
+
             for (int i = 0; i < count; i++)
             {
+                _logger.LogInformation($"正在生成第 {i + 1} 筆測試資料");
+
+                var buyDate = _faker.Date.Between(startDate, endDate);
+                _logger.LogInformation($"生成購買日期：{buyDate:yyyy-MM-dd}");
+
+                var title = GenerateListTitle();
+                _logger.LogInformation($"生成標題：{title}");
+
                 var list = new ShoppingList
                 {
                     Id = Guid.NewGuid().ToString(),
-                    Title = GenerateListTitle(),
+                    Title = title,
                     CreatedAt = _faker.Date.Recent(7),
+                    BuyDate = buyDate,
                     Items = GenerateItems()
                 };
 
-                await _fileDbService.SaveShoppingListAsync(list);
+                _logger.LogInformation($"開始儲存購物清單：{list.Id}");
+                await _fileDbService.CreateShoppingListAsync(list);
+                _logger.LogInformation($"成功儲存購物清單：{list.Title}，購買日期：{list.BuyDate:yyyy-MM-dd}，項目數量：{list.Items.Count}");
             }
 
             _logger.LogInformation($"成功生成 {count} 筆測試資料");
