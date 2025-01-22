@@ -141,27 +141,48 @@ async function getWebSocket(url) {
 
 // 初始化 WebSocket 連接
 async function initializeWebSocket() {
+  // 使用當前頁面的協議和主機來構建 WebSocket URL
   const protocol = window.location.protocol === "https:" ? "wss:" : "ws:";
-  const host = window.location.host;
+  const host = window.location.host || "localhost:5002"; // 提供後備值
   const wsUrl = `${protocol}//${host}/ws`;
 
-  console.log("嘗試建立 WebSocket 連接到:", wsUrl);
-  return await getWebSocket(wsUrl);
+  // 檢查 URL 是否有效
+  try {
+    const url = new URL(wsUrl);
+    if (!["ws:", "wss:"].includes(url.protocol)) {
+      throw new Error(`不支援的 WebSocket 協議: ${url.protocol}`);
+    }
+    console.log("嘗試建立 WebSocket 連接到:", wsUrl);
+    return await getWebSocket(wsUrl);
+  } catch (error) {
+    console.error("建立 WebSocket URL 時發生錯誤:", error);
+    throw new Error(`無效的 WebSocket URL: ${wsUrl}`);
+  }
 }
 
-async function connectWithRetry(maxRetries = 3, retryDelay = 2000) {
+// 連接重試函數
+async function connectWithRetry(maxRetries = 5, retryDelay = 3000) {
   let retryCount = 0;
+  let lastError = null;
 
   while (retryCount < maxRetries) {
     try {
-      console.log(`嘗試建立 WebSocket 連接 (第 ${retryCount + 1} 次)`);
+      console.log(
+        `嘗試建立 WebSocket 連接 (第 ${retryCount + 1}/${maxRetries} 次)`
+      );
       return await initializeWebSocket();
     } catch (error) {
+      lastError = error;
       retryCount++;
-      console.log(`WebSocket 連接失敗，第 ${retryCount} 次重試`);
+
       if (retryCount === maxRetries) {
-        throw error;
+        console.error(
+          `WebSocket 連接失敗，已達到最大重試次數 (${maxRetries} 次)`
+        );
+        throw lastError;
       }
+
+      console.log(`WebSocket 連接失敗，${retryCount} 秒後重試...`);
       await new Promise((resolve) => setTimeout(resolve, retryDelay));
     }
   }
