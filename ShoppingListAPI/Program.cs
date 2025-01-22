@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.RateLimiting;
 using ShoppingListAPI.Services.FileDb;
+using ShoppingListAPI.Services.WebSocket;
 using ShoppingListAPI.Utils;
 using System.Net.WebSockets;
 using System.Threading.RateLimiting;
@@ -28,6 +29,7 @@ builder.Services.AddRateLimiter(options =>
 
 // 註冊服務
 builder.Services.AddSingleton<IFileDbService, FileDbService>();
+builder.Services.AddSingleton<WebSocketHandler>();
 builder.Services.AddScoped<DataGenerator>();
 builder.Services.AddMemoryCache();
 
@@ -63,36 +65,8 @@ app.Map("/ws", async context =>
 {
     if (context.WebSockets.IsWebSocketRequest)
     {
-        using var webSocket = await context.WebSockets.AcceptWebSocketAsync();
-        var connectionId = Guid.NewGuid().ToString();
-        Console.WriteLine($"New WebSocket connection established: {connectionId}");
-
-        try
-        {
-            // 保持連接直到客戶端斷開
-            var buffer = new byte[1024 * 4];
-            var receiveResult = await webSocket.ReceiveAsync(
-                new ArraySegment<byte>(buffer), CancellationToken.None);
-
-            while (!receiveResult.CloseStatus.HasValue)
-            {
-                receiveResult = await webSocket.ReceiveAsync(
-                    new ArraySegment<byte>(buffer), CancellationToken.None);
-            }
-
-            await webSocket.CloseAsync(
-                receiveResult.CloseStatus.Value,
-                receiveResult.CloseStatusDescription,
-                CancellationToken.None);
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"WebSocket error for {connectionId}: {ex.Message}");
-        }
-        finally
-        {
-            Console.WriteLine($"WebSocket connection closed: {connectionId}");
-        }
+        var handler = context.RequestServices.GetRequiredService<WebSocketHandler>();
+        await handler.HandleWebSocketConnection(context);
     }
     else
     {

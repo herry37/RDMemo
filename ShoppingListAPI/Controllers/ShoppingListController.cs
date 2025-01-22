@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
 using ShoppingListAPI.Models;
 using ShoppingListAPI.Services.FileDb;
+using ShoppingListAPI.Services.WebSocket;
 
 namespace ShoppingListAPI.Controllers;
 
@@ -12,13 +13,16 @@ public class ShoppingListController : ControllerBase
 {
     private readonly IFileDbService _fileDbService;
     private readonly ILogger<ShoppingListController> _logger;
+    private readonly WebSocketHandler _webSocketHandler;
 
     public ShoppingListController(
         IFileDbService fileDbService,
-        ILogger<ShoppingListController> logger)
+        ILogger<ShoppingListController> logger,
+        WebSocketHandler webSocketHandler)
     {
         _fileDbService = fileDbService;
         _logger = logger;
+        _webSocketHandler = webSocketHandler;
     }
 
     /// <summary>
@@ -91,6 +95,7 @@ public class ShoppingListController : ControllerBase
             }
 
             var createdList = await _fileDbService.CreateShoppingListAsync(list);
+            await _webSocketHandler.BroadcastShoppingListUpdate(createdList);
             return CreatedAtAction(nameof(Get), new { id = createdList.Id }, createdList);
         }
         catch (Exception ex)
@@ -105,24 +110,19 @@ public class ShoppingListController : ControllerBase
     /// </summary>
     [HttpPost("{id}/items")]
     [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
     public async Task<ActionResult<ShoppingList>> AddItem(string id, [FromBody] ShoppingItem item)
     {
         try
         {
-            if (string.IsNullOrEmpty(id))
-            {
-                return BadRequest("清單ID不能為空");
-            }
-
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
             var updatedList = await _fileDbService.AddItemToListAsync(id, item);
+            await _webSocketHandler.BroadcastShoppingListUpdate(updatedList);
             return Ok(updatedList);
         }
         catch (KeyNotFoundException)
@@ -131,8 +131,8 @@ public class ShoppingListController : ControllerBase
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "新增購物項目時發生錯誤");
-            return StatusCode(500, "新增購物項目時發生錯誤");
+            _logger.LogError(ex, "新增項目時發生錯誤");
+            return StatusCode(500, "新增項目時發生錯誤");
         }
     }
 
@@ -141,24 +141,14 @@ public class ShoppingListController : ControllerBase
     /// </summary>
     [HttpPut("{listId}/items/{itemId}/toggle")]
     [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
     public async Task<ActionResult<ShoppingList>> ToggleItem(string listId, string itemId)
     {
         try
         {
-            if (string.IsNullOrEmpty(listId))
-            {
-                return BadRequest("清單ID不能為空");
-            }
-
-            if (string.IsNullOrEmpty(itemId))
-            {
-                return BadRequest("項目ID不能為空");
-            }
-
             var updatedList = await _fileDbService.ToggleItemAsync(listId, itemId);
+            await _webSocketHandler.BroadcastShoppingListUpdate(updatedList);
             return Ok(updatedList);
         }
         catch (KeyNotFoundException)
@@ -172,13 +162,24 @@ public class ShoppingListController : ControllerBase
         }
     }
 
+    /// <summary>
+    /// 刪除購物清單
+    /// </summary>
     [HttpDelete("{id}")]
-    public async Task<ActionResult> Delete(string id)
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+    public async Task<IActionResult> Delete(string id)
     {
         try
         {
             await _fileDbService.DeleteShoppingListAsync(id);
+            await _webSocketHandler.BroadcastMessage(JsonSerializer.Serialize(new { type = "shoppinglist_delete", data = id }));
             return NoContent();
+        }
+        catch (KeyNotFoundException)
+        {
+            return NotFound();
         }
         catch (Exception ex)
         {
@@ -229,6 +230,7 @@ public class ShoppingListController : ControllerBase
             foreach (var list in listsToDelete)
             {
                 await _fileDbService.DeleteAsync(list.Id);
+                await _webSocketHandler.BroadcastMessage(JsonSerializer.Serialize(new { type = "shoppinglist_delete", data = list.Id }));
             }
 
             return NoContent();
