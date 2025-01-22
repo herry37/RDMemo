@@ -98,6 +98,17 @@ async function getWebSocket(url) {
       console.log("開始建立 WebSocket 連接到:", url);
       webSocket = new WebSocket(url);
 
+      // 設置連接超時
+      connectTimeout = setTimeout(() => {
+        if (isCleanedUp) return;
+        console.error("WebSocket 連接超時");
+        cleanup();
+        if (webSocket && webSocket.readyState !== WebSocket.CLOSED) {
+          webSocket.close(4000, "Connection timeout");
+        }
+        reject(new Error("WebSocket 連接超時"));
+      }, 10000); // 增加超時時間到 10 秒
+
       webSocket.onopen = () => {
         console.log("WebSocket 連接成功");
         cleanup();
@@ -117,20 +128,10 @@ async function getWebSocket(url) {
         console.error("WebSocket 連接錯誤:", error);
         cleanup();
         if (webSocket && webSocket.readyState !== WebSocket.CLOSED) {
-          webSocket.close();
+          webSocket.close(4001, "Connection error");
         }
         reject(new Error("WebSocket 連接失敗"));
       };
-
-      connectTimeout = setTimeout(() => {
-        if (isCleanedUp) return;
-        console.error("WebSocket 連接超時");
-        cleanup();
-        if (webSocket && webSocket.readyState !== WebSocket.CLOSED) {
-          webSocket.close();
-        }
-        reject(new Error("WebSocket 連接超時"));
-      }, 5000);
     } catch (error) {
       cleanup();
       reject(error);
