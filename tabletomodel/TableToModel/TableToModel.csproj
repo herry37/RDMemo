@@ -1,0 +1,92 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>TableToModel</RootNamespace>
+    <AssemblyName>TableToModel</AssemblyName>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.28" />
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="MongoDB.Driver" Version="2.23.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="System.Data" />
+    <Using Include="System.Windows.Forms" />
+    <Using Include="System.Drawing" />
+    <Using Include="MySql.Data.MySqlClient" />
+    <Using Include="System.Data.SqlClient" />
+    <Using Include="MongoDB.Driver" />
+    <Using Include="MongoDB.Bson" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DatabaseConnectionFactory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IDatabaseConnectionFactory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LINQPadExtensions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ModelConverter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MySqlDatabaseConnectionFactory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SqlDatabaseConnectionFactory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TableToModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableToModel.Designer.cs">
+      <DependentUpon>TableToModel.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="TableToModel.resx">
+      <DependentUpon>TableToModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+</Project>
