@@ -57,83 +57,27 @@ function str2ab(str) {
 
 // WebSocket 連接函數
 async function getWebSocket(url) {
-  if (!url) {
-    throw new Error("WebSocket URL 不能為空");
-  }
-
-  // 驗證 URL 格式
-  try {
-    const wsUrl = new URL(url);
-    if (!["ws:", "wss:"].includes(wsUrl.protocol)) {
-      throw new Error(`不支持的 WebSocket 協議: ${wsUrl.protocol}`);
-    }
-  } catch (error) {
-    console.error("無效的 WebSocket URL:", error);
-    throw new Error(`無效的 WebSocket URL: ${url}`);
-  }
-
   return new Promise((resolve, reject) => {
-    let webSocket = null;
-    let connectTimeout = null;
-    let isCleanedUp = false;
-
-    // 清理函數
-    function cleanup() {
-      if (isCleanedUp) return;
-      isCleanedUp = true;
-
-      if (connectTimeout) {
-        clearTimeout(connectTimeout);
-        connectTimeout = null;
-      }
-
-      if (webSocket) {
-        webSocket.onopen = null;
-        webSocket.onclose = null;
-        webSocket.onerror = null;
-      }
-    }
-
     try {
       console.log("開始建立 WebSocket 連接到:", url);
-      webSocket = new WebSocket(url);
-
-      // 設置連接超時
-      connectTimeout = setTimeout(() => {
-        if (isCleanedUp) return;
-        console.error("WebSocket 連接超時");
-        cleanup();
-        if (webSocket && webSocket.readyState !== WebSocket.CLOSED) {
-          webSocket.close(4000, "Connection timeout");
-        }
-        reject(new Error("WebSocket 連接超時"));
-      }, 10000); // 增加超時時間到 10 秒
+      const webSocket = new WebSocket(url);
 
       webSocket.onopen = () => {
         console.log("WebSocket 連接成功");
-        cleanup();
         resolve(webSocket);
       };
 
       webSocket.onclose = (event) => {
-        if (isCleanedUp) return;
         const reason = event.reason || "未知原因";
         console.log(`WebSocket 連接關閉: ${event.code} - ${reason}`);
-        cleanup();
         reject(new Error(`WebSocket 連接關閉: ${event.code} - ${reason}`));
       };
 
       webSocket.onerror = (error) => {
-        if (isCleanedUp) return;
         console.error("WebSocket 連接錯誤:", error);
-        cleanup();
-        if (webSocket && webSocket.readyState !== WebSocket.CLOSED) {
-          webSocket.close(4001, "Connection error");
-        }
         reject(new Error("WebSocket 連接失敗"));
       };
     } catch (error) {
-      cleanup();
       reject(error);
     }
   });
@@ -141,59 +85,38 @@ async function getWebSocket(url) {
 
 // 初始化 WebSocket 連接
 async function initializeWebSocket() {
-  // 使用當前頁面的協議和主機來構建 WebSocket URL
-  const protocol = window.location.protocol === "https:" ? "wss:" : "ws:";
-  const host = window.location.host || "localhost:5002"; // 提供後備值
-  const wsUrl = `${protocol}//${host}/ws`;
-
-  // 檢查 URL 是否有效
-  try {
-    const url = new URL(wsUrl);
-    if (!["ws:", "wss:"].includes(url.protocol)) {
-      throw new Error(`不支援的 WebSocket 協議: ${url.protocol}`);
-    }
-    console.log("嘗試建立 WebSocket 連接到:", wsUrl);
-    return await getWebSocket(wsUrl);
-  } catch (error) {
-    console.error("建立 WebSocket URL 時發生錯誤:", error);
-    throw new Error(`無效的 WebSocket URL: ${wsUrl}`);
-  }
+  const wsUrl = "ws://localhost:5002/ws";
+  console.log("嘗試建立 WebSocket 連接到:", wsUrl);
+  return await getWebSocket(wsUrl);
 }
 
 // 連接重試函數
-async function connectWithRetry(maxRetries = 5, retryDelay = 3000) {
+async function connectWithRetry(maxRetries = 3, retryDelay = 1000) {
   let retryCount = 0;
-  let lastError = null;
 
   while (retryCount < maxRetries) {
     try {
-      console.log(
-        `嘗試建立 WebSocket 連接 (第 ${retryCount + 1}/${maxRetries} 次)`
-      );
-      return await initializeWebSocket();
+      console.log(`嘗試建立 WebSocket 連接 (第 ${retryCount + 1}/${maxRetries} 次)`);
+      const webSocket = await initializeWebSocket();
+      console.log("WebSocket 連接成功");
+      return webSocket;
     } catch (error) {
-      lastError = error;
       retryCount++;
-
+      console.log(`連接失敗，${maxRetries - retryCount} 次重試機會剩餘`);
       if (retryCount === maxRetries) {
-        console.error(
-          `WebSocket 連接失敗，已達到最大重試次數 (${maxRetries} 次)`
-        );
-        throw lastError;
+        throw error;
       }
-
-      console.log(`WebSocket 連接失敗，${retryCount} 秒後重試...`);
-      await new Promise((resolve) => setTimeout(resolve, retryDelay));
+      await new Promise(resolve => setTimeout(resolve, retryDelay));
     }
   }
 }
 
-// 定義應用程式物件
+// 初始化應用程式物件
 const app = {
   lists: [],
   webSocket: null,
   isConnecting: false,
-  reconnectTimer: null,
+  reconnectTimeout: null,
   currentPage: 1,
   pageSize: 10,
   totalItems: 0,
@@ -254,6 +177,73 @@ const app = {
       const startDate = document.getElementById("searchStartDate").value;
       const endDate = document.getElementById("searchEndDate").value;
       const searchTitle = document.getElementById("searchTitle").value;
+
+      // 檢查日期格式
+      const checkDateFormat = (dateStr) => {
+        if (!dateStr) return true;
+
+        // 嚴格檢查日期格式必須為 YYYY-MM-DD
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+          return false;
+        }
+
+        const [yearStr, monthStr, dayStr] = dateStr.split('-');
+        const year = parseInt(yearStr);
+        const month = parseInt(monthStr);
+        const day = parseInt(dayStr);
+
+        // 檢查年份必須是四位數且在合理範圍內
+        if (yearStr.length !== 4 || year < 1900 || year > 9999) {
+          return false;
+        }
+
+        // 檢查月份必須是兩位數且在合理範圍內
+        if (monthStr.length !== 2 || month < 1 || month > 12) {
+          return false;
+        }
+
+        // 檢查日期必須是兩位數且在合理範圍內
+        const lastDayOfMonth = new Date(year, month, 0).getDate();
+        if (dayStr.length !== 2 || day < 1 || day > lastDayOfMonth) {
+          return false;
+        }
+
+        return true;
+      };
+
+      if (!checkDateFormat(startDate)) {
+        alert('開始日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
+        return;
+      }
+
+      if (!checkDateFormat(endDate)) {
+        alert('結束日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
+        return;
+      }
+
+      // 日期範圍檢查
+      if (startDate && endDate) {
+        const start = new Date(startDate);
+        const end = new Date(endDate);
+
+        if (start > end) {
+          alert('開始日期不能大於結束日期');
+          return;
+        }
+
+        // 檢查日期範圍是否超過一年
+        const oneYear = 365 * 24 * 60 * 60 * 1000; // 一年的毫秒數
+        if (end - start > oneYear) {
+          alert('查詢日期範圍不能超過一年');
+          return;
+        }
+      }
+
+      // 至少要有一個搜尋條件
+      if (!startDate && !endDate && !searchTitle) {
+        alert('請至少輸入一個搜尋條件');
+        return;
+      }
 
       // 構建查詢參數
       const params = new URLSearchParams();
@@ -330,9 +320,12 @@ const app = {
   },
 
   // 格式化日期
-  formatDate(date) {
-    if (!date) return "";
-    return new Date(date).toISOString().split("T")[0];
+  formatDate(dateString) {
+    const date = new Date(dateString);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
   },
 
   // 顯示明細 Modal
@@ -520,9 +513,19 @@ const app = {
 
   // 顯示新增清單 Modal
   showAddListModal() {
-    document.getElementById("newListTitle").value = "";
-    document.getElementById("newListDate").value = this.formatDate(new Date());
-    document.getElementById("addListModal").style.display = "block";
+    const modal = document.getElementById('addListModal');
+    const titleInput = document.getElementById('newListTitle');
+    const dateInput = document.getElementById('newListDate');
+    
+    // 設置預設日期為今天，確保格式為 YYYY-MM-DD
+    const today = new Date();
+    const year = today.getFullYear();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    dateInput.value = `${year}-${month}-${day}`;
+    
+    titleInput.value = '';
+    modal.style.display = 'block';
   },
 
   // 隱藏新增清單 Modal
@@ -537,13 +540,55 @@ const app = {
     this.currentItems = [];
   },
 
-  // 創建新清單
+  // 建立新清單
   async createNewList() {
-    const title = document.getElementById("newListTitle").value.trim();
-    const buyDate = document.getElementById("newListDate").value;
+    const title = document.getElementById('newListTitle').value;
+    const buyDate = document.getElementById('newListDate').value;
 
-    if (!title) {
-      alert("請輸入清單標題");
+    // 檢查日期格式
+    const checkDateFormat = (dateStr) => {
+      if (!dateStr) return true;
+      
+      // 嚴格檢查日期格式必須為 YYYY-MM-DD
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+        return false;
+      }
+
+      const [yearStr, monthStr, dayStr] = dateStr.split('-');
+      const year = parseInt(yearStr);
+      const month = parseInt(monthStr);
+      const day = parseInt(dayStr);
+
+      // 檢查年份必須是四位數且在合理範圍內
+      if (yearStr.length !== 4 || year < 1900 || year > 9999) {
+        return false;
+      }
+
+      // 檢查月份必須是兩位數且在合理範圍內
+      if (monthStr.length !== 2 || month < 1 || month > 12) {
+        return false;
+      }
+
+      // 檢查日期必須是兩位數且在合理範圍內
+      const lastDayOfMonth = new Date(year, month, 0).getDate();
+      if (dayStr.length !== 2 || day < 1 || day > lastDayOfMonth) {
+        return false;
+      }
+
+      return true;
+    };
+
+    // 輸入檢查
+    if (!title.trim()) {
+      alert('請輸入標題');
+      return;
+    }
+    if (!buyDate) {
+      alert('請選擇購買日期');
+      return;
+    }
+    if (!checkDateFormat(buyDate)) {
+      alert('購買日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
       return;
     }
 
@@ -618,25 +663,15 @@ const app = {
       this.webSocket.onclose = (event) => {
         const reason = event.reason || "未知原因";
         console.log(`WebSocket 連接已關閉: ${event.code} - ${reason}`);
-
         this.webSocket = null;
         this.isConnecting = false;
-
-        // 非正常關閉時重新連接
-        if (event.code !== 1000) {
-          this.scheduleReconnect();
-        }
+        this.scheduleReconnect();
       };
 
       // 設置錯誤處理器
       this.webSocket.onerror = (error) => {
         console.error("WebSocket 錯誤:", error);
         this.isConnecting = false;
-
-        if (this.webSocket?.readyState !== WebSocket.CLOSED) {
-          this.webSocket.close();
-        }
-        // 觸發重新連接
         this.scheduleReconnect();
       };
 
@@ -646,19 +681,16 @@ const app = {
       console.error("建立 WebSocket 連接失敗:", error);
       this.isConnecting = false;
       this.scheduleReconnect();
-      // 顯示錯誤訊息給使用者
-      showError("WebSocket 連接失敗，正在嘗試重新連接...");
     }
   },
 
   scheduleReconnect() {
-    if (!this.reconnectTimer) {
+    if (!this.reconnectTimeout) {
       console.log("安排重新連接...");
-      this.reconnectTimer = setTimeout(() => {
-        console.log("執行重新連接...");
-        this.reconnectTimer = null;
+      this.reconnectTimeout = setTimeout(() => {
+        this.reconnectTimeout = null;
         this.connect();
-      }, 5000);
+      }, 3000);
     }
   },
 

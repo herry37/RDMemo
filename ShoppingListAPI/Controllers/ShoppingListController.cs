@@ -331,14 +331,14 @@ public class ShoppingListController : ControllerBase
             if (startDate.HasValue)
             {
                 var startDateValue = startDate.Value.Date;
-                query = query.Where(x => x.BuyDate?.Date >= startDateValue);
+                query = query.Where(x => x.BuyDate.HasValue && x.BuyDate.Value.Date >= startDateValue);
                 _logger.LogInformation($"套用起始日期過濾：{startDateValue:yyyy-MM-dd}");
             }
 
             if (endDate.HasValue)
             {
                 var endDateValue = endDate.Value.Date.AddDays(1).AddSeconds(-1);
-                query = query.Where(x => x.BuyDate?.Date <= endDateValue);
+                query = query.Where(x => x.BuyDate.HasValue && x.BuyDate.Value.Date <= endDateValue);
                 _logger.LogInformation($"套用結束日期過濾：{endDateValue:yyyy-MM-dd}");
             }
 
@@ -386,11 +386,7 @@ public class ShoppingListController : ControllerBase
             await _fileDbService.UpdateShoppingListAsync(list);
 
             // 通知其他客戶端
-            await _webSocketHandler.BroadcastMessage(new WebSocketMessage
-            {
-                Type = "ListUpdated",
-                Data = JsonSerializer.Serialize(list)
-            });
+            await _webSocketHandler.BroadcastShoppingListUpdate(list);
 
             return Ok();
         }
