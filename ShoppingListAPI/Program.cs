@@ -55,48 +55,43 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// 確保資料目錄存在
-var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
-Directory.CreateDirectory(dataDirectory);
-Console.WriteLine($"資料目錄：{dataDirectory}");
+// TODO: 產假資料的相關功能尚未實作，待需求確定後再進行開發
+// var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
+// Directory.CreateDirectory(dataDirectory);
+// Console.WriteLine($"資料目錄：{dataDirectory}");
 
-// 在開發環境中生成測試資料
-if (app.Environment.IsDevelopment())
-{
-    try 
-    {
-        using var scope = app.Services.CreateScope();
-        var services = scope.ServiceProvider;
-        var logger = services.GetRequiredService<ILogger<Program>>();
-        var fileDbService = services.GetRequiredService<IFileDbService>();
-        
-        // 檢查是否已有資料
-        logger.LogInformation("開始檢查現有資料");
-        var existingLists = await fileDbService.GetAllAsync();
-        logger.LogInformation($"找到 {existingLists.Count} 筆現有的購物清單");
-        
-        if (existingLists.Count == 0)
-        {
-            logger.LogInformation("沒有找到現有的購物清單，開始生成測試資料");
-            var dataGenerator = services.GetRequiredService<DataGenerator>();
-            await dataGenerator.GenerateTestDataAsync(10);
-            logger.LogInformation("測試資料生成完成");
-
-            // 再次檢查資料
-            existingLists = await fileDbService.GetAllAsync();
-            logger.LogInformation($"重新檢查：現在有 {existingLists.Count} 筆購物清單");
-        }
-        else
-        {
-            logger.LogInformation($"已找到 {existingLists.Count} 筆現有的購物清單，跳過測試資料生成");
-        }
-    }
-    catch (Exception ex)
-    {
-        var services = app.Services.GetService<ILogger<Program>>();
-        services?.LogError(ex, "生成測試資料時發生錯誤");
-    }
-}
+// // 在開發環境中生成測試資料
+// if (app.Environment.IsDevelopment())
+// {
+//     try 
+//     {
+//         using var scope = app.Services.CreateScope();
+//         var services = scope.ServiceProvider;
+//         var logger = services.GetRequiredService<ILogger<Program>>();
+//         var fileDbService = services.GetRequiredService<IFileDbService>();
+//         
+//         logger.LogInformation("開始檢查現有資料");
+//         var existingLists = await fileDbService.GetAllAsync();
+//         logger.LogInformation($"找到 {existingLists.Count} 筆現有的購物清單");
+//         
+//         if (existingLists.Count == 0)
+//         {
+//             logger.LogInformation("沒有找到現有的購物清單，開始生成測試資料");
+//             var dataGenerator = services.GetRequiredService<DataGenerator>();
+//             await dataGenerator.GenerateTestDataAsync(10);
+//             logger.LogInformation("測試資料生成完成");
+//         }
+//         else
+//         {
+//             logger.LogInformation($"已找到 {existingLists.Count} 筆現有的購物清單，跳過測試資料生成");
+//         }
+//     }
+//     catch (Exception ex)
+//     {
+//         var services = app.Services.GetService<ILogger<Program>>();
+//         services?.LogError(ex, "生成測試資料時發生錯誤");
+//     }
+// }
 
 // 配置中介軟體順序
 if (app.Environment.IsDevelopment())
