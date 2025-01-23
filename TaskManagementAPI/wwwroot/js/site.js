@@ -399,7 +399,7 @@ function convertToUTC(localDateString) {
 function convertToLocalTime(utcDateString) {
     if (!utcDateString) return '';
     try {
-        console.log('輸入的UTC時間:', utcDateString);
+        // console.log('輸入的UTC時間:', utcDateString);
         
         // 解析 UTC 時間
         const utcDate = new Date(utcDateString);
@@ -415,7 +415,7 @@ function convertToLocalTime(utcDateString) {
             timeZone: 'Asia/Taipei'
         }).replace(/\//g, '-');
         
-        console.log('轉換後的本地時間:', localString);
+        // console.log('轉換後的本地時間:', localString);
         return localString;
     } catch (error) {
         console.error('時間轉換錯誤:', error);
