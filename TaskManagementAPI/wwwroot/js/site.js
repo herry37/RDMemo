@@ -188,10 +188,10 @@ function displayTasks(tasks) {
                 <h3>${task.title}</h3>
                 <div class="task-actions">
                     <button onclick="toggleTaskComplete(${task.id}, ${task.isCompleted})" 
-                            class="complete-button ${task.isCompleted ? 'completed' : ''}">
+                            class="complete-button btn ${task.isCompleted ? 'completed' : ''}">
                         ${task.isCompleted ? '取消完成' : '完成'}
                     </button>
-                    <button onclick="deleteTask(${task.id})" class="delete-button">刪除</button>
+                    <button onclick="deleteTask(${task.id})" class="delete-button btn">刪除</button>
                 </div>
             </div>
             <p>${task.description || '無描述'}</p>
