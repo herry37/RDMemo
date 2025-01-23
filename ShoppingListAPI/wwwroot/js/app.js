@@ -251,12 +251,17 @@ const app = {
   // 查詢購物清單
   async searchLists() {
     try {
-      const searchDate = document.getElementById("searchDate").value;
+      const startDate = document.getElementById("searchStartDate").value;
+      const endDate = document.getElementById("searchEndDate").value;
       const searchTitle = document.getElementById("searchTitle").value;
 
-      const response = await fetch(
-        `/api/ShoppingList/search?date=${searchDate}&title=${searchTitle}`
-      );
+      // 構建查詢參數
+      const params = new URLSearchParams();
+      if (startDate) params.append('startDate', startDate);
+      if (endDate) params.append('endDate', endDate);
+      if (searchTitle) params.append('title', searchTitle);
+
+      const response = await fetch(`/api/ShoppingList/search?${params.toString()}`);
       if (!response.ok) {
         throw new Error("搜尋失敗");
       }
@@ -265,7 +270,7 @@ const app = {
       this.renderLists(lists);
     } catch (error) {
       console.error("搜尋時發生錯誤:", error);
-      alert("搜尋失敗，請稍後再試");
+      showError("搜尋失敗，請稍後再試");
     }
   },
 

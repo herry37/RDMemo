@@ -321,6 +321,8 @@ public class ShoppingListController : ControllerBase
     {
         try
         {
+            _logger.LogInformation($"開始搜尋購物清單，起始日期：{startDate}，結束日期：{endDate}，標題：{title}");
+            
             var lists = await _fileDbService.GetAllAsync();
 
             // 根據條件篩選
@@ -328,17 +330,22 @@ public class ShoppingListController : ControllerBase
 
             if (startDate.HasValue)
             {
-                query = query.Where(x => x.BuyDate >= startDate.Value.Date);
+                var startDateValue = startDate.Value.Date;
+                query = query.Where(x => x.BuyDate?.Date >= startDateValue);
+                _logger.LogInformation($"套用起始日期過濾：{startDateValue:yyyy-MM-dd}");
             }
 
             if (endDate.HasValue)
             {
-                query = query.Where(x => x.BuyDate <= endDate.Value.Date);
+                var endDateValue = endDate.Value.Date.AddDays(1).AddSeconds(-1);
+                query = query.Where(x => x.BuyDate?.Date <= endDateValue);
+                _logger.LogInformation($"套用結束日期過濾：{endDateValue:yyyy-MM-dd}");
             }
 
             if (!string.IsNullOrWhiteSpace(title))
             {
                 query = query.Where(x => x.Title.Contains(title, StringComparison.OrdinalIgnoreCase));
+                _logger.LogInformation($"套用標題過濾：{title}");
             }
 
             // 依購買日期排序
@@ -346,6 +353,7 @@ public class ShoppingListController : ControllerBase
                 .OrderByDescending(x => x.BuyDate)
                 .ToList();
 
+            _logger.LogInformation($"搜尋完成，找到 {result.Count} 筆符合條件的清單");
             return Ok(result);
         }
         catch (Exception ex)
