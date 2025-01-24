@@ -59,8 +59,21 @@ namespace TodoTaskManagementAPI.Infrastructure
         public TodoTaskContext(DbContextOptions<TodoTaskContext> options)
             : base(options)
         {
-            // 確保數據庫存在並已創建
-            Database.EnsureCreated();
+            var dbExists = Database.GetAppliedMigrations().Any() || Database.CanConnect();
+            
+            // 如果資料庫不存在，則創建並填充種子資料
+            if (!dbExists)
+            {
+                Database.EnsureCreated();
+                
+                // TODO: 這段代碼僅用於開發環境，在正式環境中應該註釋掉
+                // 如果數據庫為空，則添加種子數據
+                if (!TodoTasks.Any())
+                {
+                    TodoTasks.AddRange(DataSeeder.GetSeedTasks());
+                    SaveChanges();
+                }
+            }
         }
 
         /// <summary>

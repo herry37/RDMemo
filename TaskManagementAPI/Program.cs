@@ -66,6 +66,7 @@ builder.Services.AddDbContext<TodoTaskContext>(options =>
 /// </summary>
 builder.Services.AddScoped<ITodoTaskService, TodoTaskService>();        // 注入任務服務
 builder.Services.AddScoped<ITodoTaskRepository, TodoTaskRepository>();  // 注入任務倉儲
+builder.Services.AddSingleton<WebSocketHandler>();                      // 注入 WebSocket 處理器
 
 /// <summary>
 /// 創建 Web 應用程序實例
@@ -95,6 +96,30 @@ app.UseStaticFiles(new StaticFileOptions
 /// 必須在路由之前配置
 /// </summary>
 app.UseCors();
+
+/// <summary>
+/// WebSocket 配置
+/// </summary>
+var webSocketOptions = new WebSocketOptions
+{
+    KeepAliveInterval = TimeSpan.FromMinutes(2)
+};
+app.UseWebSockets(webSocketOptions);
+
+// WebSocket 端點
+app.Map("/ws", async context =>
+{
+    if (context.WebSockets.IsWebSocketRequest)
+    {
+        using var webSocket = await context.WebSockets.AcceptWebSocketAsync();
+        var handler = context.RequestServices.GetRequiredService<WebSocketHandler>();
+        await handler.HandleWebSocketConnection(webSocket);
+    }
+    else
+    {
+        context.Response.StatusCode = StatusCodes.Status400BadRequest;
+    }
+});
 
 /// <summary>
 /// 路由配置

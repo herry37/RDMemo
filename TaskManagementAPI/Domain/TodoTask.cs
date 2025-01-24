@@ -94,6 +94,7 @@ namespace TodoTaskManagementAPI.Domain
         /// - 當任務完成時自動設置
         /// - 重新打開任務時自動清除
         /// </remarks>
+        [Column("CompleteGdt")] // 映射到數據庫中的 CompleteGdt 列
         public DateTime? CompletedAt { get; set; } // 完成時間，可為空
         
         /// <summary>

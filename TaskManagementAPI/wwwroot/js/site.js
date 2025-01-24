@@ -246,7 +246,7 @@ function getPriorityClass(priority) {
 /// - 刪除前應該進行確認
 /// - 確保任務 ID 有效
 /// </remarks>
-function deleteTask(taskId) {
+async function deleteTask(taskId) {
     if (!confirm('確定要刪除這個任務嗎？')) {
         return;
     }
@@ -257,7 +257,7 @@ function deleteTask(taskId) {
             method: 'DELETE'
         });
 
-        // 處理錯誤響應
+        // 檢查請求是否成功
         if (!response.ok) {
             throw new Error('刪除任務失敗');
         }
@@ -266,7 +266,7 @@ function deleteTask(taskId) {
         loadTasks(currentPage);
     } catch (error) {
         console.error('刪除任務時出錯:', error);
-        showError('刪除任務失敗: ' + error.message);
+        showError('刪除任務錯誤: ' + error.message);
     }
 }
 
@@ -636,12 +636,83 @@ function convertToLocalTime(utcDateString) {
 }
 
 /// <summary>
+/// WebSocket 連接初始化和處理
+/// </summary>
+let ws;
+let reconnectAttempts = 0;
+const maxReconnectAttempts = 5;
+let isConnected = false;
+
+async function initializeWebSocket() {
+    if (isConnected) {
+        return;
+    }
+
+    try {
+        const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+        const host = window.location.host || 'localhost:7002';
+        const wsUrl = `${protocol}//${host}/ws`;
+        
+        ws = new WebSocket(wsUrl);
+
+        ws.onopen = () => {
+            isConnected = true;
+            reconnectAttempts = 0;
+        };
+
+        ws.onmessage = (event) => {
+            if (event.data === 'refresh') {
+                loadTasks(currentPage, true);
+            }
+        };
+
+        ws.onclose = (event) => {
+            isConnected = false;
+            
+            if (reconnectAttempts < maxReconnectAttempts) {
+                const delay = Math.min(1000 * Math.pow(2, reconnectAttempts), 10000);
+                reconnectAttempts++;
+                setTimeout(initializeWebSocket, delay);
+            }
+        };
+
+        ws.onerror = (error) => {
+            isConnected = false;
+            
+            if (reconnectAttempts < maxReconnectAttempts) {
+                const delay = Math.min(1000 * Math.pow(2, reconnectAttempts), 10000);
+                reconnectAttempts++;
+                setTimeout(initializeWebSocket, delay);
+            }
+        };
+    } catch (error) {
+        isConnected = false;
+        
+        if (reconnectAttempts < maxReconnectAttempts) {
+            const delay = Math.min(1000 * Math.pow(2, reconnectAttempts), 10000);
+            reconnectAttempts++;
+            setTimeout(initializeWebSocket, delay);
+        }
+    }
+}
+
+/// <summary>
+/// 頁面卸載時清理資源
+/// </summary>
+window.addEventListener('beforeunload', () => {
+    stopPolling();
+    if (ws) {
+        ws.close();
+    }
+});
+
+/// <summary>
 /// 頁面加載和卸載事件處理
 /// </summary>
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('頁面加載完成，初始化...');
     loadTasks();
     setMinDueDate();
+    initializeWebSocket();
 
     // 註冊表單提交事件
     const form = document.getElementById('addTaskForm');
@@ -659,11 +730,4 @@ document.addEventListener('DOMContentLoaded', () => {
             loadTasks(1);
         });
     }
-});
-
-/// <summary>
-/// 頁面卸載時停止輪詢
-/// </summary>
-window.addEventListener('beforeunload', () => {
-    stopPolling();
 });
