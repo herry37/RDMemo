@@ -2,255 +2,223 @@ using System.Collections.Concurrent;
 using System.Net.WebSockets;
 using System.Text;
 using System.Text.Json;
-using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
 using ShoppingListAPI.Models;
 
 namespace ShoppingListAPI.Services.WebSocket;
-
+/// <summary>
+/// WebSocket 處理器，負責管理 WebSocket 連接和消息傳遞
+/// </summary>
 public class WebSocketHandler
 {
-    private readonly ConcurrentDictionary<string, System.Net.WebSockets.WebSocket> _sockets = new();
+    private static readonly List<System.Net.WebSockets.WebSocket> _clients = new();
+    private static readonly object _lock = new();
+    private readonly ConcurrentDictionary<string, System.Net.WebSockets.WebSocket> _connections = new();
     private readonly ILogger<WebSocketHandler> _logger;
+    private readonly JsonSerializerOptions _jsonOptions;
 
+    /// <summary>
+    /// 建構函式
+    /// </summary>
     public WebSocketHandler(ILogger<WebSocketHandler> logger)
     {
         _logger = logger;
+        _jsonOptions = new JsonSerializerOptions
+        {
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+            WriteIndented = true
+        };
     }
 
+    /// <summary>
+    /// 處理 WebSocket 連接
+    /// </summary>
     public async Task HandleWebSocketConnection(HttpContext context)
     {
-        System.Net.WebSockets.WebSocket? webSocket = null;
-        string? socketId = null;
-        
-        try 
+        try
         {
-            webSocket = await context.WebSockets.AcceptWebSocketAsync();
-            socketId = Guid.NewGuid().ToString();
+            using var webSocket = await context.WebSockets.AcceptWebSocketAsync();
             
-            _logger.LogInformation($"新的 WebSocket 連接: {socketId}");
-            
-            if (!_sockets.TryAdd(socketId, webSocket))
+            // 添加到客戶端列表
+            lock (_lock)
             {
-                _logger.LogWarning($"無法添加 WebSocket 連接到集合中: {socketId}");
-                await webSocket.CloseAsync(
-                    WebSocketCloseStatus.InternalServerError,
-                    "Unable to register connection",
-                    CancellationToken.None);
-                return;
+                _clients.Add(webSocket);
+                _logger.LogInformation($"新的 WebSocket 連接已建立. 當前連接數: {_clients.Count}");
             }
 
+            var socketId = Guid.NewGuid().ToString();
+
+            _logger.LogInformation("新的 WebSocket 連接已建立. ID: {SocketId}", socketId);
+
             // 發送歡迎消息
-            var welcomeMessage = JsonSerializer.Serialize(new
+            var welcomeMessage = new WebSocketMessage
             {
-                type = "welcome",
-                data = "Connected to WebSocket server"
-            });
+                Type = "welcome",
+                Message = "已連接到 WebSocket 伺服器"
+            };
             await SendMessageAsync(webSocket, welcomeMessage);
 
-            // 處理消息
-            await HandleMessages(webSocket);
-        }
-        catch (WebSocketException ex)
-        {
-            _logger.LogError(ex, $"WebSocket 錯誤 (ID: {socketId})");
+            // 添加到連接列表
+            _connections.TryAdd(socketId, webSocket);
+
+            try
+            {
+                await HandleWebSocketCommunication(webSocket, socketId);
+            }
+            finally
+            {
+                // 確保連接從字典中移除
+                _connections.TryRemove(socketId, out _);
+                _logger.LogInformation("WebSocket 連接已關閉. ID: {SocketId}", socketId);
+
+                // 移除客戶端
+                lock (_lock)
+                {
+                    _clients.Remove(webSocket);
+                    _logger.LogInformation($"WebSocket 連接已關閉. 當前連接數: {_clients.Count}");
+                }
+            }
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, $"處理 WebSocket 連接時發生錯誤 (ID: {socketId})");
-        }
-        finally
-        {
-            if (socketId != null)
-            {
-                _sockets.TryRemove(socketId, out _);
-            }
-            
-            if (webSocket != null && webSocket.State == WebSocketState.Open)
-            {
-                try
-                {
-                    await webSocket.CloseAsync(
-                        WebSocketCloseStatus.NormalClosure,
-                        "Closing",
-                        CancellationToken.None);
-                }
-                catch (Exception ex)
-                {
-                    _logger.LogError(ex, $"關閉 WebSocket 時發生錯誤 (ID: {socketId})");
-                }
-            }
-            
-            _logger.LogInformation($"WebSocket 連接已結束 (ID: {socketId})");
+            _logger.LogError(ex, "處理 WebSocket 連接時發生錯誤");
+            context.Response.StatusCode = StatusCodes.Status500InternalServerError;
         }
     }
 
-    private async Task HandleMessages(System.Net.WebSockets.WebSocket webSocket)
+    /// <summary>
+    /// 處理接收到的消息
+    /// </summary>
+    private async Task HandleWebSocketCommunication(System.Net.WebSockets.WebSocket webSocket, string socketId)
     {
         var buffer = new byte[1024 * 4];
-        WebSocketReceiveResult? receiveResult = null;
+        var receiveResult = await webSocket.ReceiveAsync(
+            new ArraySegment<byte>(buffer), CancellationToken.None);
 
-        try
+        while (!receiveResult.CloseStatus.HasValue)
         {
-            while (webSocket.State == WebSocketState.Open)
+            try
             {
-                receiveResult = await webSocket.ReceiveAsync(
-                    new ArraySegment<byte>(buffer),
-                    CancellationToken.None);
-
-                if (receiveResult.MessageType == WebSocketMessageType.Close)
-                {
-                    await webSocket.CloseAsync(
-                        WebSocketCloseStatus.NormalClosure,
-                        "Closing",
-                        CancellationToken.None);
-                    break;
-                }
-
-                // 處理接收到的消息
                 if (receiveResult.MessageType == WebSocketMessageType.Text)
                 {
                     var message = Encoding.UTF8.GetString(buffer, 0, receiveResult.Count);
-                    _logger.LogInformation($"收到消息: {message}");
+                    var messageObj = JsonSerializer.Deserialize<WebSocketMessage>(message, _jsonOptions);
 
-                    // 發送確認消息
-                    var ackMessage = JsonSerializer.Serialize(new 
+                    switch (messageObj?.Type?.ToLower())
                     {
-                        type = "ack",
-                        data = "Message received"
-                    });
-                    await SendMessageAsync(webSocket, ackMessage);
+                        case "ping":
+                            await SendMessageAsync(webSocket, new WebSocketMessage
+                            {
+                                Type = "pong",
+                                Data = null
+                            });
+                            break;
+                        default:
+                            _logger.LogWarning($"收到未知類型的訊息: {messageObj?.Type}");
+                            break;
+                    }
                 }
+
+                receiveResult = await webSocket.ReceiveAsync(
+                    new ArraySegment<byte>(buffer), CancellationToken.None);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "處理 WebSocket 訊息時發生錯誤");
+                break;
             }
         }
-        catch (Exception ex)
+
+        // 正常關閉連接
+        if (webSocket.State == WebSocketState.Open)
         {
-            _logger.LogError(ex, "處理 WebSocket 消息時發生錯誤");
-            if (webSocket.State == WebSocketState.Open)
-            {
-                await webSocket.CloseAsync(
-                    WebSocketCloseStatus.InternalServerError,
-                    "Error processing message",
-                    CancellationToken.None);
-            }
+            await webSocket.CloseAsync(
+                receiveResult.CloseStatus ?? WebSocketCloseStatus.NormalClosure,
+                receiveResult.CloseStatusDescription,
+                CancellationToken.None);
         }
     }
 
-    private async Task SendMessageAsync(System.Net.WebSockets.WebSocket webSocket, string message)
+    /// <summary>
+    /// 向指定的 WebSocket 發送消息
+    /// </summary>
+    private async Task SendMessageAsync(System.Net.WebSockets.WebSocket webSocket, WebSocketMessage message)
     {
+        if (webSocket.State != WebSocketState.Open)
+        {
+            return;
+        }
+
         try
         {
-            var buffer = Encoding.UTF8.GetBytes(message);
+            var json = JsonSerializer.Serialize(message, _jsonOptions);
+            var bytes = Encoding.UTF8.GetBytes(json);
             await webSocket.SendAsync(
-                new ArraySegment<byte>(buffer),
+                new ArraySegment<byte>(bytes),
                 WebSocketMessageType.Text,
                 true,
                 CancellationToken.None);
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "發送 WebSocket 消息時發生錯誤");
+            _logger.LogError(ex, "發送訊息時發生錯誤");
             throw;
         }
     }
 
-    public async Task SendToAllAsync(string message)
+    /// <summary>
+    /// 向所有連接的客戶端廣播消息
+    /// </summary>
+    public async Task BroadcastMessage(WebSocketMessage message)
     {
-        var buffer = Encoding.UTF8.GetBytes(message);
-        foreach (var socket in _sockets.Values)
+        List<System.Net.WebSockets.WebSocket> deadSockets = new();
+
+        lock (_lock)
         {
-            if (socket.State == WebSocketState.Open)
+            foreach (var client in _clients)
             {
                 try
                 {
-                    await socket.SendAsync(
-                        new ArraySegment<byte>(buffer),
-                        WebSocketMessageType.Text,
-                        true,
-                        CancellationToken.None);
+                    if (client.State != WebSocketState.Open)
+                    {
+                        deadSockets.Add(client);
+                        continue;
+                    }
+
+                    _ = SendMessageAsync(client, message);
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex, "Error sending message to WebSocket");
+                    _logger.LogError(ex, "廣播訊息時發生錯誤");
+                    deadSockets.Add(client);
                 }
             }
-        }
-    }
 
-    public async Task BroadcastShoppingListUpdate(ShoppingList list)
-    {
-        var message = JsonSerializer.Serialize(new { type = "shoppinglist_update", data = list });
-        await SendToAllAsync(message);
-    }
-
-    public async Task BroadcastShoppingListDelete(string listId)
-    {
-        var message = JsonSerializer.Serialize(new { type = "shoppinglist_delete", data = listId });
-        await SendToAllAsync(message);
-    }
-
-    public async Task BroadcastMessage<T>(T message)
-    {
-        if (message == null) return;
-
-        try
-        {
-            var json = JsonSerializer.Serialize(message);
-            var bytes = Encoding.UTF8.GetBytes(json);
-            var arraySegment = new ArraySegment<byte>(bytes);
-
-            foreach (var socket in _sockets.Values)
+            // 移除已斷開的連接
+            foreach (var deadSocket in deadSockets)
             {
-                if (socket.State == WebSocketState.Open)
-                {
-                    try
-                    {
-                        await socket.SendAsync(arraySegment, WebSocketMessageType.Text, true, CancellationToken.None);
-                    }
-                    catch (Exception ex)
-                    {
-                        _logger.LogError(ex, "Error sending message to WebSocket");
-                    }
-                }
+                _clients.Remove(deadSocket);
             }
         }
-        catch (Exception ex)
+
+        if (deadSockets.Any())
         {
-            _logger.LogError(ex, "Error broadcasting message");
+            _logger.LogInformation($"已移除 {deadSockets.Count} 個已斷開的連接");
         }
     }
 
-    public async Task BroadcastAsync(string message)
+    /// <summary>
+    /// 通知購物清單更新
+    /// </summary>
+    public async Task NotifyShoppingListUpdate(ShoppingList list)
     {
-        var buffer = Encoding.UTF8.GetBytes(message);
-        var arraySegment = new ArraySegment<byte>(buffer);
-        var deadSockets = new List<string>();
-
-        foreach (var (id, socket) in _sockets)
+        var message = new WebSocketMessage
         {
-            if (socket.State == WebSocketState.Open)
-            {
-                try
-                {
-                    await socket.SendAsync(arraySegment, WebSocketMessageType.Text, true, CancellationToken.None);
-                    _logger.LogInformation($"已向 {id} 發送消息：{message}");
-                }
-                catch (Exception ex)
-                {
-                    _logger.LogError(ex, $"向 {id} 發送消息時發生錯誤");
-                    deadSockets.Add(id);
-                }
-            }
-            else
-            {
-                deadSockets.Add(id);
-            }
-        }
+            Type = "shoppinglist_update",
+            Message = "購物清單已更新",
+            Data = list
+        };
 
-        // 移除已斷開的連接
-        foreach (var id in deadSockets)
-        {
-            _sockets.TryRemove(id, out _);
-            _logger.LogInformation($"WebSocket 已斷開：{id}，目前連接數：{_sockets.Count}");
-        }
+        await BroadcastMessage(message);
     }
 }

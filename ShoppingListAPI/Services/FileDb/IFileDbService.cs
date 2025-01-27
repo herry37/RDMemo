@@ -4,15 +4,12 @@ namespace ShoppingListAPI.Services.FileDb;
 
 public interface IFileDbService
 {
-    Task<ShoppingList> GetShoppingListAsync(string id);
-    Task<List<ShoppingList>> GetAllShoppingListsAsync(int page = 1, int pageSize = 20);
-    Task<ShoppingList> CreateShoppingListAsync(ShoppingList list);
-    Task<ShoppingList> SaveShoppingListAsync(ShoppingList list);
+    Task<List<ShoppingList>> GetShoppingLists();
+    Task<ShoppingList?> GetShoppingListById(string id);
+    Task<bool> SaveShoppingList(ShoppingList list);
+    Task<bool> DeleteShoppingList(string id);
     Task<ShoppingList> AddItemToListAsync(string listId, ShoppingItem item);
     Task<ShoppingList> ToggleItemAsync(string listId, string itemId);
-    Task DeleteShoppingListAsync(string id);
-    Task<List<ShoppingList>> GetAllAsync();
-    Task<bool> DeleteAsync(string id);
-    Task<int> BatchDeleteAsync(int year, int month);
-    Task<ShoppingList> UpdateShoppingListAsync(ShoppingList list);
+    Task<IEnumerable<ShoppingItem>> GetItemsAsync();
+    Task SaveChangesAsync(List<ShoppingItem> items, List<string> deletedIds);
 }

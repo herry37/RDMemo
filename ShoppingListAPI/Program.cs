@@ -8,141 +8,131 @@ using System.Net.WebSockets;
 using System.Threading.RateLimiting;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using Microsoft.Extensions.Logging;
+using System.IO;
 
-var builder = WebApplication.CreateBuilder(args);
+namespace ShoppingListAPI;
 
-// 添加服務
-builder.Services.AddControllers()
-    .AddJsonOptions(options =>
-    {
-        options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
-        options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
-        options.JsonSerializerOptions.WriteIndented = true;
-    });
-builder.Services.AddEndpointsApiExplorer();
-
-// 添加速率限制
-builder.Services.AddRateLimiter(options =>
+public class Program
 {
-    options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
-    
-    options.AddFixedWindowLimiter("fixed", options =>
+    public static void Main(string[] args)
     {
-        options.PermitLimit = 100;
-        options.Window = TimeSpan.FromMinutes(1);
-        options.QueueLimit = 2;
-        options.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
-    });
-});
+        var builder = WebApplication.CreateBuilder(args);
 
-// 註冊服務
-builder.Services.AddSingleton<IFileDbService, FileDbService>();
-builder.Services.AddSingleton<WebSocketHandler>();
-builder.Services.AddScoped<DataGenerator>();
-builder.Services.AddMemoryCache();
+        // 配置端口
+        builder.WebHost.UseUrls("http://localhost:5002");
 
-// 添加CORS
-builder.Services.AddCors(options =>
-{
-    options.AddDefaultPolicy(builder =>
-    {
-        builder.SetIsOriginAllowed(_ => true)
-               .AllowAnyMethod()
-               .AllowAnyHeader()
-               .AllowCredentials();
-    });
-});
+        // 配置日誌
+        builder.Logging.ClearProviders();
+        builder.Logging.AddConsole();
+        builder.Logging.SetMinimumLevel(LogLevel.Information);
 
-var app = builder.Build();
+        // 配置資料目錄
+        builder.Configuration.SetBasePath(builder.Environment.ContentRootPath);
+        builder.Configuration.AddInMemoryCollection(new Dictionary<string, string>
+        {
+            {"DataDirectory", Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists")}
+        });
 
-// TODO: 產假資料的相關功能尚未實作，待需求確定後再進行開發
-// var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
-// Directory.CreateDirectory(dataDirectory);
-// Console.WriteLine($"資料目錄：{dataDirectory}");
+        // 在開發環境中啟用詳細日誌
+        if (builder.Environment.IsDevelopment())
+        {
+            builder.Logging.AddDebug();
+            builder.Logging.AddConsole(options =>
+            {
+                options.IncludeScopes = true;
+            });
+        }
 
-// // 在開發環境中生成測試資料
-// if (app.Environment.IsDevelopment())
-// {
-//     try 
-//     {
-//         using var scope = app.Services.CreateScope();
-//         var services = scope.ServiceProvider;
-//         var logger = services.GetRequiredService<ILogger<Program>>();
-//         var fileDbService = services.GetRequiredService<IFileDbService>();
-//         
-//         logger.LogInformation("開始檢查現有資料");
-//         var existingLists = await fileDbService.GetAllAsync();
-//         logger.LogInformation($"找到 {existingLists.Count} 筆現有的購物清單");
-//         
-//         if (existingLists.Count == 0)
-//         {
-//             logger.LogInformation("沒有找到現有的購物清單，開始生成測試資料");
-//             var dataGenerator = services.GetRequiredService<DataGenerator>();
-//             await dataGenerator.GenerateTestDataAsync(10);
-//             logger.LogInformation("測試資料生成完成");
-//         }
-//         else
-//         {
-//             logger.LogInformation($"已找到 {existingLists.Count} 筆現有的購物清單，跳過測試資料生成");
-//         }
-//     }
-//     catch (Exception ex)
-//     {
-//         var services = app.Services.GetService<ILogger<Program>>();
-//         services?.LogError(ex, "生成測試資料時發生錯誤");
-//     }
-// }
+        // 添加服務
+        builder.Services.AddControllers()
+            .AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+                options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
+                options.JsonSerializerOptions.WriteIndented = true;
+            });
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen();
 
-// 配置中介軟體順序
-if (app.Environment.IsDevelopment())
-{
-    app.UseDeveloperExceptionPage();
+        // 註冊服務
+        builder.Services.AddSingleton<IFileDbService, FileDbService>();
+        builder.Services.AddSingleton<WebSocketHandler>();
+        builder.Services.AddScoped<DataGenerator>();
+        builder.Services.AddMemoryCache();
+
+        // 添加CORS
+        builder.Services.AddCors(options =>
+        {
+            options.AddDefaultPolicy(builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyHeader()
+                       .AllowAnyMethod();
+            });
+        });
+
+        var app = builder.Build();
+
+        // 配置中介軟體順序
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseSwagger();
+            app.UseSwaggerUI();
+            app.UseDeveloperExceptionPage();
+        }
+
+        // 啟用 HTTPS
+        app.UseHttpsRedirection();
+
+        // 啟用靜態檔案
+        app.UseDefaultFiles(new DefaultFilesOptions
+        {
+            DefaultFileNames = new List<string> { "index.html" }
+        });
+        app.UseStaticFiles();
+
+        // 啟用CORS
+        app.UseCors();
+
+        // 啟用 WebSocket
+        var webSocketOptions = new WebSocketOptions
+        {
+            KeepAliveInterval = TimeSpan.FromMinutes(2)
+        };
+        app.UseWebSockets(webSocketOptions);
+
+        // WebSocket 路由處理
+        app.Use(async (context, next) =>
+        {
+            if (context.Request.Path == "/ws")
+            {
+                if (context.WebSockets.IsWebSocketRequest)
+                {
+                    var webSocketHandler = context.RequestServices.GetRequiredService<WebSocketHandler>();
+                    await webSocketHandler.HandleWebSocketConnection(context);
+                }
+                else
+                {
+                    context.Response.StatusCode = StatusCodes.Status400BadRequest;
+                }
+            }
+            else
+            {
+                await next();
+            }
+        });
+
+        // 啟用路由
+        app.UseRouting();
+
+        // 啟用路由端點
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+            endpoints.MapFallbackToFile("index.html");
+        });
+
+        app.Run();
+    }
 }
-
-// 啟用CORS - 必須在其他中介軟體之前
-app.UseCors();
-
-// 啟用速率限制
-app.UseRateLimiter();
-
-// 配置 WebSocket
-var webSocketOptions = new WebSocketOptions
-{
-    KeepAliveInterval = TimeSpan.FromMinutes(2)
-};
-
-// 確保在 UseRouting 之後，但在 UseEndpoints 之前配置 WebSocket
-app.UseRouting();
-app.UseWebSockets(webSocketOptions);
-
-// WebSocket 端點
-app.Map("/ws", async context =>
-{
-    if (context.WebSockets.IsWebSocketRequest)
-    {
-        var handler = context.RequestServices.GetRequiredService<WebSocketHandler>();
-        await handler.HandleWebSocketConnection(context);
-    }
-    else
-    {
-        context.Response.StatusCode = StatusCodes.Status400BadRequest;
-    }
-});
-
-// 配置靜態檔案
-app.UseDefaultFiles();
-app.UseStaticFiles();
-
-// API路由
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-    endpoints.MapFallbackToFile("index.html");
-});
-
-Console.WriteLine("\n應用程式已啟動:");
-Console.WriteLine($"前端網站: http://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}");
-Console.WriteLine($"API位址: http://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}/api/shoppinglists");
-Console.WriteLine($"WebSocket位址: ws://localhost:{builder.Configuration["Ports:Http"] ?? "5002"}/ws");
-
-app.Run();
