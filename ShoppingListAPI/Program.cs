@@ -1,15 +1,9 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.AspNetCore.RateLimiting;
+using ShoppingListAPI.Models;
 using ShoppingListAPI.Services.FileDb;
 using ShoppingListAPI.Services.WebSocket;
 using ShoppingListAPI.Utils;
-using System.Net.WebSockets;
-using System.Threading.RateLimiting;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using Microsoft.Extensions.Logging;
-using System.IO;
 
 namespace ShoppingListAPI;
 
@@ -18,6 +12,45 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+
+        // 確保 Data\\FileStore\\shoppinglists 目錄存在
+        var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
+        Directory.CreateDirectory(dataDirectory); // 確保目錄存在
+
+        // 確保購物清單檔案存在
+        var shoppingListsFile = Path.Combine(dataDirectory, "shopping_lists.json");
+        if (!File.Exists(shoppingListsFile))
+        {
+            // 建立測試資料
+            var testList = new ShoppingList
+            {
+                Id = Guid.NewGuid().ToString(),
+                Title = "測試購物清單",
+                BuyDate = DateTime.Now,
+                CreatedAt = DateTime.Now,
+                totalAmount = 1000,
+                Items = new List<ShoppingItem>
+                {
+                    new ShoppingItem
+                    {
+                        Id = Guid.NewGuid().ToString(),
+                        Name = "測試商品",
+                        Price = 1000,
+                        Quantity = 1
+                    }
+                }
+            };
+
+            var json = JsonSerializer.Serialize(
+                new List<ShoppingList> { testList },
+                new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                }
+            );
+            File.WriteAllText(shoppingListsFile, json);
+        }
 
         // 配置端口
         builder.WebHost.UseUrls("http://localhost:5002");
@@ -96,25 +129,32 @@ public class Program
         app.UseCors();
 
         // 啟用 WebSocket
-        var webSocketOptions = new WebSocketOptions
+        app.UseWebSockets(new WebSocketOptions
         {
             KeepAliveInterval = TimeSpan.FromMinutes(2)
-        };
-        app.UseWebSockets(webSocketOptions);
+        });
 
-        // WebSocket 路由處理
         app.Use(async (context, next) =>
         {
             if (context.Request.Path == "/ws")
             {
                 if (context.WebSockets.IsWebSocketRequest)
                 {
-                    var webSocketHandler = context.RequestServices.GetRequiredService<WebSocketHandler>();
-                    await webSocketHandler.HandleWebSocketConnection(context);
+                    try
+                    {
+                        var webSocketHandler = context.RequestServices.GetRequiredService<WebSocketHandler>();
+                        await webSocketHandler.HandleWebSocketConnection(context);
+                    }
+                    catch (Exception)
+                    {
+                        context.Response.StatusCode = StatusCodes.Status500InternalServerError;
+                        await context.Response.WriteAsync("WebSocket 連接失敗");
+                    }
                 }
                 else
                 {
                     context.Response.StatusCode = StatusCodes.Status400BadRequest;
+                    await context.Response.WriteAsync("需要 WebSocket 請求");
                 }
             }
             else

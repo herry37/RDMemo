@@ -1,244 +1,409 @@
 using Microsoft.AspNetCore.Mvc;
 using ShoppingListAPI.Models;
 using ShoppingListAPI.Services.FileDb;
-using System.Text.Json;
 
-namespace ShoppingListAPI.Controllers;
-
-[ApiController]
-[Route("api/[controller]")]
-public class ShoppingListController : ControllerBase
+namespace ShoppingListAPI.Controllers
 {
-    private readonly IFileDbService _fileDbService;
-    private readonly ILogger<ShoppingListController> _logger;
-
-
-    public ShoppingListController(
-        IFileDbService fileDbService,
-        ILogger<ShoppingListController> logger)
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ShoppingListController : ControllerBase
     {
-        _fileDbService = fileDbService;
-        _logger = logger;
-    }
+        private readonly ILogger<ShoppingListController> _logger;
+        private readonly IFileDbService _fileDbService;
 
-    /// <summary>
-    /// 取得所有購物清單
-    /// </summary>
-    [HttpGet]
-    [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult<List<ShoppingList>>> GetAllLists()
-    {
-        try
+        public ShoppingListController(
+            ILogger<ShoppingListController> logger,
+            IFileDbService fileDbService)
         {
-            var lists = await _fileDbService.GetAllShoppingListsAsync();
-            return Ok(lists);
+            _logger = logger;
+            _fileDbService = fileDbService;
         }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "取得購物清單失敗");
-            return StatusCode(500, "取得購物清單時發生錯誤");
-        }
-    }
 
-    /// <summary>
-    /// 取得指定的購物清單
-    /// </summary>
-    [HttpGet("{listId}")]
-    [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult<ShoppingList>> GetList(string listId)
-    {
-        try
+        /// <summary>
+        /// 取得所有購物清單
+        /// </summary>
+        /// <returns>購物清單集合</returns>
+        [HttpGet]
+        public async Task<IActionResult> GetAllLists()
         {
-            var list = await _fileDbService.GetShoppingListById(listId);
-            if (list == null)
+            try
             {
-                return NotFound($"找不到ID為 {listId} 的購物清單");
+                _logger.LogInformation("開始取得所有購物清單");
+                var lists = await _fileDbService.GetAllShoppingListsAsync();
+
+                // 確保回傳的資料格式正確
+                var result = new
+                {
+                    success = true,
+                    data = lists.Select(list =>
+                    {
+                        // 確保所有必要欄位都有值
+                        list.Items ??= new List<ShoppingItem>();
+                        foreach (var item in list.Items)
+                        {
+                            item.Quantity = Math.Max(1, item.Quantity);
+                            item.Price ??= 0;
+                        }
+
+                        // 重新計算總金額
+                        list.totalAmount = list.Items.Sum(item =>
+                            (item.Price ?? 0) * Math.Max(1, item.Quantity));
+
+                        return list;
+                    }).OrderByDescending(x => x.BuyDate)
+                };
+
+                _logger.LogInformation("成功取得 {Count} 個購物清單", lists.Count());
+                return Ok(result);
             }
-            return Ok(list);
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "取得購物清單 {ListId} 失敗", listId);
-            return StatusCode(500, "取得購物清單時發生錯誤");
-        }
-    }
-
-    /// <summary>
-    /// 建立新的購物清單
-    /// </summary>
-    [HttpPost]
-    [ProducesResponseType(StatusCodes.Status201Created)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult<ShoppingList>> CreateList([FromBody] ShoppingList list)
-    {
-        try
-        {
-            if (string.IsNullOrWhiteSpace(list.Title))
+            catch (Exception ex)
             {
-                return BadRequest("清單標題不能為空");
+                _logger.LogError(ex, "取得購物清單時發生錯誤");
+                return StatusCode(500, new { success = false, message = "取得購物清單時發生錯誤" });
             }
-
-            list.Id = Guid.NewGuid().ToString();
-            list.CreatedAt = DateTime.UtcNow;
-            list.Items ??= new List<ShoppingItem>();
-
-            var createdList = await _fileDbService.CreateShoppingListAsync(list);
-
-            return CreatedAtAction(nameof(GetList), new { listId = createdList.Id }, createdList);
         }
-        catch (Exception ex)
+
+        /// <summary>
+        /// 根據 ID 取得購物清單
+        /// </summary>
+        /// <param name="id">購物清單 ID</param>
+        /// <returns>購物清單詳細資料</returns>
+        [HttpGet("{id}")]
+        public async Task<ActionResult<object>> GetListById(string id)
         {
-            _logger.LogError(ex, "建立購物清單失敗");
-            return StatusCode(500, "建立購物清單時發生錯誤");
+            try
+            {
+                _logger.LogInformation("開始取得購物清單，ID: {Id}", id);
+
+                if (string.IsNullOrWhiteSpace(id))
+                {
+                    return BadRequest(new
+                    {
+                        success = false,
+                        message = "購物清單 ID 不能為空"
+                    });
+                }
+
+                var list = await _fileDbService.GetShoppingListAsync(id);
+                if (list == null)
+                {
+                    _logger.LogWarning("找不到指定的購物清單，ID: {Id}", id);
+                    return NotFound(new
+                    {
+                        success = false,
+                        message = "找不到指定的購物清單"
+                    });
+                }
+
+                _logger.LogInformation("成功取得購物清單，ID: {Id}", id);
+                return Ok(new
+                {
+                    success = true,
+                    message = "成功取得購物清單",
+                    data = list
+                });
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "取得購物清單時發生錯誤，ID: {Id}", id);
+                return StatusCode(500, new
+                {
+                    success = false,
+                    message = "取得購物清單時發生錯誤",
+                    error = ex.Message
+                });
+            }
         }
-    }
 
-    /// <summary>
-    /// 更新購物清單
-    /// </summary>
-    [HttpPut("{listId}")]
-    [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult<ShoppingList>> UpdateList(string listId, [FromBody] ShoppingList list)
-    {
-        try
+        /// <summary>
+        /// 搜尋購物清單
+        /// </summary>
+        /// <param name="startDate">開始日期</param>
+        /// <param name="endDate">結束日期</param>
+        /// <param name="title">標題關鍵字</param>
+        /// <returns>符合條件的購物清單集合</returns>
+        [HttpGet("search")]
+        public async Task<IActionResult> GetShoppingLists(
+            [FromQuery] DateTime? startDate = null,
+            [FromQuery] DateTime? endDate = null,
+            [FromQuery] string? title = null)
         {
-            if (string.IsNullOrWhiteSpace(listId))
+            try
             {
-                return BadRequest("清單ID不能為空");
-            }
+                _logger.LogInformation("搜尋購物清單 - 開始日期: {StartDate}, 結束日期: {EndDate}, 標題: {Title}",
+                    startDate?.ToString("yyyy-MM-dd"),
+                    endDate?.ToString("yyyy-MM-dd"),
+                    title);
 
-            if (string.IsNullOrWhiteSpace(list.Title))
-            {
-                return BadRequest("清單標題不能為空");
-            }
+                var lists = await _fileDbService.GetAllShoppingListsAsync();
+                if (lists == null || !lists.Any())
+                {
+                    _logger.LogInformation("未找到任何購物清單");
+                    return Ok(new { success = true, data = new List<ShoppingList>() });
+                }
 
-            var existingList = await _fileDbService.GetShoppingListById(listId);
-            if (existingList == null)
-            {
-                return NotFound($"找不到ID為 {listId} 的購物清單");
-            }
+                var query = lists.AsEnumerable();
 
-            // 更新清單資訊
-            existingList.Title = list.Title;
-            existingList.BuyDate = list.BuyDate;
+                // 篩選日期範圍 (只比較日期部分)
+                if (startDate.HasValue)
+                {
+                    var startDateOnly = DateOnly.FromDateTime(startDate.Value.Date);
+                    query = query.Where(l => DateOnly.FromDateTime(l.BuyDate.Date) >= startDateOnly);
+                }
 
-            // 批量更新項目
-            if (list.Items != null)
-            {
-                // 移除已刪除的項目
-                var itemsToRemove = existingList.Items
-                    .Where(existingItem => !list.Items.Any(newItem =>
-                        !string.IsNullOrEmpty(newItem.Id) && newItem.Id == existingItem.Id))
+                if (endDate.HasValue)
+                {
+                    var endDateOnly = DateOnly.FromDateTime(endDate.Value.Date);
+                    query = query.Where(l => DateOnly.FromDateTime(l.BuyDate.Date) <= endDateOnly);
+                }
+
+                // 篩選標題 (不區分大小寫)
+                if (!string.IsNullOrWhiteSpace(title))
+                {
+                    var searchTitle = title.Trim();
+                    query = query.Where(l => l.Title != null && 
+                        l.Title.Contains(searchTitle, StringComparison.OrdinalIgnoreCase));
+                }
+
+                // 依購買日期降序排序
+                var result = query
+                    .OrderByDescending(l => l.BuyDate.Date)
                     .ToList();
 
-                foreach (var itemToRemove in itemsToRemove)
+                _logger.LogInformation("搜尋完成，找到 {Count} 筆符合條件的清單", result.Count);
+
+                return Ok(new { success = true, data = result });
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "搜尋購物清單時發生錯誤");
+                return StatusCode(500, new { success = false, message = "搜尋購物清單時發生錯誤" });
+            }
+        }
+
+        /// <summary>
+        /// 建立新的購物清單
+        /// </summary>
+        /// <param name="request">新增請求資料</param>
+        /// <returns>新建立的購物清單</returns>
+        [HttpPost]
+        public async Task<ActionResult<object>> CreateList([FromBody] ShoppingListCreateRequest request)
+        {
+            try
+            {
+                _logger.LogInformation("開始建立新的購物清單");
+
+                if (request == null)
                 {
-                    existingList.Items.Remove(itemToRemove);
+                    return BadRequest(new
+                    {
+                        success = false,
+                        message = "請求資料不能為空"
+                    });
                 }
 
-                // 更新或新增項目
-                foreach (var newItem in list.Items)
+                if (string.IsNullOrWhiteSpace(request.Title))
                 {
-                    var existingItem = existingList.Items
-                        .FirstOrDefault(item => !string.IsNullOrEmpty(newItem.Id) && item.Id == newItem.Id);
+                    return BadRequest(new
+                    {
+                        success = false,
+                        message = "標題不能為空"
+                    });
+                }
 
-                    if (existingItem != null)
+                var newList = new ShoppingList
+                {
+                    Id = Guid.NewGuid().ToString(),
+                    Title = request.Title.Trim(),
+                    BuyDate = request.BuyDate,
+                    CreatedAt = DateTime.Now,
+                    UpdatedAt = DateTime.Now,
+                    Items = new List<ShoppingItem>()
+                };
+
+                await _fileDbService.CreateShoppingListAsync(newList);
+
+                _logger.LogInformation("成功建立新的購物清單，ID: {Id}", newList.Id);
+
+                return Ok(new
+                {
+                    success = true,
+                    message = "成功建立購物清單",
+                    data = newList
+                });
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "建立購物清單時發生錯誤");
+                return StatusCode(500, new
+                {
+                    success = false,
+                    message = "建立購物清單時發生錯誤",
+                    error = ex.Message
+                });
+            }
+        }
+
+        /// <summary>
+        /// 更新購物清單
+        /// </summary>
+        /// <param name="id">購物清單 ID</param>
+        /// <param name="request">更新請求資料</param>
+        /// <returns>更新後的購物清單</returns>
+        [HttpPut("{id}")]
+        public async Task<ActionResult<object>> UpdateList(string id, [FromBody] ShoppingListUpdateRequest request)
+        {
+            try
+            {
+                _logger.LogInformation("開始更新購物清單，ID: {Id}", id);
+
+                if (string.IsNullOrWhiteSpace(id))
+                {
+                    return BadRequest(new
                     {
-                        // 更新現有項目
-                        existingItem.Name = newItem.Name;
-                        existingItem.Quantity = newItem.Quantity;
-                        existingItem.Price = newItem.Price;
-                        existingItem.IsCompleted = newItem.IsCompleted;
-                        existingItem.CompletedAt = newItem.IsCompleted ? DateTime.UtcNow : null;
-                    }
-                    else
+                        success = false,
+                        message = "購物清單 ID 不能為空"
+                    });
+                }
+
+                if (request == null)
+                {
+                    return BadRequest(new
                     {
-                        // 新增項目
-                        var itemToAdd = new ShoppingItem
+                        success = false,
+                        message = "更新資料不能為空"
+                    });
+                }
+
+                // 檢查清單是否存在
+                var existingList = await _fileDbService.GetShoppingListAsync(id);
+                if (existingList == null)
+                {
+                    _logger.LogWarning("找不到指定的購物清單，ID: {Id}", id);
+                    return NotFound(new
+                    {
+                        success = false,
+                        message = "找不到指定的購物清單"
+                    });
+                }
+
+                // 更新清單內容
+                existingList.Title = request.Title;
+                existingList.BuyDate = request.BuyDate;
+                existingList.Items = request.Items ?? new List<ShoppingItem>();
+                existingList.UpdatedAt = DateTime.Now;
+
+                // 驗證項目
+                foreach (var item in existingList.Items)
+                {
+                    if (string.IsNullOrWhiteSpace(item.Name))
+                    {
+                        return BadRequest(new
                         {
-                            Id = string.IsNullOrEmpty(newItem.Id) ? Guid.NewGuid().ToString() : newItem.Id,
-                            Name = newItem.Name,
-                            Quantity = newItem.Quantity,
-                            Price = newItem.Price,
-                            IsCompleted = newItem.IsCompleted,
-                            CompletedAt = newItem.IsCompleted ? DateTime.UtcNow : null,
-                            CreatedAt = DateTime.UtcNow
-                        };
-                        existingList.Items.Add(itemToAdd);
+                            success = false,
+                            message = "商品名稱不能為空白"
+                        });
+                    }
+
+                    if (item.Quantity < 1)
+                    {
+                        return BadRequest(new
+                        {
+                            success = false,
+                            message = "商品數量必須大於 0"
+                        });
+                    }
+
+                    if (item.Price < 0)
+                    {
+                        return BadRequest(new
+                        {
+                            success = false,
+                            message = "商品價格不能小於 0"
+                        });
                     }
                 }
+
+                // 更新清單
+                var updatedList = await _fileDbService.UpdateShoppingListAsync(existingList);
+
+                _logger.LogInformation("成功更新購物清單，ID: {Id}", id);
+                return Ok(new
+                {
+                    success = true,
+                    message = "成功更新購物清單",
+                    data = updatedList
+                });
             }
-
-            // 儲存更新後的清單
-            await _fileDbService.SaveShoppingList(existingList);
-
-            return Ok(existingList);
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "更新購物清單 {ListId} 失敗", listId);
-            return StatusCode(500, "更新購物清單時發生錯誤");
-        }
-    }
-
-    /// <summary>
-    /// 刪除購物清單
-    /// </summary>
-    [HttpDelete("{listId}")]
-    [ProducesResponseType(StatusCodes.Status204NoContent)]
-    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<ActionResult> DeleteList(string listId)
-    {
-        try
-        {
-            var list = await _fileDbService.GetShoppingListById(listId);
-            if (list == null)
+            catch (Exception ex)
             {
-                return NotFound($"找不到ID為 {listId} 的購物清單");
+                _logger.LogError(ex, "更新購物清單時發生錯誤，ID: {Id}", id);
+                return StatusCode(500, new
+                {
+                    success = false,
+                    message = "更新購物清單時發生錯誤",
+                    error = ex.Message
+                });
             }
-
-            await _fileDbService.DeleteShoppingList(listId);
-
-            return NoContent();
         }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "刪除購物清單 {ListId} 失敗", listId);
-            return StatusCode(500, "刪除購物清單時發生錯誤");
-        }
-    }
 
-    /// <summary>
-    /// 匯出購物清單
-    /// </summary>
-    [HttpGet("export")]
-    [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<IActionResult> ExportLists()
-    {
-        try
+        /// <summary>
+        /// 刪除購物清單
+        /// </summary>
+        /// <param name="id">購物清單 ID</param>
+        /// <returns>刪除結果</returns>
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<object>> DeleteList(string id)
         {
-            var lists = await _fileDbService.GetAllShoppingListsAsync();
-            var jsonString = JsonSerializer.Serialize(lists, new JsonSerializerOptions
+            try
             {
-                WriteIndented = true
-            });
+                _logger.LogInformation("開始刪除購物清單，ID: {Id}", id);
 
-            var bytes = System.Text.Encoding.UTF8.GetBytes(jsonString);
-            return File(bytes, "application/json", $"shopping_lists_{DateTime.Now:yyyyMMddHHmmss}.json");
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex, "匯出購物清單失敗");
-            return StatusCode(500, "匯出購物清單時發生錯誤");
+                if (string.IsNullOrWhiteSpace(id))
+                {
+                    return BadRequest(new
+                    {
+                        success = false,
+                        message = "購物清單 ID 不能為空"
+                    });
+                }
+
+                // 檢查清單是否存在
+                var existingList = await _fileDbService.GetShoppingListAsync(id);
+                if (existingList == null)
+                {
+                    _logger.LogWarning("找不到指定的購物清單，ID: {Id}", id);
+                    return NotFound(new
+                    {
+                        success = false,
+                        message = "找不到指定的購物清單"
+                    });
+                }
+
+                // 刪除清單
+                await _fileDbService.DeleteShoppingList(id);
+
+                // 重新取得所有清單，確保資料一致性
+                var lists = await _fileDbService.GetAllShoppingListsAsync();
+
+                _logger.LogInformation("成功刪除購物清單，ID: {Id}", id);
+                return Ok(new
+                {
+                    success = true,
+                    message = "成功刪除購物清單",
+                    data = lists
+                });
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "刪除購物清單時發生錯誤，ID: {Id}", id);
+                return StatusCode(500, new
+                {
+                    success = false,
+                    message = "刪除購物清單時發生錯誤",
+                    error = ex.Message
+                });
+            }
         }
     }
 }

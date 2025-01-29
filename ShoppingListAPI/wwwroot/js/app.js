@@ -1,711 +1,1021 @@
-// 工具函數
-function showLoading() {
-  const loadingIndicator = document.getElementById("loadingIndicator");
-  if (loadingIndicator) {
-    loadingIndicator.classList.remove("hidden");
-  }
-}
+'use strict';
 
-function hideLoading() {
-  const loadingIndicator = document.getElementById("loadingIndicator");
-  if (loadingIndicator) {
-    loadingIndicator.classList.add("hidden");
-  }
-}
-
+// 顯示錯誤訊息
 function showError(message) {
-  const existingError = document.querySelector(".error-message");
-  if (existingError) {
-    existingError.remove();
+  const errorDialog = document.getElementById('errorDialog');
+  const errorMessage = document.getElementById('errorMessage');
+  
+  if (errorDialog && errorMessage) {
+    errorMessage.textContent = message;
+    errorDialog.classList.add('show');
+    
+    // 點擊背景時關閉對話框
+    const clickHandler = (e) => {
+      if (e.target === errorDialog) {
+        hideError();
+      }
+    };
+    errorDialog.addEventListener('click', clickHandler);
+
+    // 按下 ESC 鍵時關閉對話框
+    const keyHandler = (e) => {
+      if (e.key === 'Escape') {
+        hideError();
+      }
+    };
+    document.addEventListener('keydown', keyHandler);
   }
-
-  const errorDiv = document.createElement("div");
-  errorDiv.className = "error-message";
-  errorDiv.textContent = message;
-  document.body.appendChild(errorDiv);
-
-  setTimeout(() => {
-    errorDiv.remove();
-  }, 3000);
 }
 
+function hideError() {
+  const errorDialog = document.getElementById('errorDialog');
+  if (errorDialog) {
+    errorDialog.classList.remove('show');
+    // 移除所有事件監聽器
+    errorDialog.replaceWith(errorDialog.cloneNode(true));
+  }
+}
+
+// 顯示成功訊息
 function showSuccess(message) {
-  const existingSuccess = document.querySelector(".success-message");
-  if (existingSuccess) {
-    existingSuccess.remove();
-  }
-
-  const successDiv = document.createElement("div");
-  successDiv.className = "success-message";
-  successDiv.textContent = message;
-  document.body.appendChild(successDiv);
-
-  setTimeout(() => {
-    successDiv.remove();
-  }, 3000);
-}
-
-// 輔助函數：字符串轉 ArrayBuffer
-function str2ab(str) {
-  const buf = new ArrayBuffer(str.length);
-  const bufView = new Uint8Array(buf);
-  for (let i = 0, strLen = str.length; i < strLen; i++) {
-    bufView[i] = str.charCodeAt(i);
-  }
-  return buf;
-}
-
-// WebSocket 連接函數
-async function getWebSocket(url) {
-  return new Promise((resolve, reject) => {
-    try {
-      console.log("開始建立 WebSocket 連接到:", url);
-      const webSocket = new WebSocket(url);
-
-      webSocket.onopen = () => {
-        console.log("WebSocket 連接成功");
-        resolve(webSocket);
-      };
-
-      webSocket.onclose = (event) => {
-        const reason = event.reason || "未知原因";
-        console.log(`WebSocket 連接關閉: ${event.code} - ${reason}`);
-        reject(new Error(`WebSocket 連接關閉: ${event.code} - ${reason}`));
-      };
-
-      webSocket.onerror = (error) => {
-        console.error("WebSocket 連接錯誤:", error);
-        reject(new Error("WebSocket 連接失敗"));
-      };
-    } catch (error) {
-      reject(error);
-    }
-  });
-}
-
-// 初始化 WebSocket 連接
-async function initializeWebSocket() {
-  const wsUrl = "ws://localhost:5002/ws";
-  console.log("嘗試建立 WebSocket 連接到:", wsUrl);
-  return await getWebSocket(wsUrl);
-}
-
-// 連接重試函數
-async function connectWithRetry(maxRetries = 3, retryDelay = 1000) {
-  let retryCount = 0;
-
-  while (retryCount < maxRetries) {
-    try {
-      console.log(`嘗試建立 WebSocket 連接 (第 ${retryCount + 1}/${maxRetries} 次)`);
-      const webSocket = await initializeWebSocket();
-      console.log("WebSocket 連接成功");
-      return webSocket;
-    } catch (error) {
-      retryCount++;
-      console.log(`連接失敗，${maxRetries - retryCount} 次重試機會剩餘`);
-      if (retryCount === maxRetries) {
-        throw error;
+  const successDialog = document.getElementById('successDialog');
+  const successMessage = document.getElementById('successMessage');
+  
+  if (successDialog && successMessage) {
+    successMessage.textContent = message;
+    successDialog.classList.add('show');
+    
+    // 點擊背景時關閉對話框
+    const clickHandler = (e) => {
+      if (e.target === successDialog) {
+        hideSuccess();
       }
-      await new Promise(resolve => setTimeout(resolve, retryDelay));
-    }
+    };
+    successDialog.addEventListener('click', clickHandler);
+
+    // 按下 ESC 鍵時關閉對話框
+    const keyHandler = (e) => {
+      if (e.key === 'Escape') {
+        hideSuccess();
+      }
+    };
+    document.addEventListener('keydown', keyHandler);
   }
 }
 
-// 初始化應用程式物件
+function hideSuccess() {
+  const successDialog = document.getElementById('successDialog');
+  if (successDialog) {
+    successDialog.classList.remove('show');
+    // 移除所有事件監聽器
+    successDialog.replaceWith(successDialog.cloneNode(true));
+  }
+}
+
+// 應用程式主要物件
 const app = {
-  lists: [],
-  webSocket: null,
-  isConnecting: false,
-  reconnectTimeout: null,
-  currentPage: 1,
-  pageSize: 10,
-  totalItems: 0,
-  currentListId: null,
-  currentItems: [],
+  currentList: null,
+  detailModal: null,
+  addListModal: null,
+  errorModal: null,
+  successModal: null,
+  isSaving: false, // 新增儲存鎖
 
-  async init() {
+  // 初始化應用程式
+  init() {
     try {
-      showLoading();
-      await this.loadShoppingLists();
-      await this.connect();
-      this.setupEventListeners();
-      hideLoading();
+      console.log('初始化應用程式...');
+      
+      // 初始化 Bootstrap Modal
+      const detailModalElement = document.getElementById('detailModal');
+      const addListModalElement = document.getElementById('addListModal');
+      const errorModalElement = document.getElementById('errorModal');
+      const successModalElement = document.getElementById('successModal');
+
+      if (detailModalElement) {
+        this.detailModal = new bootstrap.Modal(detailModalElement);
+        
+        // 監聽 Modal 關閉事件
+        detailModalElement.addEventListener('hidden.bs.modal', () => {
+          this.isSaving = false;
+          this.currentList = null;
+          this.clearErrors();
+        });
+      }
+
+      if (addListModalElement) {
+        this.addListModal = new bootstrap.Modal(addListModalElement);
+        
+        // 監聽新增清單 Modal 關閉事件
+        addListModalElement.addEventListener('hidden.bs.modal', () => {
+          this.isSaving = false;
+          this.currentList = null;
+          this.clearErrors();
+        });
+      }
+
+      if (errorModalElement) {
+        this.errorModal = new bootstrap.Modal(errorModalElement);
+      }
+
+      if (successModalElement) {
+        this.successModal = new bootstrap.Modal(successModalElement);
+      }
+
+      // 綁定搜尋表單事件
+      const searchForm = document.getElementById('searchForm');
+      if (searchForm) {
+        searchForm.addEventListener('submit', (e) => {
+          e.preventDefault();
+          this.searchLists();
+        });
+      }
+
+      // 載入清單
+      this.loadLists();
+
     } catch (error) {
-      console.error("初始化應用程式時發生錯誤:", error);
-      showError("初始化應用程式時發生錯誤");
-      hideLoading();
+      console.error('初始化失敗:', error);
+      this.showError('初始化失敗，請重新整理頁面');
     }
   },
 
-  setupEventListeners() {
-    // 設置事件監聽器
-    document.getElementById("searchForm")?.addEventListener("submit", (e) => {
-      e.preventDefault();
-      this.searchLists();
-    });
+  // 實際的初始化邏輯
+  initialize() {
+    try {
+      console.log('初始化應用程式...');
+      
+      // 初始化所有 Modal
+      this.detailModal = new bootstrap.Modal(document.getElementById('detailModal'));
+      this.addListModal = new bootstrap.Modal(document.getElementById('addListModal'));
+      this.errorModal = new bootstrap.Modal(document.getElementById('errorModal'));
+      this.successModal = new bootstrap.Modal(document.getElementById('successModal'));
+      
+      // 綁定事件
+      this.bindEvents();
+      
+      // 載入清單
+      this.loadLists();
+      
+      console.log('初始化完成');
+    } catch (error) {
+      console.error('初始化失敗:', error);
+      this.showError(error.message);
+    }
   },
 
-  async loadShoppingLists() {
+  // 綁定事件
+  bindEvents() {
     try {
-      console.log("開始載入購物清單...");
-      const response = await fetch("/api/shoppinglist", {
-        headers: {
-          Accept: "application/json",
-        },
-      });
+      console.log('綁定事件...');
+      
+      // 綁定儲存按鈕事件
+      const saveButton = document.getElementById('saveButton');
+      if (saveButton) {
+        saveButton.addEventListener('click', () => this.saveChanges());
+      } else {
+        console.error('找不到儲存按鈕');
+      }
 
-      console.log("API 回應狀態:", response.status);
+      // 綁定搜尋表單事件
+      const searchForm = document.getElementById('searchForm');
+      if (searchForm) {
+        searchForm.addEventListener('submit', (e) => {
+          e.preventDefault();
+          this.searchLists();
+        });
+      } else {
+        console.error('找不到搜尋表單');
+      }
 
+      // 綁定新增按鈕事件
+      const addButton = document.getElementById('addButton');
+      if (addButton) {
+        addButton.addEventListener('click', () => {
+          console.log('新增按鈕被點擊');
+          this.showAddListModal();
+        });
+      } else {
+        console.error('找不到新增按鈕');
+      }
+
+      // 綁定新增清單表單的儲存按鈕
+      const createButton = document.getElementById('createButton');
+      if (createButton) {
+        createButton.addEventListener('click', () => {
+          console.log('儲存新清單按鈕被點擊');
+          this.createList();
+        });
+      } else {
+        console.error('找不到新增清單儲存按鈕');
+      }
+
+      console.log('事件綁定完成');
+    } catch (error) {
+      console.error('綁定事件失敗:', error);
+      this.showError(error.message);
+    }
+  },
+
+  // 設定預設日期
+  setDefaultDates() {
+    console.log('設定預設日期...');
+    const today = new Date().toISOString().split('T')[0];
+    const startDateInput = document.getElementById('startDate');
+    const endDateInput = document.getElementById('endDate');
+    
+    if (startDateInput) {
+      startDateInput.value = today;
+      console.log('起始日期設定成功');
+    } else {
+      console.error('找不到起始日期輸入框');
+    }
+
+    if (endDateInput) {
+      endDateInput.value = today;
+      console.log('結束日期設定成功');
+    } else {
+      console.error('找不到結束日期輸入框');
+    }
+  },
+
+  // 載入所有清單
+  async loadAllLists() {
+    try {
+      console.log('載入所有清單...');
+      const response = await fetch('/api/shoppinglist');
+      
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        throw new Error(`無法取得購物清單: ${response.status}`);
       }
 
-      const data = await response.json();
-      console.log("收到的資料:", data);
+      const result = await response.json();
+      console.log('API 回應:', result);
 
-      this.lists = data;
-      this.renderLists(data);
-      console.log("完成載入購物清單，數量:", data.length);
+      // 檢查 API 回應格式
+      let lists = [];
+      if (result.success && Array.isArray(result.data)) {
+        lists = result.data;
+      } else if (Array.isArray(result)) {
+        lists = result;
+      }
+
+      if (lists.length === 0) {
+        console.log('沒有購物清單資料');
+      } else {
+        console.log('取得購物清單數量:', lists.length);
+      }
+
+      this.updateListTable(lists);
     } catch (error) {
-      console.error("載入購物清單時發生錯誤:", error);
+      console.error('載入清單失敗:', error);
+      this.showError(error.message);
     }
   },
 
-  // 查詢購物清單
-  async searchLists() {
+  // 載入清單資料
+  async loadLists() {
     try {
-      const startDate = document.getElementById("searchStartDate").value;
-      const endDate = document.getElementById("searchEndDate").value;
-      const searchTitle = document.getElementById("searchTitle").value;
+      console.log('載入清單資料...');
+      const startDateInput = document.getElementById('startDate');
+      const endDateInput = document.getElementById('endDate');
+      const titleInput = document.getElementById('searchTitle');
 
-      // 檢查日期格式
-      const checkDateFormat = (dateStr) => {
-        if (!dateStr) return true;
-
-        // 嚴格檢查日期格式必須為 YYYY-MM-DD
-        if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
-          return false;
-        }
-
-        const [yearStr, monthStr, dayStr] = dateStr.split('-');
-        const year = parseInt(yearStr);
-        const month = parseInt(monthStr);
-        const day = parseInt(dayStr);
-
-        // 檢查年份必須是四位數且在合理範圍內
-        if (yearStr.length !== 4 || year < 1900 || year > 9999) {
-          return false;
-        }
-
-        // 檢查月份必須是兩位數且在合理範圍內
-        if (monthStr.length !== 2 || month < 1 || month > 12) {
-          return false;
-        }
-
-        // 檢查日期必須是兩位數且在合理範圍內
-        const lastDayOfMonth = new Date(year, month, 0).getDate();
-        if (dayStr.length !== 2 || day < 1 || day > lastDayOfMonth) {
-          return false;
-        }
-
-        return true;
-      };
-
-      if (!checkDateFormat(startDate)) {
-        alert('開始日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
-        return;
-      }
-
-      if (!checkDateFormat(endDate)) {
-        alert('結束日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
-        return;
-      }
-
-      // 日期範圍檢查
-      if (startDate && endDate) {
-        const start = new Date(startDate);
-        const end = new Date(endDate);
-
-        if (start > end) {
-          alert('開始日期不能大於結束日期');
-          return;
-        }
-
-        // 檢查日期範圍是否超過一年
-        const oneYear = 365 * 24 * 60 * 60 * 1000; // 一年的毫秒數
-        if (end - start > oneYear) {
-          alert('查詢日期範圍不能超過一年');
-          return;
-        }
-      }
-
-      // 至少要有一個搜尋條件
-      if (!startDate && !endDate && !searchTitle) {
-        alert('請至少輸入一個搜尋條件');
-        return;
-      }
+      // 取得查詢條件
+      const startDate = startDateInput?.value || '';
+      const endDate = endDateInput?.value || '';
+      const title = titleInput?.value.trim() || '';
 
       // 構建查詢參數
       const params = new URLSearchParams();
       if (startDate) params.append('startDate', startDate);
       if (endDate) params.append('endDate', endDate);
-      if (searchTitle) params.append('title', searchTitle);
+      if (title) params.append('title', title);
 
-      const response = await fetch(`/api/ShoppingList/search?${params.toString()}`);
+      // 組合 URL
+      const url = params.toString()
+        ? `/api/shoppinglist/search?${params.toString()}`
+        : '/api/shoppinglist';
+
+      console.log('請求 URL:', url);
+      const response = await fetch(url);
+      const result = await response.json();
+      console.log('載入清單結果:', result);
+
       if (!response.ok) {
-        throw new Error("搜尋失敗");
+        throw new Error(result.message || '載入清單失敗');
       }
 
-      const lists = await response.json();
-      this.renderLists(lists);
+      // 檢查 API 回傳格式
+      let lists = [];
+      if (result.success && Array.isArray(result.data)) {
+        lists = result.data;
+      }
+
+      // 更新清單表格
+      this.updateListTable(lists);
     } catch (error) {
-      console.error("搜尋時發生錯誤:", error);
-      showError("搜尋失敗，請稍後再試");
+      console.error('載入清單失敗:', error);
+      this.showError(error.message || '載入清單失敗，請稍後再試');
+      this.updateListTable([]);
     }
   },
 
-  // 渲染購物清單
-  renderLists(lists) {
-    const tbody = document.getElementById("listTableBody");
+  // 搜尋清單
+  async searchLists() {
+    try {
+      const startDateInput = document.getElementById('startDate');
+      const endDateInput = document.getElementById('endDate');
+      const titleInput = document.getElementById('searchTitle');
+
+      if (!startDateInput || !endDateInput) {
+        throw new Error('找不到日期輸入欄位');
+      }
+
+      const startDate = startDateInput.value;
+      const endDate = endDateInput.value;
+      const title = titleInput ? titleInput.value.trim() : '';
+
+      // 檢查日期範圍
+      if (startDate && endDate) {
+        const startDateTime = new Date(startDate);
+        const endDateTime = new Date(endDate);
+        
+        if (startDateTime > endDateTime) {
+          throw new Error('開始日期不能大於結束日期');
+        }
+      }
+
+      console.log('搜尋條件:', { startDate, endDate, title });
+
+      // 構建查詢參數
+      const params = new URLSearchParams();
+      if (startDate) params.append('startDate', startDate);
+      if (endDate) params.append('endDate', endDate);
+      if (title) params.append('title', title);
+
+      const url = params.toString()
+        ? `/api/shoppinglist/search?${params.toString()}`
+        : '/api/shoppinglist';
+
+      const response = await fetch(url);
+      if (!response.ok) {
+        const result = await response.json();
+        throw new Error(result.message || '搜尋失敗');
+      }
+
+      const result = await response.json();
+      
+      // 更新清單表格
+      this.updateListTable(result.data || []);
+
+    } catch (error) {
+      console.error('搜尋失敗:', error);
+      this.showError(error.message || '搜尋失敗，請稍後再試');
+    }
+  },
+
+  // 更新清單表格
+  updateListTable(lists) {
+    const tbody = document.getElementById('listTableBody');
     if (!tbody) {
-      console.error("listTableBody element not found");
-      return;
-    }
-    tbody.innerHTML = "";
-
-    if (lists.length === 0) {
-      const row = document.createElement("tr");
-      row.innerHTML =
-        '<td colspan="4" style="text-align: center;">沒有找到符合條件的購物清單</td>';
-      tbody.appendChild(row);
+      console.error('找不到清單表格');
       return;
     }
 
-    lists.forEach((list) => {
-      const row = document.createElement("tr");
-      row.innerHTML = `
-                <td>${list.buyDate ? list.buyDate.split("T")[0] : ""}</td>
-                <td>${list.title}</td>
-                <td>${this.formatCurrency(
-                  this.calculateTotalAmount(list.items)
-                )}</td>
-                <td>
-                    <button class="btn btn-primary" onclick="app.showDetail('${
-                      list.id
-                    }')">明細</button>
-                    <button class="btn btn-danger" onclick="app.deleteList('${
-                      list.id
-                    }')">刪除</button>
-                </td>
-            `;
-      tbody.appendChild(row);
+    tbody.innerHTML = '';
+
+    if (!Array.isArray(lists) || lists.length === 0) {
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="4" class="text-center">沒有找到購物清單</td>
+        </tr>
+      `;
+      return;
+    }
+
+    lists.forEach(list => {
+      try {
+        const row = document.createElement('tr');
+        
+        // 處理日期顯示
+        const buyDate = new Date(list.buyDate);
+        const formattedDate = buyDate.toLocaleDateString('zh-TW', {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit'
+        });
+
+        const total = Array.isArray(list.items) 
+          ? list.items.reduce((sum, item) => sum + (item.quantity * item.price), 0)
+          : 0;
+
+        row.innerHTML = `
+          <td>${formattedDate}</td>
+          <td>${list.title}</td>
+          <td class="text-end">NT$ ${total.toLocaleString()}</td>
+          <td class="text-center">
+            <button type="button" class="btn btn-primary btn-sm me-1" onclick="app.editList('${list.id}')">
+              <i class="bi bi-pencil"></i> 編輯
+            </button>
+            <button type="button" class="btn btn-danger btn-sm" onclick="app.deleteList('${list.id}')">
+              <i class="bi bi-trash"></i> 刪除
+            </button>
+          </td>
+        `;
+        tbody.appendChild(row);
+      } catch (error) {
+        console.error('處理清單時發生錯誤:', error, list);
+      }
     });
   },
 
-  // 計算總金額
-  calculateTotalAmount(items) {
-    return items
-      ? items.reduce((total, item) => total + item.quantity * item.price, 0)
-      : 0;
+  // 顯示新增清單 Modal
+  showAddListModal() {
+    try {
+      if (this.addListModal) {
+        // 設定預設日期為今天
+        const today = new Date().toISOString().split('T')[0];
+        document.getElementById('addBuyDate').value = today;
+        
+        // 清空標題
+        document.getElementById('addTitle').value = '';
+        
+        // 顯示 Modal
+        this.addListModal.show();
+      } else {
+        throw new Error('Modal 未初始化');
+      }
+    } catch (error) {
+      console.error('顯示新增 Modal 失敗:', error);
+      this.showError(error.message);
+    }
   },
 
-  // 格式化金額
-  formatCurrency(amount) {
-    return new Intl.NumberFormat("zh-TW", {
-      style: "currency",
-      currency: "TWD",
-      minimumFractionDigits: 0,
-      maximumFractionDigits: 0,
-    }).format(amount);
+  // 新增清單
+  async createList() {
+    try {
+      // 檢查是否正在儲存中
+      if (this.isSaving) {
+        console.log('正在儲存中，請稍候...');
+        return;
+      }
+
+      // 設定儲存鎖
+      this.isSaving = true;
+
+      const titleInput = document.getElementById('addTitle');
+      const dateInput = document.getElementById('addBuyDate');
+
+      if (!titleInput || !dateInput) {
+        throw new Error('找不到必要的表單欄位');
+      }
+
+      const title = titleInput.value.trim();
+      const buyDate = dateInput.value;
+
+      if (!title) {
+        throw new Error('清單標題不能為空');
+      }
+
+      if (!buyDate) {
+        throw new Error('購買日期不能為空');
+      }
+
+      const data = {
+        title,
+        buyDate,
+        items: []
+      };
+
+      console.log('準備新增清單:', data);
+
+      const response = await fetch('/api/shoppinglist', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        console.error('新增失敗:', result);
+        throw new Error(result.message || '新增清單失敗');
+      }
+
+      // 關閉 Modal
+      if (this.addListModal) {
+        this.addListModal.hide();
+      }
+
+      // 清空表單
+      titleInput.value = '';
+      dateInput.value = '';
+
+      // 顯示成功訊息
+      this.showSuccess('新增清單成功');
+
+      // 重新載入清單
+      await this.loadLists();
+    } catch (error) {
+      console.error('新增失敗:', error);
+      this.showError(error.message || '新增失敗，請稍後再試');
+    } finally {
+      // 無論成功或失敗，都要釋放儲存鎖
+      this.isSaving = false;
+    }
   },
 
-  // 格式化日期
-  formatDate(dateString) {
-    const date = new Date(dateString);
-    const year = date.getFullYear();
-    const month = String(date.getMonth() + 1).padStart(2, '0');
-    const day = String(date.getDate()).padStart(2, '0');
-    return `${year}-${month}-${day}`;
+  // 編輯清單
+  async editList(id) {
+    try {
+      console.log('編輯清單:', id);
+      const response = await fetch(`/api/shoppinglist/${id}`);
+      
+      if (!response.ok) {
+        throw new Error(`無法取得清單明細: ${response.status}`);
+      }
+
+      const result = await response.json();
+      console.log('取得清單明細:', result);
+
+      // 檢查 API 回應格式
+      let list = null;
+      if (result.success && result.data) {
+        list = result.data;
+      } else if (result.id) {
+        list = result;
+      }
+
+      if (!list) {
+        throw new Error('無效的清單資料');
+      }
+
+      // 確保每個項目都有正確的屬性
+      if (Array.isArray(list.items)) {
+        list.items = list.items.map(item => ({
+          id: item.id || crypto.randomUUID(),
+          isCompleted: Boolean(item.isCompleted),
+          quantity: Math.max(1, parseInt(item.quantity) || 1),
+          price: Math.max(0, parseFloat(item.price) || 0),
+          name: item.name?.trim() || '',
+          description: item.name?.trim() || '' // 同步更新description欄位
+        }));
+      } else {
+        list.items = [];
+      }
+
+      // 更新 Modal 內容
+      this.currentList = list;
+      
+      // 更新標題和日期
+      const titleInput = document.getElementById('modalTitle');
+      const dateInput = document.getElementById('modalBuyDate');
+      
+      if (titleInput) {
+        titleInput.value = list.title || '';
+      }
+
+      if (dateInput) {
+        // 將日期格式化為 YYYY-MM-DD
+        const date = new Date(list.buyDate);
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        dateInput.value = `${year}-${month}-${day}`;
+      }
+
+      // 更新項目表格
+      this.updateItemsTable();
+
+      // 顯示 Modal
+      if (this.detailModal) {
+        this.detailModal.show();
+      } else {
+        console.error('Modal 未初始化');
+        this.showError('無法顯示明細視窗');
+      }
+    } catch (error) {
+      console.error('編輯清單失敗:', error);
+      this.showError(error.message);
+    }
+  },
+
+  // 刪除清單
+  async deleteList(id) {
+    if (!confirm('確定要刪除這個清單嗎？')) {
+      return;
+    }
+
+    try {
+      console.log('刪除清單:', id);
+      const response = await fetch(`/api/shoppinglist/${id}`, {
+        method: 'DELETE'
+      });
+
+      const result = await response.json();
+      console.log('API 回應:', result);
+
+      if (!response.ok) {
+        throw new Error(result.message || '刪除失敗');
+      }
+
+      // 更新清單表格
+      if (result.success && Array.isArray(result.data)) {
+        this.updateListTable(result.data);
+      } else {
+        // 如果沒有收到新的清單資料，就重新載入
+        await this.loadLists();
+      }
+      
+      // 顯示成功訊息
+      this.showSuccess('刪除清單成功');
+      
+      console.log('刪除成功');
+    } catch (error) {
+      console.error('刪除失敗:', error);
+      this.showError(error.message);
+    }
   },
 
   // 顯示明細 Modal
-  async showDetail(listId) {
+  async showDetail(id) {
     try {
-      console.log("顯示明細，ID:", listId);
-      const response = await fetch(`/api/shoppinglist/${listId}`);
+      console.log('載入清單明細:', id);
+      const response = await fetch(`/api/shoppinglist/${id}`);
+      
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        throw new Error('無法取得清單明細');
       }
+
       const list = await response.json();
-      console.log("取得清單資料:", list);
+      console.log('清單明細:', list);
 
-      const buyDate = list.buyDate
-        ? new Date(list.buyDate).toLocaleDateString("zh-TW")
-        : "";
-      document.getElementById("modalBuyDate").textContent = buyDate;
-      document.getElementById("modalTitle").textContent = list.title || "";
+      // 更新 Modal 內容
+      this.currentList = list;
+      
+      // 更新標題和日期
+      const modalTitle = document.getElementById('modalTitle');
+      const modalBuyDate = document.getElementById('modalBuyDate');
+      
+      if (modalTitle) {
+        modalTitle.textContent = list.title || '';
+      }
+      if (modalBuyDate) {
+        modalBuyDate.textContent = new Date(list.buyDate).toLocaleDateString();
+      }
 
-      this.currentListId = listId;
-      this.currentItems = list.items || [];
-      this.renderItems();
+      // 更新項目表格
+      this.updateItemsTable();
 
-      const modal = document.getElementById("detailModal");
-      if (modal) {
-        modal.style.display = "block";
+      // 顯示 Modal
+      if (this.detailModal) {
+        this.detailModal.show();
       } else {
-        console.error("找不到 detailModal 元素");
+        console.error('Modal 未初始化');
+        this.showError('無法顯示明細視窗');
       }
     } catch (error) {
-      console.error("Error fetching list details:", error);
-      alert("獲取清單詳情時發生錯誤");
+      console.error('載入明細失敗:', error);
+      this.showError(error.message);
     }
   },
 
-  // 渲染商品項目
-  renderItems() {
-    const tbody = document.getElementById("itemTableBody");
-    if (!tbody) {
-      console.error("itemTableBody element not found");
-      return;
-    }
-    tbody.innerHTML = "";
-
-    if (!Array.isArray(this.currentItems)) {
-      console.error("currentItems 不是陣列:", this.currentItems);
+  // 新增空白項目
+  addEmptyItem() {
+    console.log('新增空白項目');
+    if (!this.currentList) {
+      console.error('目前沒有選擇的清單');
       return;
     }
 
-    this.currentItems.forEach((item, index) => {
-      const row = document.createElement("tr");
-      row.innerHTML = `
-                <td>
-                    <input type="checkbox" ${item.isCompleted ? "checked" : ""} 
-                           onchange="app.toggleItemComplete(${index})">
-                </td>
-                <td>
-                    <input type="text" value="${item.name || ""}" 
-                           onchange="app.updateItemField(${index}, 'name', this.value)">
-                </td>
-                <td>
-                    <input type="number" value="${item.quantity || 1}" min="1" 
-                           onchange="app.updateItemField(${index}, 'quantity', this.value)">
-                </td>
-                <td>
-                    <input type="number" value="${item.price || 0}" min="0" 
-                           onchange="app.updateItemField(${index}, 'price', this.value)">
-                </td>
-                <td>${this.formatCurrency(
-                  (item.quantity || 1) * (item.price || 0)
-                )}</td>
-                <td>
-                    <div class="btn-group">
-                        <button class="btn btn-danger" onclick="app.deleteItem(${index})">刪除</button>
-                    </div>
-                </td>
-            `;
-      tbody.appendChild(row);
+    if (!Array.isArray(this.currentList.items)) {
+      this.currentList.items = [];
+    }
+
+    // 新增項目時給予預設ID和空值
+    this.currentList.items.push({
+      id: crypto.randomUUID(),
+      name: '',
+      description: '', // 新增description欄位
+      quantity: 1,
+      price: 0,
+      isCompleted: false
     });
 
+    this.updateItemsTable();
+  },
+
+  // 更新項目表格
+  updateItemsTable() {
+    console.log('更新項目表格');
+    const tbody = document.getElementById('itemTableBody');
+    if (!tbody) {
+      console.error('找不到項目表格');
+      return;
+    }
+
+    tbody.innerHTML = '';
+
+    if (!this.currentList || !Array.isArray(this.currentList.items)) {
+      console.error('清單資料無效:', this.currentList);
+      return;
+    }
+
+    this.currentList.items.forEach((item, index) => {
+      try {
+        const row = document.createElement('tr');
+        const total = (item.quantity || 0) * (item.price || 0);
+
+        row.innerHTML = `
+          <td class="text-center">
+            <input type="checkbox" class="form-check-input" 
+              ${item.isCompleted ? 'checked' : ''} 
+              onchange="app.updateItemCompleted(${index}, this.checked)">
+          </td>
+          <td>
+            <input type="text" class="form-control" 
+              value="${item.name || ''}" 
+              onchange="app.updateItemName(${index}, this.value)">
+          </td>
+          <td>
+            <input type="number" class="form-control text-end" min="1" 
+              value="${item.quantity || 1}" 
+              onchange="app.updateItemQuantity(${index}, this.value)">
+          </td>
+          <td>
+            <input type="number" class="form-control text-end" min="0" step="1"
+              value="${item.price || 0}" 
+              onchange="app.updateItemPrice(${index}, this.value)">
+          </td>
+          <td class="text-end">NT$ ${total.toLocaleString()}</td>
+          <td class="text-center">
+            <button type="button" class="btn btn-danger btn-sm" onclick="app.removeItem(${index})">
+              <i class="bi bi-trash"></i>
+            </button>
+          </td>
+        `;
+        tbody.appendChild(row);
+      } catch (error) {
+        console.error('處理項目時發生錯誤:', error, item);
+      }
+    });
+
+    // 更新總金額
     this.updateTotalAmount();
   },
 
   // 更新總金額
   updateTotalAmount() {
-    const total = Array.isArray(this.currentItems)
-      ? this.currentItems.reduce(
-          (sum, item) => sum + (item.quantity || 1) * (item.price || 0),
-          0
-        )
-      : 0;
-    const totalElement = document.getElementById("totalAmount");
+    console.log('更新總金額');
+    if (!this.currentList || !Array.isArray(this.currentList.items)) {
+      return;
+    }
+
+    const total = this.currentList.items.reduce((sum, item) => {
+      return sum + ((item.quantity || 0) * (item.price || 0));
+    }, 0);
+
+    const totalElement = document.getElementById('totalAmount');
     if (totalElement) {
-      totalElement.textContent = this.formatCurrency(total);
+      totalElement.textContent = `NT$ ${total.toLocaleString()}`;
     }
   },
 
-  // 切換項目完成狀態
-  toggleItemComplete(index) {
-    if (this.currentItems[index]) {
-      this.currentItems[index].isCompleted =
-        !this.currentItems[index].isCompleted;
-      this.renderItems();
+  // 更新項目完成狀態
+  updateItemCompleted(index, completed) {
+    console.log('更新項目完成狀態:', index, completed);
+    if (!this.currentList || !Array.isArray(this.currentList.items) || !this.currentList.items[index]) {
+      return;
     }
+    this.currentList.items[index].isCompleted = Boolean(completed);
+    this.updateItemsTable();
   },
 
-  // 更新項目欄位
-  updateItemField(index, field, value) {
-    if (this.currentItems[index]) {
-      if (field === "quantity" || field === "price") {
-        value = parseFloat(value) || 0;
-      }
-      this.currentItems[index][field] = value;
-      this.renderItems();
+  // 更新項目名稱
+  updateItemName(index, name) {
+    console.log('更新項目名稱:', index, name);
+    if (!this.currentList || !Array.isArray(this.currentList.items) || !this.currentList.items[index]) {
+      return;
     }
+    this.currentList.items[index].name = name?.trim() || '';
+    this.currentList.items[index].description = name?.trim() || ''; // 同步更新description欄位
+    this.updateItemsTable();
   },
 
-  // 新增項目
-  addNewItem() {
-    this.currentItems.push({
-      name: "",
-      quantity: 1,
-      price: 0,
-      isCompleted: false,
+  // 更新項目數量
+  updateItemQuantity(index, quantity) {
+    console.log('更新項目數量:', index, quantity);
+    if (!this.currentList || !Array.isArray(this.currentList.items) || !this.currentList.items[index]) {
+      return;
+    }
+    this.currentList.items[index].quantity = Math.max(1, parseInt(quantity) || 1);
+    this.updateItemsTable();
+  },
+
+  // 更新項目價格
+  updateItemPrice(index, price) {
+    console.log('更新項目價格:', index, price);
+    if (!this.currentList || !Array.isArray(this.currentList.items) || !this.currentList.items[index]) {
+      return;
+    }
+    this.currentList.items[index].price = Math.max(0, parseFloat(price) || 0);
+    this.updateItemsTable();
+  },
+
+  // 移除項目
+  removeItem(index) {
+    console.log('移除項目:', index);
+    if (!this.currentList || !Array.isArray(this.currentList.items) || !this.currentList.items[index]) {
+      return;
+    }
+    this.currentList.items.splice(index, 1);
+    this.updateItemsTable();
+  },
+
+  // 生成 GUID
+  generateGuid() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+      const r = Math.random() * 16 | 0;
+      const v = c === 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
     });
-    this.renderItems();
-  },
-
-  // 刪除項目
-  deleteItem(index) {
-    if (confirm("確定要刪除此項目嗎？")) {
-      this.currentItems.splice(index, 1);
-      this.renderItems();
-    }
   },
 
   // 儲存變更
   async saveChanges() {
     try {
-      const response = await fetch(`/api/shoppinglist/${this.currentListId}`, {
-        method: "PUT",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          id: this.currentListId,
-          items: this.currentItems,
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+      // 檢查是否正在儲存中
+      if (this.isSaving) {
+        console.log('正在儲存中，請稍候...');
+        return;
       }
-
-      alert("儲存成功");
-      this.hideDetailModal();
-      await this.loadShoppingLists();
-    } catch (error) {
-      console.error("Error saving changes:", error);
-      alert("儲存變更時發生錯誤");
-    }
-  },
-
-  // 刪除清單
-  async deleteList(listId) {
-    if (!confirm("確定要刪除此購物清單嗎？")) {
-      return;
-    }
-
-    try {
-      const response = await fetch(`/api/shoppinglist/${listId}`, {
-        method: "DELETE",
-      });
-
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-
-      await this.loadShoppingLists();
-    } catch (error) {
-      console.error("Error deleting list:", error);
-      alert("刪除清單時發生錯誤");
-    }
-  },
-
-  // 顯示新增清單 Modal
-  showAddListModal() {
-    const modal = document.getElementById('addListModal');
-    const titleInput = document.getElementById('newListTitle');
-    const dateInput = document.getElementById('newListDate');
-    
-    // 設置預設日期為今天，確保格式為 YYYY-MM-DD
-    const today = new Date();
-    const year = today.getFullYear();
-    const month = String(today.getMonth() + 1).padStart(2, '0');
-    const day = String(today.getDate()).padStart(2, '0');
-    dateInput.value = `${year}-${month}-${day}`;
-    
-    titleInput.value = '';
-    modal.style.display = 'block';
-  },
-
-  // 隱藏新增清單 Modal
-  hideAddListModal() {
-    document.getElementById("addListModal").style.display = "none";
-  },
-
-  // 隱藏明細 Modal
-  hideDetailModal() {
-    document.getElementById("detailModal").style.display = "none";
-    this.currentListId = null;
-    this.currentItems = [];
-  },
-
-  // 建立新清單
-  async createNewList() {
-    const title = document.getElementById('newListTitle').value;
-    const buyDate = document.getElementById('newListDate').value;
-
-    // 檢查日期格式
-    const checkDateFormat = (dateStr) => {
-      if (!dateStr) return true;
       
-      // 嚴格檢查日期格式必須為 YYYY-MM-DD
-      if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
-        return false;
+      // 設定儲存鎖
+      this.isSaving = true;
+
+      if (!this.currentList) {
+        throw new Error('找不到要儲存的清單');
       }
 
-      const [yearStr, monthStr, dayStr] = dateStr.split('-');
-      const year = parseInt(yearStr);
-      const month = parseInt(monthStr);
-      const day = parseInt(dayStr);
-
-      // 檢查年份必須是四位數且在合理範圍內
-      if (yearStr.length !== 4 || year < 1900 || year > 9999) {
-        return false;
+      if (!this.currentList.id) {
+        throw new Error('清單 ID 不能為空');
       }
 
-      // 檢查月份必須是兩位數且在合理範圍內
-      if (monthStr.length !== 2 || month < 1 || month > 12) {
-        return false;
+      // 從 Modal 取得最新的標題和日期
+      const titleInput = document.getElementById('modalTitle');
+      const dateInput = document.getElementById('modalBuyDate');
+
+      if (!titleInput || !dateInput) {
+        throw new Error('找不到必要的表單欄位');
       }
 
-      // 檢查日期必須是兩位數且在合理範圍內
-      const lastDayOfMonth = new Date(year, month, 0).getDate();
-      if (dayStr.length !== 2 || day < 1 || day > lastDayOfMonth) {
-        return false;
+      const title = titleInput.value.trim();
+      const buyDate = dateInput.value;
+
+      if (!title) {
+        throw new Error('清單標題不能為空');
       }
 
-      return true;
-    };
+      if (!buyDate) {
+        throw new Error('購買日期不能為空');
+      }
 
-    // 輸入檢查
-    if (!title.trim()) {
-      alert('請輸入標題');
-      return;
-    }
-    if (!buyDate) {
-      alert('請選擇購買日期');
-      return;
-    }
-    if (!checkDateFormat(buyDate)) {
-      alert('購買日期格式必須為 YYYY-MM-DD（年份四位數、月份和日期兩位數），且日期必須有效');
-      return;
-    }
+      // 更新當前清單資料
+      this.currentList.title = title;
+      this.currentList.buyDate = buyDate;
 
-    try {
-      const response = await fetch("/api/shoppinglist", {
-        method: "POST",
+      // 確保項目列表存在
+      if (!Array.isArray(this.currentList.items)) {
+        this.currentList.items = [];
+      }
+
+      // 過濾並驗證項目
+      const validItems = this.currentList.items
+        .filter(item => item && typeof item === 'object')
+        .map(item => {
+          const name = item.name?.trim() || '';
+          if (!name) {
+            throw new Error('商品名稱不能為空');
+          }
+          return {
+            id: item.id || crypto.randomUUID(),
+            name: name,
+            description: name,
+            quantity: Math.max(1, parseInt(item.quantity) || 1),
+            price: Math.max(0, parseFloat(item.price) || 0),
+            isCompleted: Boolean(item.isCompleted)
+          };
+        });
+
+      if (validItems.length === 0) {
+        throw new Error('清單必須至少包含一個有效的商品項目');
+      }
+
+      // 準備要傳送的資料
+      const data = {
+        id: this.currentList.id,
+        title: this.currentList.title,
+        buyDate: this.currentList.buyDate,
+        items: validItems
+      };
+
+      console.log('準備儲存變更:', data);
+
+      // 發送更新請求
+      const response = await fetch(`/api/shoppinglist/${this.currentList.id}`, {
+        method: 'PUT',
         headers: {
-          "Content-Type": "application/json",
+          'Content-Type': 'application/json'
         },
-        body: JSON.stringify({
-          title,
-          buyDate,
-          items: [],
-        }),
+        body: JSON.stringify(data)
       });
 
+      const result = await response.json();
+      
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        console.error('儲存失敗:', result);
+        
+        // 處理驗證錯誤
+        if (result.errors) {
+          const errorMessages = [];
+          for (const field in result.errors) {
+            const fieldErrors = result.errors[field];
+            if (Array.isArray(fieldErrors)) {
+              errorMessages.push(...fieldErrors);
+            } else if (typeof fieldErrors === 'string') {
+              errorMessages.push(fieldErrors);
+            }
+          }
+          if (errorMessages.length > 0) {
+            throw new Error(errorMessages.join('\n'));
+          }
+        }
+        
+        throw new Error(result.message || result.title || '儲存失敗');
       }
 
-      this.hideAddListModal();
-      await this.loadShoppingLists();
+      console.log('儲存成功:', result);
+
+      // 更新本地數據以保持一致性
+      if (result.data) {
+        this.currentList = result.data;
+        this.updateItemsTable();
+      }
+
+      // 關閉 Modal
+      if (this.detailModal) {
+        this.detailModal.hide();
+      }
+
+      // 顯示成功訊息
+      this.showSuccess('儲存清單成功');
+
+      // 重新載入清單
+      await this.loadLists();
     } catch (error) {
-      console.error("Error creating list:", error);
-      alert("創建清單時發生錯誤");
+      console.error('儲存失敗:', error);
+      this.showError(error.message || '儲存失敗，請稍後再試');
+    } finally {
+      // 無論成功或失敗，都要釋放儲存鎖
+      this.isSaving = false;
     }
   },
 
-  async connect() {
-    if (this.isConnecting || this.webSocket?.readyState === WebSocket.OPEN) {
-      console.log("WebSocket 已連接或正在連接中");
-      return;
+  // 顯示錯誤訊息
+  showError(message) {
+    const errorMessageElement = document.getElementById('errorMessage');
+    if (errorMessageElement) {
+      errorMessageElement.textContent = message;
     }
-
-    this.isConnecting = true;
-    console.log("開始建立 WebSocket 連接...");
-
-    try {
-      this.webSocket = await connectWithRetry();
-
-      // 設置消息處理器
-      this.webSocket.onmessage = (event) => {
-        try {
-          const message = JSON.parse(event.data);
-          console.log("收到 WebSocket 消息:", message);
-
-          switch (message.type) {
-            case "welcome":
-              console.log("連接成功:", message.data);
-              break;
-            case "shoppinglist_update":
-              console.log("購物清單更新");
-              this.loadShoppingLists();
-              break;
-            case "shoppinglist_delete":
-              console.log("購物清單刪除:", message.data);
-              if (this.currentListId === message.data) {
-                this.currentListId = null;
-                this.currentItems = [];
-              }
-              this.loadShoppingLists();
-              break;
-            default:
-              console.log("未知消息類型:", message);
-          }
-        } catch (error) {
-          console.error("處理 WebSocket 消息時發生錯誤:", error);
-        }
-      };
-
-      // 設置關閉處理器
-      this.webSocket.onclose = (event) => {
-        const reason = event.reason || "未知原因";
-        console.log(`WebSocket 連接已關閉: ${event.code} - ${reason}`);
-        this.webSocket = null;
-        this.isConnecting = false;
-        this.scheduleReconnect();
-      };
-
-      // 設置錯誤處理器
-      this.webSocket.onerror = (error) => {
-        console.error("WebSocket 錯誤:", error);
-        this.isConnecting = false;
-        this.scheduleReconnect();
-      };
-
-      this.isConnecting = false;
-      console.log("WebSocket 連接成功建立");
-    } catch (error) {
-      console.error("建立 WebSocket 連接失敗:", error);
-      this.isConnecting = false;
-      this.scheduleReconnect();
+    if (this.errorModal) {
+      this.errorModal.show();
     }
   },
 
-  scheduleReconnect() {
-    if (!this.reconnectTimeout) {
-      console.log("安排重新連接...");
-      this.reconnectTimeout = setTimeout(() => {
-        this.reconnectTimeout = null;
-        this.connect();
-      }, 3000);
+  // 清除錯誤訊息
+  clearErrors() {
+    const errorMessageElement = document.getElementById('errorMessage');
+    if (errorMessageElement) {
+      errorMessageElement.textContent = '';
     }
   },
 
-  handleWebSocketMessage(data) {
-    console.log("處理 WebSocket 訊息:", data);
-    if (data.type === "shoppingListUpdated") {
-      this.loadShoppingLists();
+  // 顯示成功訊息
+  showSuccess(message) {
+    const successMessageElement = document.getElementById('successMessage');
+    if (successMessageElement) {
+      successMessageElement.textContent = message;
     }
-  },
+    if (this.successModal) {
+      this.successModal.show();
+    }
+  }
 };
 
-// 將 app 物件暴露給全域
-window.app = app;
-
-// 頁面載入完成後初始化應用程式
-document.addEventListener("DOMContentLoaded", () => {
+// 當 DOM 載入完成後初始化應用程式
+document.addEventListener('DOMContentLoaded', () => {
   app.init();
 });

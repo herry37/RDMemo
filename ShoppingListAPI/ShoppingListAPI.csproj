@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\FileStore\items\**" />
+    <Compile Remove="Data\FileStore\lists\**" />
+    <Content Remove="Data\FileStore\items\**" />
+    <Content Remove="Data\FileStore\lists\**" />
+    <EmbeddedResource Remove="Data\FileStore\items\**" />
+    <EmbeddedResource Remove="Data\FileStore\lists\**" />
+    <None Remove="Data\FileStore\items\**" />
+    <None Remove="Data\FileStore\lists\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
@@ -14,11 +25,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
     <PackageReference Include="Bogus" Version="35.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Data\FileStore\lists\" />
-    <Folder Include="Data\FileStore\items\" />
   </ItemGroup>
 
 </Project>

@@ -1,71 +1,68 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace ShoppingListAPI.Models;
 
 /// <summary>
-/// 購物清單
+/// 購物清單模型
+/// 用於儲存購物清單的相關資訊
 /// </summary>
 public class ShoppingList
 {
-    public string Id { get; set; } = Guid.NewGuid().ToString();
+    /// <summary>
+    /// 購物清單 ID
+    /// </summary>
+    [Required(ErrorMessage = "購物清單 ID 不能為空")]
+    public string Id { get; set; } = string.Empty;
 
     /// <summary>
-    /// 清單標題
+    /// 標題
     /// </summary>
-    [Required]
-    [StringLength(100, MinimumLength = 1)]
+    [Required(ErrorMessage = "購物清單標題不能為空")]
+    [StringLength(100, ErrorMessage = "標題長度不能超過 100 個字元")]
     public string Title { get; set; } = string.Empty;
 
     /// <summary>
     /// 購買日期
     /// </summary>
-    [DataType(DataType.Date)]
-    public DateTime? BuyDate { get; set; } // 購買日期
+    public DateTime BuyDate { get; set; } = DateTime.Now;
 
     /// <summary>
     /// 建立時間
     /// </summary>
-    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+    public DateTime CreatedAt { get; set; } = DateTime.Now;
 
     /// <summary>
-    /// 購物清單項目
+    /// 更新時間
     /// </summary>
-    public List<ShoppingItem> Items { get; set; } = new();
-}
-
-/// <summary>
-/// 購物清單項目
-/// </summary>
-public class ShoppingItem
-{
-    public string Id { get; set; } = Guid.NewGuid().ToString();
+    public DateTime? UpdatedAt { get; set; }
 
     /// <summary>
-    /// 項目名稱
+    /// 總金額
     /// </summary>
-    [Required]
-    [StringLength(200, MinimumLength = 1)]
-    public string Name { get; set; } = string.Empty;
+    [JsonPropertyName("total")]
+    public decimal totalAmount { get; set; }
+
     /// <summary>
-    /// 數量
+    /// 購物項目列表
     /// </summary>
-    [Range(1, 1000)]
-    public int Quantity { get; set; }
+    public List<ShoppingItem> Items { get; set; } = new List<ShoppingItem>();
+
     /// <summary>
-    /// 價格
+    /// 購物清單是否已完成
     /// </summary>
-    [Range(1, 1000000)]
-    public decimal Price { get; set; }
+    [JsonPropertyName("isCompleted")]
+    public bool IsCompleted => Items?.Any() == true && Items.All(item => item.IsCompleted);
+
     /// <summary>
-    /// 是否已購買
+    /// 未完成的項目數量
     /// </summary>
-    public bool IsCompleted { get; set; }
+    [JsonPropertyName("pendingItemCount")]
+    public int PendingItemCount => Items?.Count(item => !item.IsCompleted) ?? 0;
+
     /// <summary>
-    /// 建立時間
+    /// 已完成的項目數量
     /// </summary>
-    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-    /// <summary>
-    /// 完成時間
-    /// </summary>
-    public DateTime? CompletedAt { get; set; }
+    [JsonPropertyName("completedItemCount")]
+    public int CompletedItemCount => Items?.Count(item => item.IsCompleted) ?? 0;
 }
