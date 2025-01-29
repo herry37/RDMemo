@@ -2,9 +2,6 @@ using System.Collections.Concurrent;
 using System.Net.WebSockets;
 using System.Text;
 using System.Text.Json;
-using Microsoft.AspNetCore.Http;
-using Microsoft.Extensions.Logging;
-using ShoppingListAPI.Models;
 
 namespace ShoppingListAPI.Services.WebSocket;
 
@@ -15,10 +12,10 @@ public class WebSocketHandler
 {
     // 儲存所有活動中的 WebSocket 連線
     private readonly ConcurrentDictionary<string, WebSocketConnection> _sockets = new();
-    
+
     // 日誌服務
     private readonly ILogger<WebSocketHandler> _logger;
-    
+
     // 訊息緩衝區大小
     private const int BufferSize = 4 * 1024; // 4KB
 
@@ -42,7 +39,7 @@ public class WebSocketHandler
         {
             using var webSocket = await context.WebSockets.AcceptWebSocketAsync();
             var connectionId = Guid.NewGuid().ToString();
-            
+
             var connection = new WebSocketConnection
             {
                 Socket = webSocket,
@@ -53,7 +50,7 @@ public class WebSocketHandler
             if (_sockets.TryAdd(connectionId, connection))
             {
                 _logger.LogInformation($"新的 WebSocket 連接已建立: {connectionId}");
-                
+
                 // 發送歡迎訊息
                 await SendMessageAsync(connectionId, new WebSocketMessage
                 {
@@ -265,7 +262,7 @@ public class WebSocketHandler
 
         // 將清單 ID 加入連線的訂閱列表
         connection.SubscribedLists.Add(listId);
-        
+
         _logger.LogInformation("客戶端 {ConnectionId} 已訂閱清單 {ListId}", connection.ConnectionId, listId);
 
         // 發送確認訊息
@@ -291,7 +288,7 @@ public class WebSocketHandler
 
         // 從連線的訂閱列表中移除清單 ID
         connection.SubscribedLists.Remove(listId);
-        
+
         _logger.LogInformation("客戶端 {ConnectionId} 已取消訂閱清單 {ListId}", connection.ConnectionId, listId);
 
         // 發送確認訊息
@@ -328,7 +325,7 @@ public class WebSocketHandler
                     true,
                     CancellationToken.None
                 );
-                
+
                 _logger.LogDebug("已發送訊息到 {ConnectionId}: {Type}", connectionId, message.Type);
             }
         }

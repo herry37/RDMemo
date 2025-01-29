@@ -47,22 +47,4 @@ public class ShoppingList
     /// 購物項目列表
     /// </summary>
     public List<ShoppingItem> Items { get; set; } = new List<ShoppingItem>();
-
-    /// <summary>
-    /// 購物清單是否已完成
-    /// </summary>
-    [JsonPropertyName("isCompleted")]
-    public bool IsCompleted => Items?.Any() == true && Items.All(item => item.IsCompleted);
-
-    /// <summary>
-    /// 未完成的項目數量
-    /// </summary>
-    [JsonPropertyName("pendingItemCount")]
-    public int PendingItemCount => Items?.Count(item => !item.IsCompleted) ?? 0;
-
-    /// <summary>
-    /// 已完成的項目數量
-    /// </summary>
-    [JsonPropertyName("completedItemCount")]
-    public int CompletedItemCount => Items?.Count(item => item.IsCompleted) ?? 0;
 }

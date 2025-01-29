@@ -9,13 +9,19 @@ namespace ShoppingListAPI.Services.FileDb
     /// </summary>
     public class FileDbService : IFileDbService
     {
-        // 日誌服務
+        /// <summary>
+        /// 日誌服務
+        /// </summary>
         private readonly ILogger<FileDbService> _logger;
 
-        // 資料目錄路徑
+        /// <summary>
+        /// 資料目錄路徑
+        /// </summary>
         private readonly string _dataDirectory;
 
-        // 檔案鎖定物件，用於同步存取
+        /// <summary>
+        /// 檔案鎖定物件，用於同步存取
+        /// </summary>
         private static readonly object _fileLock = new();
 
         /// <summary>
@@ -40,14 +46,6 @@ namespace ShoppingListAPI.Services.FileDb
             {
                 Directory.CreateDirectory(_dataDirectory);
                 _logger.LogInformation("已建立資料目錄: {Directory}", _dataDirectory);
-            }
-
-            // 確保購物清單檔案存在
-            var shoppingListsFile = Path.Combine(_dataDirectory, "shopping_lists.json");
-            if (!File.Exists(shoppingListsFile))
-            {
-                File.WriteAllText(shoppingListsFile, "[]");
-                _logger.LogInformation("已建立購物清單檔案: {File}", shoppingListsFile);
             }
         }
 
@@ -78,12 +76,6 @@ namespace ShoppingListAPI.Services.FileDb
                 {
                     try
                     {
-                        // 跳過主清單檔案
-                        if (Path.GetFileName(file).Equals("shopping_lists.json", StringComparison.OrdinalIgnoreCase))
-                        {
-                            continue;
-                        }
-
                         // 讀取檔案內容
                         var json = await File.ReadAllTextAsync(file);
                         if (string.IsNullOrWhiteSpace(json))
@@ -97,7 +89,7 @@ namespace ShoppingListAPI.Services.FileDb
                         {
                             PropertyNameCaseInsensitive = true
                         };
-
+                        // 反序列化資料
                         var list = JsonSerializer.Deserialize<ShoppingList>(json, options);
                         if (list != null)
                         {
@@ -110,7 +102,7 @@ namespace ShoppingListAPI.Services.FileDb
                             }
 
                             // 重新計算總金額
-                            list.totalAmount = list.Items.Sum(item => 
+                            list.totalAmount = list.Items.Sum(item =>
                                 (item.Price ?? 0) * Math.Max(1, item.Quantity));
 
                             lists.Add(list);
@@ -174,7 +166,7 @@ namespace ShoppingListAPI.Services.FileDb
                 {
                     PropertyNameCaseInsensitive = true
                 };
-
+                // 反序列化資料
                 var list = JsonSerializer.Deserialize<ShoppingList>(json, options);
                 if (list == null)
                 {
@@ -203,9 +195,6 @@ namespace ShoppingListAPI.Services.FileDb
         {
             try
             {
-                // 取得所有購物清單
-                var lists = (await GetAllShoppingListsAsync()).ToList();
-
                 // 設定新清單的屬性
                 list.Id = Guid.NewGuid().ToString();
                 list.CreatedAt = DateTime.UtcNow;
@@ -222,11 +211,8 @@ namespace ShoppingListAPI.Services.FileDb
                     item.UpdatedAt = item.CreatedAt;
                 }
 
-                // 新增清單到集合中
-                lists.Add(list);
-
-                // 儲存更新後的集合
-                await SaveListsToFile(lists);
+                // 儲存購物清單
+                await SaveShoppingListToFile(list);
 
                 return list;
             }
@@ -248,11 +234,8 @@ namespace ShoppingListAPI.Services.FileDb
             {
                 _logger.LogInformation("開始更新購物清單 {ListId}", list.Id);
 
-                // 取得所有購物清單
-                var lists = (await GetAllShoppingListsAsync()).ToList();
-
                 // 找到要更新的清單
-                var existingList = lists.FirstOrDefault(x => x.Id == list.Id);
+                var existingList = await GetShoppingListAsync(list.Id);
                 if (existingList == null)
                 {
                     throw new KeyNotFoundException($"找不到 ID 為 {list.Id} 的購物清單");
@@ -266,8 +249,8 @@ namespace ShoppingListAPI.Services.FileDb
                 existingList.totalAmount = existingList.Items.Sum(item =>
                     (item.Price ?? 0) * Math.Max(1, item.Quantity));
 
-                // 儲存更新後的集合
-                await SaveListsToFile(lists);
+                // 儲存更新後的購物清單
+                await SaveShoppingListToFile(existingList);
 
                 _logger.LogInformation(
                     "成功更新購物清單 {ListId}, 項目數量: {ItemCount}, 總金額: {Total}",
@@ -292,11 +275,12 @@ namespace ShoppingListAPI.Services.FileDb
         {
             try
             {
+                // 檢查 ID 是否為空
                 if (string.IsNullOrWhiteSpace(id))
                 {
                     throw new ArgumentException("購物清單 ID 不能為空", nameof(id));
                 }
-
+                // 檢查檔案是否存在
                 var filePath = Path.Combine(_dataDirectory, $"{id}.json");
                 if (!File.Exists(filePath))
                 {
@@ -307,56 +291,10 @@ namespace ShoppingListAPI.Services.FileDb
                 // 刪除檔案
                 File.Delete(filePath);
                 _logger.LogInformation("已刪除購物清單檔案: {File}", filePath);
-
-                // 從主清單中移除
-                var lists = (await GetAllShoppingListsAsync()).ToList();
-                var updatedLists = lists.Where(l => l.Id != id).ToList();
-                await SaveListsToFile(updatedLists);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "刪除購物清單時發生錯誤: {ListId}", id);
-                throw;
-            }
-        }
-
-        /// <summary>
-        /// 新增購物項目到購物清單中
-        /// </summary>
-        /// <param name="listId">購物清單 ID</param>
-        /// <param name="item">要新增的購物項目</param>
-        /// <returns>已新增的購物項目</returns>
-        public async Task<ShoppingItem> AddShoppingItemAsync(string listId, ShoppingItem item)
-        {
-            try
-            {
-                // 取得所有購物清單
-                var lists = (await GetAllShoppingListsAsync()).ToList();
-
-                // 尋找目標清單
-                var list = lists.FirstOrDefault(x => x.Id == listId);
-                if (list == null)
-                {
-                    throw new KeyNotFoundException($"找不到 ID 為 {listId} 的購物清單");
-                }
-
-                // 設定項目屬性
-                item.Id = Guid.NewGuid().ToString();
-                item.CreatedAt = DateTime.UtcNow;
-                item.UpdatedAt = item.CreatedAt;
-
-                // 新增項目到清單中
-                list.Items.Add(item);
-                list.UpdatedAt = DateTime.UtcNow;
-
-                // 儲存更新後的集合
-                await SaveListsToFile(lists);
-
-                return item;
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "新增購物項目到清單 {ListId} 失敗", listId);
                 throw;
             }
         }
@@ -369,23 +307,9 @@ namespace ShoppingListAPI.Services.FileDb
         {
             try
             {
-                var shoppingListsFile = Path.Combine(_dataDirectory, "shopping_lists.json");
-
-                // 檢查檔案是否存在
-                if (!File.Exists(shoppingListsFile))
-                {
-                    return false;
-                }
-
-                // 讀取檔案內容
-                var json = File.ReadAllText(shoppingListsFile);
-                if (string.IsNullOrWhiteSpace(json) || json == "[]")
-                {
-                    return false;
-                }
-
-                var lists = JsonSerializer.Deserialize<List<ShoppingList>>(json);
-                return lists != null && lists.Count > 0;
+                // 取得目錄中所有的 JSON 檔案
+                var files = Directory.GetFiles(_dataDirectory, "*.json");
+                return files.Length > 0;
             }
             catch (Exception ex)
             {
@@ -395,113 +319,44 @@ namespace ShoppingListAPI.Services.FileDb
         }
 
         /// <summary>
-        /// 新增購物清單
-        /// </summary>
-        /// <param name="list">購物清單</param>
-        /// <returns>新增結果</returns>
-        public async Task<bool> AddShoppingListAsync(ShoppingList list)
-        {
-            try
-            {
-                var lists = (await GetAllShoppingListsAsync())?.ToList() ?? new List<ShoppingList>();
-
-                // 計算總金額
-                list.totalAmount = list.Items?.Sum(item => item.Quantity * (item.Price ?? 0)) ?? 0;
-                lists.Add(list);
-
-                var shoppingListsFile = Path.Combine(_dataDirectory, "shopping_lists.json");
-                var json = JsonSerializer.Serialize(lists, new JsonSerializerOptions
-                {
-                    WriteIndented = true
-                });
-
-                await File.WriteAllTextAsync(shoppingListsFile, json);
-                return true;
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "新增購物清單時發生錯誤");
-                return false;
-            }
-        }
-
-        /// <summary>
         /// 將購物清單儲存到檔案
         /// </summary>
-        /// <param name="lists">要儲存的購物清單集合</param>
-        private async Task SaveListsToFile(IEnumerable<ShoppingList> lists)
+        /// <param name="list">要儲存的購物清單</param>
+        private async Task SaveShoppingListToFile(ShoppingList list)
         {
             try
             {
-                foreach (var list in lists)
+                // 確保資料夾存在
+                var filePath = Path.Combine(_dataDirectory, $"{list.Id}.json");
+
+                // 確保所有必要欄位都有值
+                list.Items ??= new List<ShoppingItem>();
+
+                // 重新計算總金額
+                list.totalAmount = list.Items.Sum(item =>
+                    (item.Price ?? 0) * Math.Max(1, item.Quantity));
+
+                var options = new JsonSerializerOptions
                 {
-                    var filePath = Path.Combine(_dataDirectory, $"{list.Id}.json");
+                    // 保留原有的屬性名稱大小寫
+                    WriteIndented = true,
+                    PropertyNamingPolicy = null // 保持原有的屬性名稱大小寫
+                };
+                // 序列化資料
+                var json = JsonSerializer.Serialize(list, options);
+                // 寫入檔案
+                await File.WriteAllTextAsync(filePath, json);
 
-                    // 確保所有必要欄位都有值
-                    list.Items ??= new List<ShoppingItem>();
-
-                    // 重新計算總金額
-                    list.totalAmount = list.Items.Sum(item =>
-                        (item.Price ?? 0) * Math.Max(1, item.Quantity));
-
-                    var options = new JsonSerializerOptions
-                    {
-                        WriteIndented = true,
-                        PropertyNamingPolicy = null // 保持原有的屬性名稱大小寫
-                    };
-
-                    var json = JsonSerializer.Serialize(list, options);
-                    await File.WriteAllTextAsync(filePath, json);
-
-                    _logger.LogInformation(
-                        "已儲存購物清單 {ListId}: {Title}, 項目數量: {ItemCount}, 總金額: {Total}",
-                        list.Id,
-                        list.Title,
-                        list.Items.Count,
-                        list.totalAmount);
-                }
+                _logger.LogInformation(
+                    "已儲存購物清單 {ListId}: {Title}, 項目數量: {ItemCount}, 總金額: {Total}",
+                    list.Id,
+                    list.Title,
+                    list.Items.Count,
+                    list.totalAmount);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "儲存購物清單到檔案失敗");
-                throw;
-            }
-        }
-
-        public async Task<List<ShoppingList>> GetAllListsAsync()
-        {
-            try
-            {
-                var filePath = Path.Combine(_dataDirectory, "shopping_lists.json");
-                if (!File.Exists(filePath))
-                {
-                    _logger.LogWarning($"購物清單檔案不存在: {filePath}");
-                    return new List<ShoppingList>();
-                }
-
-                var json = await File.ReadAllTextAsync(filePath);
-                _logger.LogInformation($"讀取到的 JSON 內容: {json}");
-
-                var options = new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true,
-                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-                };
-
-                var lists = JsonSerializer.Deserialize<List<ShoppingList>>(json, options);
-
-                // 確保所有必要欄位都有值
-                foreach (var list in lists ?? new List<ShoppingList>())
-                {
-                    list.totalAmount = list.Items?.Sum(item => item.Price * item.Quantity) ?? 0;
-                }
-
-                _logger.LogInformation($"成功讀取到 {lists?.Count ?? 0} 筆購物清單");
-                return lists ?? new List<ShoppingList>();
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "讀取購物清單時發生錯誤");
                 throw;
             }
         }

@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <SuppressBrowserLink>true</SuppressBrowserLink>
+    <UseHotReload>false</UseHotReload>
+    <WatchPublishFiles>false</WatchPublishFiles>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,6 +19,10 @@
     <EmbeddedResource Remove="Data\FileStore\lists\**" />
     <None Remove="Data\FileStore\items\**" />
     <None Remove="Data\FileStore\lists\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\ValidationAttributes.cs" />
   </ItemGroup>
 
   <ItemGroup>

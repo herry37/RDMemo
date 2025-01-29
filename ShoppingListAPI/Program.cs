@@ -1,4 +1,4 @@
-using ShoppingListAPI.Models;
+using Microsoft.OpenApi.Models;
 using ShoppingListAPI.Services.FileDb;
 using ShoppingListAPI.Services.WebSocket;
 using ShoppingListAPI.Utils;
@@ -13,71 +13,34 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        // 配置日誌
+        builder.Logging.ClearProviders();
+        builder.Logging.AddConsole(options =>
+        {
+            options.FormatterName = "simple";
+        });
+
+        // 關閉 Microsoft 和 System 命名空間的除錯訊息
+        builder.Logging.AddFilter("Microsoft", LogLevel.Warning);
+
+        builder.Logging.AddFilter("System", LogLevel.Warning);
+
+        builder.Logging.AddFilter("Microsoft.AspNetCore.Watch.BrowserRefresh.*", LogLevel.None);
+        builder.Logging.AddFilter("Microsoft.AspNetCore.Hosting.Diagnostics", LogLevel.None);
+
         // 確保 Data\\FileStore\\shoppinglists 目錄存在
         var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
         Directory.CreateDirectory(dataDirectory); // 確保目錄存在
 
-        // 確保購物清單檔案存在
-        var shoppingListsFile = Path.Combine(dataDirectory, "shopping_lists.json");
-        if (!File.Exists(shoppingListsFile))
-        {
-            // 建立測試資料
-            var testList = new ShoppingList
-            {
-                Id = Guid.NewGuid().ToString(),
-                Title = "測試購物清單",
-                BuyDate = DateTime.Now,
-                CreatedAt = DateTime.Now,
-                totalAmount = 1000,
-                Items = new List<ShoppingItem>
-                {
-                    new ShoppingItem
-                    {
-                        Id = Guid.NewGuid().ToString(),
-                        Name = "測試商品",
-                        Price = 1000,
-                        Quantity = 1
-                    }
-                }
-            };
-
-            var json = JsonSerializer.Serialize(
-                new List<ShoppingList> { testList },
-                new JsonSerializerOptions
-                {
-                    WriteIndented = true,
-                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-                }
-            );
-            File.WriteAllText(shoppingListsFile, json);
-        }
-
-        // 配置端口
-        builder.WebHost.UseUrls("http://localhost:5002");
-
-        // 配置日誌
-        builder.Logging.ClearProviders();
-        builder.Logging.AddConsole();
-        builder.Logging.SetMinimumLevel(LogLevel.Information);
-
         // 配置資料目錄
         builder.Configuration.SetBasePath(builder.Environment.ContentRootPath);
+        // builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
         builder.Configuration.AddInMemoryCollection(new Dictionary<string, string>
         {
             {"DataDirectory", Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists")}
         });
 
-        // 在開發環境中啟用詳細日誌
-        if (builder.Environment.IsDevelopment())
-        {
-            builder.Logging.AddDebug();
-            builder.Logging.AddConsole(options =>
-            {
-                options.IncludeScopes = true;
-            });
-        }
-
-        // 添加服務
+        // 配置服務
         builder.Services.AddControllers()
             .AddJsonOptions(options =>
             {
@@ -86,7 +49,10 @@ public class Program
                 options.JsonSerializerOptions.WriteIndented = true;
             });
         builder.Services.AddEndpointsApiExplorer();
-        builder.Services.AddSwaggerGen();
+        builder.Services.AddSwaggerGen(c =>
+        {
+            c.SwaggerDoc("v1", new OpenApiInfo { Title = "Shopping List API", Version = "v1" });
+        });
 
         // 註冊服務
         builder.Services.AddSingleton<IFileDbService, FileDbService>();
@@ -105,6 +71,17 @@ public class Program
             });
         });
 
+        // 關閉開發時期的瀏覽器連結和自動重新載入
+        if (builder.Environment.IsDevelopment())
+        {
+            // 關閉 Browser Link
+            builder.WebHost.UseSetting("DetailedErrors", "false");
+            builder.WebHost.UseSetting("SuppressStatusMessages", "true");
+            builder.WebHost.UseSetting("Microsoft.AspNetCore.Watch.BrowserRefresh.Enabled", "false");
+            builder.WebHost.UseSetting("Microsoft.AspNetCore.Watch.UsePollingFileWatcher", "false");
+            builder.WebHost.UseSetting("Microsoft.AspNetCore.StaticFiles.BrowserLink.Enabled", "false");
+        }
+
         var app = builder.Build();
 
         // 配置中介軟體順序
@@ -112,7 +89,6 @@ public class Program
         {
             app.UseSwagger();
             app.UseSwaggerUI();
-            app.UseDeveloperExceptionPage();
         }
 
         // 啟用 HTTPS
@@ -123,7 +99,14 @@ public class Program
         {
             DefaultFileNames = new List<string> { "index.html" }
         });
-        app.UseStaticFiles();
+        app.UseStaticFiles(new StaticFileOptions
+        {
+            OnPrepareResponse = ctx =>
+            {
+                // 禁用 Browser Link
+                ctx.Context.Response.Headers.Remove("X-AspNetCore-Browser-Link");
+            }
+        });
 
         // 啟用CORS
         app.UseCors();

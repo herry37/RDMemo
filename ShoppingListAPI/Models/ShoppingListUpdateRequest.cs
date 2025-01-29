@@ -29,11 +29,4 @@ public class ShoppingListUpdateRequest
     [Required(ErrorMessage = "購物項目列表不能為空")]
     [JsonPropertyName("items")]
     public List<ShoppingItem> Items { get; set; } = new();
-
-    /// <summary>
-    /// 備註
-    /// </summary>
-    [JsonPropertyName("note")]
-    [StringLength(200, ErrorMessage = "備註不能超過 200 個字元")]
-    public string? Note { get; set; }
 }

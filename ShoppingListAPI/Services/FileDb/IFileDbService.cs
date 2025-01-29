@@ -47,11 +47,4 @@ public interface IFileDbService
     /// </summary>
     /// <returns>是否有購物清單</returns>
     bool HasAnyShoppingLists();
-
-    /// <summary>
-    /// 新增購物清單
-    /// </summary>
-    /// <param name="list">購物清單資料</param>
-    /// <returns>新增結果</returns>
-    Task<bool> AddShoppingListAsync(ShoppingList list);
 }

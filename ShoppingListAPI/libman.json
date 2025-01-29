@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.2",
+      "destination": "wwwroot/lib/bootstrap",
+      "files": [
+        "js/bootstrap.bundle.min.js",
+        "css/bootstrap.min.css"
+      ]
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "bootstrap-icons@1.11.2",
+      "destination": "wwwroot/lib/bootstrap-icons",
+      "files": [
+        "font/fonts/bootstrap-icons.woff",
+        "font/fonts/bootstrap-icons.woff2"
+      ]
+    }
+  ]
+}
