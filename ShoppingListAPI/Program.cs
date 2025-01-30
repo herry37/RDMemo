@@ -27,6 +27,9 @@ public class Program
 
         builder.Logging.AddFilter("Microsoft.AspNetCore.Watch.BrowserRefresh.*", LogLevel.None);
         builder.Logging.AddFilter("Microsoft.AspNetCore.Hosting.Diagnostics", LogLevel.None);
+        builder.Logging.AddFilter("Microsoft.AspNetCore.StaticFiles.*", LogLevel.None);
+        builder.Logging.AddFilter("Microsoft.AspNetCore.SpaServices.*", LogLevel.None);
+        builder.Logging.AddFilter("Microsoft.AspNetCore.Mvc.StaticFiles.*", LogLevel.None);
 
         // 確保 Data\\FileStore\\shoppinglists 目錄存在
         var dataDirectory = Path.Combine(builder.Environment.ContentRootPath, "Data", "FileStore", "shoppinglists");
@@ -94,17 +97,19 @@ public class Program
         // 啟用 HTTPS
         app.UseHttpsRedirection();
 
-        // 啟用靜態檔案
+        // 啟用預設檔案
         app.UseDefaultFiles(new DefaultFilesOptions
         {
             DefaultFileNames = new List<string> { "index.html" }
         });
+        // 啟用靜態檔案
         app.UseStaticFiles(new StaticFileOptions
         {
             OnPrepareResponse = ctx =>
             {
-                // 禁用 Browser Link
-                ctx.Context.Response.Headers.Remove("X-AspNetCore-Browser-Link");
+                // 設置快取標頭
+                ctx.Context.Response.Headers.Append(
+                    "Cache-Control", $"public, max-age=31536000");
             }
         });
 

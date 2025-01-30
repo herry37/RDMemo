@@ -5,16 +5,11 @@
       "commandName": "Project",
       "dotnetRunMessages": false,
       "launchBrowser": true,
-      "launchUrl": "",
       "applicationUrl": "http://localhost:5002",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "ASPNETCORE_BROWSER_RELOAD": "false",
+        "ASPNETCORE_ENVIRONMENT": "Production",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "",
-        "DOTNET_WATCH_SUPPRESS_BROWSER_REFRESH": "true",
-        "DOTNET_WATCH_SUPPRESS_LAUNCH_BROWSER": "false",
-        "DOTNET_WATCH_SUPPRESS_MSBUILD_ANALYZER": "true",
-        "DOTNET_WATCH_SUPPRESS_STATIC_FILE_CONTENT": "true"
+        "ASPNETCORE_DETAILED_ERRORS": "false"
       }
     }
   }

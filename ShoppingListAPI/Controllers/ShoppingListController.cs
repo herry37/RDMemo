@@ -123,7 +123,7 @@ namespace ShoppingListAPI.Controllers
         /// <param name="title">標題關鍵字</param>
         /// <returns>符合條件的購物清單集合</returns>
         [HttpGet("search")]
-        public async Task<IActionResult> GetShoppingLists(
+        public async Task<IActionResult> SearchLists(
             [FromQuery] DateTime? startDate = null,
             [FromQuery] DateTime? endDate = null,
             [FromQuery] string? title = null)

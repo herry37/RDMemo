@@ -464,18 +464,11 @@ const app = {
 
             // 關閉新增對話框
             if (this.addListModal) {
-                const modalElement = document.getElementById('addListModal');
-                const modal = bootstrap.Modal.getInstance(modalElement);
-                if (modal) {
-                    modal.hide();
-                    // 等待 Modal 完全關閉後再執行後續操作
-                    modalElement.addEventListener('hidden.bs.modal', () => {
-                        // 重新載入清單
-                        this.loadLists();
-                        // 顯示成功訊息
-                        this.showSuccess('新增清單成功');
-                    }, { once: true });
-                }
+                this.addListModal.hide();
+                // 重新載入清單
+                await this.loadLists();
+                // 顯示成功訊息
+                this.showSuccess('新增清單成功');
             }
 
         } catch (error) {
