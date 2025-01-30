@@ -3,13 +3,12 @@
   "profiles": {
     "ShoppingListAPI": {
       "commandName": "Project",
-      "dotnetRunMessages": false,
+      "dotnetRunMessages": true,
       "launchBrowser": true,
+      "launchUrl": "",
       "applicationUrl": "http://localhost:5002",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Production",
-        "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "",
-        "ASPNETCORE_DETAILED_ERRORS": "false"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }

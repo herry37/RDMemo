@@ -77,12 +77,10 @@ public class Program
         // 關閉開發時期的瀏覽器連結和自動重新載入
         if (builder.Environment.IsDevelopment())
         {
-            // 關閉 Browser Link
-            builder.WebHost.UseSetting("DetailedErrors", "false");
-            builder.WebHost.UseSetting("SuppressStatusMessages", "true");
-            builder.WebHost.UseSetting("Microsoft.AspNetCore.Watch.BrowserRefresh.Enabled", "false");
-            builder.WebHost.UseSetting("Microsoft.AspNetCore.Watch.UsePollingFileWatcher", "false");
-            builder.WebHost.UseSetting("Microsoft.AspNetCore.StaticFiles.BrowserLink.Enabled", "false");
+            builder.WebHost.UseSetting("DetailedErrors", "true");
+            builder.WebHost.UseSetting("Microsoft:AspNetCore:Watch:BrowserRefresh:Enabled", "false");
+            builder.WebHost.UseSetting("Microsoft:AspNetCore:Watch:UsePollingFileWatcher", "false");
+            builder.WebHost.UseSetting("Microsoft:AspNetCore:StaticFiles:BrowserLink:Enabled", "false");
         }
 
         var app = builder.Build();
@@ -97,26 +95,22 @@ public class Program
         // 啟用 HTTPS
         app.UseHttpsRedirection();
 
-        // 啟用預設檔案
-        app.UseDefaultFiles(new DefaultFilesOptions
-        {
-            DefaultFileNames = new List<string> { "index.html" }
-        });
-        // 啟用靜態檔案
-        app.UseStaticFiles(new StaticFileOptions
-        {
-            OnPrepareResponse = ctx =>
-            {
-                // 設置快取標頭
-                ctx.Context.Response.Headers.Append(
-                    "Cache-Control", $"public, max-age=31536000");
-            }
-        });
-
         // 啟用CORS
         app.UseCors();
 
-        // 啟用 WebSocket
+        // 啟用靜態檔案和預設檔案
+        app.UseDefaultFiles();
+        app.UseStaticFiles();
+
+        // 啟用路由
+        app.UseRouting();
+
+        // 啟用路由端點
+        app.MapControllers();
+        
+        // 設定預設路由為 index.html
+        app.MapFallbackToFile("index.html");
+
         app.UseWebSockets(new WebSocketOptions
         {
             KeepAliveInterval = TimeSpan.FromMinutes(2)
@@ -149,16 +143,6 @@ public class Program
             {
                 await next();
             }
-        });
-
-        // 啟用路由
-        app.UseRouting();
-
-        // 啟用路由端點
-        app.UseEndpoints(endpoints =>
-        {
-            endpoints.MapControllers();
-            endpoints.MapFallbackToFile("index.html");
         });
 
         app.Run();
