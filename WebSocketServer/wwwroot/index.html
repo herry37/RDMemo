@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="zh-TW" translate="no">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="google" content="notranslate">
+    <title>高雄市垃圾車即時位置</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        #container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+        }
+
+        #map {
+            flex: 1;
+            height: 100%;
+        }
+
+        #sidebar {
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 300px;
+            height: 100%;
+            background: white;
+            box-shadow: -2px 0 5px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            transform: translateX(300px);
+        }
+
+        #search-container {
+            padding: 10px;
+            background: #f5f5f5;
+            border-bottom: 1px solid #ddd;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        #truck-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .truck-item {
+            padding: 15px;
+            margin: 8px 0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            background-color: white;
+        }
+
+            .truck-item:hover {
+                background-color: #f8f9fa;
+                transform: translateY(-2px);
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            }
+
+            .truck-item.selected {
+                background-color: #e3f2fd;
+                border: 1px solid #2196F3;
+                box-shadow: 0 2px 5px rgba(33, 150, 243, 0.3);
+            }
+
+        .truck-marker {
+            transition: all 0.3s ease;
+        }
+
+            .truck-marker.selected {
+                filter: drop-shadow(0 0 5px rgba(33, 150, 243, 0.8));
+            }
+
+        .truck-item h3 {
+            margin: 0 0 5px 0;
+            color: #333;
+        }
+
+        .truck-item p {
+            margin: 0;
+            color: #666;
+            font-size: 14px;
+        }
+
+        #toggle-sidebar {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 1001;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 4px 8px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            cursor: pointer;
+            font-size: 16px;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        #toggle-sidebar:hover {
+            background-color: #f5f5f5;
+        }
+
+        #status {
+            padding: 10px;
+            background: #f5f5f5;
+            border-top: 1px solid #ddd;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .popup-content {
+            padding: 5px;
+        }
+
+            .popup-content h3 {
+                margin: 0 0 5px 0;
+                color: #333;
+                font-size: 16px;
+            }
+
+            .popup-content p {
+                margin: 3px 0;
+                color: #666;
+                font-size: 14px;
+            }
+
+        .leaflet-popup-content {
+            margin: 8px 10px;
+            min-width: 200px;
+        }
+
+        .leaflet-popup-content-wrapper {
+            border-radius: 4px;
+        }
+
+        @media (max-width: 768px) {
+            #map {
+                width: 100%;
+            }
+
+            #sidebar {
+                transform: translateX(300px);
+            }
+
+            #sidebar.active {
+                transform: translateX(0);
+            }
+
+            .leaflet-control-zoom {
+                margin-right: 50px;
+            }
+
+            #toggle-sidebar {
+                right: 10px;
+            }
+        }
+
+        @media (min-width: 769px) {
+            #container {
+                padding-right: 0;
+            }
+            
+            #sidebar {
+                transform: translateX(300px);
+            }
+
+            #sidebar.active {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body class="notranslate">
+    <div id="container">
+        <div id="map"></div>
+        <button id="toggle-sidebar">☰</button>
+        <div id="sidebar" class="notranslate">
+            <div id="search-container">
+                <input type="text" id="search-input" placeholder="搜尋車號或位置..." />
+            </div>
+            <div id="truck-list"></div>
+            <div id="status" class="status"></div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        let map;
+        let markers = new Map();
+        let websocket;
+        let selectedTruckId = null;
+        let isSidebarVisible = false; // 新增側邊欄狀態追蹤
+
+        const truckList = document.getElementById('truck-list');
+        const searchInput = document.getElementById('search-input');
+        const statusDiv = document.getElementById('status');
+        const sidebar = document.getElementById('sidebar');
+        const toggleButton = document.getElementById('toggle-sidebar');
+        let previousLocations = new Map();
+
+        // 計算方向角度（0-360度）
+        function calculateDirection(prevLat, prevLng, currentLat, currentLng) {
+            if (!prevLat || !prevLng) return 0;
+
+            const dLng = currentLng - prevLng;
+            const y = Math.sin(dLng * Math.PI / 180) * Math.cos(currentLat * Math.PI / 180);
+            const x = Math.cos(prevLat * Math.PI / 180) * Math.sin(currentLat * Math.PI / 180) -
+                Math.sin(prevLat * Math.PI / 180) * Math.cos(currentLat * Math.PI / 180) * Math.cos(dLng * Math.PI / 180);
+            let direction = Math.atan2(y, x) * 180 / Math.PI;
+            if (direction < 0) direction += 360;
+            return direction;
+        }
+
+        // 根據方向獲取圖標
+        function getMarkerIcon(direction, isSelected = false) {
+            // 將360度分成8個方向，每個方向45度
+            const sector = Math.floor(((direction + 22.5) % 360) / 45) + 1;
+            const iconNumber = sector.toString().padStart(2, '0');
+            const iconUrl = `/images/noGarbage_truck_o${iconNumber}.png`;
+            const baseSize = 32;  // 基礎大小
+            const size = isSelected ? baseSize * 1.5 : baseSize;  // 選中時放大1.5倍
+
+            return L.icon({
+                iconUrl: iconUrl,
+                iconSize: [size, size],
+                iconAnchor: [size / 2, size / 2],  // 錨點在圖示中心
+                popupAnchor: [0, -size / 2],     // 彈出視窗在圖示上方
+                className: 'truck-marker' + (isSelected ? ' selected' : '')
+            });
+        }
+
+        // 更新卡車清單
+        function updateTruckList(trucks) {
+            truckList.innerHTML = '';
+            const searchTerm = searchInput.value.toLowerCase();
+
+            trucks
+                .filter(truck => {
+                    const searchString = `${truck.car} ${truck.location}`.toLowerCase();
+                    return searchString.includes(searchTerm);
+                })
+                .forEach(truck => {
+                    const div = document.createElement('div');
+                    div.className = `truck-item notranslate`;
+                    div.setAttribute('translate', 'no');
+                    div.setAttribute('data-car', truck.car);
+                    div.innerHTML = `
+                            <h3 data-car="${truck.car}">${truck.car}</h3>
+                            <p><span class="label">位置</span>：<span data-location="${truck.location}">${truck.location}</span></p>
+                            <p><span class="label">更新時間</span>：<span data-time="${truck.time}">${truck.time}</span></p>
+                        `;
+
+                    div.addEventListener('click', () => {
+                        // 移除之前選中項目的高亮
+                        const previousSelected = truckList.querySelector('.selected');
+                        if (previousSelected) {
+                            previousSelected.classList.remove('selected');
+                        }
+
+                        // 高亮當前選中項目
+                        div.classList.add('selected');
+
+                        // 更新選中的車輛ID
+                        selectedTruckId = selectedTruckId === truck.car ? null : truck.car;
+
+                        // 找到對應的標記
+                        const marker = markers.get(truck.car);
+                        if (marker) {
+                            // 將地圖中心移動到該車輛位置
+                            map.setView(marker.getLatLng(), 16);
+                            // 打開資訊視窗
+                            marker.openPopup();
+
+                            // 高亮顯示選中的車輛標記
+                            markers.forEach((m, carId) => {
+                                const icon = m.getIcon();
+                                if (carId === truck.car) {
+                                    icon.options.iconSize = [40, 40];  // 放大選中的標記
+                                    icon.options.iconAnchor = [20, 40];
+                                    m.setIcon(L.icon(icon.options));
+                                    m.setZIndexOffset(1000);  // 確保選中的標記在最上層
+                                } else {
+                                    icon.options.iconSize = [30, 30];  // 其他標記恢復正常大小
+                                    icon.options.iconAnchor = [15, 30];
+                                    m.setIcon(L.icon(icon.options));
+                                    m.setZIndexOffset(0);
+                                }
+                            });
+                        }
+                    });
+
+                    truckList.appendChild(div);
+                });
+        }
+
+        // 更新標記
+        function updateMarkers(trucks) {
+            // 刪除不再存在的標記
+            for (const [car, marker] of markers.entries()) {
+                if (!trucks.some(truck => truck.car === car)) {
+                    marker.remove();
+                    markers.delete(car);
+                }
+            }
+
+            trucks.forEach(truck => {
+                if (!selectedTruckId || selectedTruckId === truck.car) {
+                    const position = [truck.latitude, truck.longitude];
+                    let marker = markers.get(truck.car);
+                    let direction = 0;
+
+                    // 計算方向
+                    if (previousLocations.has(truck.car)) {
+                        const prevPos = previousLocations.get(truck.car);
+                        direction = calculateDirection(prevPos[0], prevPos[1], truck.latitude, truck.longitude);
+                    }
+
+                    // 更新之前的位置
+                    previousLocations.set(truck.car, position);
+
+                    if (marker) {
+                        // 更新現有標記
+                        marker.setLatLng(position);
+                        marker.setIcon(getMarkerIcon(direction, selectedTruckId === truck.car));
+                        marker.getPopup().setContent(`
+                                <div class="popup-content notranslate" translate="no">
+                                    <h3 data-car="${truck.car}">${truck.car}</h3>
+                                    <p><span class="label">位置</span>：<span data-location="${truck.location}">${truck.location}</span></p>
+                                    <p><span class="label">更新時間</span>：<span data-time="${truck.time}">${truck.time}</span></p>
+                                </div>
+                            `);
+                    } else {
+                        // 創建新標記
+                        marker = L.marker(position, {
+                            icon: getMarkerIcon(direction, selectedTruckId === truck.car)
+                        }).addTo(map);
+
+                        // 添加彈出視窗，使用 data-* 屬性來避免翻譯
+                        marker.bindPopup(`
+                                <div class="popup-content notranslate" translate="no">
+                                    <h3 data-car="${truck.car}">${truck.car}</h3>
+                                    <p><span class="label">位置</span>：<span data-location="${truck.location}">${truck.location}</span></p>
+                                    <p><span class="label">更新時間</span>：<span data-time="${truck.time}">${truck.time}</span></p>
+                                </div>
+                            `);
+
+                        markers.set(truck.car, marker);
+                    }
+                }
+            });
+        }
+
+        // 切換側邊欄顯示/隱藏
+        function toggleSidebar() {
+            isSidebarVisible = !isSidebarVisible;
+            sidebar.classList.toggle('active');
+            toggleButton.classList.toggle('active');
+            document.body.classList.toggle('sidebar-hidden');
+            
+            // 調整地圖控制項的位置
+            if (map) {
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 300);
+            }
+        }
+
+        // 點擊地圖時自動隱藏側邊欄（僅在移動設備上）
+        function hideOnMapClick() {
+            if (window.innerWidth <= 768 && isSidebarVisible) {
+                toggleSidebar();
+            }
+        }
+
+        function initMap() {
+            // 設置初始狀態
+            isSidebarVisible = false;  // 預設隱藏側邊欄
+            toggleButton.textContent = '☰';  // 設定初始圖示
+
+            map = L.map('map').setView([22.6273, 120.3014], 13);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors'
+            }).addTo(map);
+
+            // 設置搜尋功能
+            searchInput.addEventListener('input', () => {
+                const trucks = Array.from(markers.keys()).map(car => {
+                    const marker = markers.get(car);
+                    const latLng = marker.getLatLng();
+                    const popupContent = marker.getPopup().getContent();
+                    const tempDiv = document.createElement('div');
+                    tempDiv.innerHTML = popupContent;
+
+                    return {
+                        car: tempDiv.querySelector('[data-car]').getAttribute('data-car'),
+                        location: tempDiv.querySelector('[data-location]').getAttribute('data-location'),
+                        time: tempDiv.querySelector('[data-time]').getAttribute('data-time'),
+                        latitude: latLng.lat,
+                        longitude: latLng.lng
+                    };
+                });
+                updateTruckList(trucks);
+            });
+
+            // 點擊地圖時隱藏側邊欄
+            map.on('click', hideOnMapClick);
+
+            // 設置側邊欄切換按鈕
+            toggleButton.addEventListener('click', toggleSidebar);
+
+            // 監聽視窗大小變化
+            window.addEventListener('resize', () => {
+                const isDesktop = window.innerWidth >= 769;
+                if (isDesktop) {
+                    // 切換到電腦版
+                    sidebar.classList.remove('active');
+                } else {
+                    // 切換到手機版
+                    sidebar.classList.remove('active');
+                }
+            });
+
+            connectWebSocket();
+        }
+
+        function connectWebSocket() {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/ws`;
+
+            websocket = new WebSocket(wsUrl);
+
+            websocket.onopen = function() {
+                statusDiv.textContent = '連線狀態：已連線';
+                statusDiv.classList.remove('error');
+            };
+
+            websocket.onclose = function() {
+                statusDiv.textContent = '連線狀態：已斷線，嘗試重新連線...';
+                statusDiv.classList.add('error');
+                setTimeout(connectWebSocket, 5000);
+            };
+
+            websocket.onerror = function(error) {
+                statusDiv.textContent = `連線狀態：錯誤 - ${error.message || '未知錯誤'}`;
+                statusDiv.classList.add('error');
+            };
+
+            websocket.onmessage = function(e) {
+                try {
+                    const data = JSON.parse(e.data);
+                    
+                    if (data.error) {
+                        statusDiv.textContent = `連線狀態：${data.error}`;
+                        statusDiv.classList.add('error');
+                        return;
+                    }
+
+                    updateMarkers(data);
+                    updateTruckList(data);
+                    
+                    statusDiv.textContent = `連線狀態：已連線（${data.length} 輛垃圾車）`;
+                    statusDiv.classList.remove('error');
+                } catch (error) {
+                    console.error('處理資料時發生錯誤：', error);
+                    statusDiv.textContent = `連線狀態：資料處理錯誤 - ${error.message}`;
+                    statusDiv.classList.add('error');
+                }
+            };
+        }
+
+        initMap();
+    </script>
+</body>
+</html>
