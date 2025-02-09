@@ -25,12 +25,35 @@ public interface ITruckLocationService
 /// </summary>
 public class TruckLocationService : ITruckLocationService
 {
+    /// <summary>       
+    /// HttpClientFactory
+    /// </summary>
     private readonly IHttpClientFactory _clientFactory;
+
+    /// <summary>
+    /// 日誌記錄器
+    /// </summary>
     private readonly ILogger<TruckLocationService> _logger;
+    /// <summary>
+    /// 記憶體快取
+    /// </summary>
     private readonly IMemoryCache _cache;
+
+    /// <summary>
+    /// 基礎路徑
+    /// </summary>
     private readonly string _baseUrl;
+
+    /// <summary>
+    /// 快取鍵
+    /// </summary>
     private const string CacheKey = "TruckLocations";
+
+    /// <summary>
+    /// 環境
+    /// </summary>
     private readonly IWebHostEnvironment _environment;
+
 
     /// <summary>
     ///   建構函數
@@ -66,7 +89,7 @@ public class TruckLocationService : ITruckLocationService
     /// <summary>
     ///   取得垃圾車位置
     /// </summary>
-    /// <param name="cancellationToken">取消代碼</param>
+    /// <param name="cancellationToken">Token</param>
     /// <returns>垃圾車位置</returns>
     public async Task<List<TruckLocationDto>> GetTruckLocationsAsync(CancellationToken cancellationToken)
     {

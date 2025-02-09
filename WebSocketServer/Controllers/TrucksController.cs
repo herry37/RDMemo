@@ -10,8 +10,16 @@ namespace WebSocketServer.Controllers;
 [Route("api/[controller]")]
 public class TrucksController : ControllerBase
 {
+    /// <summary>
+    /// 垃圾車位置服務
+    /// </summary>
     private readonly ITruckLocationService _truckLocationService;
+
+    /// <summary>
+    /// 日誌記錄器
+    /// </summary>
     private readonly ILogger<TrucksController> _logger;
+
 
     /// <summary>
     /// 建構函數
