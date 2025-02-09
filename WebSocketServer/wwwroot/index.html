@@ -8,13 +8,16 @@
     />
     <meta name="google" content="notranslate" />
     <title>高雄市垃圾車即時位置</title>
+
+    <!-- 直接引入 Leaflet CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+
     <!-- 基礎函數 -->
     <script>
-      // 簡化載入狀態管理
-      window.loadState = {
-        leafletLoaded: true,
-      };
-
       // 修改路徑取得函數
       function getStaticPath(path) {
         const baseUrl = window.location.pathname.includes("WebSocketServer")
@@ -23,7 +26,7 @@
         return `${baseUrl}${path}`;
       }
 
-      // 修改 API 路徑取得函數
+      // 加入 API 路徑取得函數
       function getApiBaseUrl() {
         const baseUrl = window.location.pathname.includes("WebSocketServer")
           ? "/WebSocketServer/api"
@@ -31,9 +34,15 @@
         return baseUrl;
       }
 
-      // 直接載入 TruckMap
-      document.addEventListener("DOMContentLoaded", async () => {
+      // 初始化應用程式
+      async function initApp() {
         try {
+          // 確認 Leaflet 是否已載入
+          if (typeof L === "undefined") {
+            throw new Error("Leaflet 未載入，重新嘗試載入");
+          }
+
+          // 載入 TruckMap
           const script = document.createElement("script");
           script.src = getStaticPath("/js/truckMap.js");
 
@@ -47,23 +56,22 @@
           const map = new TruckMap();
           await map.init();
         } catch (error) {
-          console.error("初始化失敗:", error);
-          document.getElementById("status").textContent =
-            "系統載入失敗，請重新整理頁面";
+          const status = document.getElementById("status");
+          if (status) {
+            status.textContent = `初始化失敗: ${error.message}`;
+            status.style.color = "red";
+          }
         }
-      });
+      }
+
+      // 當 DOM 載入完成後初始化
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initApp);
+      } else {
+        initApp();
+      }
     </script>
 
-    <!-- Leaflet CSS -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"
-      crossorigin="anonymous"
-    ></script>
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <style>
       html,

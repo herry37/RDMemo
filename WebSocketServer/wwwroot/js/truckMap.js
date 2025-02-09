@@ -8,13 +8,12 @@ class TruckMap {
     try {
       // 檢查 Leaflet 是否可用
       if (typeof L === "undefined") {
-        console.error("Leaflet 函式庫未載入");
         throw new Error("Leaflet 函式庫未載入");
       }
 
       // 初始化地圖設定
       this.mapConfig = {
-        center: [22.6273, 120.3014], // 高雄市中心
+        center: [22.6273, 120.3014],
         zoom: 13,
         minZoom: 10,
         maxZoom: 18,
@@ -33,23 +32,21 @@ class TruckMap {
       this.apiBaseUrl = getApiBaseUrl();
 
       // 設定圖示路徑
-      L.Icon.Default.imagePath = this.getIconPath();
+      const iconPath = this.getIconPath();
+      L.Icon.Default.imagePath = iconPath;
 
       // 明確設定每個圖示
       L.Icon.Default.mergeOptions({
-        iconRetinaUrl: this.getIconPath() + "marker-icon-2x.png",
-        iconUrl: this.getIconPath() + "marker-icon.png",
-        shadowUrl: this.getIconPath() + "marker-shadow.png",
+        iconRetinaUrl: iconPath + "marker-icon-2x.png",
+        iconUrl: iconPath + "marker-icon.png",
+        shadowUrl: iconPath + "marker-shadow.png",
       });
 
       // 綁定事件處理器
       this.handleMapClick = this.handleMapClick.bind(this);
       this.handleResize = this.handleResize.bind(this);
       this.toggleSidebar = this.toggleSidebar.bind(this);
-
-      console.log("TruckMap 建構完成");
     } catch (error) {
-      console.error("TruckMap 建構失敗:", error);
       throw error;
     }
   }
@@ -57,25 +54,38 @@ class TruckMap {
   // 修改圖示路徑處理
   getIconPath() {
     try {
-      // 一律使用 CDN 路徑
-      return "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/";
+      const baseUrl = window.location.pathname.includes("WebSocketServer")
+        ? "/WebSocketServer/lib/leaflet"
+        : "/lib/leaflet";
+      return baseUrl;
     } catch (error) {
-      console.warn("使用備援圖示路徑");
-      return "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/";
+      return "/lib/leaflet";
+    }
+  }
+
+  // 修改 API 路徑處理
+  async fetchTruckLocations() {
+    try {
+      const apiUrl = `${getApiBaseUrl()}/trucks`;
+      const response = await fetch(apiUrl);
+
+      if (!response.ok) {
+        throw new Error(`HTTP 錯誤! 狀態: ${response.status}`);
+      }
+
+      const data = await response.json();
+      if (!data.success) {
+        throw new Error(data.message || "API 回應失敗");
+      }
+
+      return data.data;
+    } catch (error) {
+      throw error;
     }
   }
 
   async init() {
     try {
-      console.log("初始化開始...");
-      console.log("當前位置:", window.location.href);
-      console.log("當前路徑:", window.location.pathname);
-
-      // 檢查 Leaflet 是否可用
-      if (typeof L === "undefined") {
-        throw new Error("Leaflet 函式庫未載入");
-      }
-
       // 等待 DOM 完全載入
       if (document.readyState !== "complete") {
         await new Promise((resolve) => {
@@ -91,28 +101,17 @@ class TruckMap {
 
       // 檢查容器尺寸
       const containerStyle = window.getComputedStyle(mapContainer);
-      console.log("地圖容器尺寸:", {
-        width: containerStyle.width,
-        height: containerStyle.height,
-        display: containerStyle.display,
-        position: containerStyle.position,
-      });
 
       if (containerStyle.height === "0px" || containerStyle.width === "0px") {
         throw new Error("地圖容器尺寸為 0");
       }
 
       await this.initMap();
-      console.log("地圖初始化完成");
 
       this.setupEventListeners();
-      console.log("事件監聽器設定完成");
 
       await this.startPolling();
-      console.log("開始輪詢資料");
     } catch (error) {
-      console.error("初始化失敗:", error);
-      this.updateStatus(`初始化失敗: ${error.message}`, true);
       throw error;
     }
   }
@@ -121,8 +120,6 @@ class TruckMap {
     try {
       // 建立地圖實例
       this.map = L.map("map", this.mapConfig);
-
-      console.log("地圖實例建立成功");
 
       // 加入圖層
       const tileLayer = L.tileLayer(
@@ -139,8 +136,6 @@ class TruckMap {
         tileLayer.addTo(this.map);
       });
 
-      console.log("地圖圖層加載完成");
-
       // 設定地圖邊界（高雄市範圍）
       const bounds = L.latLngBounds(
         L.latLng(22.3, 120.1), // 西南角
@@ -156,20 +151,8 @@ class TruckMap {
       // 強制重新計算地圖大小
       this.map.invalidateSize();
     } catch (error) {
-      console.error("地圖初始化失敗:", error);
       throw new Error(`地圖初始化失敗: ${error.message}`);
     }
-  }
-
-  // 更新狀態顯示
-  updateStatus(message, isError = false) {
-    const statusElement = document.getElementById("status");
-    const statusTextElement = statusElement.querySelector(".status-text");
-    const loadingElement = statusElement.querySelector(".loading");
-
-    statusElement.className = `status${isError ? " status-error" : ""}`;
-    loadingElement.style.display = isError ? "none" : "inline-block";
-    statusTextElement.textContent = message;
   }
 
   // 設定事件監聽器
@@ -329,7 +312,6 @@ class TruckMap {
 
         // 確保 API 路徑正確
         const apiUrl = `${this.apiBaseUrl}/trucks`;
-        console.log("請求 API:", apiUrl);
 
         const response = await fetch(apiUrl, {
           method: "GET",
@@ -379,23 +361,17 @@ class TruckMap {
     }
   }
 
-  // 修改 API 路徑處理
-  async fetchTruckLocations() {
-    try {
-      const baseUrl = getApiBaseUrl();
-      const response = await fetch(`${baseUrl}/trucks`);
-      // ... 其餘程式碼不變
-    } catch (error) {
-      console.error("取得垃圾車位置失敗:", error);
-      throw error;
-    }
+  // 更新狀態顯示
+  updateStatus(message, isError = false) {
+    const statusElement = document.getElementById("status");
+    const statusTextElement = statusElement.querySelector(".status-text");
+    const loadingElement = statusElement.querySelector(".loading");
+
+    statusElement.className = `status${isError ? " status-error" : ""}`;
+    loadingElement.style.display = isError ? "none" : "inline-block";
+    statusTextElement.textContent = message;
   }
 }
 
 // 確保全域變數可用
-try {
-  window.TruckMap = TruckMap;
-  console.log("TruckMap 類別已註冊到全域");
-} catch (error) {
-  console.error("TruckMap 類別註冊失敗:", error);
-}
+window.TruckMap = TruckMap;
