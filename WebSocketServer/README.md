@@ -5,7 +5,7 @@
 ## 功能特點
 
 - 即時顯示垃圾車位置
-- 自動更新位置資訊
+- 自動更新位置資訊（每 3-5 秒）
 - 顯示車輛行進方向
 - 支援行動裝置瀏覽
 - 智慧重試機制
@@ -23,9 +23,9 @@
 ### 前端
 
 - HTML5, JavaScript (原生)
-- Leaflet.js 地圖函式庫
-- 動態模組載入
-- 自動重試機制
+- Leaflet.js 地圖函式庫 (CDN)
+- OpenStreetMap 地圖資料
+- 響應式設計
 
 ### 基礎設施
 
@@ -57,22 +57,15 @@
    cd WebSocketServer
    ```
 
-3. 下載前端相依套件：
-
-   ```bash
-   # Windows PowerShell
-   ./scripts/download-libs.ps1
-   ```
-
-4. 執行專案：
+3. 執行專案：
 
    ```bash
    dotnet run
    ```
 
-5. 開啟瀏覽器：
-   - 開發環境：http://localhost:44366
-   - 測試 API：http://localhost:44366/api/trucks
+4. 開啟瀏覽器：
+   - 開發環境：http://localhost:5000
+   - 測試 API：http://localhost:5000/api/trucks
 
 ### 正式環境部署 (Somee)
 
@@ -87,6 +80,7 @@
    - [ ] 確認 web.config 位於根目錄
    - [ ] 檢查 URL 重寫規則
    - [ ] 驗證靜態檔案存取權限
+   - [ ] 確認 CSP 設定正確
 
 ## 路由配置
 
@@ -106,20 +100,35 @@ API 端點: /WebSocketServer/api/trucks
 
 ## 前端架構
 
-### 資源載入順序
+### 資源載入
 
-1. 基礎函數和工具
-2. Leaflet CSS
-3. DOM 結構
-4. Leaflet JS（動態載入）
-5. TruckMap 模組（動態載入）
+1. Leaflet CSS (CDN)
+2. Leaflet JS (CDN)
+3. TruckMap 模組（動態載入）
+
+### 主要元件
+
+- TruckMap 類別：負責地圖初始化和資料管理
+- 側邊欄：顯示垃圾車列表和狀態資訊
+- 響應式設計：支援桌面和行動裝置
 
 ### 錯誤處理機制
 
-- 資源載入重試
-- 自動重新載入
+- 自動重試機制
+- 指數退避策略
 - 使用者友善錯誤訊息
 - 詳細的除錯日誌
+
+## 安全性設定
+
+### Content Security Policy
+
+```
+default-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com https://*.openstreetmap.org data:
+img-src 'self' data: https://*.openstreetmap.org https://cdnjs.cloudflare.com blob: *
+style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com
+font-src 'self' data: https://cdnjs.cloudflare.com
+```
 
 ## 疑難排解指南
 
@@ -127,41 +136,20 @@ API 端點: /WebSocketServer/api/trucks
 
 1. 地圖無法載入
 
-   ```javascript
-   // 檢查 Leaflet 載入狀態
-   console.log(typeof L !== "undefined");
-   // 檢查地圖容器
-   console.log(document.getElementById("map"));
-   ```
+   - 檢查網路連線
+   - 確認 CDN 資源可訪問
+   - 查看瀏覽器控制台錯誤訊息
 
 2. API 請求失敗
 
-   ```javascript
-   // 檢查 API 基礎路徑
-   console.log(getApiBaseUrl());
-   // 檢查網路請求
-   fetch(getApiBaseUrl() + "/trucks").then(console.log);
-   ```
+   - 確認 API 端點設定正確
+   - 檢查 CORS 設定
+   - 查看伺服器日誌
 
-3. 路徑解析問題
-   ```javascript
-   // 檢查當前路徑
-   console.log(window.location.pathname);
-   // 檢查靜態資源路徑
-   console.log(getStaticPath("/js/truckMap.js"));
-   ```
-
-### 除錯工具
-
-1. 瀏覽器開發者工具
-
-   - Network 面板：檢查資源載入
-   - Console 面板：查看錯誤訊息
-   - Sources 面板：除錯 JavaScript
-
-2. 伺服器日誌
-   - 應用程式日誌：`logs/stdout`
-   - IIS 日誌：檢查請求處理
+3. 資源載入錯誤
+   - 確認 CSP 設定正確
+   - 檢查檔案路徑
+   - 驗證檔案權限
 
 ## 維護指南
 
@@ -171,33 +159,20 @@ API 端點: /WebSocketServer/api/trucks
 - 監控系統效能
 - 更新相依套件
 
-### 效能優化
+### 版本更新
 
-- 使用快取機制
-- 最小化資源載入
-- 錯誤重試策略
+- 遵循語意化版本規範
+- 保持向下相容性
+- 詳細記錄更新內容
 
-### 安全性考量
+## 授權資訊
 
-- HTTPS 傳輸
-- 輸入驗證
-- 錯誤訊息過濾
+本專案採用 MIT 授權。詳見 [LICENSE](LICENSE) 檔案。
 
 ## 貢獻指南
 
-1. 程式碼風格
+歡迎提交 Issue 和 Pull Request。請確保：
 
-   - 使用 ESLint
-   - 遵循 C# 編碼規範
-   - 保持一致的命名風格
-
-2. 提交規範
-
-   - 清晰的提交訊息
-   - 包含相關 issue 編號
-   - 提供測試案例
-
-3. 審查流程
-   - 程式碼審查
-   - 測試覆蓋
-   - 文件更新
+1. 遵循現有的程式碼風格
+2. 新增適當的測試
+3. 更新相關文件

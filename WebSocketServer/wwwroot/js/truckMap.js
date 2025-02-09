@@ -5,19 +5,42 @@ const MAX_RETRIES = 3; // 最大重試次數
 
 class TruckMap {
   constructor() {
-    // 增加初始化檢查
     try {
+      // 檢查 Leaflet 是否可用
       if (typeof L === "undefined") {
         console.error("Leaflet 函式庫未載入");
         throw new Error("Leaflet 函式庫未載入");
       }
 
+      // 初始化地圖設定
+      this.mapConfig = {
+        center: [22.6273, 120.3014], // 高雄市中心
+        zoom: 13,
+        minZoom: 10,
+        maxZoom: 18,
+        zoomControl: true,
+        attributionControl: true,
+      };
+
+      // 初始化其他屬性
       this.map = null;
       this.markers = new Map();
       this.selectedTruckId = null;
       this.isPolling = false;
       this.previousPositions = new Map();
-      this.apiBaseUrl = null;
+
+      // 設定 API 基礎路徑
+      this.apiBaseUrl = getApiBaseUrl();
+
+      // 設定圖示路徑
+      L.Icon.Default.imagePath = this.getIconPath();
+
+      // 明確設定每個圖示
+      L.Icon.Default.mergeOptions({
+        iconRetinaUrl: this.getIconPath() + "marker-icon-2x.png",
+        iconUrl: this.getIconPath() + "marker-icon.png",
+        shadowUrl: this.getIconPath() + "marker-shadow.png",
+      });
 
       // 綁定事件處理器
       this.handleMapClick = this.handleMapClick.bind(this);
@@ -31,6 +54,17 @@ class TruckMap {
     }
   }
 
+  // 修改圖示路徑處理
+  getIconPath() {
+    try {
+      // 一律使用 CDN 路徑
+      return "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/";
+    } catch (error) {
+      console.warn("使用備援圖示路徑");
+      return "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/";
+    }
+  }
+
   async init() {
     try {
       console.log("初始化開始...");
@@ -41,10 +75,6 @@ class TruckMap {
       if (typeof L === "undefined") {
         throw new Error("Leaflet 函式庫未載入");
       }
-
-      // 初始化 API 配置
-      this.apiBaseUrl = getApiBaseUrl();
-      console.log("API 基礎路徑:", this.apiBaseUrl);
 
       // 等待 DOM 完全載入
       if (document.readyState !== "complete") {
@@ -89,19 +119,8 @@ class TruckMap {
 
   async initMap() {
     try {
-      // 設定預設視圖（高雄市中心）
-      const defaultView = [22.6273, 120.3014];
-      const defaultZoom = 13;
-
       // 建立地圖實例
-      this.map = L.map("map", {
-        center: defaultView,
-        zoom: defaultZoom,
-        minZoom: 11,
-        maxZoom: 18,
-        zoomControl: true,
-        attributionControl: true,
-      });
+      this.map = L.map("map", this.mapConfig);
 
       console.log("地圖實例建立成功");
 
@@ -357,6 +376,18 @@ class TruckMap {
       }
 
       await new Promise((resolve) => setTimeout(resolve, currentDelay));
+    }
+  }
+
+  // 修改 API 路徑處理
+  async fetchTruckLocations() {
+    try {
+      const baseUrl = getApiBaseUrl();
+      const response = await fetch(`${baseUrl}/trucks`);
+      // ... 其餘程式碼不變
+    } catch (error) {
+      console.error("取得垃圾車位置失敗:", error);
+      throw error;
     }
   }
 }
