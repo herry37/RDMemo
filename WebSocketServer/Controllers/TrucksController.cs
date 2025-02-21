@@ -44,7 +44,7 @@ public class TrucksController : ControllerBase
     {
         try
         {
-            _logger.LogInformation("收到垃圾車位置請求");
+            _logger.LogInformation("開始處理取得垃圾車位置請求");
             var trucks = await _truckLocationService.GetTruckLocationsAsync(cancellationToken);
 
             if (trucks == null || !trucks.Any())
@@ -53,15 +53,13 @@ public class TrucksController : ControllerBase
                 return Ok(new { success = true, message = "目前沒有垃圾車資料", data = new List<object>() });
             }
 
-            // 確保回傳的是 JSON 物件
-            var result = new { success = true, data = trucks };
-            _logger.LogInformation("成功獲取 {Count} 筆垃圾車位置資料", trucks.Count);
-            return Ok(result);
+            _logger.LogInformation($"成功回傳 {trucks.Count} 筆垃圾車資料");
+            return Ok(new { success = true, message = "成功取得垃圾車資料", data = trucks });
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "獲取垃圾車位置時發生錯誤");
-            return StatusCode(500, new { success = false, message = "內部伺服器錯誤" });
+            _logger.LogError(ex, "取得垃圾車資料時發生錯誤");
+            return StatusCode(500, new { success = false, message = "取得資料時發生錯誤", error = ex.Message });
         }
     }
 }

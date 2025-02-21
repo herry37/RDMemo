@@ -1,9 +1,7 @@
+using Microsoft.Extensions.Caching.Memory;
 using System.Text.Json;
 using WebSocketServer.Dtos;
 using WebSocketServer.Response;
-using Microsoft.Extensions.Caching.Memory;
-using Microsoft.Extensions.Configuration;
-using Microsoft.AspNetCore.Hosting;
 
 namespace WebSocketServer.Services;
 
@@ -39,6 +37,8 @@ public class TruckLocationService : ITruckLocationService
     /// </summary>
     private readonly IMemoryCache _cache;
 
+    private readonly IConfiguration _configuration;
+
     /// <summary>
     /// 基礎路徑
     /// </summary>
@@ -47,13 +47,15 @@ public class TruckLocationService : ITruckLocationService
     /// <summary>
     /// 快取鍵
     /// </summary>
-    private const string CacheKey = "TruckLocations";
+    private readonly string CacheKey = "TruckLocations";
 
     /// <summary>
-    /// 環境
+    /// 快取選項
     /// </summary>
-    private readonly IWebHostEnvironment _environment;
-
+    private readonly MemoryCacheEntryOptions _cacheOptions = new MemoryCacheEntryOptions()
+        .SetAbsoluteExpiration(TimeSpan.FromMinutes(5))
+        .SetSlidingExpiration(TimeSpan.FromMinutes(2))
+        .SetSize(1);
 
     /// <summary>
     ///   建構函數
@@ -62,27 +64,34 @@ public class TruckLocationService : ITruckLocationService
     /// <param name="logger">Logger</param>
     /// <param name="cache">MemoryCache</param>
     /// <param name="configuration">Configuration</param>
-    /// <param name="environment">Web Host Environment</param>
     public TruckLocationService(
         IHttpClientFactory clientFactory,
-        ILogger<TruckLocationService> logger,
         IMemoryCache cache,
+        ILogger<TruckLocationService> logger,
         IConfiguration configuration,
-        IWebHostEnvironment environment)
+        IHostEnvironment env)
     {
         _clientFactory = clientFactory;
-        _logger = logger;
         _cache = cache;
-        _environment = environment;
-        
-        // 根據環境選擇正確的 API 基礎路徑
-        _baseUrl = _environment.IsDevelopment()
-            ? configuration.GetValue<string>("ApiSettings:LocalBaseUrl")
-            : configuration.GetValue<string>("ApiSettings:ProductionBaseUrl");
+        _logger = logger;
+        _configuration = configuration;
 
+        // 加強環境判斷邏輯
+        if (env.IsProduction())
+        {
+            _baseUrl = _configuration["ApiSettings:ProductionBaseUrl"];
+            _logger.LogInformation("正式環境使用 Production API: {ProductionUrl}", _baseUrl);
+        }
+        else
+        {
+            _baseUrl = _configuration["ApiSettings:LocalBaseUrl"];
+            _logger.LogInformation("開發環境使用 Local API: {LocalUrl}", _baseUrl);
+        }
+
+        // 驗證 API URL 設定
         if (string.IsNullOrEmpty(_baseUrl))
         {
-            throw new ArgumentNullException("ApiSettings:BaseUrl", "API BaseUrl is not configured");
+            throw new ArgumentNullException(nameof(_baseUrl), "API 基礎路徑未正確設定");
         }
     }
 
@@ -95,72 +104,103 @@ public class TruckLocationService : ITruckLocationService
     {
         try
         {
-            // 嘗試從快取中獲取數據
-            if (_cache.TryGetValue(CacheKey, out List<TruckLocationDto>? cachedLocations) && cachedLocations != null)
+            // 先嘗試從快取取得資料
+            if (_cache.TryGetValue(CacheKey, out List<TruckLocationDto> cachedData))
             {
-                _logger.LogInformation("從快取中獲取垃圾車位置資料");
-                return cachedLocations;
+                _logger.LogInformation("使用快取資料");
+                return cachedData;
             }
 
-            using var client = _clientFactory.CreateClient("TruckLocation");
-            var timestamp = DateTimeOffset.UtcNow.ToUnixTimeMilliseconds();
-            var requestUrl = $"{_baseUrl}?$format=json&_={timestamp}";
-            
-            using var response = await client.GetAsync(requestUrl, HttpCompletionOption.ResponseHeadersRead, cancellationToken);
-            
+            var client = _clientFactory.CreateClient("TruckLocation");
+            // 套用設定檔中的 timeout 設定
+            var timeoutSeconds = _configuration.GetValue<int>("Performance:HttpClient:TimeoutSeconds");
+            client.Timeout = TimeSpan.FromSeconds(timeoutSeconds);
+
+            // 修改請求 URL，確保使用 HTTPS           
+            var requestUrl = $"{_baseUrl}";
+            _logger.LogInformation($"開始請求高雄市政府 API: {requestUrl}");
+            using var request = new HttpRequestMessage(HttpMethod.Get, requestUrl);
+
+            // 記錄請求標頭
+            _logger.LogInformation($"請求標頭: {string.Join(", ", request.Headers.Select(h => $"{h.Key}={string.Join(";", h.Value)}"))}");
+
+            using var response = await client.SendAsync(request, cancellationToken);
+
+            _logger.LogInformation($"API 回應狀態: {response.StatusCode}");
+            _logger.LogInformation($"API 回應狀態: {response.StatusCode}");
+
+            // 讀取回應內容
+            var content = await response.Content.ReadAsStringAsync(cancellationToken);
+
+            // 記錄詳細的回應資訊
+            _logger.LogInformation($"回應標頭: {string.Join(", ", response.Headers.Select(h => $"{h.Key}={string.Join(";", h.Value)}"))}");
+            _logger.LogInformation($"回應內容: {content}");
+
+
             if (!response.IsSuccessStatusCode)
             {
-                _logger.LogError("API 請求失敗: {StatusCode} {ReasonPhrase}", response.StatusCode, response.ReasonPhrase);
+                _logger.LogError($"API 回應錯誤: {response.StatusCode}, URL: {requestUrl}, Content: {content}");
                 return new List<TruckLocationDto>();
             }
 
-            var jsonContent = await response.Content.ReadAsStringAsync(cancellationToken);
-            
-            if (string.IsNullOrEmpty(jsonContent))
+            try
             {
-                _logger.LogWarning("API 回應內容為空");
-                return new List<TruckLocationDto>();
-            }
-
-            var options = new JsonSerializerOptions
-            {
-                PropertyNameCaseInsensitive = true
-            };
-
-            var apiResponse = JsonSerializer.Deserialize<ApiResponse>(jsonContent, options);
-            
-            if (apiResponse?.data == null)
-            {
-                _logger.LogWarning("API 回應資料為空");
-                return new List<TruckLocationDto>();
-            }
-
-            var result = apiResponse.data
-                .Where(item => !string.IsNullOrEmpty(item?.car) && 
-                             !string.IsNullOrEmpty(item?.location) &&
-                             !string.IsNullOrEmpty(item?.x) &&
-                             !string.IsNullOrEmpty(item?.y) &&
-                             double.TryParse(item.x, out _) && 
-                             double.TryParse(item.y, out _))
-                .Select(item => new TruckLocationDto
+                var apiResponse = JsonSerializer.Deserialize<ApiResponse>(content, new JsonSerializerOptions
                 {
-                    car = item.car!,
-                    time = item.time,
-                    location = item.location!,
-                    longitude = double.Parse(item.x!),
-                    latitude = double.Parse(item.y!)
-                })
-                .ToList();
+                    PropertyNameCaseInsensitive = true,
+                    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                });
 
-            // 將結果存入快取 30 秒
-            _cache.Set(CacheKey, result, TimeSpan.FromSeconds(30));
+                if (apiResponse?.data == null || !apiResponse.data.Any())
+                {
+                    _logger.LogWarning("API 回應資料為空，原始回應內容：{RawResponse}", content);
+                    // 正式環境不記錄完整內容，只記錄摘要
+                    if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
+                    {
+                        _logger.LogError("正式環境 API 無效回應，狀態碼：{StatusCode}，內容長度：{ContentLength}",
+                            response.StatusCode,
+                            content?.Length ?? 0);
+                    }
+                    else
+                    {
+                        _logger.LogWarning("開發環境原始回應：{RawContent}", content);
+                    }
+                    return new List<TruckLocationDto>();
+                }
 
-            _logger.LogInformation("成功獲取 {Count} 筆垃圾車位置資料", result.Count);
-            return result;
+                var locations = apiResponse.data
+                    .Where(x => x != null)
+                    .Select(x => new TruckLocationDto
+                    {
+                        car = x.car?.Trim() ?? "未知車號",
+                        time = x.time?.Trim() ?? DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
+                        location = x.location?.Trim() ?? "位置更新中",
+                        longitude = double.TryParse(x.x?.Trim(), out var lon) ? lon : 0,
+                        latitude = double.TryParse(x.y?.Trim(), out var lat) ? lat : 0
+                    })
+                    .Where(x => x.latitude != 0 && x.longitude != 0)
+                    .ToList();
+
+                if (locations.Any())
+                {
+                    // 更新快取
+                    _cache.Set(CacheKey, locations, _cacheOptions);
+                    _logger.LogInformation($"成功取得 {locations.Count} 筆資料");
+                    return locations;
+                }
+
+                _logger.LogWarning("沒有有效的位置資料");
+                return new List<TruckLocationDto>();
+            }
+            catch (JsonException ex)
+            {
+                _logger.LogError(ex, $"JSON 解析錯誤: {content}");
+                return new List<TruckLocationDto>();
+            }
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "獲取垃圾車位置時發生錯誤: {Message}", ex.Message);
+            _logger.LogError(ex, "取得垃圾車位置時發生錯誤");
             return new List<TruckLocationDto>();
         }
     }

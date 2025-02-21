@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using System.IO.Compression;
 using System.Net;
@@ -10,6 +11,14 @@ using WebSocketServer.Services;
 ///  Program 的主要進入點
 /// </summary>
 var builder = WebApplication.CreateBuilder(args);
+
+// 配置記憶體快取
+builder.Services.AddMemoryCache(options =>
+{
+    options.SizeLimit = 1024;
+    options.CompactionPercentage = 0.25;
+    options.ExpirationScanFrequency = TimeSpan.FromMinutes(1);
+});
 
 /// <summary>
 ///  配置日誌系統
@@ -28,16 +37,6 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.WriteIndented = false;
     });
 
-/// <summary>
-///  Configure Memory Cache
-/// </summary>
-builder.Services.AddMemoryCache(options =>
-{
-    options.SizeLimit = 1024; // 設定快取大小限制
-    options.CompactionPercentage = 0.2; // 當達到限制時，移除 20% 的項目
-    options.ExpirationScanFrequency = TimeSpan.FromMinutes(5);
-});
-
 builder.Services.AddScoped<ITruckLocationService, TruckLocationService>();
 
 /// <summary>
@@ -45,43 +44,28 @@ builder.Services.AddScoped<ITruckLocationService, TruckLocationService>();
 /// </summary>
 builder.Services.AddHttpClient("TruckLocation", client =>
 {
-    /// <summary>
-    ///  設定 User-Agent
-    /// </summary>
-    client.DefaultRequestHeaders.Add("User-Agent", "Mozilla/5.0");
-    /// <summary>
-    ///  設定 Accept
-    /// </summary>
+    client.Timeout = TimeSpan.FromSeconds(30);
+    // 設定預設標頭
+    client.DefaultRequestHeaders.Add("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");
     client.DefaultRequestHeaders.Add("Accept", "application/json");
-    /// <summary>
-    ///  設定 Accept-Encoding
-    /// </summary>
-    client.DefaultRequestHeaders.Add("Accept-Encoding", "gzip, deflate");
-    /// <summary>
-    ///  設定 Timeout
-    /// </summary>
-    client.Timeout = TimeSpan.FromSeconds(60);
 })
 .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
 {
-    /// <summary>
-    ///  設定 ServerCertificateCustomValidationCallback
-    /// </summary>
-    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true,
-    /// <summary>
-    ///  設定 AutomaticDecompression
-    /// </summary>
     AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate,
-    /// <summary>
-    ///  設定 UseProxy
-    /// </summary>
+    ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator,
     UseProxy = false,
-    /// <summary>
-    ///  設定 MaxConnectionsPerServer
-    /// </summary>
-    MaxConnectionsPerServer = 20
-})
-.SetHandlerLifetime(TimeSpan.FromMinutes(5)); // 設定 Handler 生命週期
+    AllowAutoRedirect = true
+});
+
+/// <summary>
+///  Configure Kestrel
+/// </summary>
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.Limits.MaxConcurrentConnections = 100;
+    serverOptions.Limits.MaxRequestBodySize = 10 * 1024;
+    serverOptions.AllowSynchronousIO = true;  // 允許同步 IO
+});
 
 /// <summary>
 ///  Configure Response Compression
@@ -110,10 +94,17 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
     {
-        builder.AllowAnyOrigin()
-               .AllowAnyMethod()
-               .AllowAnyHeader()
-               .SetPreflightMaxAge(TimeSpan.FromMinutes(10));
+        builder.SetIsOriginAllowed(origin =>
+        {
+            var host = new Uri(origin).Host;
+            return host.Equals("localhost") ||
+                   host.Equals("127.0.0.1") ||
+                   host.EndsWith(".somee.com") ||
+                   host.EndsWith(".kcg.gov.tw");
+        })
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .WithExposedHeaders("Content-Disposition");
     });
 });
 
@@ -144,32 +135,56 @@ else
 /// </summary>
 app.UseResponseCompression();
 
-app.UseRouting();
-app.UseCors();
+// 啟用 CORS - 移到最前面的中介軟體
+app.UseCors(builder =>
+{
+    builder.SetIsOriginAllowed(origin =>
+    {
+        var host = new Uri(origin).Host;
+        return host.Equals("localhost") ||
+               host.Equals("127.0.0.1") ||
+               host.EndsWith(".somee.com") ||
+               host.EndsWith(".kcg.gov.tw");
+    })
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    .WithExposedHeaders("Content-Disposition");
+});
 
-// 在 app.UseStaticFiles() 之前加入
+// 配置路由中介軟體
 app.Use(async (context, next) =>
 {
-    var originalPath = context.Request.Path.Value ?? string.Empty;
-    app.Logger.LogInformation("收到請求: {Path}", originalPath);
-
-    // 處理 API 請求
-    if (originalPath.StartsWith("/WebSocketServer/api/", StringComparison.OrdinalIgnoreCase))
+    try
     {
-        var newPath = originalPath.Replace("/WebSocketServer/api/", "/api/", StringComparison.OrdinalIgnoreCase);
-        app.Logger.LogInformation("API 路徑重寫: {OldPath} => {NewPath}", originalPath, newPath);
-        context.Request.Path = newPath;
-    }
-    // 處理靜態檔案請求
-    else if (originalPath.StartsWith("/WebSocketServer/", StringComparison.OrdinalIgnoreCase))
-    {
-        var newPath = originalPath.Replace("/WebSocketServer/", "/", StringComparison.OrdinalIgnoreCase);
-        app.Logger.LogInformation("靜態檔案路徑重寫: {OldPath} => {NewPath}", originalPath, newPath);
-        context.Request.Path = newPath;
-    }
+        var originalPath = context.Request.Path.Value ?? string.Empty;
+        app.Logger.LogInformation("收到請求: {Path}", originalPath);
 
-    await next();
+        // 處理 API 請求
+        if (originalPath.StartsWith("/WebSocketServer/api/", StringComparison.OrdinalIgnoreCase))
+        {
+            var newPath = originalPath.Replace("/WebSocketServer/api/", "/api/");
+            app.Logger.LogInformation("API 路徑重寫: {OldPath} => {NewPath}", originalPath, newPath);
+            context.Request.Path = newPath;
+        }
+        // 處理靜態檔案請求
+        else if (originalPath.StartsWith("/WebSocketServer/", StringComparison.OrdinalIgnoreCase))
+        {
+            var newPath = originalPath.Replace("/WebSocketServer/", "/");
+            app.Logger.LogInformation("靜態檔案路徑重寫: {OldPath} => {NewPath}", originalPath, newPath);
+            context.Request.Path = newPath;
+        }
+
+        await next();
+    }
+    catch (Exception ex)
+    {
+        app.Logger.LogError(ex, "請求處理過程中發生錯誤");
+        throw;
+    }
 });
+
+// 配置 API 路由
+app.MapControllers();
 
 // 配置靜態檔案
 app.UseDefaultFiles();
@@ -177,18 +192,25 @@ app.UseStaticFiles(new StaticFileOptions
 {
     OnPrepareResponse = ctx =>
     {
-        // 移除快取設定
-        ctx.Context.Response.Headers.Remove("Cache-Control");
-        ctx.Context.Response.Headers.Remove("Pragma");
-        ctx.Context.Response.Headers.Remove("Expires");
-        
-        // 設定 CORS
-        ctx.Context.Response.Headers["Access-Control-Allow-Origin"] = "*";
-        
-        // 設定內容安全性政策
-        ctx.Context.Response.Headers["Content-Security-Policy"] = 
-            "default-src 'self' 'unsafe-inline' 'unsafe-eval' https: data:;";
+        ctx.Context.Response.Headers.Append(
+            "Cache-Control", $"public, max-age=3600");
     }
+});
+
+// 配置 CSP - 放在靜態檔案之後
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.Add(
+        "Content-Security-Policy",
+        "default-src 'self' https://api.kcg.gov.tw; " +
+        "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://unpkg.com https://cdnjs.cloudflare.com; " +
+        "style-src 'self' 'unsafe-inline' https://unpkg.com https://cdnjs.cloudflare.com; " +
+        "img-src 'self' data: https://*.openstreetmap.org https://*.tile.openstreetmap.org https://unpkg.com https://cdnjs.cloudflare.com blob: *; " +
+        "font-src 'self' data: https://cdnjs.cloudflare.com; " +
+        "connect-src 'self' https://api.kcg.gov.tw https://*.openstreetmap.org https://*.tile.openstreetmap.org;"
+    );
+
+    await next();
 });
 
 /// <summary>
@@ -213,11 +235,6 @@ app.MapHealthChecks("/health", new HealthCheckOptions
         await JsonSerializer.SerializeAsync(context.Response.Body, response);
     }
 });
-
-/// <summary>
-///  Configure Health Check Endpoint
-/// </summary>
-app.MapControllers();
 
 app.Run();
 

@@ -8,22 +8,22 @@
         /// <summary>
         /// 垃圾車車牌號碼
         /// </summary>
-        public string car { get; set; }
+        public string? car { get; set; }
         /// <summary>
         /// 位置更新時間
         /// </summary>
-        public string time { get; set; }
+        public string? time { get; set; }
         /// <summary>
         /// 位置描述
         /// </summary>
-        public string location { get; set; }
+        public string? location { get; set; }
         /// <summary>
         /// 經度座標
         /// </summary>
-        public string x { get; set; }
+        public string? x { get; set; }
         /// <summary>
         /// 緯度座標
         /// </summary>
-        public string y { get; set; }
+        public string? y { get; set; }
     }
 }

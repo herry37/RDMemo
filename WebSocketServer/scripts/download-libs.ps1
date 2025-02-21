@@ -1,9 +1,9 @@
-# å»ºç«‹å¿…è¦çš„ç›®éŒ„
+# «Ø¥ß¥²­nªº¥Ø¿ı
 $libPath = "wwwroot/lib"
 $leafletPath = "$libPath/leaflet"
-New-Item -ItemType Directory -Force -Path $leafletPath | Out-Null
+New-Item -ItemType Directory -Force -Path "$leafletPath/images" | Out-Null
 
-# ä¸‹è¼‰ Leaflet
+# ¤U¸ü Leaflet
 $leafletVersion = "1.9.4"
 $leafletFiles = @(
     @{
@@ -13,14 +13,6 @@ $leafletFiles = @(
     @{
         name = "leaflet.css"
         url = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css"
-    },
-    @{
-        name = "images/layers.png"
-        url = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/layers.png"
-    },
-    @{
-        name = "images/layers-2x.png"
-        url = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/layers-2x.png"
     },
     @{
         name = "images/marker-icon.png"
@@ -36,7 +28,7 @@ $leafletFiles = @(
     }
 )
 
-# ä¸‹è¼‰æª”æ¡ˆ
+# ¤U¸üÀÉ®×
 foreach ($file in $leafletFiles) {
     $dest = "$leafletPath/$($file.name)"
     $destDir = Split-Path -Parent $dest
@@ -45,8 +37,8 @@ foreach ($file in $leafletFiles) {
         New-Item -ItemType Directory -Force -Path $destDir | Out-Null
     }
     
-    Write-Host "ä¸‹è¼‰: $($file.url) -> $dest"
+    Write-Host "¤U¸ü: $($file.url) -> $dest"
     Invoke-WebRequest -Uri $file.url -OutFile $dest
 }
 
-Write-Host "Leaflet v$leafletVersion ä¸‹è¼‰å®Œæˆï¼" 
+Write-Host "Leaflet v$leafletVersion ¤U¸ü§¹¦¨¡I" 
